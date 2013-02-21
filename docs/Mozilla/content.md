@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 332475
+revision_id: 357635
 locale: en-US
 slug: Mozilla
 tags: "Apps" "Add-ons" "Landing" "Mozilla" "Advanced" "CodingScripting"
@@ -13,8 +13,9 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>{{ draft() }}</p>
+<div>
+  {{draft}}</div>
 <p>This will soon be an awesome landing page for Mozilla internals. For now, it's not.</p>
-<p>{{ ListSubpages() }}<br />
-  {{ languages( { "zh-cn": "zh-cn/Mozilla" } ) }}</p>
+<div>
+  {{ListSubpages}}</div>
 
