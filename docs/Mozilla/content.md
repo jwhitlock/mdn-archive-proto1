@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 357635
+revision_id: 396639
 locale: en-US
 slug: Mozilla
 tags: "Apps" "Add-ons" "Landing" "Mozilla" "Advanced" "CodingScripting"
@@ -17,5 +17,5 @@ based_on: None
   {{draft}}</div>
 <p>This will soon be an awesome landing page for Mozilla internals. For now, it's not.</p>
 <div>
-  {{ListSubpages}}</div>
+  {{LandingPageListSubpages}}</div>
 
