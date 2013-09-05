@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 456415
+revision_id: 464077
 locale: en-US
 slug: Web/API
 tags: "API" "DOM" "Web" "JavaScript" "Reference"
-title: Web API reference
+title: Web API interfaces
 summary: 
 keywords: 
 needs_technical_review: False
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site.</p>
+<p>When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site. For a list of the APIs that contain each of these interfaces, see <a href="/en-US/docs/Web/Reference/API" title="/en-US/docs/Web/Reference/API">Web API reference</a>.</p>
 <div>
   {{APIListAlpha("1")}}</div>
 
