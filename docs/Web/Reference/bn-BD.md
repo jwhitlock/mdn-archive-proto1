@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 478899
+revision_id: 478903
 locale: bn-BD
 slug: Web/Reference
 tags: "Web" "Landing" "Reference" "Référence(2)"
@@ -11,9 +11,8 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 724f381ab8cac3b2f188eec60938bca25390b996
+based_on: None
 ---
-<p>{{draft()}}</p>
 <p>মুক্ত ওয়েব তৈরী হয়েছে বেশ কিছু প্রযুক্তির উপর ভিত্তি করে। নিচে এই সকল প্রযুক্তির নাম এবং বিস্তারিত তথ্য সম্বলিত লিংক দেয়া হল।</p>
 <div class="row topicpage-table">
   <div class="section">
