@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 464073
+revision_id: 479855
 locale: en-US
 slug: Web/Reference
 tags: "Web" "Landing" "Reference"
@@ -47,7 +47,7 @@ based_on: None
   </div>
   <div class="section">
     <h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">Other technologies</h2>
-    <p>To be completed soon</p>
+    <p>To be completed soon...</p>
   </div>
 </div>
 <p>&nbsp;</p>
