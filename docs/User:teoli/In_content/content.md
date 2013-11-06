@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 486307
+revision_id: 486377
 locale: en-US
 slug: User:teoli/In_content
 tags: 
@@ -403,28 +403,29 @@ flex: inherit</pre>
 <p>Phasing out:{{gecko_minversion_inline(5)}} {{fx_minversion_inline(5)}} {{tb_minversion_inline(5)}} {{js_minversion_inline(5)}} {{dom_level(5)}}</p>
 <h2 id="Community_information_boxes">Community information boxes</h2>
 <p>This box will be presented on all (or almost all) top-level landing pages for given technologies or topic areas, to provide links to the appropriate IRC channel, newsgroup, and other forums (like Stack Overflow).</p>
-<div class="communitybox">
- <h2 id="Join_our_community">Join our community</h2>
- <div class="community-inner">
-  <div class="community-title">
-   Mailing list/newsgroup:</div>
-  <div class="community-sub">
-   <span class="community-button">Mailing List</span> <span class="community-button">Newsgroup</span> <span class="community-button">Google Group</span> <span class="community-button">Web Feed</span></div>
-  <div class="community-sub">
-   <div class="community-title">
-    Internet Relay Chat:</div>
-   <span class="community-button">#devmo</span></div>
-  <div class="community-sub">
-   <div class="community-title">
-    Get help:</div>
-   <span class="community-button">Stack Overflow</span></div>
-   <div class="community-title">
-    Meetings:</div>
-   <span class="community-button">Every other Tuesday at 3:00</span></div>
+<div class="overheadIndicator communitybox">
+ <div class="column-container">
+  <div class="column-half">
+   <h2>Join the Community</h2>
+   <h3>Mailing List/Newsgroup</h3>
+   <ul class="communitymailinglist">
+    <li><a href="">Some Item</a></li>
+    <li><a href="">Some Item</a></li>
+    <li><a href="">Some Item</a></li>
+    <li><a href="">Some Item</a></li>
+   </ul>
+  </div>
+  <div class="column-half">
+   <ul class="communitycontact">
+    <li><strong>Heading: </strong> Blah</li>
+    <li><strong>Heading: </strong> Blah</li>
+    <li><strong>Heading: </strong> Blah</li>
+   </ul>
+  </div>
  </div>
- <div class="note">
-  <p><strong>Notes:</strong> The "Mailing list/newsgroup" list will always be those four options. There will always be only one IRC option. The "Get help" section may not exist at all, or may have any number of options. See http://jsfiddle.net/3XxQL/ for the styled version of this prototype.</p>
- </div>
+</div>
+<div class="note">
+ <p><strong>Notes:</strong> The "Mailing list/newsgroup" list will always be those four options. There will always be only one IRC option. The "Get help" section may not exist at all, or may have any number of options. See http://jsfiddle.net/3XxQL/ for the styled version of this prototype.</p>
 </div>
 <p>&nbsp;</p>
 
