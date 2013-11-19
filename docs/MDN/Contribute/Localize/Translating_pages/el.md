@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 491295
+revision_id: 491297
 locale: el
 slug: Project:MDN/Localizing/μεταφραση_σελιδας
 tags: "l10n" "MDN Meta" "Οδηγός" "Μετάφραση" "Τοπικοποίηση" "Μετάφραση Σελίδας"
@@ -11,10 +11,10 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 462193
+based_on: None
 ---
-<p>Αυτό το άρθρο είναι ο βασικός οδηγός για τη μετάφραση περιεχομένου στο MDN. Εκτός από το μηχανισμό της μετάφρασης, το άρθρο επίσης περιέχει και συμβουλές για το χειρισμό του περιεχομένου.</p>
-<h2 id="Starting_a_new_page_translation">Ξεκινώντας μία καινούργια μετάφραση</h2>
+<p>Αυτό το άρθρο δίνει το βασικό οδηγό για τη μετάφραση περιεχομένου στο MDN. Εκτός από το μηχανισμό της μετάφρασης, το άρθρο επίσης περιέχει και συμβουλές για το χειρισμό του περιεχομένου.</p>
+<h2 id=".CE.9E.CE.B5.CE.BA.CE.B9.CE.BD.CF.8E.CE.BD.CF.84.CE.B1.CF.82_.CE.BC.CE.AF.CE.B1_.CE.BA.CE.B1.CE.B9.CE.BD.CE.BF.CF.8D.CF.81.CE.B3.CE.B9.CE.B1_.CE.BC.CE.B5.CF.84.CE.AC.CF.86.CF.81.CE.B1.CF.83.CE.B7">Ξεκινώντας μία καινούργια μετάφραση</h2>
 <p>Όταν βρεις μία σελίδα που θα ήθελες να μεταφράσεις στη γλώσσα σου, μπορείς να ακολουθήσεις τις παρακάτω οδηγίες:</p>
 <p>Στο μενού <strong>Γλώσσες (Languages)</strong>, κάνε κλικ στο <strong>Πρόσθεσε Μετάφραση (Add Translation). </strong>Η καινούργια σελίδα είναι για την Επιλογή Γλώσσας.</p>
 <p>1.&nbsp; Κάνε κλικ στη γλώσσα στην οποία θέλεις να μεταφράσεις. Στην οθόνη Μετάφρασης Άρθρου θα έχεις τη γλώσσα-πηγή στην αριστερή πλευρά.</p>
@@ -23,7 +23,7 @@ based_on: 462193
 <p>4.&nbsp; Κάνε κλικ στην <strong>Αποθήκευση Αλλαγών </strong>όταν τελειώσεις.</p>
 <div class="note">
  <strong>Σημείωση:</strong> Τα στοιχεία του περιβάλλοντος στη σελίδα μετάφρασης αρχικά εμφανίζονται στα αγγλικά. Έπειτα από μερικές επισκέψεις στη μετάφραση του συγκεκριμένου άρθρου, τα στοιχεία αυτά θα εμφανίζονται στη συγκεκριμένη γλώσσα αν υπάρχει ήδη μετάφραση του MDN. Το περιβάλλον χρήστη του MDN μεταφράζεται με το <a href="https://localize.mozilla.org/projects/mdn/" title="https://localize.mozilla.org/projects/mdn/">Verbatim</a>. Μπορείς να επισκεφθείς τη σελίδα <a href="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim" title="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim">Localizing with Verbatim</a> για περισσότερες πληροφορίες για τη χρήση του εργαλείου.</div>
-<h2 id="Editing_a_translated_page">Επεξεργασία μίας μεταφρασμένης σελίδας</h2>
+<h2 id=".CE.95.CF.80.CE.B5.CE.BE.CE.B5.CF.81.CE.B3.CE.B1.CF.83.CE.AF.CE.B1_.CE.BC.CE.AF.CE.B1.CF.82_.CE.BC.CE.B5.CF.84.CE.B1.CF.86.CF.81.CE.B1.CF.83.CE.BC.CE.AD.CE.BD.CE.B7.CF.82_.CF.83.CE.B5.CE.BB.CE.AF.CE.B4.CE.B1.CF.82">Επεξεργασία μίας μεταφρασμένης σελίδας</h2>
 <ul>
  <li>Σε μία σελίδα που έχει ήδη μεταφραστεί, κάνε κλικ στο <strong>Επεξεργασία (Edit). </strong>Η σελίδα Μετάφρασης Άρθρου εμφανίζεται.</li>
 </ul>
