@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 432341
+revision_id: 496407
 locale: en-US
 slug: Web/Guide
 tags: "Web" "Guide" "Landing"
@@ -18,7 +18,7 @@ based_on: None
   <p><strong>Note:</strong> This page is going to be a mess for a little while until we finish migrating content. Our apologies!</p>
 </div>
 <div>
-  {{test6}}</div>
+  {{LandingPageListSubpages}}</div>
 <dl>
   <dt>
     <a href="/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></dt>
