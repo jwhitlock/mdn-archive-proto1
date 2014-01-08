@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 511675
+revision_id: 513093
 locale: en-US
 slug: Web/MathML
 tags: "XML" "Web" "MathML" "Landing" "Reference"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p><strong>&nbsp; Mathematical Markup Language (MathML)</strong>&nbsp;是一種基於 <a href="/en-US/docs/XML" title="/en-US/docs/XML">XML</a>&nbsp;的延伸，可以用來描述數學符號以及保留數學式結構和內容。在這裡你可以找到參考文件, 範例以及工具。你可以從&nbsp;<a href="http://fred-wang.github.io/MozSummitMathML/index.html">slides for the innovation fairs at Mozilla Summit 2013</a>&nbsp;做個快速的大致瀏覽。</p>
+<p><strong>Mathematical Markup Language (MathML)</strong> is an application of <a href="/en-US/docs/XML" title="/en-US/docs/XML">XML</a> markup language for describing mathematical notations and capturing both its structure and content. Here you'll find links to documentation, examples, and tools to help you work with this powerful technology. For a quick overview, see the <a href="http://fred-wang.github.io/MozSummitMathML/index.html">slides for the innovation fairs at Mozilla Summit 2013</a>.</p>
 <div class="row topicpage-table">
  <div class="section">
   <h2 class="Documentation" id="Documentation" name="Documentation">MathML references</h2>
@@ -81,7 +81,7 @@ based_on: None
     <td>Basic support</td>
     <td>{{CompatUnknown}}</td>
     <td>{{CompatGeckoDesktop("1.8")}}</td>
-    <td>{{CompatUnknown}}</td>
+    <td>With PlugIn(s)</td>
     <td>{{CompatUnknown}}</td>
     <td>{{CompatUnknown}}</td>
    </tr>
