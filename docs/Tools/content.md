@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 488701
+revision_id: 514469
 locale: en-US
 slug: Tools
 tags: "Guide" "Tools" "l10n:priority" "Web Development" "Developing Mozilla" "Web Development:Tools"
@@ -16,18 +16,18 @@ based_on: None
 <div class="summary">
  Examine, edit, and debug HTML, CSS, and JavaScript on the desktop and on mobile</div>
 <div class="column-container zone-callout">
- <h3 id="What's_new_in_Aurora.3F"><a href="https://hacks.mozilla.org/2013/11/firefox-developer-tools-episode-27-edit-as-html-codemirror-more/" title="Aurora Hacks post">What's new in Aurora?</a></h3>
- The <a href="http://www.mozilla.org/en-US/firefox/aurora/" title="http://www.mozilla.org/en-US/firefox/aurora/">current Firefox Aurora release</a> is Firefox 27, and includes these updates to the developer tools:
+ <h3 id="What's_new_in_Aurora.3F"><a href="https://hacks.mozilla.org/2013/12/split-console-pretty-print-minified-js-and-more-firefox-developer-tools-episode-28/" title="Aurora Hacks post">What's new in Aurora?</a></h3>
+ <p>The <a href="http://www.mozilla.org/en-US/firefox/aurora/" title="http://www.mozilla.org/en-US/firefox/aurora/">current Firefox Aurora release</a> is Firefox 28. These are the main updates to the developer tools:</p>
  <ul>
-  <li>Instruct the debugger to <a href="/en-US/docs/Tools/Debugger#Break_on_a_DOM_event">break on DOM events</a> to which you're listening</li>
-  <li><a href="/en-US/docs/Tools/Page_Inspector#Editing_HTML">Edit HTML in the Inspector</a></li>
-  <li>See color swatches and background images in the Inspector's <a href="/en-US/docs/Tools/Page_Inspector#Rules_view">Rules view</a></li>
-  <li>The Web Console now <a href="/en-US/docs/Tools/Web_Console#Reflow_events">logs reflow events</a></li>
-  <li>CodeMirror is now used as the source editor in many tools</li>
+  <li>The App Manager has an integrated <a href="/en-US/Firefox_OS/Using_the_App_Manager#Manifest_editor">manifest editor</a></li>
+  <li>The <a href="/en-US/docs/Tools/Web_Console#The_split_console">Split Console</a> feature enables you to use the Web Console and another developer tool side by side</li>
+  <li><a href="/en-US/docs/Tools/Debugger#Pretty-print_a_minified_file">Pretty-print minified JavaScript</a> in the Debugger</li>
+  <li><a href="/en-US/docs/Tools/Page_Inspector#Rules_view">Color picker tooltip</a> in the Inspector</li>
+  <li><a href="/en-US/docs/Tools/Browser_Toolbox">Browser Toolbox</a> for debugging platform or add-on code</li>
  </ul>
 </div>
 <div class="column-container">
- <p><img alt="" src="https://mdn.mozillademos.org/files/6111/debugger-800.png" style="width: 800px; height: 360px; display: block; margin-left: auto; margin-right: auto;" />You can use the developer tools to <a href="/en-US/docs/Tools/Page_Inspector" title="/en-US/docs/Tools/Page_Inspector">examine and edit HTML and CSS</a>, to <a href="/en-US/docs/Tools/Debugger" title="/en-US/docs/Tools/Debugger">debug JavaScript</a>, and to <a href="/en-US/docs/Tools/Web_Console#The_command_line_interpreter" title="/en-US/docs/Tools/Web_Console#The_command_line_interpreter">run JavaScript in the page</a>. You can use them to <a href="/en-US/docs/Tools/Network_Monitor" title="/en-US/docs/Tools/Network_Monitor">see network requests</a> that your browser makes as well as any <a href="/en-US/docs/Tools/Web_Console" title="/en-US/docs/Tools/Web_Console">JavaScript and CSS warnings and errors</a> that it encounters when loading a page. You can use them to <a href="/en-US/docs/Tools/Profiler" title="/en-US/docs/Tools/Profiler">debug performance problems with your site</a>.</p>
+ <p><img alt="" src="https://mdn.mozillademos.org/files/6111/debugger-800.png" style="width: 800px; height: 360px; display: block; margin-left: auto; margin-right: auto;" /><span class="seoSummary">You can use the Firefox developer tools to <a href="/en-US/docs/Tools/Page_Inspector" title="/en-US/docs/Tools/Page_Inspector">examine and edit HTML and CSS</a>, to <a href="/en-US/docs/Tools/Debugger" title="/en-US/docs/Tools/Debugger">debug JavaScript</a>, and to <a href="/en-US/docs/Tools/Web_Console#The_command_line_interpreter" title="/en-US/docs/Tools/Web_Console#The_command_line_interpreter">run JavaScript in the page</a>.</span> You can use them to <a href="/en-US/docs/Tools/Network_Monitor" title="/en-US/docs/Tools/Network_Monitor">see network requests</a> that your browser makes as well as any <a href="/en-US/docs/Tools/Web_Console" title="/en-US/docs/Tools/Web_Console">JavaScript and CSS warnings and errors</a> that it encounters when loading a page. You can use them to <a href="/en-US/docs/Tools/Profiler" title="/en-US/docs/Tools/Profiler">debug performance problems with your site</a>.</p>
  <p>You can use the developer tools to <a href="/en-US/docs/Tools/Remote_Debugging" title="/en-US/docs/Tools/Remote_Debugging">debug code running Firefox for Android</a>, and soon, Firefox OS. We've also provided tools that target mobile development: the <a href="/en-US/docs/Tools/Responsive_Design_View" title="/en-US/docs/Tools/Responsive_Design_View">Responsive Design View</a> is a quick way to see how a site will look on a small screen, and the <a href="/en-US/docs/Tools/Firefox_OS_Simulator" title="/en-US/docs/https://developer.mozilla.org/en-US/docs/Tools/Firefox_OS_Simulator">Firefox OS Simulator</a> lets you run and debug a Firefox OS app on the desktop without needing to use a real Firefox OS device.</p>
  <p>Firefox add-ons can access the debugger API, so you can build your own developer tools that extend and enhance the built-in tools. With the <a href="https://wiki.mozilla.org/Remote_Debugging_Protocol" title="https://wiki.mozilla.org/Remote_Debugging_Protocol">remote debugging protocol</a> you can implement your own debugging clients and servers, enabling you to debug websites using your own tools or to debug different targets using the Firefox tools.</p>
 </div>
@@ -61,6 +61,10 @@ based_on: None
     <a href="/en-US/docs/Tools/Network_Monitor" title="Tools/Network_Monitor">Network Monitor</a></dt>
    <dd>
     Inspect all the network requests that are made when a page is loaded, and how long they take to execute.</dd>
+   <dt>
+    <a href="/en-US/docs/Tools/Shader_Editor">Shader Editor</a></dt>
+   <dd>
+    View and edit the vertex and fragment shaders used by <a href="https://developer.mozilla.org/en-US/docs/Web/WebGL">WebGL</a>.</dd>
   </dl>
  </div>
  <div class="column-third">
@@ -82,7 +86,7 @@ based_on: None
   </dl>
  </div>
  <div class="column-third">
-  <h2 id="Standalone_Tools">Standalone Tools</h2>
+  <h2 id="Standalone_tools">Standalone tools</h2>
   <p>These tools ship inside Firefox as well, but their user interfaces aren't integrated into the Toolbox.</p>
   <dl>
    <dt>
@@ -100,7 +104,7 @@ based_on: None
    <dt>
     <a href="/en-US/docs/Tools/3D_View" title="Tools/3D_View">3D View</a></dt>
    <dd>
-    Also known as "Tilt", this provides a 3D visualisation of the current page.</dd>
+    Also known as "Tilt", this provides a 3D visualization of the current page.</dd>
    <dt>
     <a href="/en-US/docs/Tools/Paint_Flashing_Tool" title="Tools/Paint_Flashing_Tool">Paint Flashing Tool</a></dt>
    <dd>
@@ -138,25 +142,7 @@ based_on: None
   JavaScript code analysis tool.</dd>
 </dl>
 <hr />
-<div class="overheadIndicator communitybox">
- <div class="column-container">
-  <div class="column-half">
-   <h2 id="Join_the_Community">Join the Community</h2>
-   <h3 id="Developer_Tools_forum">Developer Tools forum</h3>
-   <ul class="communitymailinglist">
-    <li><a href="https://lists.mozilla.org/listinfo/dev-developer-tools">As a mailing list</a></li>
-    <li><a href="news://news.mozilla.org/mozilla.dev.developer-tools">As a newsgroup</a></li>
-    <li><a href="https://groups.google.com/forum/#!forum/mozilla.dev.developer-tools">As a Google Group</a></li>
-   </ul>
-  </div>
-  <div class="column-half">
-   <ul class="communitycontact">
-    <li><strong>IRC: </strong><a href="http://mibbit.com/?channel=%23devtools&amp;server=irc.mozilla.org">#devtools</a> on <a href="http://irc.mozilla.org/">irc.mozilla.org</a></li>
-    <li><strong>Wiki: </strong><a href="https://wiki.mozilla.org/DevTools">https://wiki.mozilla.org/DevTools</a></li>
-   </ul>
-  </div>
- </div>
-</div>
+<p>{{CommunityBox("Developer tools", "dev-developer-tools", "mozilla.dev.developer-tools", "devtools", "Other links|https://wiki.mozilla.org/DevTools|Dev tools wiki|Designs and plans for the dev tools")}}</p>
 <h2 id="Subnav">Subnav</h2>
 <ol>
  <li><a href="/en-US/docs/Tools/Toolbox">Toolbox</a>
@@ -167,6 +153,7 @@ based_on: None
    <li><a href="/en-US/docs/Tools/Debugger" title="Debugger">Debugger</a></li>
    <li><a href="/en-US/docs/Tools/Profiler" title="Profiler">Profiler</a></li>
    <li><a href="/en-US/docs/Tools/Network_Monitor" title="Network Monitor">Network Monitor</a></li>
+   <li><a href="/en-US/docs/Tools/Shader_Editor">Shader Editor</a></li>
   </ol>
  </li>
  <li><a href="#">Mobile</a>
@@ -183,7 +170,7 @@ based_on: None
    <li><a href="/en-US/docs/Tools/GCLI" title="GCLI">Developer Toolbar</a></li>
    <li><a href="/en-US/docs/Tools/3D_View" title="3D View">3D View</a></li>
    <li><a href="/en-US/docs/Tools/Paint_Flashing_Tool" title="Paint Flashing Tool">Paint Flashing Tool</a></li>
-   <li><a href="/en-US/docs/Tools/Debugging_Firefox_JS_Code">Debugging Firefox JS Code [en-US]</a></li>
+   <li><a href="/en-US/docs/Tools/Browser_Toolbox" title="Browser Toolbox">Browser Toolbox</a></li>
   </ol>
  </li>
 </ol>
