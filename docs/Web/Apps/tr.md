@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 493455
+revision_id: 523927
 locale: tr
 slug: Web/Apps
 tags: "Apps" "Mobile" "Firefox OS" "TopicStub" "Web Development" "NeedsTranslation"
@@ -23,31 +23,31 @@ based_on: None
   <h2 class="Documentation" id="Documentation" name="Documentation">Uygulama geliştiricileri için dökümanlar</h2>
   <dl>
    <dt>
-    <a href="/en-US/docs/Web/Apps/Basics">Web app basics</a></dt>
+    <a href="/en-US/docs/Web/Apps/Basics">Web Uygulaması Temelleri</a></dt>
    <dd>
-    Guides and references to help you create your app and make it install and run on devices.</dd>
+    Uygulama oluşturmak, yüklemek ve cihazlar üzerinde çalışacak duruma getirmek için kılavuzlar ve referanslar.</dd>
    <dt>
-    <a href="/en-US/docs/Web/Apps/Design">Designing your Web app</a></dt>
+    <a href="/en-US/docs/Web/Apps/Design">Kendi Web Uygulamanızı Tasarlayın</a></dt>
    <dd>
-    Information regarding app and interface design practices.</dd>
+    Uygulama ve arayüz tasarımına ilişkin bilgiler.</dd>
    <dt>
-    <a href="/en-US/docs/Web/Apps/Developing">Developing your Web app</a></dt>
+    <a href="/en-US/docs/Web/Apps/Developing">Web Uygulaması Geliştirme</a></dt>
    <dd>
-    Documentation about core app technologies, including the DOM and WebAPIs.</dd>
+    DOM ve WebAPI olmak üzere, çekirdek uygulama teknolojileri hakkında bilgi.</dd>
    <dt>
-    <a href="/en-US/docs/Web/Apps/Publishing">Publishing your app</a></dt>
+    <a href="/en-US/docs/Web/Apps/Publishing">Web Uygulamanızı Yayınlayın</a></dt>
    <dd>
     Guides to effectively publishing your app on the Firefox Marketplace, including documentation about taking advantage of features such as in-app payments.</dd>
    <dt>
-    <a href="/en-US/docs/Web/Apps/Advanced_topics">Advanced topics</a></dt>
+    <a href="/en-US/docs/Web/Apps/Advanced_topics">Gelişmiş</a></dt>
    <dd>
     An assortment of advanced technical articles about how apps are installed, differences in functionality across platforms, and more.</dd>
    <dt>
-    <a href="/en-US/docs/Web/Apps/FAQs">Frequently asked questions</a></dt>
+    <a href="/en-US/docs/Web/Apps/FAQs">Sık Sorulan Sorular</a></dt>
    <dd>
-    Questions that are often asked about Open Web Apps and the Firefox Marketplace. Find your answers here.</dd>
+    Açık Web Uygulamaları ve Firefox Marketplace ile ilgili sıkça sorulan sorular. Aradığınız cevabı burada bulun.</dd>
   </dl>
-  <p><span class="alllinks"><a href="/en-US/docs/tag/Apps">View All...</a></span></p>
+  <p><span class="alllinks"><a href="/en-US/docs/tag/Apps">Tümünü Gör...</a></span></p>
  </div>
  <div class="section">
   <p>{{AppsLandingRightSide}}</p>
