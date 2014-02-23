@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 525167
+revision_id: 525177
 locale: bn-BD
 slug: Web/Guide/গ্রাফিক্স
 tags: "NeedsReview"
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 88a95c9a09ad1342295a4f8c1409300e82e9a27e
+based_on: None
 ---
 <p><span id="result_box" lang="bn"><span class="hps">আধুনিক ওয়েব</span> <span class="hps">সাইট এবং</span> <span class="hps">অ্যাপ্লিকেশনে</span> <span class="hps">প্রায়ই</span> <span class="hps">গ্রাফিক্স</span> <span class="hps">উপস্থাপন</span> <span class="hps">প্রয়োজন পরে। </span></span><span id="result_box" lang="bn"><span class="hps">{{HTMLElement("img")}} উপাদান <span id="result_box" lang="bn"><span class="hps">ব্যবহার করে </span></span><span id="result_box" lang="bn"><span class="hps">সহজে</span>ই </span>স্ট্যাটিক</span> <span class="hps">ইমেজ</span> <span class="hps">প্রদর্শিত করা</span></span><span lang="bn"><span class="hps"> </span><span class="hps">যায়, অথবা</span></span> {{cssxref("background-image")}} প্রোপার্টি <span id="result_box" lang="bn"><span class="hps">ব্যবহার করে</span> <span class="hps">এইচটিএমএল</span> <span class="hps">উপাদানের</span> <span class="hps">পটভূমি</span> <span class="hps">নির্ধারণ করা যায়।</span></span></p>
 <p><span class="short_text" id="result_box" lang="bn"><span class="hps">আপনি</span> <span class="hps">প্রায়ই</span> <span class="hps">অন</span>-দা-ফ্লাই&nbsp; <span class="hps">গ্রাফিক্স</span> <span class="hps">নির্মাণ করতে</span> <span class="hps">চান</span></span>, অথবা ঘটনার পরে ছবি প্রদর্শন করতে চান। এই নিবন্ধনটি আপনাকে সাহায্য করবে কিভাবে আপনি তা সম্পন্ন করতে পারেন।</p>
@@ -41,7 +41,7 @@ based_on: 88a95c9a09ad1342295a4f8c1409300e82e9a27e
     </div>
    </dd>
   </dl>
-  <h2>ভিডিও</h2>
+  <h2 id=".E0.A6.AD.E0.A6.BF.E0.A6.A1.E0.A6.BF.E0.A6.93">ভিডিও</h2>
   <dl>
    <dt>
     <a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">HTML5 (অডিও এবং ভিডিও ব্যাবহার)</a></dt>
