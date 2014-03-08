@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 511987
+revision_id: 531167
 locale: en-US
 slug: Web/Accessibility
 tags: "Landing" "Accessibility"
