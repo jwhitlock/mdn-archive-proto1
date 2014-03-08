@@ -1,8 +1,8 @@
 ---
 version: prototype1
-revision_id: 459579
+revision_id: 531069
 locale: en-US
-slug: Project:MDN/Localizing
+slug: MDN/Contribute/Localize
 tags: "l10n" "MDN Meta" "Landing" "Localization"
 title: Localizing MDN
 summary: 
@@ -17,11 +17,18 @@ based_on: None
 <p>{{LandingPageListSubpages}}</p>
 <h2 id="Localization_tools">Localization tools</h2>
 <p>There are several useful tools that you'll use during localization work:</p>
-<div class="threecolumns">
-  <ul>
-    <li>Verbatim</li>
-    <li>Transvision</li>
-  </ul>
-</div>
+<dl>
+  <dt>
+    <a href="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim" title="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim">Verbatim</a></dt>
+  <dd>
+    Used for translation of strings across multiple Mozilla projects, including the MDN user interface (as well as the Firefox user interface).</dd>
+  <dt>
+    <a href="http://transvision.mozfr.org/" title="http://transvision.mozfr.org/">Transvision</a></dt>
+  <dd>
+    A utility provided by Mozilla France, which lets you search for occurrences of an English string, finding all the various translations into a target locale that are used throughout Mozilla code. Useful for finding the preferred translations for words or phrases.</dd>
+</dl>
 <h2 id="See_also">See also</h2>
+<ul>
+  <li><a href="/en-US/docs/Mozilla/Localization" title="/en-US/docs/Mozilla/Localization">Localization at Mozilla</a></li>
+</ul>
 
