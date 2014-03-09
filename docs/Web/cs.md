@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 463389
+revision_id: 531839
 locale: cs
 slug: Web
 tags: "Web" "Landing" "TopicStub" "NeedsTranslation"
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 959e1436ba694656a8e35328f075caedc11b0295
+based_on: None
 ---
 <p>The open Web presents incredible opportunities for developers. To take full advantage of these technologies, you need to know how to use them. Below you'll find links to our Web technology documentation.</p>
 
