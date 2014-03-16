@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 517307
+revision_id: 535063
 locale: en-US
 slug: Web/Guide/Graphics
 tags: "2D" "3D" "HTML5" "SVG" "Web" "WebGL" "WebRTC" "Canvas" "Graphics"
@@ -37,7 +37,7 @@ based_on: None
    <dd>
     A guide to getting started with WebGL, the 3D graphics API for the Web. This technology lets you use standard OpenGL ES in Web content.</dd>
   </dl>
-  <h2>Video</h2>
+  <h2 id="Video">Video</h2>
   <dl>
    <dt>
     <a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">Using HTML5 audio and video</a></dt>
