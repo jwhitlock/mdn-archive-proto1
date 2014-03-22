@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 517023
+revision_id: 538087
 locale: en-US
 slug: Web/Apps
 tags: "Apps" "Mobile" "Modern web apps" "Web Development" "Progressive web apps"
@@ -15,30 +15,30 @@ based_on: None
 ---
 <div class="initial-steps clear" id="sect1">
  <div class="panel">
-  <h2 class="section-design" id="Design"><a href="/en-US/docs/Web/Apps/Quickstart/Design">Design</a></h2>
+  <h2 class="section-design" id="Design"><a href="/en-US/docs/Web/Apps/Design">Design</a></h2>
   <p>Learn how to design installable Open Web Apps that provide a great cross-platform user experience.</p>
   <ul class="no-bullets">
-   <li><a href="/en-US/docs/Web/Apps/Quickstart/Design/Concept_A_great_app">Concept: A great app</a></li>
-   <li><a href="/en-US/docs/Web/Apps/Quickstart/Design/Design_Principles">Design principles</a></li>
-   <li><a href="/en-US/docs/Web/Apps/Quickstart/Design/UI_guidelines">UI guidelines</a></li>
+   <li><a href="/en-US/Apps/Design/Planning_your_app">Planning your app</a></li>
+   <li><a href="/en-US/docs/Web/Apps/Design/Design_Principles">Design principles</a></li>
+   <li><a href="/en-US/Apps/app_layout/responsive_design_building_blocks">Responsive design</a></li>
   </ul>
  </div>
  <div class="panel">
-  <h2 class="section-build" id="Build"><a href="/en-US/docs/Web/Apps/Quickstart/Build">Build</a></h2>
-  <p>Find all the tools, documentation, and tutorials you'll need for development and testing of your Web app.</p>
+  <h2 class="section-build" id="Build"><a href="/en-US/docs/Web/Apps/Build">Build</a></h2>
+  <p>Find all the recommendations and tutorials you'll need for solving your real world development problems.</p>
   <ul class="no-bullets">
    <li><a href="/en-US/docs/Web/Apps/Quickstart/Build/Your_first_app">Your first app</a></li>
-   <li><a href="/en-US/docs/Web/Apps/Quickstart/Build/App_tools">App tools</a></li>
-   <li><a href="/en-US/docs/Web/Apps/Reference_apps">Reference apps</a></li>
+   <li><a href="/en-US/Apps/Build/installable_apps">Installable apps</a></li>
+   <li><a href="/en-US/Apps/Developing/App_development_FAQ">App development FAQ</a></li>
   </ul>
  </div>
  <div class="panel">
   <h2 class="section-publish" id="Publish"><a href="/en-US/docs/Mozilla/Marketplace">Publish</a></h2>
   <p>Distribute your apps on an open marketplace that puts users and developers first. Read more on the <a href="/en-US/Marketplace">Marketplace zone</a>.</p>
   <ul class="no-bullets">
-   <li><a href="/en-US/Apps/Quickstart/Publish/App_publishing_options">App publishing options</a></li>
-   <li><a href="/en-US/docs/Web/Apps/Publishing/Submitting_an_app">Submit to Marketplace</a></li>
-   <li><a href="/en-US/docs/Web/Apps/Quickstart/Build/Payments">Payments</a></li>
+   <li><a href="/en-US/Marketplace/Publishing/Publish_options">App publishing options</a></li>
+   <li><a href="/en-US/Marketplace/Submission/Submitting_an_app">Submit to Marketplace</a></li>
+   <li><a href="/en-US/Marketplace/Monetization">Payments</a></li>
   </ul>
  </div>
 </div>
@@ -130,12 +130,12 @@ based_on: None
  </div>
 </div>
 <div class="note">
- <p><strong>Note:</strong> We are keeping track of ongoing work on App Center documentation on our <a href="/en-US/docs/Web/Apps/Doc_Status">Apps documentation status</a> page. If you want to help contribute to App Center documentation, please have a look at this page to see what work needs doing!</p>
+ <p><strong>Note:</strong> We are keeping track of ongoing work on App Center documentation on our <a href="/en-US/docs/MDN/Doc_status/Apps">Apps documentation status</a> page. If you want to help contribute to App Center documentation, please have a look at this page to see what work needs doing!</p>
 </div>
 <p>{{CommunityBox("Open Web apps", "dev-webapps", "mozilla.dev.webapps", "openwebapps", "Newsletter|https://marketplace.firefox.com/developers/#newsletter-signup|Sign up|Sign up for the Open Web Apps newsletter||Dev Derby|https://developer.mozilla.org/en/demos/devderby|See our community-written demos|Visit the Dev Derby to see demos and examples produced by the Open Web apps community")}}</p>
 <h2 id="Subnav">Subnav</h2>
 <ol>
- <li><a href="/en-US/Apps/Quickstart">Quickstart</a>
+ <li><a href="/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps">Quickstart</a>
   <ol>
    <li><a href="/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps">Introduction to open web apps</a></li>
    <li><a href="/en-US/Apps/Quickstart/Build/Intro_to_Firefox_OS">Introduction to Firefox OS</a></li>
@@ -151,88 +151,42 @@ based_on: None
  </li>
  <li><a href="/en-US/Apps/Design" title="Information regarding app and interface design practices.">Design</a>
   <ol>
-   <li><a href="/en-US/Apps/Design/Design_guidelines">Design guidelines</a>
-    <ol>
-     <li><a href="/en-US/Apps/Design/Planning_your_app" title="Start by planning your app">Planning</a></li>
-     <li><a href="/en-US/Apps/Design/Guidelines/Design_Principles" title="A useful list of general design principles to start with.">Design principles</a></li>
-     <li><a href="/en-US/Apps/Design/installed_app_considerations" title="High level considerations particular to installed Open Web App UX.">Installed app considerations</a></li>
-     <li><a href="/en-US/Apps/Design/Graphics_for_responsive_sites" title="Ideas to keep in mind when designing graphics for responsive sites and applications.">Graphics for responsive sites</a></li>
-    </ol>
-   </li>
-   <li><a href="/en-US/Apps/Design/Design_patterns_and_assets">Design patterns and assets</a>
-    <ol>
-     <li><a href="/en-US/Apps/Design/Patterns" title="Guides to effective design patterns that work on small screen apps, including Firefox OS.">Small screen design patterns</a></li>
-     <li><a href="/en-US/Apps/Design/Responsive_Navigation_Patterns">Responsive Navigation Patterns</a></li>
-     <li><a href="/en-US/Apps/Design/Building_Blocks" title="A library of components for use in Open Web Apps, including usage guides, assets, and HTML, CSS and JavaScript code snippets.">Building blocks</a></li>
-     <li><a href="/en-US/Apps/Design/Design_asset_library" title="Graphical assets for helping design the visuals of Open Web Apps, including PSD files.">Design asset library</a></li>
-     <li><a href="/en-US/Apps/Design/Content" title="A guide to choosing effective fonts, writing good copy, and creating good image content for Open Web Apps.">Content styleguide</a></li>
-     <li><a href="http://www.mozilla.org/en-US/styleguide/products/firefox-os/" title="Design guidelines for Firefox OS apps.">Firefox OS styleguide</a></li>
-    </ol>
-   </li>
-   <li><a href="/en-US/Apps/app_layout" title="Using components and responsive design techniques for effective app layouts">Layout design</a>
-    <ol>
-     <li><a href="/en-US/Apps/app_layout/responsive_design_building_blocks" title="This guide discusses the main technologies and techniques involved in creating responsive applications">The building blocks of responsive design</a></li>
-     <li><a href="/en-US/Apps/app_layout/Responsive_design_versus_adaptive_design" title="These two terms are often confused, so here we provide a no-nonsense guide to the differences between the two.">Responsive design versus adaptive design</a></li>
-     <li><a href="/en-US/Apps/app_layout/Mobile_First" title="Mobile first is the practice of designing a web site so that the default layout/configuration is for mobile devices, and layouts and features for desktop browsers are then layered on top of that default.">Mobile first</a></li>
-     <li><a href="/en-US/Web/Guide/CSS/Flexible_boxes" title="CSS flexible boxes let you configure your app's user interface to automatically adjust the positioning and sizes of elements based on the size and orientation of the display.">Flexible boxes</a></li>
-    </ol>
-   </li>
+   <li><strong><a href="/en-US/Apps/Design">Design overview</a></strong></li>
+   <li><a href="/en-US/Apps/Design/Planning_your_app">Planning</a></li>
+   <li><a href="/en-US/Apps/Design/Design_Principles">Design principles</a></li>
+   <li><a href="/en-US/Apps/Design/Installed_app_considerations">Installed app considerations</a></li>
+   <li><a href="/en-US/Apps/Design/Graphics_for_responsive_sites">Graphics for responsive sites</a></li>
+   <li><a href="/en-US/Apps/Design/Content">Content styleguide</a></li>
+   <li><a href="http://www.mozilla.org/en-US/styleguide/products/firefox-os/">Firefox OS styleguide</a></li>
+   <li><a href="/en-US/Apps/Design/Patterns">Small screen design patterns</a></li>
+   <li><a href="/en-US/Apps/Design/Responsive_Navigation_Patterns">Responsive navigation patterns</a></li>
+   <li><a href="/en-US/Apps/Design/Design_asset_library">Design asset library</a></li>
+   <li><a href="/en-US/Apps/app_layout/responsive_design_building_blocks">Building blocks of responsive design</a></li>
+   <li><a href="/en-US/Apps/app_layout/Responsive_design_versus_adaptive_design">Responsive design versus adaptive design</a></li>
+   <li><a href="/en-US/Apps/app_layout/Mobile_first">Mobile first</a></li>
+   <li><a href="/en-US/docs/Web/Guide/CSS/Flexible_boxes">Flexible boxes</a></li>
   </ol>
  </li>
- <li><a href="/en-US/Apps/Developing" title="This section contains documentation about building app functionality, with HTML5 and device APIs (WebAPIs).">Build</a>
+ <li><a href="/en-US/Apps/Build" title="This section contains documentation about building app functionality, with HTML5 and device APIs (WebAPIs).">Build</a>
   <ol>
-   <li><a href="/en-US/Apps/Developing/installable_apps">Installing apps</a>
-    <ol>
-     <li><a href="/en-US/Apps/Developing/Manifest" title="/en-US/Apps/Manifest">App manifest</a></li>
-     <li><a href="/en-US/Apps/Developing/App_permissions" title="Access to device APIs is key to creating many useful apps. Here is what's available and how to access them.">App permissions</a></li>
-     <li><a href="/en-US/Web/API/Apps.install">Installing Apps</a></li>
-     <li><a href="/en-US/Apps/Developing/installable_apps/Icon_implementation_for_apps">Icon implementation for apps</a></li>
-     <li><a href="/en-US/Apps/Developing/Updating_apps" title="/en-US/Apps/Updating_apps">Updating apps</a></li>
-     <li><a href="/en-US/Apps/Developing/JavaScript_API" title="/en-US/Apps/JavaScript_API">App installation and management APIs</a></li>
-     <li><a href="/en-US/Apps/Developing/Packaged_apps" title="/en-US/Apps/Packaged_apps">Packaged apps</a></li>
-     <li><a href="/en-US/Apps/Developing/About_app_manifests" title="/en-US/Apps/FAQs/About_app_manifests">App manifests FAQ</a></li>
-     <li><a href="/en-US/Apps/Developing/Apps_for_Android">Installing open web apps on Android</a></li>
-     <li><a href="/en-US/Apps/Developing/Platform-specific_details">Platform-specific details of app installation</a></li>
-    </ol>
-   </li>
-   <li><a href="/en-US/Apps/Developing/App_functionality:_task_categories">App functionality: task categories</a>
-    <ol>
-     <li><a href="/en-US/Apps/Basic_data_flow">Control basic data flow</a></li>
-     <li><a href="/en-US/Apps/Developing/gather_and_modify_data" title="A lot of what you'll want to do involves retrieving data — from files, the device hardware and key services, and the location around the device.">Gather and modify data</a></li>
-     <li><a href="/en-US/Apps/Developing/Control_the_display" title="This part of the docs contains tutorials covering mechanisms you can use to control the display of data to the user.">Control the display</a></li>
-     <li><a href="/en-US/Apps/User_input_methods">Implement user input and control mechanisms</a></li>
-     <li><a href="/en-US/Apps/Developing/offline" title="This section looks in detail at making apps work offline using mechanisms such as appCache, localStorage, and IndexedDB.">Work offline</a></li>
-     <li><a href="/en-US/Apps/Developing/Manipulating_media" title="This part of our docs looks at video, audio, and images, and how to do interesting things with them inside Open Web Apps.">Manipulate media</a></li>
-     <li><a href="/en-US/Apps/Advanced_network_communication">Advanced network communication</a></li>
-     <li><a href="/en-US/Games">Build games</a></li>
-     <li><a href="/en-US/Apps/Developing/User_services" title="Here we look at APIs designed to facilitate common user services, such as taking payments and login functionality.">Utilize User services</a></li>
-     <li><a href="/en-US/Apps/Quickstart/Build/Payments">Payments</a></li>
-    </ol>
-   </li>
-   <li><a href="/en-US/Apps/Developing/General_app_development_topics">General app development topics</a>
-    <ol>
-     <li><a href="/en-US/Apps/Developing/Testing_and_debugging" title="No developer documentation would be complete without comprehensive testing advice and tools.">Testing and debugging apps</a></li>
-     <li><a href="/en-US/Mozilla/Firefox_OS/Apps/Tips_and_techniques" title="An assortment of tips and tricks (as well as workarounds for problems) that our developers have suggested for you!">Firefox OS Tips and techniques</a></li>
-     <li><a href="/en-US/Mozilla/Firefox_OS/Performance" title="Articles about optimizing Firefox OS applications.">Performance</a></li>
-     <li><a href="/en-US/Apps/Developing/Optimizing_startup_performance">Optimizing startup performance</a></li>
-     <li><a href="/en-US/Apps/Developing/Release_notes">App runtime release notes</a></li>
-     <li><a href="/en-US/Apps/Developing/Architecture">Web apps architecture</a></li>
-     <li><a href="/en-US/Apps/Developing/Porting_Chrome_apps_to_open_web_apps">Porting Chrome apps to open web apps</a></li>
-     <li><a href="/en-US/Apps/Developing/App_Validator">Validating web apps with the App Validator</a></li>
-    </ol>
-   </li>
-   <li><a href="/en-US/Apps/Developing/Templates_and_components">Templates and components</a>
-    <ol>
-     <li><a href="/en-US/Apps/Developing/App_templates" title="To help you get going with app development as quickly as possible, there are some template apps you can use as a basis for your own apps.">Using app templates</a></li>
-     <li><a href="/en-US/Apps/Developing/x-tags">x-tags</a></li>
-     <li><a href="/en-US/Apps/Developing/Custom_elements" title="A guide to custom x-tag based elements provided to help you create a consistent user interface.">Custom elements</a></li>
-     <li><a href="/en-US/Apps/Developing/Web_components">Web components</a></li>
-    </ol>
-   </li>
-   <li><a href="/en-US/Apps/Developing/App_development_FAQ">App development FAQ</a></li>
+   <li><strong><a href="/en-US/Apps/Build">Build overview</a></strong></li>
+   <li><a href="/en-US/Apps/Build/installable_apps">Installable apps</a></li>
+   <li><a href="/en-US/Apps/Build/Basic_data_flow">Basic data flow</a></li>
+   <li><a href="/en-US/Apps/Build/gather_and_modify_data">Gather and modify data</a></li>
+   <li><a href="/en-US/Apps/Build/Control_the_display">Display and feedback</a></li>
+   <li><a href="/en-US/Apps/Build/User_input_methods">User input and controls</a></li>
+   <li><a href="/en-US/Apps/Build/Offline">Offline apps</a></li>
+   <li><a href="/en-US/Apps/Build/Manipulating_media">Manipulating media</a></li>
+   <li><a href="/en-US/Apps/Build/Advanced_network_communication">Advanced network communication</a></li>
+   <li><a href="/en-US/docs/Games">Develop games</a></li>
+   <li><a href="/en-US/Apps/Build/Localization">Localization</a></li>
+   <li><a href="/en-US/Apps/Build/Porting">Porting </a></li>
+   <li><a href="/en-US/Apps/Build/Performance">App performance</a></li>
+   <li><a href="/en-US/Apps/Build/App_development_FAQ">App development FAQ</a></li>
   </ol>
  </li>
  <li><a href="/en-US/Marketplace">Publish</a></li>
+ <li><a href="/en-US/Apps/Tools_and_frameworks">Tools and frameworks</a></li>
  <li><a href="/en-US/Apps/Reference_apps">Reference apps</a>
   <ol>
    <li><a href="/en-US/Apps/Reference_apps/Chrono">Chrono</a></li>
@@ -244,6 +198,15 @@ based_on: None
    <li><a href="/en-US/Apps/Reference_apps/rtcamera">rtcamera</a></li>
   </ol>
  </li>
- <li><a href="/en-US/Apps/Reference">API Reference</a></li>
+ <li><a href="/en-US/Apps/Reference">API Reference</a>
+  <ol>
+   <li><a href="/en-US/Apps/Reference/Foundation_of_a_Firefox_OS_app">Foundations of a Firefox OS app</a></li>
+   <li><a href="/en-US/Apps/Reference/Layout_and_structure">Layout and structure</a></li>
+   <li><a href="/en-US/Apps/Reference/Drawing_and_animation">Drawing and animation</a></li>
+   <li><a href="/en-US/Apps/Reference/Firefox_OS_device_APIs">Firefox OS device APIs</a></li>
+   <li><a href="/en-US/Apps/Reference/General_Web_APIs">General web APIs</a></li>
+   <li><a href="/en-US/Apps/Reference/Firefox_Marketplace_services">Firefox Marketplace services</a></li>
+  </ol>
+ </li>
 </ol>
 
