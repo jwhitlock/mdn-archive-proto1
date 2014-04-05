@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 514041
+revision_id: 543879
 locale: el
 slug: Εφαρμογές
 tags: 
-title: Apps
+title: Κέντρο Εφαρμογών
 summary: 
 keywords: 
 needs_technical_review: False
@@ -18,55 +18,53 @@ based_on: None
  <a href="/newsletter">Εγγράψου εδώ!</a></div>
 <p>Το Open Web Apps project δίνει την δυνατότητα στους προγραμματιστές να δημιουργήσουν rich HTML5 εφαρμογες οι οποίες μπορούν να τρέξουν ανάμεσα&nbsp; σε διαφορετικές συσκευές και μορφές αυτών (desktop, mobile, tablet, κτλ.) χρησιμοποιώντας τα Web standards και ανοιχτές τεχνολογίες όπως η HTML5, CSS και JavaScript. Επιπλέον, στοχεύει να δημιουργήσει ένα πλούσιο κατανεμημένο οικοσύστημα εφαρμογών κατασκευασμένες σε HTML5, συμπεριλαμβανομένουν ενός marketplace διαχειριζόμενο από την Mozilla. Η Mozilla στοχεύει στο να επιστρέψει στον προγραμματιστή τον έλεγχο κάθε πλευράς στην εμπειρία που προσφέρει μία εφαρμογή — από την εύκολη ανάπτυξη μίας εφαρμογής μέχρι την διανομή&nbsp; και την διαχείριση των άμεσων πελατειακών σχέσεων.</p>
 <p>Οι εφαρμογές δημιουργούνται με τη χρήση τυποποιημένων τεχνολογιών Web με επιπρόσθετα μεταδεδομένα που επιτρέπουν στο User Agent να εντοπίζει, εγκαθιστά, εκκινεί, και να τους αποδίδει πρόσθετα προνόμια.</p>
-<h2 id="Documentation_topics">Documentation topics</h2>
+<h2 id=".CE.98.CE.AD.CE.BC.CE.B1.CF.84.CE.B1_.CF.84.CE.B5.CE.BA.CE.BC.CE.B7.CF.81.CE.AF.CF.89.CF.83.CE.B7.CF.82">Θέματα τεκμηρίωσης</h2>
 <div style="overflow:hidden">
  <div style="-moz-column-width:28em; -webkit-columns:28em; columns:28em; border: dotted 1px; padding: 1em;">
-  <div>
-   <h3 id="Creating_apps">Creating apps</h3>
-   <dl>
-    <dt>
-     <a href="/en-US/docs/Apps/FAQs">Apps FAQ</a></dt>
-    <dd>
-     Frequently-asked questions about apps.</dd>
-    <dt>
-     <a href="/en-US/docs/Apps/Getting_Started">Getting started</a></dt>
-    <dd>
-     This walk-through can quickly give you an understanding of what it takes to turn an ordinary site into an app.</dd>
-    <dt>
-     <a href="/en-US/docs/Apps/Tutorials/General">General app tutorial</a></dt>
-    <dd>
-     A fairly detailed step-by-step of app development in general.</dd>
-    <dt>
-     <a href="/en-US/docs/Apps/For_mobile_developers">For mobile application developers</a></dt>
-    <dd>
-     If you already develop mobile applications, here's how to make Web-based apps.</dd>
-    <dt>
-     <a href="/en-US/docs/Apps/For_Web_developers">For Web developers</a></dt>
-    <dd>
-     If you already develop Web sites or applications, here's how to make them into installable apps.</dd>
-    <dt>
-     <a href="/en-US/docs/Apps/Platform-specific_details">App installation</a></dt>
-    <dd>
-     Platform-specific notes about how apps are installed and run on the user's device or system.</dd>
-    <!--
+  <h3 id=".CE.94.CE.B7.CE.BC.CE.B9.CE.BF.CF.85.CF.81.CE.B3.CF.8E.CE.BD.CF.84.CE.B1.CF.82_.CE.B5.CF.86.CE.B1.CF.81.CE.BC.CE.BF.CE.B3.CE.AD.CF.82">Δημιουργώντας εφαρμογές</h3>
+  <dl>
+   <dt>
+    <a href="/en-US/docs/Apps/FAQs">Συχνές ερωτήσεις εφαρμογών</a></dt>
+   <dd>
+    Συχνές ερωτήσεις σχετικά με τις εφαρμογές.</dd>
+   <dt>
+    <a href="/en-US/docs/Apps/Getting_Started">Ξεκινώντας</a></dt>
+   <dd>
+    Αυτό το walkthrough μπορεί γρήγορα να σας δώσει μια ιδέα για το τι χρειάζεται για να μετατραπεί μια συνηθισμένη ιστοσελίδα σε μια εφαρμογή.</dd>
+   <dt>
+    <a href="/en-US/docs/Apps/Tutorials/General">Γενικό tutorial εφαρμογών</a></dt>
+   <dd>
+    Ένα αρκετά λεπτομερές tutorial με οδηγίες βήμα προς βήμα για την ανάπτυξη μιας εφαρμογής γενικά<span style="line-height: 1.5;">.</span></dd>
+   <dt>
+    <a href="/en-US/docs/Apps/For_mobile_developers">For mobile application developers</a></dt>
+   <dd>
+    If you already develop mobile applications, here's how to make Web-based apps.</dd>
+   <dt>
+    <a href="/en-US/docs/Apps/For_Web_developers">Για προγραμματιστές Ιστού</a></dt>
+   <dd>
+    If you already develop Web sites or applications, here's how to make them into installable apps.</dd>
+   <dt>
+    <a href="/en-US/docs/Apps/Platform-specific_details">Εγκατάσταση εφαρμογών</a></dt>
+   <dd>
+    Platform-specific notes about how apps are installed and run on the user's device or system.</dd>
+   <!--
         <dt><a href="/en-US/docs/Apps/Identity_integration">Identity integration</a></dt>
         <dd>How to securely identify app users via BrowserID.</dd>
         -->
-    <dt>
-     <a href="/en-US/docs/Apps/Using_apps_offline">Using apps offline</a></dt>
-    <dd>
-     How to design apps so that they can be cached and used without an Internet connection.</dd>
-    <dt>
-     <a href="/en-US/docs/Apps/Apps_for_Android">Android Open Web Apps</a></dt>
-    <dd>
-     Information about developing Open Web Apps for Android.</dd>
-   </dl>
-  </div>
+   <dt>
+    <a href="/en-US/docs/Apps/Using_apps_offline">Χρησιμοποιώντας τις εφαρμογές offline</a></dt>
+   <dd>
+    How to design apps so that they can be cached and used without an Internet connection.</dd>
+   <dt>
+    <a href="/en-US/docs/Apps/Apps_for_Android">Ανοιχτές Εφαρμογές Ιστού του Android</a></dt>
+   <dd>
+    Information about developing Open Web Apps for Android.</dd>
+  </dl>
   <div>
-   <h3 id="Game_apps">Game apps</h3>
+   <h3 id=".CE.95.CF.86.CE.B1.CF.81.CE.BC.CE.BF.CE.B3.CE.AD.CF.82_.CF.80.CE.B1.CE.B9.CF.87.CE.BD.CE.B9.CE.B4.CE.B9.CF.8E.CE.BD">Εφαρμογές παιχνιδιών</h3>
    <dl>
     <dt>
-     <a href="/en-US/docs/Apps/Developing_game_apps">Developing game apps</a></dt>
+     <a href="/en-US/docs/Apps/Developing_game_apps">Αναπτύσσοντας εφαρμογές παιχνιδιών</a></dt>
     <dd>
      Considerations for game apps, such as offline use, identity, and multi-player interaction.</dd>
     <dt>
@@ -103,42 +101,42 @@ based_on: None
    </dl>
    <dl>
     <dt>
-     Device APIs</dt>
+     API συσκευής</dt>
     <dd>
      Application programming interfaces for device capabilities:
      <ul>
-      <li><a href="/en-US/docs/Using_geolocation">Geolocation</a></li>
-      <li><a href="/en-US/docs/DOM/Orientation_and_motion_data_explained">Orientation</a></li>
-      <li><a href="/en-US/docs/DOM/Using_the_Camera_API">Camera</a></li>
-      <li><a href="https://wiki.mozilla.org/WebAPI">Other device APIs in progress</a></li>
+      <li><a href="/en-US/docs/Using_geolocation">Γεωτοποθεσία</a></li>
+      <li><a href="/en-US/docs/DOM/Orientation_and_motion_data_explained">Προσανατολισμός</a></li>
+      <li><a href="/en-US/docs/DOM/Using_the_Camera_API">Κάμερα</a></li>
+      <li><a href="https://wiki.mozilla.org/WebAPI">Άλλα API συσκευών σε εξέλιξη</a></li>
      </ul>
     </dd>
    </dl>
-   <h3 id="Other_resources">Other resources</h3>
+   <h3 id=".CE.86.CE.BB.CE.BB.CE.BF.CE.B9_.CF.80.CF.8C.CF.81.CE.BF.CE.B9">Άλλοι πόροι</h3>
    <dl>
     <dt>
-     <a href="http://kix.in/2011/12/15/behind-the-mozilla-apps-developer-preview/">Behind the Mozilla apps developer preview</a></dt>
+     <a href="http://kix.in/2011/12/15/behind-the-mozilla-apps-developer-preview/">Πίσω από την προεπισκόπηση εφαρμογών από προγραμματιστές της Mozilla</a></dt>
     <dd>
-     A (now outdated) look at how the pieces of the apps architecture fit together, from one of the lead developers.</dd>
+     Μια (τώρα ξεπερασμένη) ματιά στο πως τα κομμάτια της αρχιτεκτονικής των εφαρμογών ενώνονται, από έναν αρχιπρογραμματιστή.</dd>
    </dl>
   </div>
  </div>
  <div style="-moz-column-width:28em; -webkit-columns:28em; columns:28em; border: dotted 1px; padding: 1em;">
   <h2 id="Firefox_Marketplace">Firefox Marketplace</h2>
-  <p>The Firefox Marketplace is a site where developers can list their apps to be found and downloaded by end users.</p>
+  <p>Το Firefox Marketplace είναι μια ιστοσελίδα όπου οι προγραμματιστές μπορούν να καταγράψουν τις εφαρμογές τους για να βρεθούν και να ληφθούν από τους τελικούς χρήστες.</p>
   <dl>
    <dt>
-    <a href="/en-US/docs/Apps/Submitting_an_app">Submitting an app</a></dt>
+    <a href="/en-US/docs/Apps/Submitting_an_app">Υποβάλλοντας μια εφαρμογή</a></dt>
    <dd>
-    Step-by-step instructions.</dd>
+    Οδηγίες βήμα προς βήμα.</dd>
    <dt>
-    <a href="/en-US/docs/Apps/Marketplace_review_criteria">Marketplace review criteria</a></dt>
+    <a href="/en-US/docs/Apps/Marketplace_review_criteria">Κριτήρια αξιολόγησης του Marketplace</a></dt>
    <dd>
-    Requirements for apps in the Marketplace.</dd>
+    Απιτήσεις για τις εφαρμογές στο Marketplace.</dd>
    <dt>
-    <a href="http://zamboni.readthedocs.org/en/latest/topics/api.html">Marketplace Submission API</a></dt>
+    <a href="http://zamboni.readthedocs.org/en/latest/topics/api.html">API Υποβολής του Marketplace</a></dt>
    <dd>
-    An API for adding apps to the Firefox Marketplace.</dd>
+    Ένα API για προσθήκη εφαρμογών στο Firefox Marketplace.</dd>
   </dl>
  </div>
  <div style="-moz-column-width:28em; -webkit-columns:14em; columns:28em">
@@ -153,13 +151,13 @@ based_on: None
     </div>
   --></div>
  <div style="-moz-column-width:28em; -webkit-columns:14em; columns:28em; border: dotted 1px; padding: 1em;">
-  <h2 id="The_Open_Web_Apps_project">The Open Web Apps project</h2>
+  <h2 id=".CE.A4.CE.BF_.CE.AD.CF.81.CE.B3.CE.BF_.CF.84.CF.89.CE.BD_.CE.91.CE.BD.CE.BF.CE.B9.CF.87.CF.84.CF.8E.CE.BD_.CE.95.CF.86.CE.B1.CF.81.CE.BC.CE.BF.CE.B3.CF.8E.CE.BD_.CE.99.CF.83.CF.84.CE.BF.CF.8D">Το έργο των Ανοιχτών Εφαρμογών Ιστού</h2>
   <ul>
-   <li><a href="https://apps.mozillalabs.com/">Overview website</a></li>
-   <li><a href="https://wiki.mozilla.org/Apps">Wiki page</a></li>
-   <li>IRC channel: <a class="link-irc" href="irc://irc.mozilla.org#openwebapps">#openwebapps on irc.mozilla.org</a></li>
+   <li><a href="https://apps.mozillalabs.com/">Ιστοσελίδα επισκόπησης</a></li>
+   <li><a href="https://wiki.mozilla.org/Apps">Σελίδα στο Wiki</a></li>
+   <li>Κανάλι IRC: <a class="link-irc" href="irc://irc.mozilla.org#openwebapps">#openwebapps on irc.mozilla.org</a></li>
   </ul>
-  <p>Project discussion forum:<br />
+  <p>Φόρουμ συζήτησης για το έργο:<br />
    {{ DiscussionList("dev-webapps", "mozilla.dev.webapps") }}</p>
  </div>
 </div>
