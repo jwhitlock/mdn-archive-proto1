@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 561131
+revision_id: 563067
 locale: fa
 slug: Web/Guide/Graphics
 tags: "2D" "3D" "Web" "WebGL" "Canvas" "Graphics" "TopicStub" "NeedsTranslation"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p dir="rtl">اغلب سایت‌ها و برنامه‌های جدید نیاز به نمایش گرافیک‌ها را دارند<span class="seoSummary">.</span> در حالی که نمایش عکس‌های ثابت می‌تواند به سادگی از طریق استفاده از المان {{HTMLElement("img")}} استفاده شود، یا توسط تنظیم کردن عکس پشت زمبنه المان‌های HTML با استفاده از خصوصیت {{cssxref("background-image")}} . شما اغلب می‌خواهید که عکس‌ها را آزاد بگذارید، یا بعد از این واقعیت دستکاری کنید. <span class="seoSummary">این مقاله بینشی برای نحوه چگونگی انجام آن برای شما فراهم می‌کند.</span></p>
+<p dir="rtl">اغلب سایت‌ها و برنامه‌های جدید نیاز به نمایش گرافیک‌ها را دارند<span class="seoSummary">.</span> در حالی که نمایش عکس‌های ثابت می‌تواند به سادگی از طریق استفاده از المان {{HTMLElement("img")}} استفاده شود، یا با تنظیم عکس پشت زمبنه المان‌های HTML با استفاده از خصوصیت {{cssxref("background-image")}} . شما اغلب می‌خواهید که عکس‌ها را آزاد ایجاد کنید، یا بعد از این دستکاری کنید. <span class="seoSummary">این مقاله بینشی برای نحوه چگونگی انجام آن را برای شما فراهم می‌کند.</span></p>
 <div class="row topicpage-table" dir="rtl">
  <div class="section">
   <h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">گرافیک‌های 2D</h2>
@@ -21,7 +21,7 @@ based_on: None
    <dt>
     <a href="/en-US/docs/Web/Guide/Graphics/Drawing_graphics_with_canvas">ترسیم گرافیک‌ها با بوم نقاشی</a></dt>
    <dd>
-    راهنمای ابتدایی برای استفاده از المان {{HTMLElement("canvas")}} برای رسم گرافیک‌های 2D.</dd>
+    راهنمای مقدماتی برای استفاده از المان {{HTMLElement("canvas")}} جهت رسم گرافیک‌های 2D.</dd>
    <dt>
     <a href="/en-US/docs/SVG">SVG</a></dt>
    <dd>
@@ -35,9 +35,19 @@ based_on: None
    <dt>
     <a href="/en-US/docs/Web/WebGL">WebGL</a></dt>
    <dd>
-    یک راهنما برای شروع با WebGL، API‌های گرافیکی 3D برای وب. این تکنولوژی به شما اجازه استفاده از&nbsp; OpenGL ES استاندارد در محتوی وب را می‌دهد.</dd>
+    یک راهنما برای شروع با WebGL، APIهای گرافیکی 3D برای وب است. این تکنولوژی به شما اجازه استفاده از&nbsp; OpenGL ES استاندارد در محتوی وب را می‌دهد.</dd>
   </dl>
  </div>
 </div>
-<p dir="rtl">&nbsp;</p>
+<h2 dir="rtl" id="Video">تصویر</h2>
+<dl>
+ <dt dir="rtl">
+  <a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">استفاده از صدا و تصویر HTML5</a></dt>
+ <dd dir="rtl">
+  تصویر تعبیه شده در اسناد HTML و کنترل بازپخش آن.</dd>
+ <dt dir="rtl">
+  <a href="/en-US/docs/WebRTC">WebRTC</a></dt>
+ <dd dir="rtl">
+  RTC درWebRTC به معنای ارتباطات بلادرنگ است، تکنولوژی است که به اشتراک گذاری جریان صوت/تصویر بین مرورگرهای سرویس گیرنده ها را امکان پذیر می کند (جفت ها).</dd>
+</dl>
 
