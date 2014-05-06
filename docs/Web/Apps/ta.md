@@ -1,8 +1,8 @@
 ---
 version: prototype1
-revision_id: 578809
+revision_id: 578901
 locale: ta
-slug: Web/Apps_ta
+slug: Web/Apps
 tags: 
 title: பயன்பாடுகள் மையம்
 summary: 
