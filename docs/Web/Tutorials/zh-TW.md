@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 511667
+revision_id: 580201
 locale: zh-TW
 slug: Web/Tutorials
 tags: 
@@ -17,10 +17,10 @@ based_on: None
 <div class="row topicpage-table">
  <div class="section">
   <h2 class="Documentation" id="Documentation" name="Documentation">HTML 教程</h2>
-  <h3 id="Introductory_level">入門</h3>
+  <h3 id=".E5.85.A5.E9.96.80">入門</h3>
   <dl>
    <dt>
-    <a href="/en-US/docs/Web/Guide/HTML/Introduction">Introduction to HTML</a></dt>
+    <a href="/en-US/docs/Web/Guide/HTML/Introduction">簡介 HTML</a></dt>
    <dd>
     What HTML is, what it does, its history in brief, and what the structure of an HTML document looks like. The articles that follow this one look at each individual part of HTML in much greater depth.</dd>
    <dt>
@@ -40,7 +40,7 @@ based_on: None
    <dd>
     Code Avengers is the fun, effective way to learn to code web apps and games with HTML, CSS, and JavaScript.</dd>
   </dl>
-  <h3 id="Advanced_level">進階</h3>
+  <h3 id=".E9.80.B2.E9.9A.8E">進階</h3>
   <dl>
    <dt>
     <a href="https://developer.mozilla.org/en-US/docs/Tips_for_Authoring_Fast-loading_HTML_Pages">Tips for Authoring Fast-Loading HTML Pages</a></dt>
@@ -68,7 +68,7 @@ based_on: None
     Learn how to use the HTML audio element to embed sounds in your web pages easily. Lots of code examples are included in the tutorial.</dd>
   </dl>
   <h2 class="Documentation" id="Documentation" name="Documentation">Javascript 教程</h2>
-  <h3 id="Introductory_level">入門</h3>
+  <h3 id=".E5.85.A5.E9.96.80_2">入門</h3>
   <dl>
    <dt>
     <a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</dt>
@@ -87,7 +87,7 @@ based_on: None
    <dd>
     Code Avengers is the fun, effective way to learn to code web apps and games with HTML, CSS, and JavaScript.</dd>
   </dl>
-  <h3 id="Intermediate_level">中階</h3>
+  <h3 id=".E4.B8.AD.E9.9A.8E">中階</h3>
   <dl>
    <dt>
     <a href="https://developer.mozilla.org/en-US/docs/A_re-introduction_to_JavaScript">A Re-Introduction to JavaScript</a></dt>
@@ -112,7 +112,7 @@ based_on: None
   </dl>
  </div>
  <div class="section">
-  <h3 id="Advanced_level">進階</h3>
+  <h3 id=".E9.80.B2.E9.9A.8E_2">進階</h3>
   <dl>
    <dt>
     <a href="https://developer.mozilla.org/en-US/docs/JavaScript/Guide">JavaScript Guide</a></dt>
@@ -148,7 +148,7 @@ based_on: None
     Tips on improving the download performance of pages containing JavaScript.</dd>
   </dl>
   <h2 class="Documentation" id="Documentation" name="Documentation">CSS tutorials</h2>
-  <h3 id="Introductory_level">入門</h3>
+  <h3 id=".E5.85.A5.E9.96.80_3">入門</h3>
   <dl>
    <dt>
     <a href="https://developer.mozilla.org/en-US/docs/CSS/Getting_Started">CSS Getting Started</a></dt>
@@ -175,7 +175,7 @@ based_on: None
    <dd>
     Code Avengers is the fun, effective way to learn to code web apps and games with HTML, CSS, and JavaScript.</dd>
   </dl>
-  <h3 id="Intermediate_level">中階</h3>
+  <h3 id=".E4.B8.AD.E9.9A.8E_2">中階</h3>
   <dl>
    <dt>
     <a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference">CSS Reference</a></dt>
@@ -202,7 +202,7 @@ based_on: None
    <dd>
     Design layouts that fluidly resize with the browser window, while still using a typographic grid.</dd>
   </dl>
-  <h3 id="Advanced_level">進階</h3>
+  <h3 id=".E9.80.B2.E9.9A.8E_3">進階</h3>
   <dl>
    <dt>
     <a href="https://developer.mozilla.org/en-US/docs/CSS/Using_CSS_transforms">Using CSS Transforms</a></dt>
