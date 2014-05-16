@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 531167
+revision_id: 591353
 locale: en-US
 slug: Web/Accessibility
 tags: "Landing" "Accessibility"
@@ -32,6 +32,10 @@ based_on: None
     <a href="/en-US/docs/Accessibility/AT_Development" title="AT Development">Assistive technology (AT) development</a></dt>
    <dd>
     A collection of articles intended for AT developers</dd>
+   <dt>
+    <a href="/en-US/docs/Web/Accessibility/Mobile_accessibility_checklist">Mobile accessibility checklist</a></dt>
+   <dd>
+    This document provides a concise checklist of accessibility requirements for mobile app developers.</dd>
   </dl>
   <p><span class="alllinks"><a href="/en-US/docs/tag/Accessibility" title="/en-US/docs/tag/Accessibility">View all articles about Accessibility...</a></span></p>
  </div>
