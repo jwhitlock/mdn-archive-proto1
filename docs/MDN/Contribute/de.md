@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 584529
+revision_id: 596887
 locale: de
 slug: MDN/Contribute
 tags: "MDN" "MDC Projekt" "Einstieg" "Anleitung" "Dokumentation"
@@ -63,7 +63,7 @@ based_on: None
    <dd>
     Eine Anleitung zum Dokumentieren von CSS Eigenschaften. Alle Dokumente über CSS Eigenschaften sollten dem in diesem Artikel beschriebenen Stil und Layout entsprechen.</dd>
    <dt>
-    How to document an HTML element</dt>
+    Wie man ein HTML Element dokumentiert</dt>
    <dd>
     Diese Anleitung zur Dokumentation von HTML Elementen gewährleistet, dass von Ihnen verfasste Dokumente zu anderen auf MDN passen.</dd>
    <dt>
