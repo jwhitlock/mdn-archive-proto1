@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 584771
+revision_id: 605781
 locale: pl
 slug: Web/Guide/Graphics
 tags: "2D" "3D" "Web" "WebGL" "Canvas" "Graphics" "TopicStub" "NeedsTranslation"
