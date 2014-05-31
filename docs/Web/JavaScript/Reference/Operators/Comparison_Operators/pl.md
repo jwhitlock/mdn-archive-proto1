@@ -1,8 +1,8 @@
 ---
 version: prototype1
-revision_id: 608241
+revision_id: 609749
 locale: pl
-slug: Web/JavaScript/Dokumentacja_języka_JavaScript_1.5/Operatory/Operatory_porównania
+slug: Web/JavaScript/Referencje/Operatory/Operatory_porównania
 tags: "Operator" "JavaScript"
 title: Operatory porównania
 summary: 
