@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 571259
+revision_id: 618327
 locale: fa
 slug: Web/MathML
 tags: 
@@ -55,7 +55,7 @@ based_on: None
    <li><a href="https://github.com/fred-wang/TeXZilla">TeXZilla</a> - مبدل Javascript LaTeX to MathML (<a href="http://fred-wang.github.io/TeXZilla/">live demo</a>، <a href="http://r-gaia-cs.github.io/TeXZilla-webapp/">Firefox OS webapp،</a> <a href="https://addons.mozilla.org/en-US/firefox/addon/texzilla/">Firefox add-on،</a> <a href="https://github.com/fred-wang/TeXZilla/wiki/Using-TeXZilla">using in a Web Page، JS program etc</a>)</li>
    <li><a href="http://dlmf.nist.gov/LaTeXML/" title="http://dlmf.nist.gov/LaTeXML/">LaTeXML</a> - تبدیل اسناد LaTeX d به HTML+ صفحات وبMathML</li>
    <li><a href="http://webdemo.visionobjects.com/home.html#equation" title="http://webdemo.visionobjects.com/equation.html">Web Equation</a> - برگرداندن معادلات دست‌نویس به MathML یا LaTeX</li>
-   <li><a href="http://www.mathjax.org/" title="http://www.mathjax.org/">MathJax</a> - موتور نمایش جاوا اسکریپت مستقل از مرورگر</li>
+   <li><a href="http://www.mathjax.org/" title="http://www.mathjax.org/">MathJax</a> - موتور نمایش جاوا اسکریپت مستقل از مرورگر.See also the <a href="https://addons.mozilla.org/en-US/firefox/addon/mathjax-native-mathml/">MathJax Native&nbsp; MathML add-on</a>.</li>
   </ul>
   <h2 class="Related_Topics" id="Related_Topics" name="Related_Topics">موضوعات مرتبط</h2>
   <ul>
