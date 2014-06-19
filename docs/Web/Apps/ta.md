@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 578901
+revision_id: 621083
 locale: ta
 slug: Web/Apps
 tags: 
@@ -9,13 +9,13 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <div class="initial-steps clear" id="sect1">
  <div class="panel">
-  <h2 class="section-design" id="Design"><a href="/en-US/docs/Web/Apps/Design">அமைப்பு</a></h2>
+  <h2 class="section-design" id=".E0.AE.85.E0.AE.AE.E0.AF.88.E0.AE.AA.E0.AF.8D.E0.AE.AA.E0.AF.81"><a href="/en-US/docs/Web/Apps/Design">அமைப்பு</a></h2>
   <p>மிக சிறந்த பயனர் அனுபவத்தைப்பெற திறந்த வலை பயன்பாடுகளை வடிவமைக்க கற்றுக்கொள்ளுங்கள்.</p>
   <ul class="no-bullets">
    <li><a href="/en-US/Apps/Design/Planning_your_app">Planning your app</a></li>
@@ -24,7 +24,7 @@ based_on: None
   </ul>
  </div>
  <div class="panel">
-  <h2 class="section-build" id="Build"><a href="/en-US/docs/Web/Apps/Build">உருவாக்குதல்</a></h2>
+  <h2 class="section-build" id=".E0.AE.89.E0.AE.B0.E0.AF.81.E0.AE.B5.E0.AE.BE.E0.AE.95.E0.AF.8D.E0.AE.95.E0.AF.81.E0.AE.A4.E0.AE.B2.E0.AF.8D"><a href="/en-US/docs/Web/Apps/Build">உருவாக்குதல்</a></h2>
   <p>Find all the recommendations and tutorials you'll need for solving your real world development problems.</p>
   <ul class="no-bullets">
    <li><a href="/en-US/docs/Web/Apps/Quickstart/Build/Your_first_app">Your first app</a></li>
@@ -33,7 +33,7 @@ based_on: None
   </ul>
  </div>
  <div class="panel">
-  <h2 class="section-publish" id="Publish"><a href="/en-US/docs/Mozilla/Marketplace">வெளியிடுதல்</a></h2>
+  <h2 class="section-publish" id=".E0.AE.B5.E0.AF.86.E0.AE.B3.E0.AE.BF.E0.AE.AF.E0.AE.BF.E0.AE.9F.E0.AF.81.E0.AE.A4.E0.AE.B2.E0.AF.8D"><a href="/en-US/docs/Mozilla/Marketplace">வெளியிடுதல்</a></h2>
   <p>Distribute your apps on an open marketplace that puts users and developers first. Read more on the <a href="/en-US/Marketplace">Marketplace zone</a>.</p>
   <ul class="no-bullets">
    <li><a href="/en-US/Marketplace/Publishing/Publish_options">App publishing options</a></li>
