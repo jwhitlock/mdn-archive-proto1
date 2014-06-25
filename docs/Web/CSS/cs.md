@@ -1,8 +1,8 @@
 ---
 version: prototype1
-revision_id: 371527
+revision_id: 626739
 locale: cs
-slug: CSS
+slug: Web/CSS
 tags: "CSS" "Všechny_kategorie"
 title: CSS
 summary: 
