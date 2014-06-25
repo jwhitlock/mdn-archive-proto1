@@ -1,8 +1,8 @@
 ---
 version: prototype1
-revision_id: 201579
+revision_id: 626761
 locale: ca
-slug: CSS
+slug: Web/CSS
 tags: "CSS" "Design" "Layout" "Landing" "Reference" "l10n:priority"
 title: CSS
 summary: 
