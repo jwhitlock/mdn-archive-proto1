@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 567095
+revision_id: 628479
 locale: en-US
 slug: Web
 tags: "Web" "History" "Landing" "Web Development"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>The open Web presents incredible opportunities for developers. To take full advantage of these technologies, you need to know how to use them. Below you'll find the links to our Web technology documentation.</p>
+<p>The open Web presents incredible opportunities for developers. To take full advantage of these technologies, you need to know how to use them. Below you'll find the links to our Web technologies documentation.</p>
 <div class="row topicpage-table">
  <div class="section">
   <h2 class="Documentation" id="Web_technologies">Web technologies</h2>
@@ -33,7 +33,7 @@ based_on: None
    <dt>
     <a href="/en-US/docs/Web/JavaScript">JavaScript</a></dt>
    <dd>
-    JavaScript is the programming language used to build advanced Web sites and applications.</dd>
+    JavaScript is the front end programming language used to build advanced user interactive Web sites and applications.</dd>
    <dt>
     <a href="/en-US/docs/Web/Reference/API">Web APIs</a></dt>
    <dd>
