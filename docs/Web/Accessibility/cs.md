@@ -1,8 +1,8 @@
 ---
 version: prototype1
-revision_id: 611889
+revision_id: 630071
 locale: cs
-slug: Přístupnost
+slug: Web/Přístupnost
 tags: "Přístupnost" "Potřebuje_přeložit"
 title: Přístupnost
 summary: 
