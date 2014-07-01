@@ -1,8 +1,8 @@
 ---
 version: prototype1
-revision_id: 119734
+revision_id: 630079
 locale: de
-slug: Barrierefreiheit
+slug: Web/Barrierefreiheit
 tags: "Accessibility" "Barrierefreiheit"
 title: Barrierefreiheit
 summary: 
