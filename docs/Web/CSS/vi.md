@@ -1,8 +1,8 @@
 ---
 version: prototype1
-revision_id: 354589
+revision_id: 629665
 locale: vi
-slug: CSS
+slug: Web/CSS
 tags: "CSS" "Design" "Layout" "TopicStub" "References" "NeedsTranslation"
 title: CSS
 summary: 
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 341557
+based_on: None
 ---
 <p><span class="seoSummary"><strong>Cascading Style Sheets</strong>, most of the time abbreviated in <strong>CSS</strong>, is a <a href="/en-US/docs/DOM/stylesheet">stylesheet</a> language used to describe the presentation of a document written in <a href="/en-US/docs/HTML" title="The HyperText Mark-up Language">HTML</a></span> or <a href="/en-US/docs/XML" title="en-US/docs/XML">XML</a> (including various XML languages like <a href="/en-US/docs/SVG" title="en-US/docs/SVG">SVG</a> or <a href="/en-US/docs/XHTML" title="en-US/docs/XHTML">XHTML</a>)<span class="seoSummary">. CSS describes how the structured element must be rendered on screen, on paper, in speech, or on other media.</span></p>
 <p>CSS is one of the core languages of the <em>open web</em> and has a standardized <a class="external" href="http://w3.org/Style/CSS/#specs">W3C specification</a>. Developed in levels, CSS1 is now obsolete, CSS2.1 a recommendation and <a href="/en-US/docs/CSS/CSS3" title="CSS3">CSS3</a>, now split into smaller modules, is progressing on the standard track. The first early drafts of CSS4 modules are being written.</p>
