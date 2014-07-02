@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 544635
+revision_id: 630763
 locale: en-US
 slug: MDN/Contribute
 tags: "MDN Meta" "Guide" "Landing"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Welcome! By visiting this page, you've taken the first step toward becoming a contributor to MDN. <span class="seoSummary">The guides here cover all aspects of contributing to MDN, including style guides, guides to using our editor and tools, and more.</span></p>
+<p>Welcome! By visiting this page, you've taken the first step toward becoming a contributor to MDN. <span class="seoSummary">The guides here cover all aspects of contributing to MDN, including style guides, guides to using our editor and tools, and more.</span>{{MDNButton("Visit the MDN inbox", "/en-US/Inbox", "Add a new article")}}</p>
 <div class="row topicpage-table">
  <div class="section">
   <h2 id="Contributor_guides">Contributor guides</h2>
@@ -49,7 +49,7 @@ based_on: None
   </dl>
   <dl>
    <dt>
-    <a href="/en-US/docs/MDN/Contribute/Kuma">Contributing to Kuma</a></dt>
+    <a href="/en-US/docs/MDN/Kuma/Contributing">Contributing to Kuma</a></dt>
    <dd>
     A guide to contributing to the Kuma project. Kuma is the platform that powers the MDN Web site.</dd>
   </dl>
