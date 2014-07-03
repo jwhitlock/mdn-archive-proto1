@@ -1,8 +1,8 @@
 ---
 version: prototype1
-revision_id: 601879
+revision_id: 632223
 locale: pl
-slug: CSS
+slug: Web/CSS
 tags: 
 title: CSS
 summary: 
