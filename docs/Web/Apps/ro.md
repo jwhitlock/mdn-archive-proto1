@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 639939
+revision_id: 639975
 locale: ro
 slug: Web/Apps
 tags: "Apps" "Mobile" "Firefox OS" "TopicStub" "Web Development" "NeedsTranslation"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
