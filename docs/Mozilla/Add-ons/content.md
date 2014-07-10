@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 510197
+revision_id: 640399
 locale: en-US
 slug: Mozilla/Add-ons
 tags: "Add-ons" "Landing" "Mozilla" "Extension" "Extensions"
@@ -15,22 +15,22 @@ based_on: None
 ---
 <div class="summary">
  Modify and extend Mozilla applications</div>
-<p><span class="seoSummary">Add-ons add new functionality to <a href="/en-US/docs/Mozilla/Gecko">Gecko</a>-based applications such as Firefox, SeaMonkey and Thunderbird.</span><strong> </strong>There are two main types of add-on: <a href="#Extensions">Extensions</a> add new features to the application, while <a href="#Themes">Themes</a> modify the application's user interface.</p>
-<p>For both extensions and themes, Mozilla operates a repository at <a href="https://addons.mozilla.org/">addons.mozilla.org</a>, also known as AMO . When you <a href="/en-US/Add-ons/Submitting_an_add-on_to_AMO">submit add-ons to AMO</a> they are reviewed, and after passing review they are made available to users. You don't have to submit add-ons to AMO, but if you do, users can take confidence in the fact that they have been reviewed, and you can benefit from AMO's visibility as a source for useful add-ons.</p>
-<p>Add-ons can greatly affect the behaviour of the application that hosts them. We've developed a <a href="/en-US/docs/Mozilla/Add-ons/Add-on_guidelines">set of guidelines</a> to help ensure that they provide a good experience to users. These guidelines apply for all sorts of add-ons, whether they are hosted at <a href="https://addons.mozilla.org/">addons.mozilla.org</a> or not.</p>
+<p><span class="seoSummary">Add-ons add new functionality to <a href="/en-US/docs/Mozilla/Gecko">Gecko</a>-based applications such as Firefox, SeaMonkey, and Thunderbird.</span><strong> </strong>There are two main types of add-on: <a href="#Extensions">Extensions</a> add new features to the application, while <a href="#Themes">Themes</a> modify the application's user interface.</p>
+<p>For both extensions and themes, Mozilla operates a repository at <a href="https://addons.mozilla.org/">addons.mozilla.org</a>, also known as AMO. When you <a href="/en-US/Add-ons/Submitting_an_add-on_to_AMO">submit add-ons to AMO</a> they are reviewed, and after passing review they are made available to users. You don't have to submit add-ons to AMO, but if you do, users can take confidence in the fact that they have been reviewed, and you can benefit from AMO's visibility as a source for useful add-ons.</p>
+<p>Add-ons can greatly affect the behavior of the application that hosts them. We've developed a <a href="/en-US/docs/Mozilla/Add-ons/Add-on_guidelines">set of guidelines</a> to help ensure that they provide a good experience to users. These guidelines apply for all sorts of add-ons, whether they are hosted at <a href="https://addons.mozilla.org/">addons.mozilla.org</a> or not.</p>
 <hr />
-<h2 id="Extensions"><a name="Extensions">Extensions</a></h2>
+<h2 id="Extensions_2"><a name="Extensions">Extensions</a></h2>
 <p>Extensions add new functionality to Mozilla applications such as Firefox and Thunderbird. They can add new features to the browser, such as a different way to manage tabs, and they can modify web content to improve the usability or security of particular websites.</p>
 <p>There are three different techniques you can use to build extensions: Add-on SDK-based extensions, manually bootstrapped restartless extensions, and overlay extensions.</p>
 <ul class="card-grid">
- <li><span><a href="https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/index.html">Add-on SDK extensions</a></span><br />
+ <li><span><a href="https://developer.mozilla.org/en-US/Add-ons/SDK">Add-on SDK extensions</a></span><br />
   Develop restartless extensions using a set of high-level JavaScript APIs.</li>
  <li><span><a href="/en-US/Add-ons/Bootstrapped_extensions">Restartless extensions</a></span><br />
   Develop extensions that don't require a browser restart.</li>
  <li><a href="/en-US/Add-ons/Overlay_Extensions"><span>Overlay extensions</span></a><br />
   Develop traditional extensions using a XUL overlay.</li>
 </ul>
-<p>If you can, it's advisable to use the Add-on SDK, which uses the restartless extension mechanism but simplifies certain tasks and cleans up after itself. If the Add-on SDK isn't sufficient for your needs, implement a manual restartless extension instead. Overlay extensions are mostly obsolete now, although there are still many of them in the wild.</p>
+<p>If you can, it's advisable to use the Add-on SDK, which uses the restartless extension mechanism but simplifies certain tasks and cleans up after itself. If the Add-on SDK isn't sufficient for your needs, implement a manual restartless extension instead.</p>
 <p>For more information on choosing which technique to use, read this <a href="/en-US/Add-ons/Comparing_Extension_Toolchains">comparison</a>.</p>
 <div class="column-container">
  <div class="column-half">
@@ -71,7 +71,7 @@ based_on: None
  </div>
 </div>
 <hr />
-<h2 id="Themes"><a name="Themes">Themes</a></h2>
+<h2 id="Themes_2"><a name="Themes">Themes</a></h2>
 <p>Themes are add-ons that customize the application's user interface. There are two sorts of themes: lightweight themes and complete themes.</p>
 <div class="column-container">
  <div class="column-half">
@@ -84,14 +84,14 @@ based_on: None
 <hr />
 <h2 id="Other_types_of_add-ons">Other types of add-ons</h2>
 <p><a href="/en-US/docs/Creating_OpenSearch_plugins_for_Firefox">Search engine plugins</a> are a simple and very specific type of add-on: they add new search engines to the browser's search bar.</p>
-<p><a href="/en-US/docs/Plugins">Plugins</a> help the application understand content that it does not natively support. We're in the process of deprecating support for these plugins, as they have a history of causing stability, performance, and security problems.</p>
+<p><strong><a href="/en-US/docs/Plugins">Plugins</a> </strong>help the application understand web content that it does not natively support. NPAPI plugins are a legacy technology and new sites should not use them. In general, plugins are not available on most modern mobile systems including, and websites should transition away from using plugins.</p>
 <hr />
 <p>{{CommunityBox("extension development", "dev-extensions", "mozilla.dev.extensions", "extdev","Add-ons forums|https://forums.mozilla.org/addons/viewforum.php?f=3|discussion and support|Visit the add-ons forums||AMO|https://addons.mozilla.org/en-US/firefox/|addons.mozilla.org|Visit addons.mozilla.org")}}</p>
 <h2 id="Subnav">Subnav</h2>
 <ol>
- <li><a href="/en-US/User:wbamberg/Add-ons/Overlay_Extensions" title="Overlay extensions">Overlay extensions</a></li>
- <li><a href="/en-US/docs/Extensions/Bootstrapped_extensions" title="Restartless extensions">Restartless extensions</a></li>
- <li><a href="https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/index.html">Add-on SDK</a>{{AddonSDKSubnav}}</li>
+ <li><a href="/en-US/Add-ons/Overlay_Extensions" title="Overlay extensions">Overlay extensions</a></li>
+ <li><a href="/en-US/Add-ons/Bootstrapped_extensions" title="Restartless extensions">Restartless extensions</a></li>
+ <li><a href="/en-US/Add-ons/SDK">Add-on SDK</a>{{AddonSDKSubnav}}</li>
  <li><a href="#">Extension good practices</a>
   <ol>
    <li><a href="/en-US/Add-ons/Performance_best_practices_in_extensions" title="Performance">Performance</a></li>
