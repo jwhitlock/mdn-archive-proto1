@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 639419
+revision_id: 643403
 locale: ko
 slug: Project:MDN/Localizing/Translating_pages
 tags: "번역"
@@ -28,7 +28,7 @@ based_on: None
  <li>작업을 완료하였다면, 변경사항 저장(<strong>Save Changes</strong>)을 클릭 합니다.</li>
 </ol>
 <div class="note">
- <strong>참고:</strong> 문서 번역 페이지내에서 표시되는 사용자 인터페이스는 기본적으로 영문으로 표시됩니다. On subsequent visits to translate a particular article, the UI is shown in the appropriate language if a localization of MDN is available for that language. The MDN user interface can be localized using <a href="https://localize.mozilla.org/projects/mdn/" title="https://localize.mozilla.org/projects/mdn/">Verbatim</a>. See <a href="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim" title="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim">Localizing with Verbatim</a> for details on how to use this tool.</div>
+ <strong>참고:</strong> 문서 번역 페이지 내에서 표시되는 사용자 인터페이스는 기본적으로 영문으로 표시됩니다. 몇몇 글을 번역하기 위해 계속해서 방문하신다면, MDN에서 사용할 수 있는 가장 적절한 언어로 UI가 나타납니다. MDN의 사용자 인터페이스는 <a href="https://localize.mozilla.org/projects/mdn/" title="https://localize.mozilla.org/projects/mdn/">Verbatim</a>를 사용하여 지역에 맞춰 표시됩니다. <a href="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim" title="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim">Localizing with Verbatim</a> 문서를 참고하여 이 도구를 사용하는 법을 알아보십시오.</div>
 <h2 id=".EB.B2.88.EC.97.AD.EB.90.9C_.ED.8E.98.EC.9D.B4.EC.A7.80_.EC.88.98.EC.A0.95.ED.95.98.EA.B8.B0">번역된 페이지 수정하기</h2>
 <ul>
  <li>번역된 페이지에서, 편집(<strong>Edit</strong>) 버튼을 누릅니다. (때때로, 해당 라벨은 번역되어 있습니다.) 기사 번역 페이지가 열립니다.</li>
