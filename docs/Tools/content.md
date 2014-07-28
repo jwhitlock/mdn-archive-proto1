@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 588789
+revision_id: 645891
 locale: en-US
 slug: Tools
 tags: "Guide" "Tools" "l10n:priority" "Web Development" "Developing Mozilla" "Web Development:Tools"
@@ -20,16 +20,16 @@ based_on: None
  <h3 id="What's_new_in_Aurora.3F">What's new in Aurora?</h3>
  <p>Aurora is the preview build of Firefox, where you can get the latest features before they are released. The current Aurora includes these updates to the developer tools:</p>
  <ul>
-  <li><a href="/en-US/docs/Tools/Eyedropper">Eyedropper tool to select colors in web pages</a></li>
-  <li><a href="/en-US/docs/Tools/Web_Console#Error_messages">full stack traces for console error messages</a></li>
-  <li><a href="/en-US/docs/Tools/Page_Inspector#Box_model_view">editable Box Model View</a></li>
-  <li><a href="/en-US/docs/Tools/Web_Console#Styling_messages">%c formatting to style console messages</a></li>
-  <li><a href="/en-US/docs/Tools/Network_Monitor#Copy_as_cURL">"copy as cURL" command in Network Monitor</a></li>
-  <li><a href="/en-US/docs/tools/Keyboard_shortcuts#Source_editor">Sublime Text keybindings in the source editor</a></li>
+  <li><a href="/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Scratchpad#Code_completion_and_inline_documentation">Code completion and inline documentation in Scratchpad</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Rules_view">User agent styles in the Inspector's Rules view</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Firefox_32_onwards_2">Element picker button has moved</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Firefox_32_onwards">Node dimensions added to the Inspector's infobar</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Tools_Toolbox#Extra_tools">Full page screenshot button</a></li>
  </ul>
 </div>
 <div class="column-container zone-callout">
- <a href="https://ffdevtools.uservoice.com/forums/246087-firefox-developer-tools-ideas" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Share your ideas</a>
+ <a href="http://mzl.la/devtools" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Share your ideas</a>
  <h3 id="Share_your_ideas">Share your ideas</h3>
  <p>Ask for new features in the developer tools or vote for ideas other developers are asking for.</p>
 </div>
@@ -51,6 +51,10 @@ based_on: None
     <a href="/en-US/docs/Tools/Shader_Editor">Shader Editor</a></dt>
    <dd>
     View and edit the vertex and fragment shaders used by <a href="/en-US/docs/Web/WebGL">WebGL</a>.</dd>
+   <dt>
+    <a href="/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></dt>
+   <dd>
+    Examine the graph of audio nodes in an audio context, and modify their parameters.</dd>
   </dl>
  </div>
  <div class="column-half">
@@ -167,6 +171,10 @@ based_on: None
     <a href="/en-US/docs/Tools/Debugger-API">The <code>Debugger</code> Interface</a></dt>
    <dd>
     An API that lets JavaScript code observe the execution of other JavaScript code. The Firefox Developer Tools use this API to implement the JavaScript debugger.</dd>
+   <dt>
+    <a href="/en-US/docs/Tools/Web_Console/Custom_output">Web Console custom output</a></dt>
+   <dd>
+    How to extend and customize the output of the <a href="https://developer.mozilla.org/en-US/docs/Tools/Web_Console">Web Console</a> and the <a href="https://developer.mozilla.org/docs/Tools/Browser_Console">Browser Console</a>.</dd>
   </dl>
  </div>
 </div>
@@ -216,6 +224,7 @@ based_on: None
    <li><a href="/en-US/docs/Tools/Scratchpad" title="Scratchpad">Scratchpad</a></li>
    <li><a href="/en-US/docs/Tools/Style_Editor" title="Style Editor">Style Editor</a></li>
    <li><a href="/en-US/docs/Tools/Shader_Editor">Shader Editor</a></li>
+   <li><a href="/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></li>
   </ol>
  </li>
  <li><a href="#">Debugging</a>
@@ -254,8 +263,10 @@ based_on: None
  <li><a href="#">Extending the devtools</a>
   <ol>
    <li><a href="https://wiki.mozilla.org/Remote_Debugging_Protocol" title="Remote Debugging Protocol">Remote Debugging Protocol</a></li>
+   <li><a href="https://wiki.mozilla.org/Remote_Debugging_Protocol_Stream_Transport">Stream Transport</a></li>
    <li><a href="/en-US/docs/Tools/Editor" title="Source Editor">Source Editor</a></li>
    <li><a href="/en-US/docs/Tools/Debugger-API">The <code>Debugger</code> Interface</a></li>
+   <li><a href="/en-US/docs/Tools/Web_Console/Custom_output">Web Console custom output</a></li>
   </ol>
  </li>
  <li><a href="/en-US/docs/Tools_Toolbox#Settings">Settings</a></li>
