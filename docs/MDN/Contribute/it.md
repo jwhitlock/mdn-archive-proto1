@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 619103
+revision_id: 646515
 locale: it
 slug: MDN/Contribute
 tags: "MDN" "Guide" "Landing" "Documentation"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>&nbsp;<span class="seoSummary">Benvenuto! Visitando questa pagina hai fatto il primo passo per diventare un collaboratore di MDN. Queste guide coprono tutti gli aspetti inerenti la collaborazione con MDN, ad esempio le guide di stile, le guide per l'uso dell'editor, dei vari strumenti e altro ancora.</span></p>
+<p>&nbsp;<span class="seoSummary">Benvenuto! Visitando questa pagina hai fatto il primo passo per diventare un collaboratore di MDN. Queste guide coprono tutti gli aspetti inerenti la collaborazione con MDN, ad esempio le guide di stile, le guide per l'uso dell'editor, dei vari strumenti e altro ancora.</span>{{MDNButton("Visita MDN inbox", "/it/Inbox", "Aggiungi un nuovo articolo")}}</p>
 <div class="row topicpage-table">
  <div class="section">
   <h2 id="Guide_per_i_collaboratori">Guide per i collaboratori</h2>
