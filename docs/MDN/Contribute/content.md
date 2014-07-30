@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 630763
+revision_id: 646687
 locale: en-US
 slug: MDN/Contribute
 tags: "MDN Meta" "Guide" "Landing"
