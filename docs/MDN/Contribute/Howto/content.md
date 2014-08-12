@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 531375
+revision_id: 651717
 locale: en-US
 slug: MDN/Contribute/Howto
 tags: "MDN Meta" "Landing"
@@ -15,4 +15,5 @@ based_on: None
 ---
 <p>These articles provide step-by-step guides to accomplishing specific goals when contributing to MDN.</p>
 <p>{{LandingPageListSubpages}}</p>
+<p>{{SubpagesWithSummaries}}</p>
 
