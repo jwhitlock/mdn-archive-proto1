@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 645891
+revision_id: 652311
 locale: en-US
 slug: Tools
 tags: "Guide" "Tools" "l10n:priority" "Web Development" "Developing Mozilla" "Web Development:Tools"
@@ -20,12 +20,12 @@ based_on: None
  <h3 id="What's_new_in_Aurora.3F">What's new in Aurora?</h3>
  <p>Aurora is the preview build of Firefox, where you can get the latest features before they are released. The current Aurora includes these updates to the developer tools:</p>
  <ul>
-  <li><a href="/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Scratchpad#Code_completion_and_inline_documentation">Code completion and inline documentation in Scratchpad</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Rules_view">User agent styles in the Inspector's Rules view</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Firefox_32_onwards_2">Element picker button has moved</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Firefox_32_onwards">Node dimensions added to the Inspector's infobar</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Tools_Toolbox#Extra_tools">Full page screenshot button</a></li>
+  <li><a href="/en-US/docs/Tools/WebIDE">WebIDE</a>: a new environment for developing and debugging web apps</li>
+  <li>Edit animation <a href="/docs/Tools/Page_Inspector#Editing_.40keyframes">@keyframes</a> and <a href="/en-US/docs/Tools/Page_Inspector#Editing_cubic_B.C3.A9zier_curves">timing functions</a></li>
+  <li><a href="/en-US/docs/Tools/Page_Inspector#Examining_event_listeners">See event listeners </a>in the Inspector</li>
+  <li><a href="/en-US/docs/Tools/Style_Editor#The_media_sidebar">Sidebar for @media rules </a>in the Style Editor</li>
+  <li><a href="/en-US/docs/Tools/Page_Inspector#Adding_rules">Add new rule</a> and <a href="/en-US/docs/Tools/Page_Inspector#Editing_rules">edit selectors</a> in the Inspector</li>
+  <li><a href="/en-US/docs/Tools/GCLI#Commands">New developer toolbar commands</a>: folder, highlight, inject</li>
  </ul>
 </div>
 <div class="column-container zone-callout">
