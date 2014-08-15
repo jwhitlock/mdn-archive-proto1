@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 640651
+revision_id: 653137
 locale: it
 slug: MDN/Contribute/Howto/Do_a_technical_review
 tags: 
@@ -18,6 +18,10 @@ based_on: None
 <table class="fullwidth-table">
  <tbody>
   <tr>
+   <td><strong>In cosa consiste?</strong></td>
+   <td>Revisionare e correggere gli articoli per assicurarsi che siano tecnicamente corretti e completi</td>
+  </tr>
+  <tr>
    <td><strong>Dove è necessaria?</strong></td>
    <td>In articoli specifici che sono contrassegnati per essere sottoposti a una <a href="/it/docs/needs-review/technical">revisione tecnica</a>.</td>
   </tr>
@@ -34,12 +38,16 @@ based_on: None
    <td><strong>Quali sono i passi necessari?</strong></td>
    <td>
     <ol>
-     <li>Visita l'elenco delle pagine che necessitano di <a href="/it/docs/needs-review/technical">revisioni tecniche</a>. Questo contiene tutte le pagine per le quali è stata richiesta una revisione tecnica.</li>
-     <li>Scegli una pagina che tratta di un argomento con cui hai familiarità.</li>
-     <li>Fai clic sul link dell'articolo per caricare la pagina.</li>
-     <li>Al termine del caricamento della pagina, fai clic sul pulsante <strong>MODIFICA</strong> in alto a sinistra; verrà aperto l'editor di MDN. Non esitare a cambiare pagina se la prima che hai scelto non ti è congeniale.</li>
+     <li>Scegli un articolo da revisionare
+      <ol>
+       <li>Visita l'elenco delle pagine che necessitano di <a href="/it/docs/needs-review/technical">revisioni tecniche</a>. Questo contiene tutte le pagine per le quali è stata richiesta una revisione tecnica.</li>
+       <li>Scegli una pagina che tratta di un argomento con cui hai familiarità.</li>
+       <li>Fai clic sul link dell'articolo per caricare la pagina.</li>
+      </ol>
+     </li>
+     <li>Al termine del caricamento della pagina, fai clic sul pulsante <strong>MODIFICA</strong> in alto a sinistra; verrà aperto l'<a href="/it/docs/MDN/Contribute/Editor">editor di MDN</a>. Non esitare a cambiare pagina se la prima che hai scelto non ti è congeniale.</li>
      <li>Man mano che leggi l'articolo, sistema qualsiasi informazione errata e aggiungi le parti importanti mancanti.</li>
-     <li>Inserisci un commento nell'apposito campo in fondo alla pagina, ad esempio <em>'Revisione tecnica completata'</em>. Se hai corretto qualche informazione, includi le modifiche effettuate nel commento, ad esempio <em>'Revisione tecnica: corrette le descrizioni dei parametri'.</em></li>
+     <li>Inserisci un <strong>Commento per la revisione</strong> nell'apposito campo in fondo alla pagina, ad esempio <em>'Revisione tecnica completata'</em>. Se hai corretto qualche informazione, includi le modifiche effettuate nel commento, ad esempio <em>'Revisione tecnica: corrette le descrizioni dei parametri'.</em></li>
      <li>Fai clic sul pulsante <strong>SALVA MODIFICHE</strong>.</li>
      <li>Alla chiusura dell'editor, quando l'articolo a cui sono state apportate le correzioni verrà visualizzato sullo schermo, spunta la voce <strong>Tecnica </strong>a lato (nel riquadro <strong>Sono state richieste le seguenti revisioni</strong>) e fai clic su <strong>CARICA REVISIONE</strong>.</li>
      <li>Congratulazioni! Hai concluso la revisione!</li>
