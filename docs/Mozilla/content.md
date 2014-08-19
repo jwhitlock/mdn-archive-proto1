@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 396639
+revision_id: 654351
 locale: en-US
 slug: Mozilla
 tags: "Apps" "Add-ons" "Landing" "Mozilla" "Advanced" "CodingScripting"
@@ -13,9 +13,6 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div>
-  {{draft}}</div>
-<p>This will soon be an awesome landing page for Mozilla internals. For now, it's not.</p>
-<div>
-  {{LandingPageListSubpages}}</div>
+<p>The articles below include content about downloading and building Mozilla code. In addition, you'll find helpful articles about how the code works, how to build add-ons for Mozilla applications, and the like.</p>
+<p>{{LandingPageListSubpages}}</p>
 
