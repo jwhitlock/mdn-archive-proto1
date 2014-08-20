@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 596887
+revision_id: 654541
 locale: de
 slug: MDN/Contribute
 tags: "MDN" "MDC Projekt" "Einstieg" "Anleitung" "Dokumentation"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Willkommen! Als Sie diese Seite betreten haben, haben Sie schon den ersten Schritt als Beitragender zu MDN getan. Hier finden Sie Anleitungen zu allen Möglichkeiten des Mitwirkens bei MDN, wie etwa Style Guides, Leitfäden zur Benutzung unseres Editors und verschiedener Tools und vieles mehr.</p>
+<p>Willkommen! Durch das Betreten dieser Seite haben Sie bereits den ersten Schritt getan, um bei MDN mitzuwirken. Hier finden Sie Anleitungen zu allen Möglichkeiten des Mitwirkens bei MDN, wie etwa Style Guides, Leitfäden zur Benutzung unseres Editors und verschiedener Tools und vieles mehr.</p>
 <div class="row topicpage-table">
  <div class="section">
   <h2 id="Leitf.C3.A4den_f.C3.BCr_Helfer">Leitfäden für Helfer</h2>
@@ -56,7 +56,7 @@ based_on: None
  </div>
  <div class="section">
   <h2 id="How_to...">How to...</h2>
-  <p>Unsere <a href="/de/docs/MDN/Contribute/Howto">how-to Leitfäden</a> stellen Schritt-für-Schritt-Anleitung bereit, die Ihnen bei der Bewältigung spezieller Aufgaben während des Verfassens von Beiträgen für MDN unter die Arme greifen.</p>
+  <p>Unsere <a href="/de/docs/MDN/Contribute/Howto">how-to Leitfäden</a> stellen Schritt-für-Schritt-Anleitungen bereit, die Ihnen bei der Bewältigung spezieller Aufgaben während des Verfassens von Beiträgen für MDN behilflich sind.</p>
   <dl>
    <dt>
     <a href="/de/docs/MDN/Contribute/Howto/Document_a_CSS_property">Wie man eine CSS Eigenschaft dokumentiert</a></dt>
@@ -73,7 +73,7 @@ based_on: None
    <dt>
     <a href="/de/docs/MDN/Contribute/Howto/Interpret_specifications">Wie man Spezifikationen deutet</a></dt>
    <dd>
-    Diese Anleitung hilft Ihnen, Standard-Web-Spezifikationen richtig zu verstehen; in der Lage zu sein, diese zu lesen, kann eine Kunst sein, und zu wissen, wie es geht, wird Ihnen helfen, bessere Dokumentationen zu schreiben.</dd>
+    Diese Anleitung hilft Ihnen, Standard-Web-Spezifikationen richtig zu verstehen. In der Lage zu sein, diese zu lesen, kann eine Kunst sein, und zu wissen, wie es geht, wird Ihnen helfen, bessere Dokumentationen zu schreiben.</dd>
   </dl>
   <h2 id="Lokalisierung">Lokalisierung</h2>
   <dl>
