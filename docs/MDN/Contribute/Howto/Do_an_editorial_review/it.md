@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 654613
+revision_id: 655125
 locale: it
 slug: MDN/Contribute/Howto/Do_an_editorial_review
 tags: 
@@ -18,11 +18,11 @@ based_on: None
 <table class="fullwidth-table">
  <tbody>
   <tr>
-   <td><strong>In cosa consiste?</strong></td>
+   <td><strong>In che cosa consiste?</strong></td>
    <td>In una revisione e correzione di articoli per i quali è richiesta una revisione editoriale.</td>
   </tr>
   <tr>
-   <td><strong>Dove è necessaria?</strong></td>
+   <td><strong>Quando è necessaria?</strong></td>
    <td>In articoli specifici che sono contrassegnati per essere sottoposti a una revisione editoriale.</td>
   </tr>
   <tr>
@@ -35,8 +35,8 @@ based_on: None
     <ol>
      <li>Scegli un articolo da revisionare:
       <ol>
-       <li>Visita l'elenco delle pagine che necessitano di revisioni editoriali. Questo contiene tutte le pagine per le quali è stata richiesta una revisione editoriale.</li>
-       <li>Scegli una pagina che possiede un titolo nella lingua in questione e il cui indirizzo non inizia con <code>Template:.</code></li>
+       <li>Visita l'elenco delle pagine che necessitano di revisione editoriale. Questo contiene tutte le pagine per le quali è stata richiesta una revisione editoriale.</li>
+       <li>Scegli una pagina che possiede un titolo nella lingua in questione e il cui indirizzo non inizia con Template:<code>.</code></li>
        <li>Fai clic sul collegamento per caricare la pagina.</li>
       </ol>
      </li>
