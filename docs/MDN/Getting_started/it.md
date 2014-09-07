@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 651007
+revision_id: 663389
 locale: it
 slug: Project:Getting_started
 tags: 
@@ -25,8 +25,11 @@ based_on: None
  <p>Ora che sei registrato e hai effettuato l'accesso, leggi le descrizioni dei vari tipi di compiti nella {{anch("Tipi_di_compiti_possibili", "lista qui sotto")}} e decidi quale ti attira di più. Puoi scegliere qualsiasi compito preferisci per iniziare a collaborare.</p>
  <h3 id="Passo_3.3A_esegui_il_compito">Passo 3: esegui il compito</h3>
  <p>Una volta che hai deciso che tipo di compito vuoi eseguire, trova una pagina specifica, un esempio di codice ecc. su cui lavorare. E buon lavoro!</p>
- <p>Non preoccuparti di farlo alla perfezione; altri collaboratori di MDN sono qui per aiutare a correggere gli errori che potresti commettere. Se vuoi fare qualche esperimento prima di affrontare un vero compito su MDN, puoi modificare la pagina<a href="https://developer.mozilla.org/it/docs/Sandbox"> Sandbox</a>. Se in corso d'opera hai qualche dubbio o bisogno di chiarimenti, vedi la pagina <a href="https://developer.mozilla.org/it/docs/MDN/Community">Comunità</a> per informazioni sulle mailing list e i canali di chat dove puoi trovare le risposte ai tuoi quesiti.</p>
- <p>Quando hai finito, sentiti libero di scegliere un altro compito o scopri quali <a href="#Altre_cose_che_puoi_fare_su_MDN">altre cose puoi fare su MDN</a>.</p>
+ <p>Non preoccuparti di farlo alla perfezione; altri collaboratori di MDN sono qui per aiutare a correggere gli errori che potresti commettere.&nbsp; Se in corso d'opera hai qualche dubbio o bisogno di chiarimenti, vedi la pagina <a href="https://developer.mozilla.org/it/docs/MDN/Community">Comunità</a> per informazioni sulle mailing list e i canali di chat dove puoi trovare le risposte ai tuoi quesiti.</p>
+ <div class="note">
+  <p><strong>Nota:</strong> se vuoi fare qualche esperimento prima di affrontare un vero compito su MDN, puoi modificare la pagina<a href="https://developer.mozilla.org/it/docs/Sandbox"> Sandbox</a>. Per favore limita i tuoi esperimenti a questa pagina e non effettuare modifiche non necessarie alle altre pagine solo per vedere cosa succede; creeresti confusione che altri dovrebbero poi sistemare.</p>
+ </div>
+ <p>Quando hai portato a termine il compito che hai scelto, sentiti libero di scegliere un altro compito o scopri quali <a href="#Altre_cose_che_puoi_fare_su_MDN">altre cose puoi fare su MDN</a>.</p>
  <h2 id="Tipi_di_compiti_possibili">Tipi di compiti possibili</h2>
  <p>Esistono vari modi per collaborare a MDN a seconda delle tue capacità e interessi. Anche se alcuni compiti possono essere veramente impegnativi, sono disponibili anche molte attività più semplici. Molte di queste richiedono solo cinque minuti (o meno). Insieme ai compiti e a una breve descrizione, viene indicato anche il tempo approssimativamente necessario al loro completamento.</p>
  <h3 id="Opzione_1.3A_mi_piace_scrivere">Opzione 1: mi piace scrivere</h3>
@@ -40,7 +43,7 @@ based_on: None
   <li><a href="/it/docs/Project:MDN/Contributing/How_to/Write_an_article_to_help_learning_the_web">Scrivi un articolo per aiutare a imparare il Web</a> (1 ora-3 ore)</li>
  </ul>
  <div class="note">
-  <strong>Nota:</strong> se stai revisionando un articolo o ne stai scrivendo di nuovi ti chiediamo di leggere la <a href="https://developer.mozilla.org/it/docs/Project:MDN/Style_guide">Guida di stile</a>. Questo ci aiuta ad assicurarci che lo stile degli articoli sia omogeneo.</div>
+  <strong>Nota:</strong> se stai revisionando un articolo o ne stai scrivendo di nuovi ti chiediamo di leggere la <a href="https://developer.mozilla.org/it/docs/MDN/Contribute/Content/Style_guide">Guida di stile</a>. Questo ci aiuta ad assicurarci che lo stile degli articoli sia omogeneo.</div>
  <h3 id="Opzione_2.3A_mi_piace_programmare">Opzione 2: mi piace programmare</h3>
  <p>Abbiamo bisogno di più esempi di codice! Puoi anche aiutare nello sviluppo della piattaforma del sito, <a href="https://developer.mozilla.org/it/docs/Project:MDN/Kuma">Kuma</a>!</p>
  <ul>
@@ -63,7 +66,7 @@ based_on: None
  <p>Tutto il lavoro di localizzazione e traduzione di MDN viene svolto dalla nostra fantastica comunità di volontari.</p>
  <ul>
   <li><a href="https://developer.mozilla.org/it/docs/MDN/Contribute/Localize/Translating_pages">Traduci le pagine</a> (2 ore)</li>
-  <li>Connettiti con gli altri traduttori presenti negli elenchi dei <a href="https://developer.mozilla.org/it/docs/Project:MDN/Localizing/Localization_projects">Progetti di localizzazione</a> (30 minuti)</li>
+  <li>Connettiti con gli altri traduttori presenti negli elenchi dei <a href="https://developer.mozilla.org/it/docs/MDN/Contribute/Localize/Localization_projects">Progetti di localizzazione</a> (30 minuti)</li>
  </ul>
  <h3 id="Opzione_5.3A_ho_trovato_informazioni_sbagliate_ma_non_so_come_correggerle">Opzione 5: ho trovato informazioni sbagliate ma non so come correggerle</h3>
  <p>Puoi segnalare problemi <a class="external external-icon" href="https://bugzilla.mozilla.org/enter_bug.cgi?product=Mozilla%20Developer%20Network">aprendo un bug riguardo la documentazione</a>. (5 minutes)</p>
