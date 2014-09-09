@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 628479
+revision_id: 664749
 locale: en-US
 slug: Web
 tags: "Web" "History" "Landing" "Web Development"
@@ -78,7 +78,7 @@ based_on: None
     <a href="/en-US/docs/Web/Reference">References</a></dt>
    <dd>
     <i>
-     This page will offer links to all reference information on MDN, but for now use one of the technology links the left section.</i>
+     This page will offer links to all reference information on MDN, but for now use one of the technology links in the left section.</i>
    </dd>
   </dl>
   <h2 id="Other_topics">Other topics</h2>
