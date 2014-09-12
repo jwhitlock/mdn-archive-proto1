@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 545201
+revision_id: 666417
 locale: th
 slug: MDN/Contribute
 tags: "MDN" "Guide" "Landing" "TopicStub" "Documentation" "NeedsTranslation"
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: f9af7f0ef138d307cc06ff5095bdb290c14dc345
+based_on: None
 ---
 <p>Welcome! By visiting this page, you've taken the first step toward becoming a contributor to MDN. <span class="seoSummary">The guides here cover all aspects of contributing to MDN, including style guides, guides to using our editor and tools, and more.</span></p>
 <div class="row topicpage-table">
@@ -92,5 +92,5 @@ based_on: f9af7f0ef138d307cc06ff5095bdb290c14dc345
   </dl>
  </div>
 </div>
-<p>&nbsp;</p>
+<p> </p>
 
