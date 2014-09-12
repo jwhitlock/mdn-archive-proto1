@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 664749
+revision_id: 666147
 locale: en-US
 slug: Web
 tags: "Web" "History" "Landing" "Web Development"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>The open Web presents incredible opportunities for developers. To take full advantage of these technologies, you need to know how to use them. Below you'll find the links to our Web technologies documentation.</p>
+<p>The open Web presents incredible opportunities for developers. To take full advantage of these technologies , you need to know how to use them. Below you'll find the links to our Web technologies documentation.</p>
 <div class="row topicpage-table">
  <div class="section">
   <h2 class="Documentation" id="Web_technologies">Web technologies</h2>
