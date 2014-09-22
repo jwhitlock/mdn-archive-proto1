@@ -1,17 +1,17 @@
 ---
 version: prototype1
-revision_id: 670221
+revision_id: 670227
 locale: sq
 slug: Web/Guide
 tags: "Web" "Guida" "Landing" "TopicStub" "NeedsTranslation"
-title: Web developer guide
+title: Guida per Zhvilluesit
 summary: 
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: cfa8258bbb45b54ac9b8a9a4af9ca9d3c54a6d9c
+based_on: None
 ---
 <p>These articles provide how-to information to help you make use of specific technologies and APIs.</p>
 <div class="note">
