@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 614757
+revision_id: 671489
 locale: it
 slug: MDN/About
 tags: 
@@ -50,23 +50,7 @@ based_on: None
 <p>I diritti dei marchi, loghi e marchi dei servizi della Mozilla Foundation, così come l'aspetto di questo sito, non sono sotto licenza Creative Commons e, se si tratta di lavori di autore (come loghi e design grafico) non sono inclusi nelle opere che sottostanno a questa licenza. Se intendi usare il testo di questi documenti e intendi esercitare qualcuno di questi diritti, o se hai altre domande riguardo il rispetto dei nostri termini di licenza per questa collezione, puoi contattare la Mozilla foundation all'indirizzo: <a class="external text" href="mailto:licensing@mozilla.org" rel="nofollow" title="mailto:licensing@mozilla.org">licensing@mozilla.org</a>.</p>
 <h2 id="Scaricare_contenuti">Scaricare contenuti</h2>
 <p>Puoi ottenere i contenuti di una singola pagina di MDN aggiungendo dei <a href="/it/docs/Project:MDN/Kuma/API#Document_parameters">parametri di documento</a> all'URL per specificare quale formato vuoi richiedere.</p>
-<p>Se vuoi scaricare un dump SQL completo e anonimizzato del database di MDN (ovvero una copia del database con tutte le informazioni private sugli utenti rimosse) possiamo fornirlo. Il dump è aggiornato il primo di ogni mese.</p>
-<p>Esistono tre archivi che compongono il dump anonimizzato mensile di MDN:</p>
-<dl>
- <dt>
-  <code>&lt;date&gt;.sanitized.devmo_sanitize.sql.gz</code></dt>
- <dd>
-  Il dump sanitizzato del database MySQL comprendente tutti i contenuti, dati ecc. di MDN. Include i contenuti degli articoli, lo storico ecc. Tutte le informazioni personali degli utenti (ad esempio gli indirizzi email) sono stati rimossi.</dd>
- <dt>
-  <code>attachments-&lt;date&gt;.tar.gz</code></dt>
- <dd>
-  Questo archivio contiene tutti i gli allegati che sono stati caricati sul wiki.</dd>
- <dt>
-  <code>uploads-&lt;date&gt;.tar.gz</code></dt>
- <dd>
-  Questo (enorme) archivio contiene tutti i file caricati su Demo Studio. Se sei solo interessato al contenuto del wiki, non è necessario scaricare questo file.</dd>
-</dl>
-<p><a href="https://developer.allizom.org/landfill/">Visita la MDN landfill</a> per scaricare questi file.</p>
+<p>Al momento non possiamo fornire il dump del database del contenuto di MDN a causa di preoccupazioni per la privacy dei nostri utenti. Cercheremo un modo alternativo di fornire possibilità simili in futuro.</p>
 <h3 id="Strumenti_di_terze_parti">Strumenti di terze parti</h3>
 <p>Puoi visualizzare i contenuti di MDN anche tramite strumenti di terze parti come <a href="http://kapeli.com/dash">Dash</a> (per Mac OS) e <a href="http://zealdocs.org/">Zeal</a> (per Linux e Windows).</p>
 <h2 id="Segnalare_problemi_di_MDN">Segnalare problemi di MDN</h2>
