@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 545459
+revision_id: 688453
 locale: en-US
 slug: MDN/About
 tags: "MDN Meta" "Guide" "Licenses" "Community" "Copyright" "Collaborating" "Documentation"
@@ -40,7 +40,7 @@ based_on: None
 <p>Code samples added to this wiki before August 20, 2010 are available under the <a class="external" href="http://www.opensource.org/licenses/mit-license.php" title="http://www.opensource.org/licenses/mit-license.php">MIT license</a>; you should insert the following attribution information into the MIT template:&nbsp;"© &lt;date of last wiki page revision&gt; &lt;name of person who put it in the wiki&gt;".</p>
 <p>Code samples added on or after August 20, 2010 are in the <a class="external" href="http://creativecommons.org/publicdomain/zero/1.0/" title="http://wiki.creativecommons.org/Public_domain">public domain</a>. No licensing notice is necessary, but if you need one, you can use:&nbsp;"Any copyright is dedicated to the Public Domain. http://creativecommons.org/publicdomain/zero/1.0/".</p>
 <p>If you wish to contribute to this wiki, you must make your documentation available under the Attribution-ShareAlike license (or occasionally an alternative license already specified by the page you are editing), and your code samples available under <a href="http://creativecommons.org/publicdomain/zero/1.0/" title="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC-0</a> (a Public Domain dedication). Adding to this wiki means you agree that your contributions will be made available under those licenses.</p>
-<p>Some older content was made available under a license other than the licenses noted above; these are indicated at the bottom of each page by way of an <a class="internal" href="/Project:en/Examples/Alternate_License_Block" title="Project:En/Examples/Alternate License Block">Alternate License Block</a>.</p>
+<p>Some older content was made available under a license other than the licenses noted above; these are indicated at the bottom of each page by way of an <a class="internal" href="/Archive/Meta_docs/Examples/Alternate_License_Block" title="Project:En/Examples/Alternate License Block">Alternate License Block</a>.</p>
 <div class="warning">
  <p><strong>Important:</strong> No new pages may be created using alternate licenses.</p>
 </div>
@@ -49,24 +49,8 @@ based_on: None
 <hr />
 <p>The rights in the trademarks, logos, service marks of the Mozilla Foundation, as well as the look and feel of this web site, are not licensed under the Creative Commons license, and to the extent they are works of authorship (like logos and graphic design), they are not included in the work that is licensed under those terms. If you use the text of documents, and wish to also use any of these rights, or if you have any other questions about complying with our licensing terms for this collection, you should contact the Mozilla Foundation here: <a class="external text" href="mailto:licensing@mozilla.org" rel="nofollow" title="mailto:licensing@mozilla.org">licensing@mozilla.org</a>.</p>
 <h2 id="Download_content">Download content</h2>
-<p>You can retrieve the content of a single page on MDN by adding <a href="/en-US/docs/Project:MDN/Kuma/API#Document_parameters">document parameters</a> to the URL to specify what format you want.</p>
-<p>If you want to download a complete, anonymized SQL dump of the MDN database -- that is, a copy of the database with all private user information scrubbed out, we provide that as well. This dump is updated on the first day of each month.</p>
-<p>There are three archives that comprise the anonymized monthly dump of MDN:</p>
-<dl>
- <dt>
-  <code>&lt;date&gt;.sanitized.devmo_sanitize.sql.gz</code></dt>
- <dd>
-  The sanitized MySQL database dump of all of MDN's content, data records, and so forth. This is all article content, history records, and so forth. All personal user information has been stripped out (such as email addresses).</dd>
- <dt>
-  <code>attachments-&lt;date&gt;.tar.gz</code></dt>
- <dd>
-  This archive contains all the file attachments that have been uploaded to the wiki.</dd>
- <dt>
-  <code>uploads-&lt;date&gt;.tar.gz</code></dt>
- <dd>
-  This (very large!) archive contains the files uploaded to the Demo Studio. If your interest is only in wiki content, you don't need to download this.</dd>
-</dl>
-<p><a href="https://developer.allizom.org/landfill/">Visit the MDN landfill</a> to download these files.</p>
+<p>You can retrieve the content of a single page on MDN by adding <a href="/en-US/docs/MDN/Kuma/API#Document_parameters">document parameters</a> to the URL to specify what format you want.</p>
+<p>We are not currently able to provide database dumps of MDN's content due to privacy concerns for our users. We will try to come up with a way to provide a similar capability in the future.</p>
 <h3 id="Third-party_tools">Third-party tools</h3>
 <p>You can also view MDN content via third-party tools like <a href="http://kapeli.com/dash">Dash</a> (for Mac OS) and <a href="http://zealdocs.org/">Zeal</a> (for Linux and Windows).</p>
 <h2 id="Reporting_problems_with_MDN">Reporting problems with MDN</h2>
