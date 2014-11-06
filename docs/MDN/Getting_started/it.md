@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 663389
+revision_id: 690221
 locale: it
 slug: Project:Getting_started
 tags: 
