@@ -1,8 +1,8 @@
 ---
 version: prototype1
-revision_id: 454003
+revision_id: 695395
 locale: bn-BD
-slug: Project:MDN/অবদান/দলে_যোগদান
+slug: MDN/Community
 tags: 
 title: যোগ দিন আমাদের দলে
 summary: 
