@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 618319
+revision_id: 699539
 locale: pt-BR
 slug: Web/MathML
 tags: "XML" "MathML" "Landing" "TopicStub" "Reference" "Référence(2)" "NeedsTranslation"
@@ -13,29 +13,29 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p><strong>Mathematical Markup Language (MathML)</strong> is an application of <a href="/en-US/docs/XML" title="/en-US/docs/XML">XML</a> markup language for describing mathematical notations and capturing both its structure and content. Here you'll find links to documentation, examples, and tools to help you work with this powerful technology. For a quick overview, see the <a href="http://fred-wang.github.io/MozSummitMathML/index.html">slides for the innovation fairs at Mozilla Summit 2013</a>.</p>
+<p><strong>Mathematical Markup Language (MathML)</strong> é uma linguação de marcação baseada em <a href="/pt-BR/docs/XML" title="/en-US/docs/XML">XML</a> para descrever notações matemáticas e<span class="short_text" id="result_box" lang="pt"> <span class="hps">capturar</span> <span class="hps">tanto</span> <span class="hps">a sua estrutura</span> <span class="hps">quanto</span> <span class="hps">conteúdo</span></span>. Aqui você encontrará links para a documentação e exemplos, bem como ferramentas para o seu trabalho com esta poderosa tecnologia. Para uma rápida visão geral, veja os <a href="http://fred-wang.github.io/MozSummitMathML/index.html">slides da feira de inovação do Mozilla Summit 2013</a>.</p>
 <div class="row topicpage-table">
  <div class="section">
-  <h2 class="Documentation" id="Documentation" name="Documentation">MathML references</h2>
+  <h2 class="Documentation" id="Documentation" name="Documentation">Referências da MathML</h2>
   <dl>
    <dt>
-    <a href="/en-US/docs/Web/MathML/Element" title="/en-US/docs/Web/MathML/Element">MathML element reference</a></dt>
+    <a href="/en-US/docs/Web/MathML/Element" title="/en-US/docs/Web/MathML/Element">Referência de elementos da MathML</a></dt>
    <dd>
-    Details about each MathML element and compatibility information for desktop and mobile browsers.</dd>
+    Detalhes sobre cada elemento do MathML e informações sobre compatibilidade para navegadores desktop e móveis.</dd>
    <dt>
-    <a href="/en-US/docs/Web/MathML/Attribute" title="/en-US/docs/Web/MathML/Attribute">MathML attribute reference</a></dt>
+    <a href="/en-US/docs/Web/MathML/Attribute" title="/en-US/docs/Web/MathML/Attribute">Referência de atributos da MathML</a></dt>
    <dd>
-    Information about MathML attributes that modify the appearance or behavior of elements.</dd>
+    Informações sobre atributos MathML que modificam a aparência e o comportamento de elementos.</dd>
    <dt>
-    <a href="/en-US/docs/Web/MathML/Examples" title="/en-US/docs/Web/MathML/Examples">MathML examples</a></dt>
+    <a href="/en-US/docs/Web/MathML/Examples" title="/en-US/docs/Web/MathML/Examples">Exemplos da MathML</a></dt>
    <dd>
-    MathML samples and examples to help you understand how it works.</dd>
+    Amostras e exemplos da MathML para ajudá-lo a compreender como a linguagem funciona.</dd>
    <dt>
-    <a href="/en-US/docs/Web/MathML/Authoring" title="/en-US/docs/Web/MathML/Authoring">Authoring MathML</a></dt>
+    <a href="/en-US/docs/Web/MathML/Authoring" title="/en-US/docs/Web/MathML/Authoring">Escrevendo em MathML</a></dt>
    <dd>
-    Suggestions and tips for writing MathML, including suggested MathML editors and how to take their output and integrate it into Web content.</dd>
+    Dicas e sugestões para escrever em MathML, incluindo sugestões de editores MathML e como pegar suas saídas para integrar em conteúdos Web.</dd>
   </dl>
-  <p><span class="alllinks"><a href="/en-US/docs/tag/MathML" title="/en-US/docs/tag/CSS">View All...</a></span></p>
+  <p><span class="alllinks"><a href="/en-US/docs/tag/MathML" title="/en-US/docs/tag/CSS">Visualizar todos...</a></span></p>
  </div>
  <div class="section">
   <h2 class="Community" id="Getting_help_from_the_community">Getting help from the community</h2>
