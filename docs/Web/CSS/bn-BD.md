@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 701019
+revision_id: 701021
 locale: bn-BD
 slug: Web/CSS
 tags: "CSS" "Design" "Layout" "Landing" "Reference" "Référence(2)" "NeedsReview"
@@ -40,7 +40,7 @@ based_on: None
     <dd>
      আপনার কন্টেন্টকে আরও আকর্ষণীয় করে দেখানোর জন্য যেসব সিএসএস কৌশল সমূহ আপনার অবশ্যই শেখা দরকার, এখানে সেগুলো বর্ণনা করা হয়েছে।</dd>
     <dt>
-     <a href="/bn-BD/docs/Web/CSS/Common_CSS_Questions">সাধারন সিএসএস জিজ্ঞাসা</a></dt>
+     <a href="/bn-BD/docs/Web/CSS/Common_CSS_Questions">সাধারন সিএসএস জিজ্ঞাসা</a>:</dt>
     <dd>
      সিএসএস নিয়ে সাধারণত জিজ্ঞাসিত প্রশ্ন ও তার উত্তর এই নিবন্ধে দেয়া হয়েছে।</dd>
    </dl>
