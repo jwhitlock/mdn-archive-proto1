@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 701021
+revision_id: 701023
 locale: bn-BD
 slug: Web/CSS
 tags: "CSS" "Design" "Layout" "Landing" "Reference" "Référence(2)" "NeedsReview"
@@ -34,13 +34,13 @@ based_on: None
     <dt>
      সিএসএস এর মৌলিক ধারনা</dt>
     <dd>
-     এখানে <a href="/bn-BD/docs/CSS/Syntax" title="/bn-BD/docs/CSS/Syntax">সিনট্যাক্স ও ভাষার ধরন</a> এবং <a href="/bn-BD/docs/CSS/Specificity" title="Specificity">স্পেসিফিসিটি</a>, <a href="/bn-BD/docs/CSS/inheritance" title="inheritance">ইনহেরিট্যান্স</a>, <a href="/bn-BD/docs/CSS/box_model" title="Box model">বক্স মডেল</a>, <a href="/bn-BD/docs/CSS/margin_collapsing" title="Margin collapsing">মার্জিন কলাপসিং</a>, <a href="/bn-BD/docs/CSS/Understanding_z-index/The_stacking_context" title="The stacking context">স্ট্যাকিং</a>, <a href="/bn-BD/docs/CSS/block_formatting_context" title="block formatting context">ব্লক-ফরম্যাটিং</a> এর ধারনা, বা <a href="/bn-BD/docs/CSS/initial_value" title="initial value">প্রাথমিক</a>, <a href="/bn-BD/docs/CSS/computed_value" title="computed value">কম্পিউটকৃত</a>, <a href="/bn-BD/docs/CSS/used_value" title="used value">ব্যবহারকৃত </a>ও <a href="/bn-BD/docs/CSS/actual_value" title="actual value">আসল</a> মানের সাথে পরিচিত করা হয়েছে। <a href="/bn-BD/docs/CSS/Shorthand_properties" title="CSS/Shorthand_properties">সিএসএস শর্টহ্যান্ড প্রপার্টি সমূহও</a> এখানে বর্ণনা করা হয়েছে।</dd>
+     এখানে <a href="/bn-BD/docs/CSS/Syntax" title="/bn-BD/docs/CSS/Syntax">সিনট্যাক্স ও ভাষার ধরন</a> এবং <a href="/bn-BD/docs/CSS/Specificity" title="Specificity">স্পেসিফিসিটি</a>, <a href="/bn-BD/docs/CSS/inheritance" title="inheritance">ইনহেরিট্যান্স</a>, <a href="/bn-BD/docs/CSS/box_model" title="Box model">বক্স মডেল</a>, <a href="/bn-BD/docs/CSS/margin_collapsing" title="Margin collapsing">মার্জিন কলাপসিং</a>, <a href="/bn-BD/docs/CSS/Understanding_z-index/The_stacking_context" title="The stacking context">স্ট্যাকিং</a>, <a href="/bn-BD/docs/CSS/block_formatting_context" title="block formatting context">ব্লক ফরম্যাটিং</a> এর ধারনা, বা <a href="/bn-BD/docs/CSS/initial_value" title="initial value">প্রাথমিক</a>, <a href="/bn-BD/docs/CSS/computed_value" title="computed value">কম্পিউটকৃত</a>, <a href="/bn-BD/docs/CSS/used_value" title="used value">ব্যবহারকৃত </a>ও <a href="/bn-BD/docs/CSS/actual_value" title="actual value">আসল</a> মানের সাথে পরিচিত করা হয়েছে। <a href="/bn-BD/docs/CSS/Shorthand_properties" title="CSS/Shorthand_properties">সিএসএস শর্টহ্যান্ড প্রপার্টি সমূহও</a> এখানে বর্ণনা করা হয়েছে।</dd>
     <dt>
      <a href="/bn-BD/docs/Web/Guide/CSS" title="/bn-BD/docs/Web/Guide/CSS">সিএসএস ডেভেলপার গাইড</a></dt>
     <dd>
      আপনার কন্টেন্টকে আরও আকর্ষণীয় করে দেখানোর জন্য যেসব সিএসএস কৌশল সমূহ আপনার অবশ্যই শেখা দরকার, এখানে সেগুলো বর্ণনা করা হয়েছে।</dd>
     <dt>
-     <a href="/bn-BD/docs/Web/CSS/Common_CSS_Questions">সাধারন সিএসএস জিজ্ঞাসা</a>:</dt>
+     <a href="/bn-BD/docs/Web/CSS/Common_CSS_Questions">সাধারন সিএসএস জিজ্ঞাসা</a></dt>
     <dd>
      সিএসএস নিয়ে সাধারণত জিজ্ঞাসিত প্রশ্ন ও তার উত্তর এই নিবন্ধে দেয়া হয়েছে।</dd>
    </dl>
