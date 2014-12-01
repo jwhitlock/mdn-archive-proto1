@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 666147
+revision_id: 701405
 locale: en-US
 slug: Web
 tags: "Web" "History" "Landing" "Web Development"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>The open Web presents incredible opportunities for developers. To take full advantage of these technologies , you need to know how to use them. Below you'll find the links to our Web technologies documentation.</p>
+<p>The open Web presents incredible opportunities for developers. To take full advantage of these technologies, you need to know how to use them. Below you'll find the links to MDN's documentation on Web technologies.</p>
 <div class="row topicpage-table">
  <div class="section">
   <h2 class="Documentation" id="Web_technologies">Web technologies</h2>
@@ -22,7 +22,7 @@ based_on: None
    <dt>
     <a href="/en-US/docs/Web/HTML">HTML</a></dt>
    <dd>
-    HyperText Markup Language is the language used to describe and define the content of a Web page.</dd>
+    HyperText Markup Language is the language used to describe and define the content of a Web page in a structured format.</dd>
    <dt>
     <a href="/en-US/docs/Web/CSS">CSS</a></dt>
    <dd>
@@ -33,7 +33,7 @@ based_on: None
    <dt>
     <a href="/en-US/docs/Web/JavaScript">JavaScript</a></dt>
    <dd>
-    JavaScript is the front end programming language used to build advanced user interactive Web sites and applications.</dd>
+    JavaScript is the programming language that runs in the browser, which is used to build advanced user interactive Web sites and applications.</dd>
    <dt>
     <a href="/en-US/docs/Web/Reference/API">Web APIs</a></dt>
    <dd>
@@ -49,11 +49,11 @@ based_on: None
    <dt>
     <a href="/en-US/docs/SVG">SVG</a></dt>
    <dd>
-    Scalable Vector Graphics let you describe images as sets of vectors and shapes in order to allow them to scale smoothly regardless of the size at which they're drawn.</dd>
+    Scalable Vector Graphics let you describe images as sets of vectors (lines) and shapes in order to allow them to scale smoothly regardless of the size at which they're drawn.</dd>
    <dt>
     <a href="/en-US/docs/Web/WebGL" title="/en-US/docs/Web/WebGL">WebGL</a></dt>
    <dd>
-    WebGL brings 3D graphics to the Web by introducing an API that closely conforms to OpenGL ES 2.0 that can be used in HTML {{HTMLElement("canvas")}} elements</dd>
+    WebGL brings 3D graphics to the Web by introducing an API that closely conforms to OpenGL ES 2.0, and which can be used in HTML {{HTMLElement("canvas")}} elements.</dd>
   </dl>
   <h3 id="Other">Other</h3>
   <dl>
@@ -90,10 +90,13 @@ based_on: None
    <dt>
     <a href="/en-US/docs/Web/Accessibility">Accessibility</a></dt>
    <dd>
-    Accessibility in Web development means enabling as many people as possible to use Web sites, even when those people's abilities are limited in some way. Here we provide information on developing content to be accessible.</dd>
+    Accessibility in Web development means enabling as many people as possible to use Web sites, even when those people's abilities are limited in some way. Here we provide information on developing Web content to be accessible.</dd>
+   <dt>
+    <a href="/en-US/docs/Web/Security">Security</a></dt>
+   <dd>
+    Ensuring that your Web site or open Web app is secure is critical.</dd>
   </dl>
  </div>
 </div>
 <p><span class="alllinks"><a href="/en-US/docs/tag/Web">View All...</a></span></p>
-<p>&nbsp;</p>
 
