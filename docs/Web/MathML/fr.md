@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 618315
+revision_id: 707477
 locale: fr
 slug: Web/MathML
 tags: 
@@ -55,7 +55,7 @@ based_on: None
    <li><a href="https://github.com/fred-wang/TeXZilla">TeXZilla</a> - Convertisseur Javascript de LaTeX à MathML (<a href="http://fred-wang.github.io/TeXZilla/">demo</a>, <a href="http://r-gaia-cs.github.io/TeXZilla-webapp/">Firefox OS webapp</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/texzilla/">Firefox add-on</a>, <a href="https://github.com/fred-wang/TeXZilla/wiki/Using-TeXZilla">utilisation dans une page Web Page, un programme JS etc</a>)</li>
    <li><a href="http://dlmf.nist.gov/LaTeXML/" title="http://dlmf.nist.gov/LaTeXML/">LaTeXML</a> - Transformez vos documents LaTeX en pages HTML+MathML.</li>
    <li><a href="http://webdemo.visionobjects.com/equation.html" title="http://webdemo.visionobjects.com/equation.html">Web Equation</a> - Transformez des équations manuscrites en MathML ou LaTeX</li>
-   <li><a href="http://www.mathjax.org/" title="http://www.mathjax.org/">Mathjax</a> - Moteur de rendu de Javascript pour les formules mathématiques, compatible avec tous les navigateurs. Voir aussi l'extension <a href="https://addons.mozilla.org/firefox/addon/mathjax-native-mathml/">MathJax MathML natif</a>.</li>
+   <li><a href="http://www.mathjax.org/" title="http://www.mathjax.org/">Mathjax</a> - Moteur de rendu de Javascript pour les formules mathématiques, compatible avec tous les navigateurs. Pour forcer MathJax à utiliser le MathML natif, essayez le <a href="https://addons.mozilla.org/en-US/firefox/addon/mathjax-native-mathml/">ce module pour Mozilla</a>, cette <a href="http://fred-wang.github.io/mathjax-native-mathml-safari/mathjax-native-mathml.safariextz">extension pour Safari</a> ou ce <a href="https://openuserjs.org/scripts/fred.wang/MathJax_Native_MathML/">script GreaseMonkey</a>.</li>
   </ul>
   <h2 class="Related_Topics" id="Related_Topics" name="Related_Topics">Sujets liés</h2>
   <ul>
