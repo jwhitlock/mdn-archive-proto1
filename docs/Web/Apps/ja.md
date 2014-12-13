@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 699455
+revision_id: 707721
 locale: ja
 slug: Web/Apps
 tags: "アプリ" "Web開発" "Apps" "Mobile" "Firefox OS" "Web Development"
