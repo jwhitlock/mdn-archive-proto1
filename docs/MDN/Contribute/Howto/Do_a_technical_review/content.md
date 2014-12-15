@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 652787
+revision_id: 708999
 locale: en-US
 slug: MDN/Contribute/Howto/Do_a_technical_review
 tags: "MDN Meta" "Guide" "Howto" "Review" "Documentation"
@@ -49,7 +49,7 @@ based_on: None
      <li>While reading the article, fix any technical information is not correct, and add any important information that is missing.</li>
      <li>Enter a <strong>Revision Comment</strong> at the bottom of the article that describes what you did, like '<em>Technical review completed.</em>' If you corrected information, include that in your comment, for example <em>'Technical review: fixed parameter descriptions.'</em></li>
      <li>Click the <strong>SAVE CHANGES</strong> button.</li>
-     <li>Once the corrected article appears on-screen after the editor has closed, check the <strong>Technical</strong> entry on the side (under <strong>The following reviews have been requested</strong>) and click <strong>SUBMIT REVIEW</strong>.</li>
+     <li>Once the corrected article appears on-screen after the editor has closed, check the <strong>Technical</strong> entry on the side (under <strong>The following reviews have been requested</strong>) and click<strong> REVIEW COMPLETED</strong>.</li>
      <li>You're done!</li>
     </ol>
    </td>
