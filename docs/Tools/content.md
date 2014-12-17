@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 667609
+revision_id: 709563
 locale: en-US
 slug: Tools
 tags: "Guide" "Tools" "l10n:priority" "Web Development" "Developing Mozilla" "Web Development:Tools"
@@ -16,15 +16,16 @@ based_on: None
 <div class="summary">
  <span class="seoSummary">Examine, edit, and debug HTML, CSS, and JavaScript on the desktop and on mobile</span></div>
 <div class="column-container zone-callout">
- <a href="https://www.mozilla.org/en-US/firefox/aurora/" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Install Firefox Aurora</a>
- <h3 id="What's_new_in_Aurora.3F" name="What's_new_in_Aurora.3F">What's new in Aurora?</h3>
- <p>Aurora is the preview build of Firefox, where you can get the latest features before they are released. The current Aurora includes these updates to the developer tools:</p>
+ <a href="https://www.mozilla.org/en-US/firefox/developer/" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Install Firefox Developer Edition</a>
+ <h3 id="What's_new_in_Aurora.3F" name="What's_new_in_Aurora.3F">What's new in Firefox Developer Edition?</h3>
+ <p><a href="/en-US/Firefox/Developer_Edition">Firefox Developer Edition</a> is a version of Firefox tailored for developers, featuring the latest Firefox features and experimental developer tools. The current Developer Edition includes these updates to the developer tools:</p>
  <ul>
-  <li><a href="/en-US/docs/Tools/Storage_Inspector">Storage Inspector: a new tool enabling you to view data stored by web pages</a></li>
-  <li><a href="/en-US/docs/Tools/Performance">Performance tool: revamped Profiler UI and frame rate timeline</a></li>
-  <li><a href="/en-US/docs/tools/Working_with_iframes">Frame switching: point the developer tools at a specific iframe in the page</a></li>
-  <li><a href="/en-US/docs/Web/API/Console.table">console.table support</a></li>
-  <li><a href="/en-US/docs/Tools/Page_Inspector#Examining_event_listeners">jQuery events are visible in the Page Inspector</a></li>
+  <li><a href="/en-US/docs/Tools/Debugger#Debug_eval_sources">eval sources now appear in the Debugger</a></li>
+  <li><a href="/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE">Simpler process for connecting to Firefox for Android</a></li>
+  <li>Box Model Highlighter works on remote targets</li>
+  <li><a href="/en-US/docs/Tools/Performance#Inverting_the_call_tree">"Invert the call tree" option in the Profiler </a></li>
+  <li><a href="/en-US/docs/Tools/Web_Console#Type-specific_rich_output">Inspect DOM promises in the console</a></li>
+  <li><a href="/en-US/docs/Tools/Page_Inspector#Element_popup_menu_2">Extra "Paste" commands in the Inspector</a></li>
  </ul>
 </div>
 <div class="column-container zone-callout">
@@ -125,6 +126,10 @@ based_on: None
     <a href="/en-US/docs/Tools/Remote_Debugging/Firefox_for_Android">Debugging on Firefox for Android</a></dt>
    <dd>
     Connect the developer tools to Firefox for Android.</dd>
+   <dt>
+    <a href="/en-US/docs/Tools/Valence">Valence</a></dt>
+   <dd>
+    Connect the developer tools to Chrome on Android and Safari on iOS</dd>
   </dl>
  </div>
  <div class="column-half">
@@ -234,7 +239,7 @@ based_on: None
 </div>
 <hr />
 <div>
- {{CommunityBox("Developer tools", "dev-developer-tools", "mozilla.dev.developer-tools", "devtools", "Team info|https://wiki.mozilla.org/DevTools|Dev tools wiki|Designs and plans for the dev tools||Blog|https://hacks.mozilla.org/|Hacks blog|Hacks blog")}}</div>
+ {{CommunityBox("Developer tools", "dev-developer-tools", "mozilla.dev.developer-tools", "devtools", "Team info|https://wiki.mozilla.org/DevTools|Dev tools wiki|Designs and plans for the dev tools||Blog|https://hacks.mozilla.org/|Hacks blog|Hacks blog", "FirefoxDevTools", "firefox-developer-tools")}}</div>
 <h2 id="Subnav" name="Subnav">Subnav</h2>
 <ol>
  <li><a href="#">Creating</a>
