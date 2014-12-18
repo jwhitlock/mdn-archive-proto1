@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 688439
+revision_id: 709791
 locale: hi-IN
 slug: Web/HTML
 tags: "एचटीएमल"
@@ -16,7 +16,7 @@ based_on: None
 <p>हाइपर टेक्स्ट मार्कअप लेंगुएज (एचटीएमल)&nbsp;बनाने और&nbsp;दृश्य दिखा कर&nbsp;<span style="line-height: 1.5;">एक वेबपेज का प्रतिनिधित्व करने के लिए प्रयोग किया जाता है.</span></p>
 <p>एचटीएमल "मार्कअप" जोरता है&nbsp;अंग्रेजी&nbsp;श्रेणी में&nbsp;.&nbsp;&nbsp;"हाइपर टेक्स्ट"&nbsp;एक&nbsp;वेब पेज&nbsp;से&nbsp;दूसरे&nbsp;वेब पेज&nbsp;का&nbsp;उल्लेखन&nbsp;है,&nbsp;जिस से&nbsp;वर्ल्ड वाइड वेब&nbsp;का&nbsp;निर्माण&nbsp;हुआ है.<span style="line-height: 1.5;">&nbsp;</span>वेबपेज&nbsp;बनाकर&nbsp;और अपलोड&nbsp;करके&nbsp;इंटरनेट पर,&nbsp;हम वर्ल्ड वाइड वेब&nbsp;का&nbsp;एक&nbsp;सक्रिय भागीदार&nbsp;बन सकते है.&nbsp;<span class="seoSummary" style="line-height: 1.5;">एचटीएमल दृश्य छवि&nbsp;और&nbsp;अन्य&nbsp;मीडिया का समर्थन करता &nbsp;है.</span><span style="line-height: 1.5;">&nbsp;</span><span style="line-height: 1.5;">एचटीएमल&nbsp;</span><span style="line-height: 1.5;">एक&nbsp;</span><span style="line-height: 1.5;">ऐसी</span><span style="line-height: 1.5;">&nbsp;</span><span style="line-height: 1.5;">भाषा&nbsp;</span><span style="line-height: 1.5;">है&nbsp;</span><span style="line-height: 1.5;">जो&nbsp;</span><span style="line-height: 1.5;">वेब</span><span style="line-height: 1.5;">&nbsp;</span><span style="line-height: 1.5;">डॉक्युमेंट&nbsp;</span>के&nbsp;ढांचे&nbsp;और&nbsp;सामग्री<span style="line-height: 1.5;">&nbsp;</span><span style="line-height: 1.5;">को दर्शाती</span> है.&nbsp;वेब पेज&nbsp;कि&nbsp;सामग्री&nbsp;एचटीएमल&nbsp;के साथ टैग है&nbsp;<span style="line-height: 1.5;">जैसे कि &nbsp;</span><span style="line-height: 1.5;">{{HTMLElement("img")}}, {{HTMLElement("title")}}, {{HTMLElement("p")}}, {{HTMLElement("div")}}, {{HTMLElement("picture")}}.&nbsp;</span><span style="line-height: 1.5;">यह&nbsp;</span><span style="line-height: 1.5;">तत्व&nbsp;</span><span style="line-height: 1.5;">एक वेबसाइट का निर्माण ब्लॉक&nbsp;</span><span style="line-height: 1.5;">है.</span></p>
 <p><span class="seoSummary">यह लेख वेब विकास के लिए संदर्भ सामग्री प्रदान करता&nbsp;है.</span></p>
-<section class="endImageWrapping" id="sect1">
+<section class="cleared" id="sect1">
  <ul class="card-grid">
   <li><span>एचटीएमल&nbsp;संदर्भ</span>
    <p>हमारे&nbsp;<a href="/hi-IN/docs/Web/HTML/Reference">व्यापक संदर्भ</a>&nbsp;मे, आपको जानकारी मिल जाएगी&nbsp;हर एक&nbsp;तत्व&nbsp;और&nbsp;गुण&nbsp;के बारे मेँ.</p>
