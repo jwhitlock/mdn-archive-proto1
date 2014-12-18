@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 601875
+revision_id: 709851
 locale: pl
 slug: Apps
 tags: 
@@ -17,7 +17,7 @@ based_on: None
  <strong>Want to get the Open Web Apps project newsletter?</strong><br />
  <a href="https://marketplace.firefox.com/developers/#newsletter-signup">Sign up for it here!</a></div>
 <p><img alt="" src="https://mdn.mozillademos.org/files/4627/fx-marketplace-icon.png" style="width: 175px; height: 175px; float: left;" />The Open Web Apps project enables developers to create rich HTML5 app experiences that run across multiple devices and form factors (desktop, mobile, tablet, etc.) using Web standards and open technologies such as HTML5, CSS, and JavaScript. Furthermore, it aims to create a rich distributed ecosystem of HTML5 app stores, including a marketplace operated by Mozilla. Mozilla aims to put the developer back in control of every aspect of the app experience — from easy development to distribution to direct customer relationship management.</p>
-<p class="endImageWrapping">Apps are built using standard Web technologies with additional metadata that allows the User Agent to discover, install, launch, and grant them additional privileges.</p>
+<p class="cleared">Apps are built using standard Web technologies with additional metadata that allows the User Agent to discover, install, launch, and grant them additional privileges.</p>
 <div class="row topicpage-table">
  <div class="section">
   <h2 class="Documentation" id="Documentation" name="Documentation">Documentation for app developers</h2>
