@@ -1,17 +1,17 @@
 ---
 version: prototype1
-revision_id: 518705
+revision_id: 710223
 locale: hu
 slug: Web/Apps
 tags: "Apps" "Mobile" "Firefox OS" "TopicStub" "Web Development" "NeedsTranslation"
 title: App Center
 summary: 
 keywords: 
-needs_technical_review: False
+needs_technical_review: True
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 517023
+based_on: None
 ---
 <div class="initial-steps clear" id="sect1">
  <div class="panel">
