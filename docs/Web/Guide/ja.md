@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 709373
+revision_id: 712657
 locale: ja
 slug: Web/Guide
 tags: "Web" "Guide" "Landing" "NeedsTranslation"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <p>これらの記事は、特定の技術やAPIを利用するためのhow-to情報を提供します。</p>
 <div class="note">
- <p><strong>注記:</strong> This page is going to be a mess for a little while until we finish migrating content. Our apologies!</p>
+ <p><strong>注記:</strong> このページはコンテンツの統合が完了するまでの短い間は混乱したものになっていることがあります。ゴメンナサイ！</p>
 </div>
 <div>
  {{LandingPageListSubpages}}</div>
