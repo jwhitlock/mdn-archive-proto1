@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 712625
+revision_id: 712627
 locale: ta
 slug: Web/JavaScript
 tags: "Landing" "TopicStub" "JavaScript" "NeedsTranslation"
@@ -18,10 +18,6 @@ based_on: None
 <div class="summary">
  <p><strong>JavaScript</strong><sup>®</sup> (often shortened to <strong>JS</strong>) is a lightweight, interpreted, object-oriented language with <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">first-class functions</a>, most known as the scripting language for Web pages, but <a class="external" href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">used in many non-browser environments</a> as well such as <a class="external" href="http://nodejs.org/">node.js</a> or <a href="http://couchdb.apache.org">Apache CouchDB</a>. It is a <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based" title="Prototype-based">prototype-based</a>, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
 </div>
-<p style="margin-left: 40px;">Tamil tan engal moochu..!</p>
-<p style="margin-left: 40px;">Tamil tan engal Uyir...!</p>
-<p style="margin-left: 40px;">Tamil tan engal Vazhkai..!</p>
-<p style="margin-left: 40px;">Vazhga Tamil...! Vazharga Tamil...!</p>
 <p>The JavaScript standard is <a href="/en-US/docs/JavaScript/Language_Resources">ECMAScript</a>. As of 2012, all modern browsers fully support ECMAScript 5.1. Older browsers support at least ECMAScript 3. A 6th major revision of the standard is in the works.</p>
 <p>This section of the site is dedicated to the JavaScript language itself, the parts that are not specific to Web pages, or other host environments. For information about APIs specific to Web pages, please see <a href="/en-US/docs/Web/API">Web APIs</a> and <a href="/en-US/docs/Glossary/DOM">DOM</a>.</p>
 <p>JavaScript is not to be confused with the&nbsp;<a href="http://en.wikipedia.org/wiki/Java_(programming_language)">Java programming language</a>. Java is a trademark or registered trademark of Oracle in the U.S. and other countries.</p>
