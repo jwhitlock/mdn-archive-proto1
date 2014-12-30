@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 690779
+revision_id: 714693
 locale: pl
 slug: Web/Tutorials
 tags: 
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: cc133ecd31913bc0e619c5f3e928cdb7dccb22c0
+based_on: None
 ---
 <p>The links on this page lead to a variety of tutorials and training materials. Whether you are just starting out, learning the basics, or are an old hand at web development, you can find helpful resources here for best practices. These resources are created by forward-thinking companies and web developers who have embraced open standards and best practices for web development and that provide or allow translations, through an open content license such as Creative Commons.</p>
 <div class="row topicpage-table">
