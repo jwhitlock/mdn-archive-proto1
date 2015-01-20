@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 723671
+revision_id: 726463
 locale: ml
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "എംഡിഎന്‍" "എംഡിസി പദ്ധതി" "പരിഭാഷ"
@@ -30,7 +30,7 @@ based_on: None
  <li>താങ്കളുടെ പ്രവര്‍ത്തികള്‍ തീര്‍ന്നാല്‍ "<strong>Save Changes</strong>" എന്നതില്‍ ക്ലിക്ക് ചെയ്യുക.</li>
 </ol>
 
-<div class="note"><strong>കുറിപ്പ്:</strong> പരിഭാഷപ്പെടുത്തേണ്ട ലേഖനത്തിന്‍റ്റെ യൂസര്‍ ഇന്‍റ്റര്‍ഫേസ് ഭാഗങ്ങള്‍ തുടക്കത്തില്‍ ഇംഗ്ലീഷിലാകും കാണിക്കുക. ഒരു പ്രത്യേക ലേഖനം പരിഭാഷപ്പെടുത്താന്‍ വേണ്ടിയുള്ള ക്രമേണമായ സന്ദര്‍ശനം മൂലം&nbsp; "UI"&nbsp; ഉചിതമായ ഭാഷയില്‍ (ആ ഭാഷ എംഡിഎനിന്‍റ്റെ ഭാഷപ്പട്ടികയില്‍ ലഭ്യമാണങ്കില്‍)&nbsp; കാണിക്കും.. എംഡിഎനിന്‍റ്റെ യൂസര്‍ ഇന്‍റ്റര്‍ഫേസ്&nbsp; <a href="https://localize.mozilla.org/projects/mdn/" title="https://localize.mozilla.org/projects/mdn/">പദാനുപദമായി </a> തര്‍ജ്ജമ ചെയ്യാന്‍ പറ്റും. ഈ ഉപകരണം എങ്ങനെ ഉപയോഗിക്കാം എന്നതിനെ കുറിച്ച് കൂടുതല്‍ അറിയാന്‍ <a href="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim" title="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim">പദാനുപദമായി തര്‍ജ്ജമ ച്ചെയ്യുക</a> കാണൂ.</div>
+<div class="note"><strong>കുറിപ്പ്:</strong> പരിഭാഷപ്പെടുത്തേണ്ട ലേഖനത്തിന്‍റ്റെ യൂസര്‍ ഇന്‍റ്റര്‍ഫേസ് ഭാഗങ്ങള്‍ തുടക്കത്തില്‍ ഇംഗ്ലീഷിലാകും കാണിക്കുക. ഒരു പ്രത്യേക ലേഖനം പരിഭാഷപ്പെടുത്താന്‍ വേണ്ടിയുള്ള ക്രമേണമായ സന്ദര്‍ശനം മൂലം&nbsp; "UI"&nbsp; ഉചിതമായ ഭാഷയില്‍ (ആ ഭാഷ എംഡിഎനിന്‍റ്റെ ഭാഷപ്പട്ടികയില്‍ ലഭ്യമാണങ്കില്‍)&nbsp; കാണിക്കും.. എംഡിഎനിന്‍റ്റെ യൂസര്‍ ഇന്‍റ്റര്‍ഫേസ്&nbsp; <a href="https://localize.mozilla.org/projects/mdn/" title="https://localize.mozilla.org/projects/mdn/">Verbatim </a> ഉപയോഗിച്ച് പരിഭാഷപ്പെടുത്താന്‍ പറ്റും. ഈ ഉപകരണം എങ്ങനെ ഉപയോഗിക്കാം എന്നതിനെ കുറിച്ച് കൂടുതല്‍ അറിയാന്‍ <a href="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim" title="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim">Localizing with Verbatim </a> കാണൂ.</div>
 
 <h2 id=".E0.B4.92.E0.B4.B0.E0.B5.81_.E0.B4.AA.E0.B4.B0.E0.B4.BF.E0.B4.AD.E0.B4.BE.E0.B4.B7.E0.B4.AA.E0.B5.8D.E0.B4.AA.E0.B5.86.E0.B4.9F.E0.B5.81.E0.B4.A4.E0.B5.8D.E0.B4.A4.E0.B4.BF.E0.B4.AF_.E0.B4.A4.E0.B4.BE.E0.B4.B3.E0.B4.BF.E0.B4.B2.E0.B5.8D.E2.80.8D_.E0.B4.AE.E0.B4.BE.E0.B4.B1.E0.B5.8D.E0.B4.B1.E0.B4.99.E0.B5.8D.E0.B4.99.E0.B4.B3.E0.B5.8D.E2.80.8D_.E0.B4.B5.E0.B4.B0.E0.B5.81.E0.B4.A4.E0.B5.8D.E0.B4.A4.E0.B4.BE.E0.B4.82">ഒരു പരിഭാഷപ്പെടുത്തിയ താളില്‍ മാറ്റങ്ങള്‍ വരുത്താം</h2>
 
