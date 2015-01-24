@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 718607
+revision_id: 728789
 locale: en-US
 slug: Web/Apps
 tags: "Apps" "Mobile" "Modern web apps" "Web Development" "Progressive web apps"
