@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 729409
+revision_id: 729419
 locale: ro
 slug: Tools
 tags: "Ghid" "Unelte" "Dezvoltare Website" "Unelte dezvoltator" "Web Development:Unelte"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -19,11 +19,11 @@ based_on: None
 
 <h3 id="What's_new_in_Aurora.3F" name="What's_new_in_Aurora.3F">Ce este nou în Firefox Developer Edition?</h3>
 
-<p><a href="/ro/Firefox/Developer_Edition">Firefox Developer Edition</a> este o versiune a Firefox adaptată pentru dezvoltatori, care dispune de ultimele facilități Firefox și unelte experimentale pentru dezvoltatori. Versiunea curentă include următoarele îmbunătățiri a uneltelor pentru dezvoltatori:</p>
+<p><a href="/ro/Firefox/Developer_Edition">Firefox Developer Edition</a> este o versiune a Firefox adaptată pentru dezvoltatori, care dispune de ultimele facilități Firefox și unelte experimentale pentru dezvoltatori. Versiunea curentă include următoarele îmbunătățiri ale uneltelor pentru dezvoltatori:</p>
 
 <ul>
  <li><a href="/ro/docs/Tools/Network_Monitor#Security">Panou Securitate în Monitorizare rețea</a></li>
- <li><a href="/ro/docs/Tools/Page_Inspector#Animations_view">Panou animații în Inspector</a></li>
+ <li><a href="/ro/docs/Tools/Page_Inspector#Animations_view">Panou Animații în Inspector</a></li>
  <li><a href="/ro/docs/Tools/WebIDE#Running_a_custom_build_step">Suport pentru rularea unui pas personalizat de construire în WebIDE</a></li>
 </ul>
 </div>
@@ -32,7 +32,7 @@ based_on: None
 
 <h3 id="Share_your_ideas" name="Share_your_ideas">Partajați-vă ideile</h3>
 
-<p>Solicitați facilități noi a uneltelor pentru dezvoltatori sau votați pentru ideile altora.</p>
+<p>Solicitați facilități noi ale uneltelor pentru dezvoltatori sau votați pentru ideile altora.</p>
 </div>
 
 <p><img alt="" src="https://mdn.mozillademos.org/files/7307/inspector.png" style="width: 815px; height: 467px; margin-right: auto; margin-left: auto; display: block;" /></p>
@@ -47,11 +47,11 @@ based_on: None
  <dt><a href="/ro/docs/Tools/Scratchpad">Editor JavaScript</a></dt>
  <dd>Editor de text incorporat în Firefox care vă permite să scrieți și să executați JavaScript.</dd>
  <dt><a href="/ro/docs/Tools/Style_Editor">Editor de stil</a></dt>
- <dd>Vizualizați și editați stilurile CSS pentru padina curentă.</dd>
+ <dd>Vizualizați și editați stilurile CSS pentru pagina curentă.</dd>
  <dt><a href="/ro/docs/Tools/Shader_Editor">Shader Editor</a></dt>
  <dd>Vizualizați și editați vertexul și fragmentele shaderelor utilizate de <a href="/ro/docs/Web/WebGL">WebGL</a>.</dd>
  <dt><a href="/ro/docs/Tools/Web_Audio_Editor">Editor audio web</a></dt>
- <dd>Examinați graficul nodurilor audio într-un context audio și modifică-le parametrii.</dd>
+ <dd>Examinați graficul nodurilor audio într-un context audio și modificați-le parametrii.</dd>
 </dl>
 </div>
 
@@ -138,16 +138,16 @@ based_on: None
 
 <dl>
  <dt><a href="/ro/docs/Tools/Browser_Console">Consolă navigator</a></dt>
- <dd>Vedeți mesajele afișate de însuși navigator și suplimente și rulați codul JavaScript în domeniul de vizibilitate al navigatorului.</dd>
+ <dd>Vedeți mesajele afișate de însuși navigator sau suplimente și rulați codul JavaScript în domeniul de vizibilitate al navigatorului.</dd>
  <dt><a href="/ro/docs/Tools/Browser_Toolbox">Set de instrumente pentru navigator</a></dt>
- <dd>Atașați uneltele pentru dezvoltator la navigator însuși.</dd>
+ <dd>Atașați uneltele pentru dezvoltatori la navigator însuși.</dd>
 </dl>
 </div>
 
 <div class="column-half">
 <h2 id="Extending_the_devtools" name="Extending_the_devtools">Extinderea uneltelor pentru dezvoltatori</h2>
 
-<p>Uneltele pentru dezvoltatori sunt proiectate să fie extensibile. Suplimentele Firefox pot accesa aceste unelte și componentele pe care le utilizează pentru extinderea uneltelor existente sau adăugarea uneltelor noi. Utilizând protocolul de depanare la distanță puteți implementa clienții și serverele de depanare proprii, permițându-vă să depanați site-uri web utilizând propriile unelte sau să depanați diverse ținte utilizând uneltele Firefox.</p>
+<p>Uneltele pentru dezvoltatori sunt proiectate să fie extensibile. Suplimentele Firefox pot accesa aceste unelte și componentele pe care le utilizează pentru extinderea uneltelor existente sau adăugarea uneltelor noi. Utilizând protocolul de depanare la distanță puteți implementa clienți și servere de depanare proprii, permițându-vă să depanați site-uri web utilizând propriile unelte sau să depanați diverse ținte utilizând uneltele Firefox.</p>
 
 <dl>
  <dt><a href="https://wiki.mozilla.org/Remote_Debugging_Protocol">Protocol de depanare la distanță</a></dt>
@@ -156,7 +156,7 @@ based_on: None
  <dd>Un editor de cod integrat în Firefox care poate fi incorporat în suplimentul dumneavoastră.</dd>
  <dt><a href="/ro/docs/Tools/Debugger-API">Interfața <code>Debugger</code></a></dt>
  <dd>Un API care permite codului JavaScript să observe execuția altui cod JavaScript. Uneltele pentru dezvoltatori Firefox utilizează acest API pentru implementarea depanatorului JavaScript.</dd>
- <dt><a href="/ro/docs/Tools/Web_Console/Custom_output">Date de ieșire personalizate a consolei web</a></dt>
+ <dt><a href="/ro/docs/Tools/Web_Console/Custom_output">Date de ieșire personalizate ale consolei web</a></dt>
  <dd>Cum să extindeți și personalizați datele de ieșire a <a href="/ro/docs/Tools/Web_Console">consolei web</a> și a <a href="/ro/docs/Tools/Browser_Console">consolei navigatorului</a>.</dd>
  <dt><a href="/ro/Add-ons/SDK/Low-Level_APIs/dev_panel">Adăugați un panou nou la uneltele pentru dezvoltatori</a></dt>
  <dd>Scrieți un supliment care adaugă un panou nou la setul de unelte.</dd>
@@ -167,15 +167,15 @@ based_on: None
 <hr />
 <h2 id="More_resources" name="More_resources">Mai multe resurse</h2>
 
-<p>În secțiunea dată, sunt enumerate resursele care nu sunt menținute echipa de unelte pentru dezvoltatori de la Mozilla, dar, care, sunt frecvent utilizate de dezvoltatori web. Aici sunt incluse doar câteva suplimente Firefox, pentru lista deplină accesați <a href="https://addons.mozilla.org/ro/firefox/extensions/web-development/">categoria „Dezvoltare web” la addons.mozilla.org</a>.</p>
+<p>În secțiunea dată, sunt enumerate resursele care nu sunt menținute de echipa ce lucrează asupra uneltelor pentru dezvoltatori de la Mozilla, dar care sunt frecvent utilizate de dezvoltatori web. Aici sunt incluse doar câteva suplimente Firefox. Pentru lista deplină accesați <a href="https://addons.mozilla.org/ro/firefox/extensions/web-development/">categoria „Dezvoltare web” la addons.mozilla.org</a>.</p>
 
 <div class="column-container">
 <div class="column-half">
 <dl>
  <dt><a href="https://www.getfirebug.com/">Firebug</a></dt>
- <dd>O unealtă pentru dezvoltare web foarte populară și puternică, care posedă un depanator JavaScript, vizualizatoare și editoare HTML și CSS și monitorizare rețea.</dd>
+ <dd>O unealtă pentru dezvoltare web foarte populară și puternică care posedă un depanator JavaScript, vizualizatoare și editoare HTML și CSS și monitorizare rețea.</dd>
  <dt><a href="/ro/docs/Tools/Add-ons/DOM_Inspector">DOM Inspector</a></dt>
- <dd>Inspectați, răsfoiți și editați DOM-ul paginilor web sau a ferestrelor XUL.</dd>
+ <dd>Inspectați, răsfoiți și editați DOM-ul paginilor web sau al ferestrelor XUL.</dd>
  <dt><a href="https://addons.mozilla.org/ro/firefox/addon/web-developer/">Web Developer</a></dt>
  <dd>Adaugă un meniu și o bară de unelte navigatorului cu diverse unelte pentru dezvoltatori.</dd>
 </dl>
@@ -185,7 +185,7 @@ based_on: None
 <dl>
  <dt><a href="https://webmaker.org/ro/tools/">Webmaker Tools</a></dt>
  <dd>Un set de unelte dezvoltat de Mozilla, destinat dezvoltatorilor web începători.</dd>
- <dt><a href="http://www.w3.org/Status.html">Validatoare W3C</a></dt>
+ <dt><a href="http://www.w3.org/Status.html">Unelte de validare W3C</a></dt>
  <dd>Site-ul W3C găzduiește un număr de unelte pentru verificarea validității site-ului dumneavoastră, care include <a href="http://validator.w3.org/" title="http://validator.w3.org/">HTML</a> și <a href="http://jigsaw.w3.org/css-validator/" title="http://jigsaw.w3.org/css-validator/">CSS</a>.</dd>
  <dt><a href="http://www.jshint.com/">JSHint</a></dt>
  <dd>Unealtă pentru analiza codului JavaScript.</dd>
@@ -251,7 +251,7 @@ based_on: None
    <li><a href="https://wiki.mozilla.org/Remote_Debugging_Protocol">Protocol de depanare la distanță</a></li>
    <li><a href="/ro/docs/Tools/Editor">Editor sursă</a></li>
    <li><a href="/ro/docs/Tools/Debugger-API">Interfața <code>Debugger</code></a></li>
-   <li><a href="/ro/docs/Tools/Web_Console/Custom_output">Date de ieșire personalizate a consolei web</a></li>
+   <li><a href="/ro/docs/Tools/Web_Console/Custom_output">Date de ieșire personalizate ale consolei web</a></li>
    <li><a href="/ro/Add-ons/SDK/Low-Level_APIs/dev_panel">Adăugați un panou nou la uneltele pentru dezvoltatori</a></li>
    <li><a href="https://wiki.mozilla.org/Remote_Debugging_Protocol_Stream_Transport">Stream Transport</a></li>
   </ol>
