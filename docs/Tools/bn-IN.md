@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 730083
+revision_id: 731837
 locale: bn-IN
 slug: Tools
 tags: "Guide" "Tools" "TopicStub" "l10n:priority" "Web Development" "NeedsTranslation" "Developing Mozilla" "Web Development:Tools"
-title: Firefox Developer Tools
+title: ফায়ারফক্স উন্নতিকারক যন্ত্রপাতি
 summary: 
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -71,9 +71,9 @@ based_on: None
  <dd>See the network requests made when a page is loaded.</dd>
  <dt><a href="/en-US/docs/Tools/Storage_Inspector">Storage Inspector</a></dt>
  <dd>Inspect cookies, local storage, indexedDB and session storage present in a page.</dd>
- <dt><a href="/en-US/docs/Tools/GCLI">Developer Toolbar</a></dt>
+ <dt><a href="/en-US/docs/Tools/GCLI">উন্নতিকারক টুলবার</a></dt>
  <dd>A command-line interface for the developer tools.</dd>
- <dt><a href="/en-US/docs/Tools/3D_View">3D View</a></dt>
+ <dt><a href="/en-US/docs/Tools/3D_View">ত্রিমাত্রিক দর্শন</a></dt>
  <dd>3D visualization of the page.</dd>
  <dt><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></dt>
  <dd>Select a color from the page.</dd>
@@ -213,8 +213,8 @@ based_on: None
    <li><a href="/en-US/docs/Tools/Debugger">Debugger</a></li>
    <li><a href="/en-US/docs/Tools/Network_Monitor">Network Monitor</a></li>
    <li><a href="/en-US/docs/Tools/Storage_Inspector">Storage Inspector</a></li>
-   <li><a href="/en-US/docs/Tools/GCLI">Developer Toolbar</a></li>
-   <li><a href="/en-US/docs/Tools/3D_View">3D View</a></li>
+   <li><a href="/en-US/docs/Tools/GCLI">উন্নতিকারক টুলবার</a></li>
+   <li><a href="/en-US/docs/Tools/3D_View">ত্রিমাত্রিক দর্শন</a></li>
    <li><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></li>
    <li><a href="/en-US/docs/tools/Working_with_iframes">Selecting iframes</a></li>
   </ol>
