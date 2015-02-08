@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 571125
+revision_id: 736141
 locale: th
 slug: Web/Apps
 tags: "Add-ons" "Firefox"
