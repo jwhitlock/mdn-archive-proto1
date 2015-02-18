@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 738429
+revision_id: 739633
 locale: el
 slug: Web/CSS
 tags: "CSS"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -24,10 +24,10 @@ based_on: None
   <p>Μια <a href="/en-US/docs/Web/CSS/Reference">λεπτομερής αναφορά</a> για έμπειρους προγραμματιστές, περιγράφοντας κάθε ιδιότητα και έννοια της CSS.</p>
  </li>
  <li><span>CSS Παραδείγματα</span>
-  <p>A <a href="/en-US/docs/CSS/Getting_Started" title="en-US/docs/CSS/Getting_Started">step-by-step introduction</a> to help complete beginners get started. It presents all the needed fundamentals.</p>
+  <p><a href="/en-US/docs/CSS/Getting_Started">Βήμα-βήμα</a> παραδείγματα για βοήθεια αρχάριων προγραμματιστών για το ξεκίνημα τους. Περιέχει όλες τις απαραίτητες βασικές αρχές.</p>
  </li>
  <li><span>CSS3 Επίδειξη</span>
-  <p>A <a href="/en-US/demos/tag/tech:css3" title="https://developer.mozilla.org/en-US/demos/tag/tech:css3">collection of demos</a> showing the latest CSS technologies in action: a boost for the creativity.</p>
+  <p><a href="/en-US/demos/tag/tech:css3">Συλλογή από παρουσιάσεις</a>, παρουσιάσεις τελευταίων CSS τεχνολογιών. Ώθηση για δημιουργικότητα.</p>
  </li>
 </ul>
 
