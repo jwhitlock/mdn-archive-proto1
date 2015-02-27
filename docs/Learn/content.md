@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 733467
+revision_id: 763959
 locale: en-US
 slug: Learn
 tags: "Web" "Index" "Intro" "Learn" "Landing" "Beginner"
@@ -19,8 +19,6 @@ based_on: None
 
 <p>There's a lot to learn about web design and development, but don't worry. We're here to help you, whether you're just picking up a bit of code or becoming a full-fledged professional developer.</p>
 
-<p>{{LearnBox({"title":"Quick learning: Vocabulary"})}}</p>
-
 <h2 id="Where_to_go_first">Where to go first</h2>
 
 <p>We want to meet you where you are. Which description fits you best?</p>
@@ -33,7 +31,7 @@ based_on: None
  <li><span>I know the web</span>
   <p>Very good! In that case we suggest you dig deeper into the technologies at the heart of the Web: <a href="/en-US/docs/Learn/HTML">HTML</a>, <a href="/en-US/docs/Learn/CSS">CSS</a>, and <a href="/en-US/docs/Learn/JavaScript">JavaScript</a></p>
  </li>
- <li><span>I master the web</span>
+ <li><span>I've mastered the web</span>
   <p>Amazing! In that case, you may be interested in exploring our advanced <a href="/en-US/docs/Web/Guide">Guides</a> and <a href="/en-US/docs/Web/Tutorials">Tutorials</a>. You should also consider <a href="/en-US/Learn/How_to_contribute">contributing to the Learning Area</a>. ;)</p>
  </li>
 </ul>
@@ -41,6 +39,8 @@ based_on: None
 <div class="note">
 <p><strong>Note</strong>: In the future we're planning to publish more learning pathways, for example for experienced coders learning specific advanced techniques, native developers who are new to the Web, or people who want to learn design techniques.</p>
 </div>
+
+<p>{{LearnBox({"title":"Quick learning: Vocabulary"})}}</p>
 
 <h2 id="Learning_with_other_people">Learning with other people</h2>
 
