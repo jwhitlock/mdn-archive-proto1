@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 443351
+revision_id: 773517
 locale: ar
 slug: Tools
 tags: 
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 442447
+based_on: None
 ---
 <p>This page lists tools that help you develop and debug websites and web apps. It's focused mostly on the tools developed and maintained at Mozilla, but we've listed other popular and useful tools under "More Resources".</p>
 <div class="cleared topicpage-table">
