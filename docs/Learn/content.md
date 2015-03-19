@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 763959
+revision_id: 773969
 locale: en-US
 slug: Learn
 tags: "Web" "Index" "Intro" "Learn" "Landing" "Beginner"
@@ -82,6 +82,7 @@ based_on: None
  <li><a href="/en-US/Learn/tutorial">Learning tutorials</a>
   <ol>
    <li><a href="/en-US/Learn/tutorial/How_to_build_a_web_site">How to build a web site?</a></li>
+   <li><a href="/en-US/Learn/tutorial/Information_Security_Basics">Information security basics</a></li>
   </ol>
  </li>
  <li><a href="http://weblitmapper.webmakerprototypes.org/">Learning resources</a></li>
