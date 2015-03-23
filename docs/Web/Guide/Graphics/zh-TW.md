@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 775301
+revision_id: 775303
 locale: zh-TW
 slug: Web/Guide/圖像
 tags: 
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 31f4c8abb7d705210315178074df3aca431c2b2b
+based_on: None
 ---
 <p><span class="seoSummary">現代網站或應用程式通常都配有圖像。</span>我們可以很容易地使用{{HTMLElement("img")}}元素呈現靜態圖像 , 或藉由使用{{cssxref("background-image")}} 設定HTML的背景元素性質。你常會想要建立動態圖像或在事後操縱圖像。<span class="seoSummary">這些文章將讓你知道如何達成這些效果。</span></p>
 
@@ -45,7 +45,7 @@ based_on: 31f4c8abb7d705210315178074df3aca431c2b2b
  <dd><em>一份WebGL初始指南，網頁用3D 圖像 API。這項技術讓你在網頁內容使用standard OpenGL ES。</em></dd>
 </dl>
 
-<h2 id="Video">影片</h2>
+<h2 id=".E5.BD.B1.E7.89.87">影片</h2>
 
 <dl>
  <dt><a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">使用 HTML5 影音</a></dt>
