@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 775615
+revision_id: 779361
 locale: en-US
 slug: Web/HTML
 tags: "HTML" "HTML5" "Web" "Learn" "HTML Lesson" "What is HTML" "Landing" "HTML Tutorials" "Hyper text" "Hypertext" "Reference" "HTML Programming" "l10n:priority"
