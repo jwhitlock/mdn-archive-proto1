@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 765047
+revision_id: 781583
 locale: en-US
 slug: MDN/Community
 tags: "MDN Meta" "Guide" "Landing" "Community"
@@ -59,7 +59,7 @@ based_on: None
 
 <p>These channels are most likely to be active during weekdays in North America.</p>
 
-<p>If you're not familiar with IRC, the quickest way to join is using <a href="http://scrollback.io/">Scrollback</a> - a web-based IRC client that is pre-configured with the <a href="http://scrollback.io/mozdn/">mdn</a> and <a href="http://scrollback.io/mdndev/">mdndev</a> channels. You may also want to <a href="http://wiki.mozilla.org/IRC" title="http://wiki.mozilla.org/IRC">learn more about IRC</a> and use an installable IRC client such as <a href="https://addons.mozilla.org/en-US/firefox/addon/chatzilla/" title="https://addons.mozilla.org/en-US/firefox/addon/chatzilla/">ChatZilla</a>. It is implemented as a Firefox add-on, which makes it quick and easy to install and use.</p>
+<p>You may want to <a href="http://wiki.mozilla.org/IRC" title="http://wiki.mozilla.org/IRC">learn more about IRC</a> and use an installable IRC client such as <a href="https://addons.mozilla.org/en-US/firefox/addon/chatzilla/" title="https://addons.mozilla.org/en-US/firefox/addon/chatzilla/">ChatZilla</a>. It is implemented as a Firefox add-on, which makes it quick and easy to install and use.&nbsp;If you're not familiar with IRC, an easy way to join is using a web-based IRC client such as&nbsp;<a href="http://web.scrollback.io/" target="_blank">Scrollback</a>, which is&nbsp;pre-configured with the&nbsp;<a href="http://scrollback.io/mozdn/" target="_blank">mdn</a>&nbsp;and&nbsp;<a href="http://scrollback.io/mdndev/" target="_blank">mdndev</a>&nbsp;channels.</p>
 
 <h2 id="Join_our_biweekly_meetings_(and_other_events)">Join our biweekly meetings (and other events)</h2>
 
