@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 778713
+revision_id: 790580
 locale: zh-TW
 slug: Web/Apps
 tags: 
@@ -333,10 +333,4 @@ based_on: None
  <li><a href="https://developer.mozilla.org/en-US/Apps/Reference">API Reference</a></li>
 </ol>
 </div>
-
-<p>&nbsp;</p>
-
-<p><iframe class="igtranslator-iframe" frameborder="0" scrolling="no" src="about:blank" style="display: none; width: 0px; height: 0px;"></iframe></p>
-
-<div class="igtranslator-activator-icon" style="background-image: url(&quot;resource://jid1-dgnibwqga0sibw-at-jetpack/igtranslator/data/content_script/icon.png&quot;); display: none; top: 2717px; left: 127px;" title="Click to Show Translation">&nbsp;</div>
 
