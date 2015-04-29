@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 795079
+revision_id: 795083
 locale: en-US
 slug: Web/API
 tags: "API" "DOM" "Web" "JavaScript" "Reference"
