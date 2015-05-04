@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 662009
+revision_id: 797385
 locale: hu
 slug: Web
 tags: "Web" "Landing" "TopicStub" "NeedsTranslation"
@@ -71,5 +71,5 @@ based_on: None
   </dl>
  </div>
 </div>
-<p>&nbsp;</p>
+<p> </p>
 
