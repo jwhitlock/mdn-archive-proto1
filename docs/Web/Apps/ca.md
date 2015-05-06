@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 709855
+revision_id: 797969
 locale: ca
 slug: Web/Apps
 tags: "Apps" "Mobile" "Firefox OS" "TopicStub" "Web Development" "NeedsTranslation"
