@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 732973
+revision_id: 801909
 locale: fr
 slug: Web/Apps
 tags: "Apps" "Mobile" "Firefox OS"
@@ -20,8 +20,8 @@ based_on: None
 <p>Apprenez comment créer des Application Open Web qui assurent une formidable expérience de multi-plateforme à vos utilisateurs.</p>
 
 <ul class="no-bullets">
- <li><a href="/fr/Apps/Design/Planning_your_app">Planification de l'app</a></li>
- <li><a href="/fr/docs/Web/Apps/Design/Design_Principles">Fondamentaux pour le design</a></li>
+ <li><a href="/fr/Apps/Design/Concevoir_votre_application">Planification de l'app</a></li>
+ <li><a href="/fr/Apps/Quickstart/Design/Fondamentaux_pour_design">Fondamentaux pour le design</a></li>
  <li><a href="/fr/Apps/app_layout/responsive_design_building_blocks">Responsive design</a></li>
 </ul>
 </div>
@@ -88,7 +88,7 @@ based_on: None
 <ul>
  <li><a href="/fr/Apps/Tools_and_frameworks/Cordova_support_for_Firefox_OS">Support de Cordova pour Firefox OS</a></li>
  <li><a href="/fr/Apps/Tools_and_frameworks/Web_components">Composantes Web and Mozilla Brick</a></li>
- <li><a href="/fr/docs/Web/Apps/Developing/App_templates">Utilisation des Modèles Mortar</a></li>
+ <li><a href="/fr/Apps/Tools_and_frameworks/Modele_applicatif">Utilisation des Modèles Mortar</a></li>
 </ul>
 </div>
 </div>
@@ -106,17 +106,17 @@ based_on: None
  <li><a href="/fr/docs/Web/Apps/Design" title="Information regarding app and interface design practices.">Concevoir</a>
   <ol>
    <li><strong><a href="/fr/Apps/Design">Vue d'ensemble du Design</a></strong></li>
-   <li><a href="/fr/Apps/Design/Planning_your_app">Planification</a></li>
-   <li><a href="/fr/Apps/Design/Design_Principles">Principes de design</a></li>
+   <li><a href="/fr/Apps/Design/Concevoir_votre_application">Planification</a></li>
+   <li><a href="/fr/Apps/Quickstart/Design/Fondamentaux_pour_design">Principes de design</a></li>
    <li><a href="/fr/Apps/Design/Installed_app_considerations">Considérations sur les apps installées</a></li>
-   <li><a href="/fr/Apps/Design/Graphics_for_responsive_sites">Graphiques pour les sites responsive</a></li>
-   <li><a href="/fr/Apps/Design/Content">Manuel des styles de Contenu</a></li>
+   <li><a href="fr/Apps/Design/Design_graphique_pour_les_sites_responsiveGraphics_for_responsive_sites">Graphiques pour les sites responsive</a></li>
+   <li><a href="/fr/Apps/Design/Contenu">Manuel des styles de Contenu</a></li>
    <li><a href="http://www.mozilla.org/en-US/styleguide/products/firefox-os/">Manuel des styles de Firefox OS</a></li>
    <li><a href="/fr/Apps/Design/Patterns">Patrons de conception pour les petits écrans</a></li>
-   <li><a href="/fr/Apps/Design/Responsive_Navigation_Patterns">Patrons de conception pour la navigation adaptive</a></li>
+   <li><a href="/fr/Apps/Design/Patrons_navigation_adaptative">Patrons de conception pour la navigation adaptive</a></li>
    <li><a href="/fr/Apps/Design/Design_asset_library">Bibliothèque de ressources graphiques</a></li>
    <li><a href="/fr/Apps/app_layout/responsive_design_building_blocks">Éléments du responsive design</a></li>
-   <li><a href="/frApps/app_layout/Responsive_design_versus_adaptive_design">Responsive design versus adaptive design</a></li>
+   <li><a href="/fr/Apps/Design/UI_layout_basics/Responsive_design_versus_adaptive_design">Responsive design versus adaptive design</a></li>
    <li><a href="/fr/Apps/app_layout/Mobile_first">Le mobile d'abord</a></li>
    <li><a href="/fr/docs/Web/Guide/CSS/Flexible_boxes">Boites flexibles</a></li>
   </ol>
@@ -130,7 +130,7 @@ based_on: None
    <li><a href="/fr/Apps/Build/Control_the_display">Affichage et réactions</a></li>
    <li><a href="/fr/Apps/Build/User_input_methods">Entrées et contrôles utilisateurs</a></li>
    <li><a href="/fr/Apps/Build/Offline">Apps offline</a></li>
-   <li><a href="/fr/Apps/Build/Manipulating_media">Manipulation de médias</a></li>
+   <li><a href="/fr/Apps/Build/Audio_and_video_delivery">Manipulation de médias</a></li>
    <li><a href="/fr/Apps/Build/Advanced_network_communication">Communication réseau avancée</a></li>
    <li><a href="/fr/docs/Games">Développer un jeu</a></li>
    <li><a href="/fr/Apps/Build/Localization">Localisation</a></li>
