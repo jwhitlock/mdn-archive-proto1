@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 703569
+revision_id: 803529
 locale: pl
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "MDN" "Projekt MDC" "Lokalizacja" "Tłumaczenie stron"
@@ -23,12 +23,12 @@ based_on: None
  <li>Dodaj przynajmniej jeden <strong>tag</strong>.</li>
  <li>Kliknij <strong>Zapisz zmiany </strong>kiedy skończysz.</li>
 </ol>
-<h2 id="Editing_a_translated_page"><strong>Edytowanie przetłumaczonej strony</strong></h2>
+<h2 id="Edytowanie_przet.C5.82umaczonej_strony"><strong>Edytowanie przetłumaczonej strony</strong></h2>
 <ul>
  <li>Na przetłumaczonej stronie kliknij przycisk <strong>Edytuj (Edit)</strong>. Pokaże się strona do poprawienia.</li>
 </ul>
 <p>Jeśli oryginalna, angielska wersja była zmieniana od czasu aktualizacji ostatniego tłumaczenia, pokaże się lista zmian w języku angielskim. To pomoże Ci znaleźć, co trzeba zaktualizować w tłumaczeniu.</p>
-<h2 id="Translating_tags">Tłumaczenie tagów</h2>
+<h2 id="T.C5.82umaczenie_tag.C3.B3w">Tłumaczenie tagów</h2>
 <p>To ważne, żeby każda strona miała przynajmniej jeden tag. Nawet jeśli jest to tłumaczenie.</p>
 <p>Niektóre tagi jednak z zamysłu autora strony nie mają być tłumaczone. Aby dowiedzieć się więcej, które tagi nie powinny być przetłumaczone, zobacz <a href="/en-US/docs/Project:MDN/Contributing/Tagging_standards">standardy tagowania</a>.</p>
 
