@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 794375
+revision_id: 807615
 locale: ms
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "Reference"
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 7e6c6f4bf5d2ab9f7bd4152b98558fd4b3616916
+based_on: None
 ---
 <p>This article is a basic guide to translating content on MDN, including both the mechanics of translation work and tips on the proper way to handle various types of content.</p>
 <h2 id="Starting_a_new_page_translation">Starting a new page translation</h2>
