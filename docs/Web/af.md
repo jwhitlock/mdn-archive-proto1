@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 733781
+revision_id: 810783
 locale: af
 slug: Web
 tags: "Web" "Landing" "TopicStub" "NeedsTranslation"
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 723693
+based_on: None
 ---
 <p>The open Web presents incredible opportunities for developers. To take full advantage of these technologies, you need to know how to use them. Below you'll find the links to MDN's documentation on Web technologies.</p>
 
