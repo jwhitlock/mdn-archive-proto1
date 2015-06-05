@@ -1,28 +1,33 @@
 ---
 version: prototype1
-revision_id: 565407
+revision_id: 812685
 locale: de
 slug: Web/Reference
 tags: "Web" "Landing" "Referenz" "TopicStub" "Reference" "Référence(2)" "Startseite" "Webtechnologie" "NeedsTranslation"
-title: Web technology reference
+title: Web Technologie Referenz
 summary: 
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 1a539240d49ce554306cee84b40f74ee3ce0fa10
+based_on: None
 ---
-<p>The open Web is built using a number of technologies. Below you'll find links to our reference material for each of them.</p>
+<p>Das offene Web ist errichtet duch die Nutzung einer Anzahl von Technologien. Weiter unten findest Du Links zu unserem Referenz Material jeder dieser Technologien.</p>
+
 <div class="row topicpage-table">
- <div class="section">
-  <h2 class="Documentation">Core Web technologies</h2>
-  <p>{{ Page ("Web", "Web technologies") }}</p>
- </div>
- <div class="section">
-  <p>{{draft()}}</p>
-  <p>This page <a href="/en-US/docs/Project:MDN/Plans_and_status/Web_platform">is meant to be</a> the landing page for the "Web Platform Reference"; this would offer links to the landing pages for each of the APIs that comprise the Web platform (but would not itself have subpages).</p>
- </div>
+<div class="section">
+<h2 class="Documentation" id="Kern_Web_Technologien">Web Kerntechnologien</h2>
+
+<p>{{ Page ("Web", "Web technologies") }}</p>
 </div>
+
+<div class="section">
+<p>{{draft()}}</p>
+
+<p>Diese Seite <a href="/en-US/docs/Project:MDN/Plans_and_status/Web_platform">ist gedacht als</a> Eingangsseite der "Web Plattform Referenz"; sie wird Links zu den Eingangsseiten jeder der APIs, die die Web Plattform enthält bereitstellen (Sie wird also keine eigenen Unterseiten haben).</p>
+</div>
+</div>
+
 <p>&nbsp;</p>
 
