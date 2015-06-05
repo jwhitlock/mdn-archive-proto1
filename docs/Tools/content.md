@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 810517
+revision_id: 812395
 locale: en-US
 slug: Tools
 tags: "Guide" "Tools" "l10n:priority" "Web Development" "Developing Mozilla" "Web Development:Tools"
@@ -237,6 +237,7 @@ based_on: None
    <li><a href="/en-US/docs/Tools/3D_View">3D View</a></li>
    <li><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></li>
    <li><a href="/en-US/docs/tools/Working_with_iframes">Selecting iframes</a></li>
+   <li><a href="/en-US/docs/Tools/View_source">View source</a></li>
   </ol>
  </li>
  <li><a href="#">Mobile</a>
