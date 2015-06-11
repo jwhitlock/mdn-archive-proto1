@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 740327
+revision_id: 815743
 locale: en-US
 slug: Web
 tags: "Web" "History" "Landing" "Web Development"
@@ -68,9 +68,7 @@ based_on: None
  <dt><a href="/en-US/docs/Web/Tutorials">Tutorials for Web developers</a></dt>
  <dd>A list of tutorials to take you step-by-step through learning APIs, technologies, or broad topic areas.</dd>
  <dt><a href="/en-US/docs/Web/Reference">References</a></dt>
- <dd>
- <i>This page will offer links to all reference information on MDN, but for now use one of the technology links in the left section.</i>
- </dd>
+ <dd><em>This page will offer links to all reference information on MDN, but for now use one of the technology links in the left section.</em></dd>
 </dl>
 
 <h2 id="Other_topics">Other topics</h2>
