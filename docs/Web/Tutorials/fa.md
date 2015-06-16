@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 822283
+revision_id: 822561
 locale: fa
 slug: Web/Tutorials
 tags: 
@@ -13,87 +13,87 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p dir="rtl">لینک‌ها در این صفحه به آموزش‌ها و مواد آموزشی متنوعی هدایت شده است. چه شما تازه شروع کرده باشید، در حال یادگیری اصول اولیه هستید، یا در توسعه وب قدیمی هستید، در اینجا منابع مفیدی را برای بهترین تمرین‌ها می‌توانید پیدا کنید. These resources are created by forward-thinking companies and web developers who have embraced open standards and best practices for web development and that provide or allow translations, through an open content license such as Creative Commons.</p>
+<p dir="rtl">لینک‌ها در این صفحه به آموزش‌ها و مواد آموزشی متنوعی هدایت شده است. چه شما تازه شروع کرده باشید، در حال یادگیری اصول اولیه هستید، یا در توسعه وب قدیمی هستید، در اینجا منابع مفیدی را برای تمرین بهتر می‌توانید پیدا کنید. این منابع توسط شرکت‌های متفکر رو به جلو و توسعه دهندگان وبی که استانداردهای باز و بهترین تمرین‌ها برای توسعه دهندگان وب&nbsp;را پذیرفته‌اند ساخته شده است وآن منابع آماده یا برای ترجمه اجازه داده می‌شود، از طریق گواهی‌نامه محتوای باز مانند Creative Commons.</p>
 
 <div class="row topicpage-table" dir="rtl">
 <div class="section">
-<h2 class="Documentation" id="Documentation" name="Documentation">HTML tutorials</h2>
+<h2 class="Documentation" id="Documentation" name="Documentation">آموزش HTML</h2>
 
-<h3 id="Introductory_level">Introductory level</h3>
+<h3 id="Introductory_level">سطح مقدماتی</h3>
 
 <dl>
- <dt><a href="/en-US/docs/Web/Guide/HTML/Introduction">Introduction to HTML</a></dt>
- <dd>What HTML is, what it does, its history in brief, and what the structure of an HTML document looks like. The articles that follow this one look at each individual part of HTML in much greater depth.</dd>
- <dt><a href="http://reference.sitepoint.com/html/page-structure" rel="external">Basic Structure of a Web Page</a> (SitePoint)</dt>
- <dd>Learn how HTML elements fit together into the bigger picture.</dd>
+ <dt><a href="/en-US/docs/Web/Guide/HTML/Introduction">معرفی به HTML</a></dt>
+ <dd>HTML چی است، چه انجام می‌دهد، تاریخچه آن به‌صورت خلاصه، ساختار یک سند HTML شبیه چی است. مقالاتی که در ادامه آمده است هر کدام در هر بخش خاص از HTML نگاهی عمیق‌تر به آن دارند.</dd>
+ <dt><a href="http://reference.sitepoint.com/html/page-structure" rel="external">ساختار بنیادی یک صفحه وب</a> (اطلاعیه)</dt>
+ <dd>یاد بگیرید چطور المان‌های HTML با همدیگر مناسب هستند برای تصویری بزرگتر.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/HTML/Element">MDN HTML Element Reference</a></dt>
- <dd>A comprehensive reference for HTML elements, and how the different browsers support them.</dd>
+ <dd>یک مرجع وسیع برای المان‌های HTML، و مرورگرهای متفاوت چطور از آن‌ها پشتیبانی می‌کنند.</dd>
  <dt><a href="http://wikiversity.org/wiki/Web_Design/HTML_Challenges" rel="external">HTML Challenges</a> (Wikiversity)</dt>
- <dd>Use these challenges to hone your HTML skills (for example, "Should I use an &lt;h2&gt; element or a &lt;strong&gt; element?"), focusing on meaningful mark-up.</dd>
+ <dd>این چالش را برای صاف کردن مهارت‌های HTML خود بکار ببرید (برای مثال، "آیا من باید یک المان &lt;h2&gt; یا یک المان &lt;strong&gt; را بکار ببرم؟")، روی نشانه گذاری معنی دار تمرکز کنید.</dd>
  <dt><a href="http://codeavengers.com/" title="http://codeavengers.com/">CodeAvengers</a> (CodeAvengers.com)</dt>
- <dd>Code Avengers is the fun, effective way to learn to code web apps and games with HTML, CSS, and JavaScript.</dd>
+ <dd>Code Avengers یک سرگرمی است، راه مؤثری برای یادگیری کد نرم افزارهای تحت وب و بازی‌ها باHTML، CSS، و JavaScript.</dd>
 </dl>
 
-<h3 id="Advanced_level">Advanced level</h3>
+<h3 id="Advanced_level">سطح پیشرفته</h3>
 
 <dl>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Tips_for_Authoring_Fast-loading_HTML_Pages">Tips for Authoring Fast-Loading HTML Pages</a></dt>
- <dd>Optimize web pages to provide a more responsive site for visitors and reduce the load on your web server and Internet connection.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Tips_for_Authoring_Fast-loading_HTML_Pages">نکاتی برای نوشتن بارگذاری سریع صفحات HTML </a></dt>
+ <dd>بهینه سازی صفحات وب برای فراهم کردن پاسخگویی بیشتر سایت برای بازدید کنندگان و کاهش بارگذاری روی سرور وب و ارتباط اینترنت .</dd>
  <dt><a href="http://www.html5rocks.com/tutorials/" rel="external">HTML5 Tutorials</a> (HTML5 Rocks)</dt>
- <dd>Take a guided tour through code that uses HTML5 features.</dd>
+ <dd>یک تور راهنما از طریق کدی که از قابلیت‌های HTML5 استفاده می‌کند.</dd>
  <dt><a href="http://www.alistapart.com/articles/semanticsinhtml5/" rel="external">Semantics in HTML5</a> (A List Apart)</dt>
- <dd>Learn meaningful markup that is extensible and backwards- and forwards-compatible.</dd>
+ <dd>یادگیری نشانه گذاری معنی دار که قابل توسعه است و به عقب- و به جلو-هم‌خوانی دارد.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Canvas_tutorial">Canvas Tutorial</a></dt>
- <dd>Learn how to draw graphics using scripting using the canvas element.</dd>
+ <dd>یاد بگیرید چطور گرافیک را با استفاده از اسکریپت نویسی المان canvas رسم کنید.</dd>
  <dt><a href="http://html5doctor.com/" rel="external">HTML5 Doctor</a></dt>
- <dd>Articles about using HTML5 right now.</dd>
+ <dd>مقاله‌هایی در مورد استفاده HTML5 همین حالا.</dd>
  <dt><a href="http://www.elated.com/articles/html5-audio/" rel="external">The Joy of HTML5 Audio</a> (Elated)</dt>
- <dd>Learn how to use the HTML audio element to embed sounds in your web pages easily. Lots of code examples are included in the tutorial.</dd>
+ <dd>یادبگیرید چطور از المان صوتی HTML تا صداها را به سادگی در صفحات وب خود جایگذاری کنید. خیلی از نمونه کدها در آموزش گنجانده شده است.</dd>
 </dl>
 
-<h2 class="Documentation" id="Documentation" name="Documentation">Javascript tutorials</h2>
+<h2 class="Documentation" id="Documentation" name="Documentation">آموزش Javascript</h2>
 
-<h3 id="Introductory_level_2">Introductory level</h3>
+<h3 id="Introductory_level_2">سطح مقدماتی</h3>
 
 <dl>
  <dt><a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</dt>
- <dd>Codecademy is a easy way to learn how to code JavaScript. It's interactive and you can do it with your friends.</dd>
+ <dd>Codecademy یک راه ساده برای یادگیری چگونگی کد با جاوا اسکریپت است. این برنامه تعاملی است و شما می‌توانید با دوستانتان آن‌را انجام دهید.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Getting_Started">Getting Started with JavaScript</a></dt>
- <dd>What is JavaScript and how can it help you?</dd>
+ <dd>جاوا اسکریپت چی هست و چطور به شما کمک می‌کند؟</dd>
  <dt><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" rel="external">JavaScript Best Practices</a><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" title="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices"> </a>(WebPlatform.org)</dt>
- <dd>Learn about some of the obvious and (not so) obvious best practices when writing JavaScript.</dd>
+ <dd>در مورد برخی از واضح (یا نه خیلی) واضح از بهترین تمرین‌ها یاد بگیرید وقتی که جاوا اسکریپت می نویسید.</dd>
  <dt><a href="http://codeavengers.com/" title="http://codeavengers.com/">CodeAvengers</a> (CodeAvengers.com)</dt>
- <dd>Code Avengers is the fun, effective way to learn to code web apps and games with HTML, CSS, and JavaScript.</dd>
+ <dd>Code Avengers یک سرگرمی است، راه مؤثری برای یادگیری کد نرم افزارهای تحت وب و بازی‌ها باHTML، CSS، و JavaScript.</dd>
  <dt><a href="http://codecombat.com/#">CodeCombat</a> (codecombat.com)</dt>
- <dd>CodeCombat is a game designed to teach you JavaScript. It is Open Source.</dd>
+ <dd>CodeCombat یک بازی است تا به شما جاوا اسکریپت آموزش دهد. منبع باز است.</dd>
 </dl>
 
-<h3 id="Intermediate_level">Intermediate level</h3>
+<h3 id="Intermediate_level">سطح میانی</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/A_re-introduction_to_JavaScript">A Re-Introduction to JavaScript</a></dt>
- <dd>A recap of the JavaScript programming language aimed at intermediate-level developers.</dd>
+ <dd>یک روکش از زبان برنامه نویسی جاوا اسکریپت که به توسعه دهندگان سطح میانی کمک می‌کند.</dd>
  <dt><a href="http://eloquentjavascript.net/contents.html" rel="external">Eloquent JavaScript</a></dt>
- <dd>A comprehensive guide to intermediate and advanced JavaScript methodologies.</dd>
+ <dd>یک راهنمای جامع برای متدولوژی‌های پیشرفته و میانی جاوا اسکریپت.</dd>
  <dt><a href="http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/" rel="external">Essential JavaScript Design Patterns</a> (Addy Osmani)</dt>
- <dd>An introduction to essential JavaScript design patterns.</dd>
+ <dd>یک معرفی به اساس الگوهای طراحی جاوا اسکریپت.</dd>
  <dt><a href="http://www.yuiblog.com/blog/2007/01/24/video-crockford-tjpl/" rel="external">The JavaScript Programming Language</a> (YUI Blog)</dt>
- <dd>Douglas Crockford explores the language as it is today, and how it came to be.</dd>
+ <dd>Douglas Crockford زبان را مانند چیزی که امروز است کاوش کرده است، و چگونه به‌دست می‌آمد.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Introduction_to_Object-Oriented_JavaScript">Introduction to Object-Oriented JavaScript</a></dt>
- <dd>Learn about the JavaScript object model.</dd>
+ <dd>یادگیری در مورد مدل آبجکتی جاوا اسکریپت.</dd>
 </dl>
 </div>
 
 <div class="section">
-<h3 id="Advanced_level_2">Advanced level</h3>
+<h3 id="Advanced_level_2">سطح پیشرفته</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Guide">JavaScript Guide</a></dt>
- <dd>A comprehensive, regularly updated guide to JavaScript for all levels of learning from beginner to advanced.</dd>
+ <dd>یک راهنمای جامع، به‌روز شده منظم از جاوا اسکریپت برای همه سطوح از آموزش از مبتدی تا پیشرفته.</dd>
  <dt><a href="http://ejohn.org/apps/learn/" rel="external">Learning Advanced JavaScript</a> (John Resig)</dt>
- <dd>John Resig's guide to advanced JavaScript.</dd>
+ <dd>راهنمای John Resig برای جاوا اسکریپت پیشرفته.</dd>
  <dt><a href="http://www.elated.com/articles/javascript-dom-intro/" rel="external">Introducing the JavaScript DOM</a> (Elated)</dt>
- <dd>What is the Document Object Model, and why is it useful? This article gives you a gentle introduction to this powerful JavaScript feature.</dd>
+ <dd>مدل شیء سند چی است، و چرا مفید است؟ This article gives you a gentle introduction to this powerful JavaScript feature.</dd>
  <dt><a href="http://yuiblog.com/blog/2006/10/20/video-crockford-domtheory/" rel="external">An Inconvenient API: The Theory of the DOM</a> (YUI Blog)</dt>
  <dd>Douglas Crockford explains the Document Object Model.</dd>
  <dt><a href="http://yuiblog.com/blog/2006/11/27/video-crockford-advjs/" rel="external">Advanced JavaScript</a> (YUI Blog)</dt>
