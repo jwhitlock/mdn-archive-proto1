@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 655247
+revision_id: 823929
 locale: es
 slug: MDN/Contribute
 tags: "MDN" "Guide" "Landing" "TopicStub" "NeedTranslate" "Documentation"
@@ -55,7 +55,7 @@ based_on: None
   </dl>
  </div>
  <div class="section">
-  <h2 id="C.C3.B3mo_hacerlo">Cómo hacerlo</h2>
+  <h2 id="Cómo_hacerlo">Cómo hacerlo</h2>
   <p>Nuestra <a href="/en-US/docs/MDN/Contribute/Howto">guía cómo hacerlo</a> proporciona instrucciones paso a paso para ayudarle a realizar tareas específicas cuando contribuye al MDN.</p>
   <dl>
    <dt>
@@ -71,7 +71,7 @@ based_on: None
    <dd>
     Esta guía te ayudará a interpretar correctamente las especificaciones estándar de la Web. Ser capaz de leer éstos, pueden ser una forma de arte y saber cómo hacerlo te ayudará a producir una mejor documentación.</dd>
   </dl>
-  <h2 id="Localizaci.C3.B3n">Localización</h2>
+  <h2 id="Localización">Localización</h2>
   <dl>
    <dt>
     <a href="/en-US/docs/MDN/Contribute/Localize/Tour">Localización visita guiada </a></dt>
@@ -88,5 +88,5 @@ based_on: None
   </dl>
  </div>
 </div>
-<p>&nbsp;</p>
+<p> </p>
 
