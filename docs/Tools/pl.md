@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 830651
+revision_id: 837789
 locale: pl
 slug: Narzędzia
 tags: "Narzędzia"
@@ -13,6 +13,12 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
+<p><span class="comment">This should not be merged with Web development, as this also applies to XUL/JS development</span></p>
+
+<ul>
+ <li>&nbsp;</li>
+</ul>
+
 <table class="topicpage-table">
  <tbody>
   <tr>
@@ -21,7 +27,7 @@ based_on: None
 
     <h5 id="Rozszerzenia" name="Rozszerzenia">Rozszerzenia</h5>
 
-    <p>Rozszerzenia Mozilli / Firefoksa pomocne dla autorów stron WWW.</p>
+    <p>Rozszerzenia Mozilli / Firefoksa pomocna dla autorów stron WWW.</p>
 
     <ul>
      <li><a href="pl/Venkman">Venkman</a> - Venkman jest debuggerem JavaScript.</li>
@@ -56,7 +62,7 @@ based_on: None
 
     <ul>
      <li><a href="pl/Inspektor_DOM">Inspektor DOM</a></li>
-     <li><a class="external" href="http://slayeroffice.com/tools/modi/v2.0/modi_help.html">MODI</a> - Mouseover DOM Inspector (także znany jako bookmarklet) to interaktywny inspektor DOM, który pozwala na przeglądanie oraz manipulowanie elementami DOM poprzez poruszanie kursorem.</li>
+     <li><a class="external" href="http://slayeroffice.com/tools/modi/v2.0/modi_help.html">MODI</a> - Mouseover DOM Inspector(także znany jako bookmarklet) to interaktywny inspektor DOM, który pozwala na przeglądanie oraz manipulowanie elementami DOM poprzez poruszanie kursorem.</li>
     </ul>
 
     <h4 id="Lokalizacje" name="Lokalizacje">Lokalizacje</h4>
