@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 815203
+revision_id: 843799
 locale: zh-CN
 slug: Web/Apps
 tags: "应用" "火狐OS" "火狐系统" "移动" "网络开发"
@@ -13,11 +13,9 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p> </p>
-
-<div id="sect1" class="initial-steps clear">
+<div class="initial-steps clear" id="sect1">
 <div class="panel">
-<h2 id=".E8.AE.BE.E8.AE.A1" class="section-design" style="margin-bottom: 20px; line-height: 30px; "><a href="https://developer.mozilla.org/en-US/docs/Web/Apps/Design">设计</a></h2>
+<h2 class="section-design" id="设计" style="margin-bottom: 20px; line-height: 30px; "><a href="https://developer.mozilla.org/en-US/docs/Web/Apps/Design">设计</a></h2>
 
 <p>学习如何设计一个提供跨平台用户体验的可安装开放 web 应用。</p>
 
@@ -29,19 +27,19 @@ based_on: None
 </div>
 
 <div class="panel">
-<h2 id=".E6.9E.84.E5.BB.BA" class="section-build" style="margin-bottom: 20px; line-height: 30px; "><a href="https://developer.mozilla.org/en-US/docs/Web/Apps/Build">构建</a></h2>
+<h2 class="section-build" id="构建" style="margin-bottom: 20px; line-height: 30px; "><a href="https://developer.mozilla.org/en-US/docs/Web/Apps/Build">构建</a></h2>
 
 <p>获取您在处理开发问题时的所有推荐和指导。</p>
 
 <ul class="no-bullets">
  <li><a href="https://developer.mozilla.org/en-US/Apps/Quickstart">入门</a></li>
  <li><a href="https://developer.mozilla.org/en-US/Apps/Build/installable_apps">可安装的App</a></li>
- <li><a href="https://developer.mozilla.org/en-US/Apps/Developing/App_development_FAQ">App 开发常见问题 </a></li>
+ <li><a href="https://developer.mozilla.org/en-US/Apps/Developing/App_development_FAQ">App 开发常见问题&nbsp;</a></li>
 </ul>
 </div>
 
 <div class="panel">
-<h2 id=".E5.8F.91.E5.B8.83" class="section-publish" style="margin-bottom: 20px; line-height: 30px; "><a href="https://developer.mozilla.org/en-US/docs/Mozilla/Marketplace">发布</a></h2>
+<h2 class="section-publish" id="发布" style="margin-bottom: 20px; line-height: 30px; "><a href="https://developer.mozilla.org/en-US/docs/Mozilla/Marketplace">发布</a></h2>
 
 <p>将你的应用发布到一个以用户和开发者为第一的开放市场：<a href="https://developer.mozilla.org/en-US/Marketplace">Marketplace</a></p>
 
@@ -54,14 +52,14 @@ based_on: None
 </div>
 
 <div class="summary">
-<p><span class="seoSummary" style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; ">学习如何创建开发Web应用——在不同规格、不同设备设备上运行的丰富经验——使用与你所知相同的Web规范和其他开放技术</span></p>
+<p><span class="seoSummary" style="border-bottom-width:0px; border-left-width:0px; border-right-width:0px; border-top-width:0px; padding-bottom:0px; padding-left:0px; padding-right:0px; padding-top:0px">学习如何创建开发Web应用——在不同规格、不同设备设备上运行的丰富经验——使用与你所知相同的Web规范和其他开放技术</span></p>
 </div>
 
 <div class="column-container">
 <div class="column-4" style="margin-right: 19px; width: 197px; float: left; ">
 <h2 id="Firefox_OS" style="margin-bottom: 20px; line-height: 30px; ">Firefox OS</h2>
 
-<p>有关 Firefox OS （Mozilla 公司开放的基于网页的移动操作系统） 中创建应用的有效信息。 </p>
+<p>有关 Firefox OS （Mozilla 公司开放的基于网页的移动操作系统） 中创建应用的有效信息。&nbsp;</p>
 
 <ul>
  <li><a href="https://developer.mozilla.org/en-US/Firefox_OS/Screencast_series:_App_Basics_for_Firefox_OS">视频：Firefox OS基本应用</a></li>
@@ -71,19 +69,19 @@ based_on: None
 </div>
 
 <div class="column-4" style="margin-right: 19px; width: 197px; float: left; ">
-<h2 id=".E8.B0.83.E8.AF.95" style="margin-bottom: 20px; line-height: 30px; ">调试</h2>
+<h2 id="调试" style="margin-bottom: 20px; line-height: 30px; ">调试</h2>
 
 <p>无论你有什么调试需求，我们靠最好的工具获得信息，来帮助你</p>
 
 <ul>
  <li><a href="https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/App_developer_tools">Mozilla应用开发工具总结</a></li>
- <li><a href="https://developer.mozilla.org/en-US/Firefox_OS/Using_the_App_Manager">使用App Manager</a></li>
+ <li><a href="https://developer.mozilla.org/en-US/docs/Tools/WebIDE">WebIDE</a></li>
  <li><a href="https://developer.mozilla.org/en-US/docs/Tools">Tools</a></li>
 </ul>
 </div>
 
 <div class="column-4" style="width: 197px; float: left; ">
-<h2 id=".E7.BB.84.E4.BB.B6" style="margin-bottom: 20px; line-height: 30px; ">组件</h2>
+<h2 id="组件" style="margin-bottom: 20px; line-height: 30px; ">组件</h2>
 
 <p>我们已经有各种加速应用开发的工具和组件</p>
 
@@ -159,12 +157,12 @@ based_on: None
    <li><strong><a href="https://developer.mozilla.org/en-US/Apps/Reference/Foundation_of_a_Firefox_OS_app">一个火狐 OS 应用的基础</a></strong></li>
    <li><a href="https://developer.mozilla.org/en-US/Apps/Reference/Layout_and_structure">布局和结构</a></li>
    <li><a href="https://developer.mozilla.org/en-US/Apps/Reference/Drawing_and_animation">绘制和动画</a></li>
-   <li><strong><a href="https://developer.mozilla.org/en-US/Apps/Reference/Firefox_OS_device_APIs">火狐 OS 的设备 API</a></strong></li>
+   <li><strong><a href="https://developer.mozilla.org/en-US/Apps/Reference/Firefox_OS_device_APIs">火狐 OS 的设备&nbsp;API</a></strong></li>
    <li><a href="https://developer.mozilla.org/en-US/Apps/Reference/General_Web_APIs">通用的 API</a></li>
    <li><a href="https://developer.mozilla.org/en-US/Apps/Reference/Firefox_Marketplace_services">火狐的应用市场服务</a></li>
   </ol>
  </li>
 </ol>
 
-<p> </p>
+<p>&nbsp;</p>
 
