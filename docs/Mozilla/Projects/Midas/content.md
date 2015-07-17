@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 848671
+revision_id: 848673
 locale: en-US
 slug: Mozilla/Projects/Midas
 tags: "DOM" "Midas" "NeedsHelp" "Reference" "Référence(2)" "NeedsContent"
