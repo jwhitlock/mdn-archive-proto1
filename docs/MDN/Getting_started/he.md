@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 850399
+revision_id: 855197
 locale: he
 slug: MDN/Getting_started
 tags: 
@@ -131,6 +131,6 @@ based_on: None
 <ul dir="rtl">
  <li><a href="/en-US/docs/Project:Community">הצטרף לקהילת MDN</a>.</li>
  <li><a href="/en-US/profile">מלא את הפרופיל שלך</a>&nbsp;כדי שאחרים יוכלו לדעת יותר עליך.</li>
- <li>למד עוד על איך אפשר&nbsp;<a href="/en-US/docs/MDN/Contribute">לתרום לMDN</a>.</li>
+ <li>למד עוד על איך אפשר&nbsp;<a href="/he/docs/MDN/Contribute">לתרום לMDN</a>.</li>
 </ul>
 
