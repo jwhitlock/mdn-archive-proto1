@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 624593
+revision_id: 871349
 locale: hi-IN
 slug: MDN/Contribute
 tags: "MDN" "Guide" "Landing" "TopicStub" "Documentation" "NeedsTranslation"
@@ -9,88 +9,45 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 544635
+based_on: None
 ---
-<p>Welcome! By visiting this page, you've taken the first step toward becoming a contributor to MDN. <span class="seoSummary">The guides here cover all aspects of contributing to MDN, including style guides, guides to using our editor and tools, and more.</span></p>
-<div class="row topicpage-table">
- <div class="section">
-  <h2 id="Contributor_guides">Contributor guides</h2>
-  <dl>
-   <dt>
-    <a href="/en-US/docs/MDN/Getting_started">Getting started</a></dt>
-   <dd>
-    A quick start guide to getting set up and making your first contribution.</dd>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/Style_guide">Content and style guide</a></dt>
-   <dd>
-    The MDN content and style guide provides details about writing style, page layout, and content styles, so that the content you write fits in with the rest of MDN's content.</dd>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/Editor">Editor guide</a></dt>
-   <dd>
-    A complete guide to using MDN's editor.</dd>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/Reviewing_articles">Reviewing articles</a></dt>
-   <dd>
-    A guide to performing technical and editorial reviews of articles' content, to help us ensure that all content on MDN is as useful and readable as can be!</dd>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/Conventions">Terminology and conventions</a></dt>
-   <dd>
-    Our terminology and conventions guide provides information you can use to ensure that you use the correct terminology to describe things.</dd>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/Community">Working with the MDN community</a></dt>
-   <dd>
-    A guide to working with our community, finding help, and connecting with the people with the answers to the questions that arise while you contribute to MDN.</dd>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/FAQ">Frequently asked questions</a></dt>
-   <dd>
-    Tips and answers to the most common questions about contributing to MDN.</dd>
-  </dl>
-  <dl>
-   <dt>
-    <a href="/en-US/docs/MDN/Kuma/Contributing">Contributing to Kuma</a></dt>
-   <dd>
-    A guide to contributing to the Kuma project. Kuma is the platform that powers the MDN Web site.</dd>
-  </dl>
- </div>
- <div class="section">
-  <h2 id="How_to...">How to...</h2>
-  <p>Our <a href="/en-US/docs/MDN/Contribute/Howto">how-to guides</a> provide step-by-step instructions to help you accomplish specific tasks when contributing to MDN.</p>
-  <dl>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/Howto/Document_a_CSS_property">How to document a CSS property</a></dt>
-   <dd>
-    A guide to writing documentation of CSS properties. All CSS property documents should match the style and layout described in this article.</dd>
-   <dt>
-    How to document an HTML element</dt>
-   <dd>
-    This guide to documenting HTML elements will ensure that the documents you write match others on MDN.</dd>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/Howto/Tag">How to properly tag pages</a></dt>
-   <dd>
-    This guide to tagging pages provides information about our standards for tagging, including lists of tags that have standard meanings on MDN. Following this guide will ensure that your content is properly categorized, more easily searchable, and that our search filtering mechanism works properly with your articles.</dd>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/Howto/Interpret_specifications">How to interpret specifications</a></dt>
-   <dd>
-    This guide will help you to properly interpret standard Web specifications; being able to read these can be an art form, and knowing how to do it will help you produce better documentation.</dd>
-  </dl>
-  <h2 id="Localization">Localization</h2>
-  <dl>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/Localize/Tour">Localization guided tour</a></dt>
-   <dd>
-    This guided tour will teach you how to localize content on MDN.</dd>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/Localize/Guide">Localization guide</a></dt>
-   <dd>
-    This guide provides details about the localization process for MDN content.</dd>
-   <dt>
-    <a href="/en-US/docs/MDN/Contribute/Localize/Localization_projects">Localization projects</a></dt>
-   <dd>
-    Find the localization project for your language—or, if there isn't one, learn how to start a new one!</dd>
-  </dl>
- </div>
-</div>
-<p>&nbsp;</p>
+<p>आपका स्वागत है! इस पृष्ठ पर जाकर करके, आप MDN के लिए एक योगदानकर्ता बनने की ओर पहला कदम उठाया है। गाइड यहां MDN में योगदान करने के सभी पहलुओं को कवर, शैली गाइड सहित व्यवहार करता है, हमारे संपादक और उपकरण, और अधिक का उपयोग करने के लिए गाइड।</p>
+
+<p>योगदानकर्ता गाइड<br />
+ शुरू करना<br />
+ सेट-अप हो रही है और अपना पहला योगदान बनाने के लिए एक जल्दी शुरू गाइड।<br />
+ सामग्री और शैली गाइड<br />
+ MDN सामग्री और शैली गाइड लेखन शैली, पेज लेआउट, सामग्री और शैलियों के बारे में जानकारी प्रदान करता है, इसलिए यदि आप MDN की सामग्री के आराम के साथ में फिट बैठता है सामग्री लिखें।<br />
+ संपादक प्राप्त करें<br />
+ MDN के संपादक का उपयोग करने के लिए एक पूरा गाइड।<br />
+ लेख की समीक्षा<br />
+ लेख 'सामग्री के तकनीकी और प्रकाशन समीक्षा के प्रदर्शन के लिए एक गाइड, हमें MDN पर सभी सामग्री हो सकता है के रूप में रूप में उपयोगी और पठनीय है कि यह सुनिश्चित करने में मदद करने के लिए!<br />
+ शब्दावली और सम्मेलनों<br />
+ हमारी शब्दावली और सम्मेलनों गाइड आप आप चीजों का वर्णन करने के लिए सही शब्दावली का उपयोग सुनिश्चित करना है कि उपयोग कर सकते हैं के बारे में जानकारी प्रदान करता है।<br />
+ MDN समुदाय के साथ काम<br />
+ , हमारे समुदाय के साथ काम ढूँढने में मदद, और आप MDN में योगदान जबकि उठता है कि सवालों के जवाब के साथ लोगों के साथ कनेक्ट करने के लिए एक गाइड।<br />
+ सामान्यतःपूछे जाने वाले प्रश्न<br />
+ MDN में योगदान के बारे में सबसे आम सवालों के सुझाव और जवाब।<br />
+ कुमार को योगदान<br />
+ परियोजना में योगदान कुमार के लिए एक गाइड। कुमार मंच है कि शक्तियों MDN वेबसाइट है।<br />
+ कैसे करें ...<br />
+ गाइड हमारी-कैसे करें MDN में योगदान जब आप विशिष्ट कार्यों को पूरा करने में मदद करने के लिए कदम दर कदम निर्देश प्रदान करें।</p>
+
+<p>एक सीएसएस संपत्ति के दस्तावेज करने के लिए कैसे करें<br />
+ सीएसएस संपत्तियों के दस्तावेज लिखने के लिए एक गाइड। सभी संपत्ति दस्तावेजों सीएसएस इस आलेख में वर्णित शैली और लेआउट से मेल खाना चाहिए।<br />
+ कैसे एक HTML तत्व करने के लिए दस्तावेज़<br />
+ दस्तावेजीकरण HTML तत्वों के लिए इस गाइड आप लिख दस्तावेजों MDN पर दूसरों से मेल खाते हैं यह सुनिश्चित करेगा।<br />
+ ठीक से पृष्ठों टैग करने के लिए कैसे करें<br />
+ टैगिंग पृष्ठों के लिए इस गाइड MDN पर अर्थ मानक है कि टैग की सूचियों सहित टैगिंग के लिए हमारे मानकों के बारे में जानकारी प्रदान करता है। इस गाइड के बाद अपनी सामग्री ठीक से और अधिक आसानी से खोजा वर्गीकृत किया गया है कि यह सुनिश्चित करें, और हमारे खोज छानने तंत्र अपने लेख के साथ ठीक से काम करता होगा।<br />
+ विनिर्देशों की व्याख्या करने के लिए कैसे करें<br />
+ इस गाइड आप ठीक ढंग से वेब मानक विनिर्देशों की व्याख्या करने में मदद मिलेगी; एक कला का रूप हो सकता है इन पढ़ने में सक्षम होने के नाते, और यह आप बेहतर प्रलेखन उत्पादन में मदद मिलेगी कैसे करना है यह जानते हुए।<br />
+ स्थानीकरण<br />
+ स्थानीयकरण निर्देशित दौरे<br />
+ यह निर्देशित दौरे कैसे MDN पर सामग्री स्थानीयकरण करने के लिए आपको सिखा देगा।<br />
+ स्थानीयकरण प्राप्त करें<br />
+ इस गाइड MDN सामग्री के लिए स्थानीयकरण प्रक्रिया के बारे में जानकारी प्रदान करता है।<br />
+ स्थानीयकरण प्रोजेक्ट<br />
+ आपके लिए स्थानीयकरण परियोजना का पता लगाएं भाषा-या, वहाँ एक नहीं है, तो एक नया शुरू करने के लिए कैसे जानने के लिए!</p>
 
