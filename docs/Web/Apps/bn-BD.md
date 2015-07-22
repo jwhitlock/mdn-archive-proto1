@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 729439
+revision_id: 872207
 locale: bn-BD
 slug: Apps
 tags: "Apps" "Mobile" "Firefox BD" "Firefox OS" "Mozilla BD" "Developers" "Bd developers" "Web Development" "Firefox Developers BD"
@@ -8,14 +8,14 @@ title: অ্যাপ সেন্টার
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
 <div class="initial-steps clear" id="sect1">
 <div class="panel">
-<h2 class="section-design" id=".E0.A6.A1.E0.A6.BF.E0.A6.9C.E0.A6.BE.E0.A6.87.E0.A6.A8"><a href="/bn-BD/docs/Web/Apps/Design">ডিজাইন</a></h2>
+<h2 class="section-design" id="ডিজাইন"><a href="/bn-BD/docs/Web/Apps/Design">ডিজাইন</a></h2>
 
 <p>শিখুন কিভাবে ইনস্টলযোগ্য ওপেন ওয়েব অ্যাপ, যা দারুণ ক্রস-প্ল্যাটফর্ম ইউজার এক্সপেরিয়েন্স দেয় এমন ডিজাইন করতে হয়।</p>
 
@@ -27,7 +27,7 @@ based_on: None
 </div>
 
 <div class="panel">
-<h2 class="section-build" id=".E0.A6.AC.E0.A6.BF.E0.A6.B2.E0.A7.8D.E0.A6.A1"><a href="/bn-BD/Apps/Build">বিল্ড</a></h2>
+<h2 class="section-build" id="বিল্ড"><a href="/bn-BD/Apps/Build">বিল্ড</a></h2>
 
 <p>আপনার বাস্তব ডেভেলপমেন্ট সমস্যা সমাধানের জন্য যতরকমের টিউটোরিয়াল এবং সুপারিশ প্রয়োজন হবে, তার সব এখানে পাবেন।</p>
 
@@ -39,7 +39,7 @@ based_on: None
 </div>
 
 <div class="panel">
-<h2 class="section-publish" id=".E0.A6.AA.E0.A7.8D.E0.A6.B0.E0.A6.95.E0.A6.BE.E0.A6.B6"><a href="/bn-BD/docs/Mozilla/Marketplace">প্রকাশ</a></h2>
+<h2 class="section-publish" id="প্রকাশ"><a href="/bn-BD/docs/Mozilla/Marketplace">প্রকাশ</a></h2>
 
 <p>ব্যবহারকারী ও ডেভেলপারদের প্রাধান্য দেয় এমন একটি উন্মুক্ত মার্কেটপ্লেসের মাধ্যমে আপনার অ্যাপ বিতরণ করুন। বিস্তারিত জানতে <a href="/bn-BD/Marketplace">মার্কেটপ্লেস জোন</a> দেখুন।</p>
 
@@ -69,7 +69,7 @@ based_on: None
 </div>
 
 <div class="column-4">
-<h2 id=".E0.A6.A1.E0.A6.BF.E0.A6.AC.E0.A6.BE.E0.A6.97">ডিবাগ</h2>
+<h2 id="ডিবাগ">ডিবাগ</h2>
 
 <p>আপনার ডিবাগের প্রয়োজন যাই হোক না কেন, আপনার কাজে সহায়তা করার জন্য আমাদের কাছে সর্বোত্তম টুলস এর তথ্য আছে।</p>
 
@@ -81,7 +81,7 @@ based_on: None
 </div>
 
 <div class="column-4">
-<h2 id=".E0.A6.95.E0.A6.AE.E0.A7.8D.E0.A6.AA.E0.A7.8B.E0.A6.A8.E0.A7.87.E0.A6.A8.E0.A7.8D.E0.A6.9F">কম্পোনেন্ট</h2>
+<h2 id="কম্পোনেন্ট">কম্পোনেন্ট</h2>
 
 <p>অ্যাপ ডেভেলপমেন্ট প্রক্রিয়া তরান্বিত করতে আমরা বিভিন্ন ধরনের টূলস এবং রেডিমেড কম্পোনেন্ট তৈরি করেছি।</p>
 
@@ -98,7 +98,7 @@ based_on: None
 </div>
 
 <div class="column-container zone-callout">
-<h3 id=".E0.A6.86.E0.A6.AA.E0.A6.A8.E0.A6.BE.E0.A6.B0_.E0.A6.86.E0.A6.87.E0.A6.A1.E0.A6.BF.E0.A7.9F.E0.A6.BE_.E0.A6.B6.E0.A7.87.E0.A7.9F.E0.A6.BE.E0.A6.B0_.E0.A6.95.E0.A6.B0.E0.A7.81.E0.A6.A8">আপনার আইডিয়া শেয়ার করুন</h3>
+<h3 id="আপনার_আইডিয়া_শেয়ার_করুন">আপনার আইডিয়া শেয়ার করুন</h3>
 
 <p>ওপেন ওয়েব প্লাটফর্মের কি প্রয়োজন? আমাদের <a href="https://openwebapps.uservoice.com/forums/258478-open-web-apps">ইউজার ভয়েস পেজ</a> দেখুন, ওপেন ওয়েব অ্যাপের জন্য নতুন ফিচার/ক্ষমতার জন্য অনুরোধ করুন অথবা অন্য ডেভেলপারদের অনুরোধ বা আইডিয়াতে ভোট করুন।</p>
 {{MDNButton("আপনার আইডিয়া শেয়ার করুন","https://openwebapps.uservoice.com/forums/258478-open-web-apps")}}</div>
