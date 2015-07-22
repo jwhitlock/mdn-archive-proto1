@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 729251
+revision_id: 872099
 locale: bn-BD
 slug: Web/Tutorials
 tags: "ওয়েব ডিজাইন" "কোড" "টিউটোরিয়াল" "NeedsReview"
@@ -23,7 +23,7 @@ based_on: None
 
     <p>&nbsp;</p>
 
-    <h3 id=".E0.A6.AA.E0.A7.8D.E0.A6.B0.E0.A6.BE.E0.A6.A5.E0.A6.AE.E0.A6.BF.E0.A6.95_.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.AF.E0.A6.BE.E0.A7.9F">প্রাথমিক পর্যায়</h3>
+    <h3 id="প্রাথমিক_পর্যায়">প্রাথমিক পর্যায়</h3>
 
     <dl>
      <dt><a href="http://docs.webplatform.org/wiki/guides/the_basics_of_html" rel="external">The Basics of HTML</a> (WebPlatform.org)</dt>
@@ -38,7 +38,7 @@ based_on: None
      <dd>Code Avengers is the fun, effective way to learn to code web apps and games with HTML, CSS, and JavaScript.</dd>
     </dl>
 
-    <h3 id=".E0.A6.85.E0.A6.97.E0.A7.8D.E0.A6.B0.E0.A6.BF.E0.A6.AE_.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.AF.E0.A6.BE.E0.A7.9F">অগ্রিম পর্যায়</h3>
+    <h3 id="অগ্রিম_পর্যায়">&nbsp;উন্নত&nbsp;পর্যায়</h3>
 
     <dl>
      <dt><a href="https://developer.mozilla.org/en-US/docs/Tips_for_Authoring_Fast-loading_HTML_Pages">Tips for Authoring Fast-Loading HTML Pages</a></dt>
@@ -60,7 +60,7 @@ based_on: None
    <td>
     <h2 class="Documentation" id="Documentation" name="Documentation">জাভাস্ক্রিপ্ট টিউটেরিয়াল</h2>
 
-    <h3 id=".E0.A6.AA.E0.A7.8D.E0.A6.B0.E0.A6.BE.E0.A6.A5.E0.A6.AE.E0.A6.BF.E0.A6.95_.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.AF.E0.A6.BE.E0.A7.9F_2">প্রাথমিক পর্যায়</h3>
+    <h3 id="প্রাথমিক_পর্যায়_2">প্রাথমিক পর্যায়</h3>
 
     <dl>
      <dt><a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</dt>
@@ -78,7 +78,7 @@ based_on: None
      <dt>&nbsp;</dt>
     </dl>
 
-    <h3 id=".E0.A6.AE.E0.A6.A7.E0.A7.8D.E0.A6.AF.E0.A6.AE_.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.AF.E0.A6.BE.E0.A7.9F">মধ্যম পর্যায়</h3>
+    <h3 id="মধ্যম_পর্যায়">মধ্যম পর্যায়</h3>
 
     <dl>
      <dt><a href="https://developer.mozilla.org/en-US/docs/A_re-introduction_to_JavaScript">A Re-Introduction to JavaScript</a></dt>
@@ -93,7 +93,7 @@ based_on: None
      <dd>Learn about the JavaScript object model.</dd>
     </dl>
 
-    <h3 id=".E0.A6.85.E0.A6.97.E0.A7.8D.E0.A6.B0.E0.A6.BF.E0.A6.AE_.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.AF.E0.A6.BE.E0.A7.9F_2">অগ্রিম পর্যায়</h3>
+    <h3 id="অগ্রিম_পর্যায়_2">উন্নত&nbsp;পর্যায়</h3>
 
     <dl>
      <dt><a href="http://ejohn.org/apps/learn/" rel="external">Learning Advanced JavaScript</a> (John Resig)</dt>
@@ -122,7 +122,7 @@ based_on: None
   </tr>
   <tr>
    <td>
-    <h3 id=".E0.A6.AA.E0.A7.8D.E0.A6.B0.E0.A6.BE.E0.A6.A5.E0.A6.AE.E0.A6.BF.E0.A6.95_.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.AF.E0.A6.BE.E0.A7.9F_3">প্রাথমিক পর্যায়</h3>
+    <h3 id="প্রাথমিক_পর্যায়_3">প্রাথমিক পর্যায়</h3>
 
     <dl>
      <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/Getting_Started">CSS Getting Started</a></dt>
@@ -139,7 +139,7 @@ based_on: None
      <dd>Code Avengers is the fun, effective way to learn to code web apps and games with HTML, CSS, and JavaScript.</dd>
     </dl>
 
-    <h3 id=".E0.A6.AE.E0.A6.A7.E0.A7.8D.E0.A6.AF.E0.A6.AE_.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.AF.E0.A6.BE.E0.A7.9F_2">মধ্যম পর্যায়</h3>
+    <h3 id="মধ্যম_পর্যায়_2">মধ্যম পর্যায়</h3>
 
     <dl>
      <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference">CSS Reference</a></dt>
@@ -157,7 +157,7 @@ based_on: None
     </dl>
    </td>
    <td>
-    <h3 id=".E0.A6.85.E0.A6.97.E0.A7.8D.E0.A6.B0.E0.A6.BF.E0.A6.AE_.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.AF.E0.A6.BE.E0.A7.9F_3">অগ্রিম পর্যায়</h3>
+    <h3 id="অগ্রিম_পর্যায়_3">উন্নত&nbsp;পর্যায়</h3>
 
     <dl>
      <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/Using_CSS_transforms">Using CSS Transforms</a></dt>
