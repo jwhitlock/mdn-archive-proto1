@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 426449
+revision_id: 895445
 locale: ro
 slug: Web/API
 tags: "NeedsTranslation"
@@ -13,6 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site.</p>
+<p>Atunci cand faci programare Web folosing Javascript, ai la dispozitie foarte multe API-uri. Mai jos poti vedea lista de interfete (tipuri de obiecte), disponibile pentru aplicatia ta.</p>
+
 <div>{{APIListAlpha(1, "", "", "en-US", "true")}}</div>
 
