@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 773969
+revision_id: 899175
 locale: en-US
 slug: Learn
 tags: "Web" "Index" "Intro" "Learn" "Landing" "Beginner"
@@ -21,7 +21,7 @@ based_on: None
 
 <h2 id="Where_to_go_first">Where to go first</h2>
 
-<p>We want to meet you where you are. Which description fits you best?</p>
+<p>We meet you where you are. Which description fits you best?</p>
 
 <ul class="card-grid">
  <li><span>I'm a beginner</span>
