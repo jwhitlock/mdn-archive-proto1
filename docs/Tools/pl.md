@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 837789
+revision_id: 901573
 locale: pl
 slug: Narzędzia
 tags: "Narzędzia"
