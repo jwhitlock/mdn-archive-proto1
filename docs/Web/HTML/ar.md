@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 902029
+revision_id: 902033
 locale: ar
 slug: Web/HTML_لغة_ترميز_النص_الفائق
 tags: 
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: d61544dd5fdcc5ee400da641e6f9358b8d5a7282
+based_on: None
 ---
 <p class="note">{{HTMLSidebar()}}</p>
 
@@ -22,16 +22,16 @@ based_on: d61544dd5fdcc5ee400da641e6f9358b8d5a7282
 <p dir="rtl">هذا المقال يوفر موارد تعليمية مرجعية في تطوير الويب.</p>
 
 <section class="cleared" id="sect1">
-<ul class="card-grid">
- <li><span>HTML reference</span>
+<ul class="card-grid" dir="rtl">
+ <li><span>مرجع HTML</span>
 
-  <p>In our <a href="/en-US/docs/Web/HTML/Reference">extensive reference</a>, you'll find the details on each element and attribute that makes up HTML.</p>
+  <p>نقدم لك <a href="en-US/docs/Web/HTML/Reference">مرجع شامل </a>تجد فيه كل التفاصيل الخاصة بوسوم و سمات HTML.</p>
  </li>
- <li><span>HTML guide</span>
-  <p>For articles about how to use HTML, as well as tutorials and complete examples, check out our <a href="/en-US/docs/Web/Guide/HTML">HTML developer guide</a>.</p>
+ <li><span>دليل HTML</span>
+  <p>تجد في <a href="en-US/docs/Web/Guide/HTML">دليل HTML للمطور</a> مقالات حول كيفية استعمال HTML بالاضافة الى دروس و أمثلة متنوعة.</p>
  </li>
- <li><span>HTML introduction</span>
-  <p>If you're new to Web development, be sure to read our <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction">introduction</a> to what HTML is and how to use it.</p>
+ <li><span>مقدمة في HTML</span>
+  <p>اذا كنت مبتدئ في تطوير الويب قم بقرائة <a href="en-US/docs/Web/Guide/HTML/Introduction">مقدمتنا</a> في HTML و كيفية استعمالها.</p>
  </li>
 </ul>
 
