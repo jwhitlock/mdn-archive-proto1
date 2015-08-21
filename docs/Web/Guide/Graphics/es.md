@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 776625
+revision_id: 904123
 locale: es
 slug: Web/Guide/Graphics
 tags: "2D" "3D" "HTML5" "SVG" "RTCWeb" "WebGL" "WebRTC" "Canvas" "Líneas" "Gráficas" "Gráficos(2)" "graficos" "3ra Dimensión"
@@ -46,5 +46,5 @@ based_on: None
 </div>
 </div>
 
-<p>&nbsp;</p>
+<p> </p>
 
