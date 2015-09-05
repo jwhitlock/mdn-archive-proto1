@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 835353
+revision_id: 912299
 locale: ro
 slug: Web
 tags: "Web" "Introducere" "prima pagină"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -25,9 +25,9 @@ based_on: None
  <dt>Ghidul dezvoltatorilor(programatorilor)</dt>
  <dd>Ghidul programatorului Web&nbsp;oferă&nbsp;informaţii utile&nbsp;care satisfac&nbsp;necesităţile actuale la&nbsp;folosirea tehnologiilor Web şi în realizarea scopului care a fost&nbsp;propus.</dd>
  <dt><a href="/en-US/docs/Web/Tutorials" title="/en-US/docs/Web/Tutorials">Tutorials for Web developers</a></dt>
- <dd>A list of tutorials to take you step-by-step through learning APIs, technologies, or broad topic areas.</dd>
+ <dd>O listă de tutoriale care te vor conduce pas cu pas învățându-te API-uri, tehnologii și subiecte de largă acoperire.</dd>
  <dt><a href="/en-US/docs/Web/Apps" title="/en-US/docs/Web/Apps">Developing Web applications</a></dt>
- <dd>Documentation for Web application developers; Web apps are true write-once, deploy anywhere apps for mobile, desktop, and Firefox OS.</dd>
+ <dd>Documentație pentru dezvoltatori de aplicații Web; aplicațiile Web sunt adevărate aplicații de tip scrie o dată și distribuie oriunde pentru mobil, desktop și Firefox OS.</dd>
 </dl>
 
 <p><span class="alllinks"><a href="/en-US/docs/tag/Web">View All...</a></span></p>
