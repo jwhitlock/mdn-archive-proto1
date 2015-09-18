@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 919097
+revision_id: 919121
 locale: en-US
 slug: MDN/Contribute/Howto
 tags: "MDN Meta" "Landing"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div>{{IncludeSubnav("/en-US/doc/MDN")}}</div>
+<div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
 
 <p>These articles provide step-by-step guides to accomplishing specific goals when contributing to MDN.</p>
 
