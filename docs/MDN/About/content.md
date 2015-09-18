@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 919071
+revision_id: 919077
 locale: en-US
 slug: MDN/About
 tags: "MDN Meta" "Guide" "Licenses" "Community" "Copyright" "Collaborating" "Documentation"
@@ -13,8 +13,9 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>{{IncludeSubNav("/en-US/docs/MDN")}}<br />
- The Mozilla Developer Network (MDN) is an evolving learning platform for Web technologies and the software that powers the Web, including:</p>
+<div>{{IncludeSubNav("/en-US/docs/MDN")}}</div>
+
+<p>The Mozilla Developer Network (MDN) is an evolving learning platform for Web technologies and the software that powers the Web, including:</p>
 
 <ul>
  <li>Web standards such as <a href="/en-US/docs/CSS" title="/en-US/docs/CSS">CSS</a>, <a href="/en-US/docs/HTML" title="/en-US/docs/HTML">HTML</a>, and <a href="/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></li>
