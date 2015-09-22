@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 795083
+revision_id: 921423
 locale: en-US
 slug: Web/API
 tags: "API" "DOM" "Web" "JavaScript" "Reference"
-title: Web API Interfaces
+title: Web APIs
 summary: 
 keywords: 
 needs_technical_review: False
