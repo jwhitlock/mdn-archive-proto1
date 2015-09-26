@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 739649
+revision_id: 924857
 locale: cs
 slug: MDN/Getting_started
 tags: 
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 724379
+based_on: None
 ---
 <p id="What_is_MDN.3F"><span class="seoSummary">We are an open community of developers building resources for a better Web, regardless of brand, browser, or platform. Anyone can contribute and each person who does makes us stronger. Together we can continue to drive innovation on the Web to serve the greater good. It starts here, with you.</span></p>
 
@@ -23,15 +23,15 @@ based_on: 724379
 
 <p>Contributing is easy and safe. Even if you make a mistake, it's easily fixed. Even if you don't know exactly how things should look, or your grammar isn't all that good, don't worry about it! We have a team of people whose job it is to make sure that MDN's contents are as good as possible. Someone will be along to make sure your work is tidy and well-written. Share what you know and follow your strengths.</p>
 
-<h3 id="Step_1.3A_Create_an_account_on_MDN">Step 1: Create an account on MDN</h3>
+<h3 id="Step_1_Create_an_account_on_MDN">Step 1: Create an account on MDN</h3>
 
 <p>To begin your contributions to MDN, you need to have an account on MDN. For details, please see <a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">how to create an account</a>.</p>
 
-<h3 id="Step_2.3A_Pick_a_task_to_complete">Step 2: Pick a task to complete</h3>
+<h3 id="Step_2_Pick_a_task_to_complete">Step 2: Pick a task to complete</h3>
 
 <p>Now that you are logged in, read the descriptions of different task types in {{anch("Possible task types", "the list below")}}, and decide which one most appeals to you. You can pick any task you like and begin your contribution.</p>
 
-<h3 id="Step_3.3A_Do_the_task">Step 3: Do the task</h3>
+<h3 id="Step_3_Do_the_task">Step 3: Do the task</h3>
 
 <p>Once you've decided what kind of task you want to do, find a specific page, code example, etc. to work on, and just do it!</p>
 
@@ -47,7 +47,7 @@ based_on: 724379
 
 <p>There are multiple avenues you can take to contribute to MDN depending on your skill set and interests. Even though some tasks may be daunting, we do have lots of simple activities available. A lot of them need only five minutes (or less!) of your time. Along with the task and its short description, you will find the approximate time that each type of task typically takes.</p>
 
-<h3 id="Option_1.3A_I_like_words">Option 1: I like words</h3>
+<h3 id="Option_1_I_like_words">Option 1: I like words</h3>
 
 <p>You can help us review or edit existing docs, and apply correct tags to them.</p>
 
@@ -62,7 +62,7 @@ based_on: 724379
 
 <div class="note"><strong>Note:</strong> If you are reviewing articles or writing new ones, we ask you to please review the <a href="/en-US/docs/MDN/Contribute/Content/Style_guide">Style Guide</a>. This will help to ensure that articles are consistent.</div>
 
-<h3 id="Option_2.3A_I_like_code">Option 2: I like code</h3>
+<h3 id="Option_2_I_like_code">Option 2: I like code</h3>
 
 <p>We need more code samples! You can also help build our site platform, <a href="https://developer.mozilla.org/en-US/docs/Project:MDN/Kuma">Kuma</a>!</p>
 
@@ -73,7 +73,7 @@ based_on: 724379
  <li><a href="https://developer.mozilla.org/en-US/demos/submit">Submit a new demo </a>(1 hour)</li>
 </ul>
 
-<h3 id="Option_3.3A_I_like_both_words_and_code">Option 3: I like both words and code</h3>
+<h3 id="Option_3_I_like_both_words_and_code">Option 3: I like both words and code</h3>
 
 <p>We have tasks that require both technical and language skills, like writing new articles, reviewing for technical accuracy, or adapting documents.</p>
 
@@ -86,7 +86,7 @@ based_on: 724379
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web">Create an interactive exercise to help people learn about the web</a> (1 hour or more)</li>
 </ul>
 
-<h3 id="Option_4.3A_I_want_MDN_in_my_language">Option 4: I want MDN in my language</h3>
+<h3 id="Option_4_I_want_MDN_in_my_language">Option 4: I want MDN in my language</h3>
 
 <p>All localization and translation work done on MDN is done by our amazing community of volunteers.</p>
 
@@ -95,7 +95,7 @@ based_on: 724379
  <li>Connect with other localizers listed in <a href="/en-US/docs/MDN/Contribute/Localize/Localization_projects">Localization projects</a> (30 minutes)</li>
 </ul>
 
-<h3 id="Option_5.3A_I_found_some_wrong_information_but_I_don't_know_how_to_fix_it">Option 5: I found some wrong information but I don't know how to fix it</h3>
+<h3 id="Option_5_I_found_some_wrong_information_but_I_don't_know_how_to_fix_it">Option 5: I found some wrong information but I don't know how to fix it</h3>
 
 <p>You can report problems by <a class="external" href="https://bugzilla.mozilla.org/enter_bug.cgi?product=Mozilla%20Developer%20Network">filing a documentation bug</a>. (5 minutes)</p>
 
