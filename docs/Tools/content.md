@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 812395
+revision_id: 926965
 locale: en-US
 slug: Tools
 tags: "Guide" "Tools" "l10n:priority" "Web Development" "Developing Mozilla" "Web Development:Tools"
@@ -22,13 +22,12 @@ based_on: None
 <p><a href="/en-US/Firefox/Developer_Edition">Firefox Developer Edition</a> is a version of Firefox tailored for developers, featuring the latest Firefox features and experimental developer tools. The current Developer Edition includes these updates to the developer tools:</p>
 
 <ul>
- <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations#Firefox_40">Improvements to the Animations view</a></li>
- <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Get_help_for_CSS_properties">Get help from MDN for CSS property syntax</a></li>
- <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Edit_CSS_filters">Edit filters in the Page Inspector</a></li>
- <li><a href="/en-US/docs/Tools/Web_Console#console_API_messages">Web Console now shows messages from workers</a></li>
- <li><a href="/en-US/docs/Tools/Network_Monitor#Filtering_by_URL">Filter requests by URL in the Network Monitor</a></li>
- <li><a href="/en-US/docs/Tools/Network_Monitor#Context_menu">Many new context menu options in the Network Monitor</a></li>
- <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Filtering_rules">Filter rules in the Page Inspector</a></li>
+ <li><a href="/en-US/docs/Tools/Web_Console/Console_messages#Server">Server logging in the Web Console</a></li>
+ <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations">Quickly find the rule that overrode a CSS declaration</a></li>
+ <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu">"Use in Console" context menu item in Inspector</a></li>
+ <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Strict_search">"Strict" option for filtering in the Rules view</a></li>
+ <li><a href="/en-US/docs/Tools/Web_Console/Console_messages#Network">Network entries in the Console now link to the Network Monitor</a></li>
+ <li><span class="author-g-1scq3ywqbljc5puc">New sidebar UI for WebIDE</span></li>
 </ul>
 </div>
 
@@ -185,7 +184,7 @@ based_on: None
 <hr />
 <h2 id="More_resources" name="More_resources">More resources</h2>
 
-<p>This section lists resources which aren't maintained by Mozilla's developer tools team, but which are widely used by web developers. We've included a few Firefox add-ons in this list, but for the complete list see the <a href="https://addons.mozilla.org/en-US/firefox/extensions/web-development/">“Web Development” category on addons.mozilla.org</a>.</p>
+<p>This section lists resources which are not currently maintained by Mozilla's developer tools team, but which are widely used by web developers. We've included a few Firefox add-ons in this list, but for the complete list see the <a href="https://addons.mozilla.org/en-US/firefox/extensions/web-development/">“Web Development” category on addons.mozilla.org</a>.</p>
 
 <div class="column-container">
 <div class="column-half">
@@ -237,7 +236,7 @@ based_on: None
    <li><a href="/en-US/docs/Tools/3D_View">3D View</a></li>
    <li><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></li>
    <li><a href="/en-US/docs/tools/Working_with_iframes">Selecting iframes</a></li>
-   <li><a href="/en-US/docs/Tools/View_source">View source</a></li>
+   <li><a href="/en-US/docs/Tools/View_source">View Source</a></li>
   </ol>
  </li>
  <li><a href="#">Mobile</a>
