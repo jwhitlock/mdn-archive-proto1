@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 814909
+revision_id: 927627
 locale: en-US
 slug: Web/Guide
 tags: "Web" "Guide" "Landing"
@@ -13,29 +13,29 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p><strong>These articles provide how-to information to help you make use of specific technologies and APIs.</strong></p>
+<p><strong><font><font>Artykuły te zapewniają jak do informacji, które pomogą Ci wykorzystania określonych technologii i interfejsów API.</font></font></strong></p>
 
 <div>
 <div>
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS">CSS developer guide</a></dt>
- <dd class="landingPageList">Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Events">Event developer guide</a></dt>
- <dd class="landingPageList">Events refers both to a design pattern used for the asynchronous handling of various incidents which occur in the lifetime of a web page and to the naming, characterization, and use of a large number of incidents of different types.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics">Graphics on the Web</a></dt>
- <dd class="landingPageList">Modern Web sites and applications often need to present graphics.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/API">Guide to Web APIs</a></dt>
- <dd class="landingPageList">List all Web APIs and what they are doing</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML">HTML developer guide</a></dt>
- <dd class="landingPageList"><strong>HyperText Markup Language (HTML)</strong> is the core language of nearly all Web content. Most of what you see on screen in your browser is described, fundamentally, using HTML.</dd>
- <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></dt>
- <dd>JavaScript is the powerful scripting language used to create applications for the Web.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Localizations_and_character_encodings">Localizations and character encodings</a></dt>
- <dd class="landingPageList">Browsers process text as Unicode internally. However, a way of representing characters in terms of bytes (character encoding) is used for transferring text over the network to the browser. The <a class="external external-icon" href="http://www.whatwg.org/specs/web-apps/current-work/multipage/semantics.html#charset" title="http://www.whatwg.org/specs/web-apps/current-work/multipage/semantics.html#charset">HTML specification recommends</a> the use of the UTF-8 encoding (which can represent all of Unicode) and regardless of the encoding used requires Web content to declare what encoding was used.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile">Mobile Web Development</a></dt>
- <dd class="landingPageList">This page provides an overview of some of the main techniques needed to design web sites that work well on mobile devices. If you're looking for information on Mozilla's Firefox OS project, see the <a href="https://developer.mozilla.org/en/Mozilla/Firefox_OS" title="Boot to Gecko">Firefox OS</a> page. Or you might be interested in details about <a href="https://developer.mozilla.org/en/Mozilla/Firefox_for_Android" title="Firefox for Android">Firefox for Android</a>.</dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS"><font><font>Podręcznik deweloper CSS</font></font></a></dt>
+ <dd class="landingPageList"><font><font>Kaskadowe arkusze stylów (CSS) to język arkusz stylów używany do opisu prezentacji dokumentu napisanego w HTML</font></font></dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Events"><font><font>Podręcznik deweloper wydarzenie</font></font></a></dt>
+ <dd class="landingPageList"><font><font>Wydarzenia odnosi się zarówno do projektowania wzorca stosowanego do asynchronicznej obsługi różnych zdarzeń, które występują w życiu strony WWW i do nazewnictwa, opisu, i korzystania z dużej liczby przypadków różnych typów.</font></font></dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics"><font><font>Grafika w sieci</font></font></a></dt>
+ <dd class="landingPageList"><font><font>Nowoczesne strony internetowe i aplikacje często muszą przedstawić grafiki.</font></font></dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/API"><font><font>Przewodnik po API internetowych</font></font></a></dt>
+ <dd class="landingPageList"><font><font>Lista wszystkich interfejsów API Web i co robią</font></font></dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML"><font><font>Podręcznik deweloper HTML</font></font></a></dt>
+ <dd class="landingPageList"><strong><font><font>(Hypertext Markup Language HTML)</font></font></strong><font><font> jest podstawowym językiem prawie wszystkich treści internetowych. </font><font>Większość z tego, co widać na ekranie w przeglądarce jest opisane, zasadniczo, za pomocą HTML.</font></font></dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript" title="/ pl / docs / JavaScript"><font><font>JavaScript</font></font></a></dt>
+ <dd><font><font>JavaScript jest potężny język skryptowy stosowany do tworzenia aplikacji dla sieci Web.</font></font></dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Localizations_and_character_encodings"><font><font>Lokalizacje i kodowania znaków</font></font></a></dt>
+ <dd class="landingPageList"><font><font>Tekst Proces Przeglądarki jako Unicode wewnętrznie. </font><font>Jednak sposób reprezentacji znaków w bajtach (kodowania znaków) służy do przesyłania tekstu za pośrednictwem sieci do przeglądarki. </font></font><a class="external external-icon" href="http://www.whatwg.org/specs/web-apps/current-work/multipage/semantics.html#charset" title="http://www.whatwg.org/specs/web-apps/current-work/multipage/semantics.html#charset"><font><font>Specyfikacja HTML zaleca</font></font></a><font><font> użycie kodowania UTF-8 (który może reprezentować wszystkie Unicode) i niezależnie od używanego wymaga kodowania zawartości sieci Web, aby zadeklarować kodowanie użyte.</font></font></dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile"><font><font>Komórka Web Development</font></font></a></dt>
+ <dd class="landingPageList"><font><font>Ta strona zawiera przegląd niektórych głównych technik potrzebnych do projektowania witryn internetowych, które działają dobrze na urządzeniach mobilnych. </font><font>Jeśli szukasz informacji na temat projektu Mozilli Firefox OS, zapoznaj się z </font></font><a href="https://developer.mozilla.org/en/Mozilla/Firefox_OS" title="Boot to Gecko"><font><font>Firefox OS</font></font></a><font><font> strony. </font><font>Albo możesz być zainteresowany Szczegółowe informacje na temat </font></font><a href="https://developer.mozilla.org/en/Mozilla/Firefox_for_Android" title="Firefox dla Androida"><font><font>Firefoksa dla </font></font></a><font><font>Androida.</font></font></dd>
 </dl>
 
 <dl>
@@ -44,29 +44,29 @@ based_on: None
 
 <div class="section">
 <dl>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Performance">Optimization and performance</a></dt>
- <dd class="landingPageList">When building modern Web apps and sites, it's important to make your content perform well. That is, to make it work quickly and efficiently. This lets it work effectively both for users of powerful desktop systems as well as for handheld devices with less power.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML">Parsing and serializing XML</a></dt>
- <dd class="landingPageList">The Web platform provides the following objects for parsing and serializing XML:</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/SVG-in-OpenType">SVG-in-OpenType</a></dt>
- <dd class="landingPageList">The SVG-in-OpenType work is currently in the hands of the <a class="external external-icon" href="http://mpeg.chiariglione.org/">MPEG group</a>. Once we're ready for wider adoption the information from <a class="external external-icon" href="https://wiki.mozilla.org/SVGOpenTypeFonts">wiki.mozilla.org</a> will be moved here, updated and expanded.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF">The Web Open Font Format (WOFF)</a></dt>
- <dd class="landingPageList"><strong>WOFF</strong>&nbsp;(the <strong>Web Open Font Format</strong>) is a&nbsp; web font format developed by Mozilla in concert with Type Supply, LettError, and other organizations. It</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/User_experience">User experience</a></dt>
- <dd class="landingPageList">Making the user experience of your Web site or app a pleasant one for your users is important if you want users to come back and use it again and again. Here you'll find articles that may help you along.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Using_FormData_Objects">Using FormData Objects</a></dt>
- <dd class="landingPageList">The <a href="https://developer.mozilla.org/en/DOM/XMLHttpRequest/FormData" title="en/DOM/XMLHttpRequest/FormData"><code>FormData</code></a> object lets you compile a set of key/value pairs to send using <code>XMLHttpRequest</code>. Its primarily intended for use in sending form data, but can be used independently from forms in order to transmit keyed data. The transmitted data is in the same format that the form's <code>submit()</code> method would use to send the data if the form's encoding type were set to "multipart/form-data".</dd>
- <dt class="landingPageList">Glossary</dt>
- <dd class="landingPageList">Defines numerous technical terms related to the Web and Internet.</dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Performance"><font><font>Optymalizacja i wydajność</font></font></a></dt>
+ <dd class="landingPageList"><font><font>Podczas budowania nowoczesnych aplikacji internetowych i stron, ważne jest, aby treść wykonywać dobrze. </font><font>Oznacza to, że aby pracować szybko i wydajnie. </font><font>Pozwala to efektywnie pracować zarówno dla użytkowników zaawansowanych komputerów stacjonarnych, jak i dla przenośnych urządzeń o mniejszej mocy.</font></font></dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML"><font><font>Parsowania i serializacji XML</font></font></a></dt>
+ <dd class="landingPageList"><font><font>Platforma internetowa udostępnia następujące obiekty do analizowania i serializacji XML:</font></font></dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/SVG-in-OpenType"><font><font>SVG-w-OpenType</font></font></a></dt>
+ <dd class="landingPageList"><font><font>Praca SVG-w-OpenType jest obecnie w rękach </font></font><a class="external external-icon" href="http://mpeg.chiariglione.org/"><font><font>grupy </font></font></a><font><font>MPEG. </font><font>Kiedy jesteśmy gotowi na szersze informacje z </font></font><a class="external external-icon" href="https://wiki.mozilla.org/SVGOpenTypeFonts"><font><font>wiki.mozilla.org</font></font></a><font><font> zostaną przeniesione tutaj, zaktualizowane i rozszerzone.</font></font></dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF"><font><font>Format Web Open Font (WOFF)</font></font></a></dt>
+ <dd class="landingPageList"><strong><font><font>WOFF</font></font></strong><font><font> &nbsp;(the </font></font><strong><font><font>Web otwartym formacie </font></font></strong><font><font>czcionki) </font><font>to format czcionki internetowa opracowana przez Mozillę w porozumieniu z Typ źródła, LettError i innych organizacji. </font><font>Ono</font></font></dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/User_experience"><font><font>Doświadczenie użytkownika</font></font></a></dt>
+ <dd class="landingPageList"><font><font>Dokonywanie doświadczenia użytkownika witryny internetowej lub aplikacji przyjemny dla użytkowników jest ważne, jeśli chcesz, aby użytkownicy wrócić i użyć go ponownie i ponownie. </font><font>Tutaj znajdziesz artykuły, które mogą Ci pomóc wzdłuż.</font></font></dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Using_FormData_Objects"><font><font>Korzystanie FormData obiektów</font></font></a></dt>
+ <dd class="landingPageList"><a href="https://developer.mozilla.org/en/DOM/XMLHttpRequest/FormData" title="pl / DOM / XMLHttpRequest / FormData"><code><font><font>FormData</font></font></code></a><font><font> obiektu pozwala skompilować zbiór par klucz / wartość, aby wysłać za pomocą </font><font>XMLHttpRequest. </font><font>Jest przeznaczony głównie do użytku w wysyłanie danych z formularza, ale mogą być używane niezależnie od formy, w celu przesyłania danych nadwozia. </font><font>Przekazywane dane są w tym samym formacie, że forma jest </font><code><font>submit ()</font></code><font> metoda mogłaby wykorzystać do wysyłania danych, jeśli formularz jest typ kodowania zostały ustawione na "multipart / form-data".</font></font></dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Glossary"><font><font>Słowniczek</font></font></a></dt>
+ <dd class="landingPageList"><font><font>Definiuje wiele terminów technicznych związanych z sieci i Internetu.</font></font></dd>
 </dl>
 </div>
 </div>
 </div>
 </div>
 
-<h2 id="See_also">See also</h2>
+<h2 id="See_also"><font><font>Zobacz też</font></font></h2>
 
 <ul>
- <li><a href="/en-US/docs/Web/Reference" title="/en-US/docs/Web/Reference">Web Developer Reference</a></li>
+ <li><a href="/en-US/docs/Web/Reference" title="/ pl / docs / Web / Referencje"><font><font>Odniesienie Web Developer</font></font></a></li>
 </ul>
 
