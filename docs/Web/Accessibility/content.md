@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 722669
+revision_id: 927923
 locale: en-US
 slug: Web/Accessibility
 tags: "Landing" "Accessibility"
@@ -20,6 +20,8 @@ based_on: None
 <p>"<strong>The Web is fundamentally designed to work for all people</strong>, whatever their hardware, software, language, culture, location, or physical or mental ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability." {{ Ref(2) }}</p>
 
 <div class="cleared topicpage-table">
+<p>&nbsp;</p>
+
 <div class="section">
 <h2 class="Documentation" id="Documentation" name="Documentation">Documentation</h2>
 
@@ -42,6 +44,7 @@ based_on: None
 
 <ul>
  <li><a class="external" href="http://www.standards-schmandards.com/index.php?show/fangs">Fangs screen reader emulator</a></li>
+ <li><a class="external" href="https://addons.mozilla.org/firefox/addon/claws/">Claws screen reader emulator</a></li>
 </ul>
 
 <p><span class="alllinks"><a href="/en-US/docs/tag/Accessibility:Tools" title="en-US/docs/tag/Accessibility:Tools">View All...</a></span></p>
