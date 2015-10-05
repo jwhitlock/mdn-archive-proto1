@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 926133
+revision_id: 928605
 locale: en-US
 slug: Web/CSS
 tags: "CSS" "Design" "Layout" "Landing" "Reference" "l10n:priority"
