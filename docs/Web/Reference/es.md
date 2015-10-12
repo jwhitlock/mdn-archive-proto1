@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 931925
+revision_id: 932185
 locale: es
 slug: Web/Reference
 tags: "Web" "Landing" "Reference" "Referencia"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>La Web abierta&nbsp;(<em>open Web)</em>&nbsp;está construida usando varias tecnologías. A continuación&nbsp;encontrará enlaces a nuestro material de referencia para cada una de ellas.</p>
+<p>La Web abierta&nbsp;(<em>open Web)</em>&nbsp;se construye&nbsp;usando diversas&nbsp;tecnologías. A continuación&nbsp;encontrará enlaces a nuestro material de referencia para cada una de ellas.</p>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -28,7 +28,7 @@ based_on: None
  <dd>Las Hojas de Estilo en Cascada (<em>Cascading Style Sheets</em>) se usan para describir la apariencia del contenido Web.</dd>
 </dl>
 
-<h3 id="Programación">Programación</h3>
+<h3 id="Programación">Código</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">JavaScript</a></dt>
@@ -42,7 +42,7 @@ based_on: None
  </dd>
 </dl>
 
-<h3 id="Gráficas">Gráficos</h3>
+<h3 id="Gráficos">Gráficos</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/es/docs/SVG">SVG</a></dt>
