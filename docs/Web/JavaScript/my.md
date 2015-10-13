@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 901931
+revision_id: 933307
 locale: my
 slug: Web/JavaScript
 tags: "Landing" "TopicStub" "JavaScript" "NeedsTranslation"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{JsSidebar}}</div>
 
-<p class="summary"><strong>JavaScript</strong><sup>®</sup> (often shortened to <strong>JS</strong>) is a lightweight, interpreted, object-oriented language with <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">first-class functions</a>, most known as the scripting language for Web pages, but <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">used in many non-browser environments</a> as well such as <a class="external" href="https://nodejs.org/">node.js</a> or <a href="https://couchdb.apache.org/">Apache CouchDB</a>. It is a <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based_programming" title="Prototype-based">prototype-based</a>, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
+<p class="summary"><strong>JavaScript</strong><sup>®</sup> (အတိုကောက် <strong>JS</strong>) ဆိုတာ&nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">first-class functions&nbsp; </a> နှင့်တည်ဆောက်ထား တဲ့a&nbsp; lightweight, interpreted, object-oriented language တစ်ခုဖြစ်ပါတယ်။အများက သိတာကတော့ web pages တွေအတွက် browser ကိုအခြေ ခံထားတဲ့ scripting language တစ်ခုအနေနဲ့သိကြတယ် ဒါပေမဲ့ browser ကိုအခြေခံ မထားတဲ့ <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">နေရာ</a> တွေဖြစ်တဲ့&nbsp; <a class="external" href="https://nodejs.org/">node.js</a> ဒါမှမဟုတ်&nbsp; <a href="https://couchdb.apache.org/">Apache CouchDB</a> တွေမှာလဲအသုံးပြု ပါတယ်. Javascript ဟာ&nbsp; <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based_programming" title="Prototype-based">prototype-based</a>, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
 
 <p>The JavaScript standard is called <a href="/en-US/docs/JavaScript/Language_Resources">ECMAScript</a>. As of 2012, all modern browsers fully support ECMAScript 5.1. Older browsers support at least ECMAScript 3. On June 17, 2015, the sixth major version of ECMAScript was published. This version is officially called ECMAScript 2015, but is commonly referred to as ECMAScript 6 or ES6.</p>
 
