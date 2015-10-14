@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 660621
+revision_id: 934951
 locale: pl
 slug: Web/API
 tags: "TopicStub" "NeedsTranslation"
@@ -14,6 +14,6 @@ table_of_contents_depth: 1
 based_on: None
 ---
 <p>Kiedy piszemy kod w JavaScript dla sieci Web, możemy użyć wielu przydatnych API. Poniżej znajduje się lista dostępnych interfejsów (dokładnie, typów obiektów), które możesz wykorzystać podczas budowy swojej strony czy aplikacji internetowej.</p>
-<div>
- {{APIListAlpha(1, "", "", "en-US", "true")}}</div>
+
+<div>{{APIListAlpha(1, "", "", "en-US", "true")}}</div>
 
