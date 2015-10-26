@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 815743
+revision_id: 940487
 locale: en-US
 slug: Web
 tags: "Web" "History" "Landing" "Web Development"
@@ -17,13 +17,13 @@ based_on: None
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="Web_technologies">Web technologies</h2>
+<h2 id="Web_technologies" class="Documentation">Web technologies</h2>
 
 <h3 id="Basics">Basics</h3>
 
 <dl>
  <dt><a href="/en-US/docs/Web/HTML">HTML</a></dt>
- <dd>HyperText Markup Language is the language used to describe and define the content of a Web page in a structured format.</dd>
+ <dd>HyperText Markup Language is the language used to describe and define the content of a Web page in a well structured format .</dd>
  <dt><a href="/en-US/docs/Web/CSS">CSS</a></dt>
  <dd>Cascading Style Sheets are used to describe the appearance of Web content.</dd>
 </dl>
@@ -32,7 +32,7 @@ based_on: None
 
 <dl>
  <dt><a href="/en-US/docs/Web/JavaScript">JavaScript</a></dt>
- <dd>JavaScript is the programming language that runs in the browser, which is used to build advanced user interactive Web sites and applications.</dd>
+ <dd>JavaScript is the programming language that runs in the browser, which is used to build advanced user interactive Web sites and applications for secure browser execution.</dd>
  <dt><a href="/en-US/docs/Web/Reference/API">Web APIs</a></dt>
  <dd>Reference material for each of the individual APIs that comprise the Web's powerful scriptability, including the <a href="/en-US/docs/DOM">DOM</a> and all of the related APIs and interfaces you can use to build Web content and apps.
  <ul>
@@ -60,7 +60,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="Documentation_by_type">Documentation by type</h2>
+<h2 id="Documentation_by_type" class="Documentation">Documentation by type</h2>
 
 <dl>
  <dt><a href="/en-US/docs/Web/Guide">Web Developer Guide</a></dt>
