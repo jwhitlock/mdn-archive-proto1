@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 926965
+revision_id: 943063
 locale: en-US
 slug: Tools
 tags: "Guide" "Tools" "l10n:priority" "Web Development" "Developing Mozilla" "Web Development:Tools"
@@ -22,6 +22,7 @@ based_on: None
 <p><a href="/en-US/Firefox/Developer_Edition">Firefox Developer Edition</a> is a version of Firefox tailored for developers, featuring the latest Firefox features and experimental developer tools. The current Developer Edition includes these updates to the developer tools:</p>
 
 <ul>
+ <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations#Firefox_43">New animation inspector UI</a></li>
  <li><a href="/en-US/docs/Tools/Web_Console/Console_messages#Server">Server logging in the Web Console</a></li>
  <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations">Quickly find the rule that overrode a CSS declaration</a></li>
  <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu">"Use in Console" context menu item in Inspector</a></li>
