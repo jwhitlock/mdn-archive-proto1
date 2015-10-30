@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 831879
+revision_id: 942781
 locale: pt-BR
 slug: Project:MDN/Localizing/Traduzindo_paginas
 tags: "Projeto MDN" "Localização"
