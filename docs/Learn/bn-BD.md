@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 895007
+revision_id: 944599
 locale: bn-BD
 slug: Learn
 tags: "Web" "Index" "Learn" "Landing" "Beginner" "TopicStub" "NeedsTranslation"
@@ -42,13 +42,13 @@ based_on: None
 
 <p>{{LearnBox({"title":"Quick learning: Vocabulary"})}}</p>
 
-<h2 id="Learning_with_other_people">Learning with other people</h2>
+<h2 id="Learning_with_other_people">অন্যান্য জনের সাথে শিখুন</h2>
 
-<p>&nbsp;যদি &nbsp;If you have a question or are still wondering where to go, Mozilla is a global community of Web enthusiasts, including mentors and teachers who are glad to help you. Get in touch with them through WebMaker:</p>
+<p>&nbsp;যদি আপনার কিছু জানার থাকে&nbsp;or are still wondering where to go, Mozilla is a global community of Web enthusiasts, including mentors and teachers who are glad to help you. Get in touch with them through WebMaker:</p>
 
 <ul>
- <li>Meet and talk with mentors and teachers at the <a href="http://discourse.webmaker.org/" rel="external">discourse forum</a>.</li>
- <li><a href="https://events.webmaker.org/">Find events</a> and learn the web with awesome folks.</li>
+ <li>মেন্টর ও শিক্ষকদের সাথে কথা বলতে এবং&nbsp;দেখা করতে&nbsp;<a href="http://discourse.webmaker.org/" rel="external">ডিসকোর্স ফোরাম</a>&nbsp;এ আসুন।</li>
+ <li><a href="https://events.webmaker.org/">ইভেন্ট খুঁজুন</a>&nbsp;and learn the web with awesome folks.</li>
 </ul>
 
 <h2 id="Sharing_knowledge">Sharing knowledge</h2>
