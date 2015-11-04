@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 925655
+revision_id: 945245
 locale: nl
 slug: Apps
 tags: "Apps" "Mobiel" "Firefox OS" "Web Development"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -17,7 +17,7 @@ based_on: None
 <div class="panel">
 <h2 class="section-design" id="Design"><a href="/en-US/Apps/Design">Design</a></h2>
 
-<p>Leer hoe je installeerbare Open Web Apps designed die een cross-platform gebruikerservaring bieden.</p>
+<p>Learn how to design installable Open Web Apps that provide a great cross-platform user experience.</p>
 
 <ul class="no-bullets">
  <li><a href="/en-US/Apps/Design/Planning">Planning your app</a></li>
@@ -39,14 +39,14 @@ based_on: None
 </div>
 
 <div class="panel">
-<h2 class="section-publish" id="Publiceer"><a href="/en-US/Marketplace">Publiceer</a></h2>
+<h2 class="section-publish" id="Publish"><a href="/en-US/Marketplace">Publish</a></h2>
 
-<p>Distribueer je apps in een open marketplace die gebruikers en ontwikkelaars op plek een zet. Lees hier meer over <a href="/en-US/Marketplace">Marketplace zone</a>.</p>
+<p>Distribute your apps on an open marketplace that puts users and developers first. Read more on the <a href="/en-US/Marketplace">Marketplace zone</a>.</p>
 
 <ul class="no-bullets">
- <li><a href="/en-US/Marketplace/Options/Introduction">App distribueer opties</a></li>
+ <li><a href="/en-US/Marketplace/Options/Introduction">App publishing options</a></li>
  <li><a href="/en-US/Marketplace/Publishing/Submit/Overview">Submit to Marketplace</a></li>
- <li><a href="/en-US/Marketplace/Monetization/Introduction_Monetization">Betalingen</a></li>
+ <li><a href="/en-US/Marketplace/Monetization/Introduction_Monetization">Payments</a></li>
 </ul>
 </div>
 </div>
@@ -81,7 +81,7 @@ based_on: None
 </div>
 
 <div class="column-4">
-<h2 id="Componenten">Componenten</h2>
+<h2 id="Components">Components</h2>
 
 <p>We've made a variety of tools and ready-made components to help speed up app developement.</p>
 
@@ -116,7 +116,7 @@ based_on: None
    <li><a href="/en-US/Apps/Design/Firefox_OS_transitions">Firefox OS transitions</a></li>
    <li><a href="/en-US/Apps/Design/Firefox_OS_in_Arabic">Firefox OS in Arabic</a></li>
    <li><a href="/en-US/Apps/Design/Firefox_OS_TV_UX">Firefox OS for TV UX</a></li>
-   <li><a href="https://developer.mozilla.org/en-US/Apps/Design/Firefox_OS_TV_User_Interface_Animation_Design">Firefox OS TV User Interface &amp; Animation Design</a></li>
+   <li><a href="https://developer.mozilla.org/en-US/Apps/Design/Firefox_OS_TV_User_Interface_Animation_Design">Firefox OS TV User Interface & Animation Design</a></li>
   </ol>
  </li>
  <li><a href="/en-US/Apps/Build" title="This section contains documentation about building app functionality, with HTML5 and device APIs (WebAPIs).">Build</a>
@@ -124,6 +124,7 @@ based_on: None
    <li><strong><a href="/en-US/Apps/Build">Build overview</a></strong></li>
    <li><a href="/en-US/Apps/Build/installable_apps_for_Firefox_OS">Apps for Firefox OS</a></li>
    <li><a href="/en-US/Apps/Build/Basic_data_flow">Basic data flow</a></li>
+   <li><a href="/en-US/docs/Web/Apps/Build/Modern_web_app_architecture">Modern web app architecture</a></li>
    <li><a href="/en-US/Apps/Build/gather_and_modify_data">Gather and modify data</a></li>
    <li><a href="/en-US/Apps/Build/User_notifications">User notifications</a></li>
    <li><a href="/en-US/Apps/Build/User_input_methods">User input and controls</a></li>
