@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 934877
+revision_id: 951235
 locale: en-US
 slug: MDN/Community
 tags: "MDN Meta" "Guide" "Landing" "Community"
@@ -31,5 +31,8 @@ based_on: None
 
 <p>The following are more articles that describe the community of MDN.</p>
 
-<p>{{LandingPageListSubPages()}}</p>
+<p></p><div class="row topicpage-table"> 
+    <div class="section"><dl><dl><dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Roles">Community roles</a></dt><dd class="landingPageList">There are a number of roles within the MDN community that have specific responsibilities.</dd><dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Doc_sprints">Doc sprints</a></dt><dd class="landingPageList">This is a guide to organizing a documentation sprint. It contains advice and tips from people who have organized doc sprints, to help you in organizing one, too. </dd><dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Whats_happening">Follow what's happening</a></dt><dd class="landingPageList">MDN is brought to you by the <a href="https://wiki.mozilla.org/MDN" class="external">Mozilla Developer Network community</a>. Here are some ways to that we share information about what we're doing.</dd></dl></dl></div> 
+    <div class="section"><dl><dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Conversations">MDN community conversations</a></dt><dd class="landingPageList">The "work" of MDN happens on the MDN site, but the "community" also happens through (asynchronous) discussion and (synchronous) online chat and meetings.</dd><dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Working_in_community">Working in community</a></dt><dd class="landingPageList">A major part of contributing to MDN documentation on any significant scale is knowing how to work as part of the MDN community. This article offers tips to help you make the most of your interactions with both other writers and with development teams.</dd></dl></div> 
+    </div>
 
