@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 688581
+revision_id: 955377
 locale: ms
 slug: Tools
 tags: "Guide" "Tools" "TopicStub" "l10n:priority" "Web Development" "NeedsTranslation" "Developing Mozilla" "Web Development:Tools"
@@ -16,8 +16,8 @@ based_on: None
 <div class="summary">
  <span class="seoSummary">Examine, edit, and debug HTML, CSS, and JavaScript on the desktop and on mobile</span></div>
 <div class="column-container zone-callout">
- <a href="https://www.mozilla.org/en-US/firefox/aurora/" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Install Firefox Aurora</a>
- <h3 id="What's_new_in_Aurora.3F">What's new in Aurora?</h3>
+ <a href="https://www.mozilla.org/en-US/firefox/aurora/" target="_" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;">Install Firefox Aurora</a>
+ <h3 id="What's_new_in_Aurora">What's new in Aurora?</h3>
  <p>Aurora is the preview build of Firefox, where you can get the latest features before they are released. The current Aurora includes these updates to the developer tools:</p>
  <ul>
   <li><a href="/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></li>
@@ -29,14 +29,14 @@ based_on: None
  </ul>
 </div>
 <div class="column-container zone-callout">
- <a href="https://ffdevtools.uservoice.com/forums/246087-firefox-developer-tools-ideas" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Share your ideas</a>
+ <a href="https://ffdevtools.uservoice.com/forums/246087-firefox-developer-tools-ideas" target="_" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;">Share your ideas</a>
  <h3 id="Share_your_ideas">Share your ideas</h3>
  <p>Ask for new features in the developer tools or vote for ideas other developers are asking for.</p>
 </div>
-<p><img alt="" src="https://mdn.mozillademos.org/files/7307/inspector.png" style="width: 815px; height: 467px; margin-right: auto; margin-left: auto; display: block;"></p>
+<p><img src="https://mdn.mozillademos.org/files/7307/inspector.png" style="width: 815px; height: 467px; margin-right: auto; margin-left: auto; display: block;" alt=""></p>
 <div class="column-container">
  <div class="column-half">
-  <h2 id="Creating" name="Creating">Creating</h2>
+  <h2 name="Creating" id="Creating">Creating</h2>
   <p>Authoring tools for websites and web apps.</p>
   <dl>
    <dt>
@@ -58,7 +58,7 @@ based_on: None
   </dl>
  </div>
  <div class="column-half">
-  <h2 id="Exploring" name="Exploring">Exploring and debugging</h2>
+  <h2 name="Exploring" id="Exploring">Exploring and debugging</h2>
   <p>Examine, explore, and debug websites and web apps.</p>
   <dl>
    <dt>
@@ -95,7 +95,7 @@ based_on: None
 <hr>
 <div class="column-container">
  <div class="column-half">
-  <h2 id="Mobile" name="Mobile">Mobile</h2>
+  <h2 name="Mobile" id="Mobile">Mobile</h2>
   <p>Tools for mobile development.</p>
   <dl>
    <dt>
@@ -117,7 +117,7 @@ based_on: None
   </dl>
  </div>
  <div class="column-half">
-  <h2 id="Performance" name="Performance">Performance</h2>
+  <h2 name="Performance" id="Performance">Performance</h2>
   <p>Diagnose and fix performance problems.</p>
   <dl>
    <dt>
