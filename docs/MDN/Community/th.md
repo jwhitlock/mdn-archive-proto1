@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 967183
+revision_id: 967185
 locale: th
 slug: MDN/Community
 tags: 
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 951235
+based_on: None
 ---
 <div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
 
@@ -31,7 +31,7 @@ based_on: 951235
 
 <p>The following are more articles that describe the community of MDN.</p>
 
-<p>&nbsp;</p>
+<p> </p>
 
 <div class="row topicpage-table">
 <div class="section">
