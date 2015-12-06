@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 969745
+revision_id: 969755
 locale: it
 slug: Apps
 tags: "Apps" "Mobile" "Firefox OS" "Web Development"
@@ -8,31 +8,31 @@ title: Centro App
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
 <div class="initial-steps clear" id="sect1">
 <div class="panel">
-<h2 class="section-design" id="Design"><a href="it/docs/Web/Apps/Design">Progetta</a></h2>
+<h2 class="section-design" id="Design"><a href="/en-US/Apps/Design">Progetta</a></h2>
 
 <p>Sviluppare un’app open web installabile per un’esperienza utente perfettamente integrata su ogni piattaforma.</p>
 
 <ul class="no-bullets">
- <li><a href="it/docs/Web/Apps/Quickstart/Design">L’idea dietro una grande app</a></li>
- <li><a href="it/docs/Web/Apps/Quickstart/Design/Linee_guida_UI">Linee guida per le UI</a></li>
- <li><a href="it/docs/Web/Apps/Quickstart/Design/basi_design">Basi di design</a></li>
+ <li><a href="/en-US/Apps/Design/Planning">Planning your app</a></li>
+ <li><a href="/en-US/Apps/Design/UI_layout_basics">UI layout basics</a></li>
+ <li><a href="/en-US/Apps/Design/Firefox_OS_building_blocks">Firefox OS building blocks</a></li>
 </ul>
 </div>
 
 <div class="panel">
-<h2 class="section-build" id="Build"><a href="it/docs/Web/Apps/Quickstart/Build">Sviluppa</a></h2>
+<h2 class="section-build" id="Build"><a href="/en-US/Apps/Build">Sviluppa</a></h2>
 
 <p>Tutti gli strumenti, la documentazione e i riferimenti utili allo sviluppo e ai test dell'app.</p>
 
 <ul class="no-bullets">
- <li><a href="it/docs/Web/Apps/Quickstart">Quickstart to app development</a></li>
+ <li><a href="/en-US/Apps/Quickstart">Quickstart to app development</a></li>
  <li><a href="/en-US/Apps/Build/installable_apps_for_Firefox_OS">Installable apps for Firefox OS</a></li>
  <li><a href="/en-US/Apps/Build/App_development_FAQ">App development FAQ</a></li>
 </ul>
@@ -74,9 +74,9 @@ based_on: None
 <p>Raccolta di informazioni sui migliori strumenti per soddisfare ogni necessità di debug.</p>
 
 <ul>
- <li><a href="it/docs/Web/Apps/Tools_and_frameworks/App_developer_tools">Indice di strumenti per lo sviluppo di Mozilla</a></li>
- <li><a href="it/docs/Tools/WebIDE">WebIDE</a></li>
- <li><a href="/it/docs/Tools">Zona Strumenti</a></li>
+ <li><a href="/en-US/Apps/Tools_and_frameworks/App_developer_tools">Indice di strumenti per lo sviluppo di Mozilla</a></li>
+ <li><a href="/en-US/docs/Tools/WebIDE">WebIDE</a></li>
+ <li><a href="/en-US/docs/Tools">Zona Strumenti</a></li>
 </ul>
 </div>
 
@@ -102,26 +102,26 @@ based_on: None
 <h2 id="Subnav">Subnav</h2>
 
 <ol>
- <li><a href="it/docs/Web/Apps/Quickstart">Quickstart</a></li>
- <li><a href="it/docs/Web/Apps/Design" title="Informazioni sulle app e sulla progettazione dell’interfaccia.">Progetta</a>
+ <li><a href="/en-US/Apps/Quickstart">Quickstart</a></li>
+ <li><a href="/en-US/Apps/Design" title="Informazioni sulle app e sulla progettazione dell’interfaccia.">Progetta</a>
   <ol>
-   <li><strong><a href="it/docs/Web/Apps/Design">Panoramica della sezione Progetta</a></strong></li>
-   <li><a href="it/docs/Web/Apps/Quickstart/Design">Planning</a></li>
-   <li><a href="it/docs/Web/Apps/Quickstart/Design/Linee_guida_UI">Linee guida per le UI</a></li>
-   <li><a href="it/docs/Web/Apps/Quickstart/Design/basi_design">Basi di design</a></li>
+   <li><strong><a href="/en-US/Apps/Design">Panoramica della sezione Progetta</a></strong></li>
+   <li><a href="/en-US/Apps/Design/Planning">Planning</a></li>
+   <li><a href="/en-US/Apps/Design/UI_layout_basics">UI layout basics</a></li>
+   <li><a href="/en-US/Apps/Design/Firefox_OS_building_blocks">Firefox OS building blocks</a></li>
    <li><a href="https://www.mozilla.org/en-US/styleguide/products/firefox-os/">Firefox OS visual styleguide</a></li>
    <li><a href="/en-US/Apps/Design/Copy_styleguide">Firefox OS copy styleguide</a></li>
    <li><a href="/en-US/Apps/Design/Firefox_OS_icon_font">Firefox OS icon font</a></li>
-   <li><a href="it/Firefox_OS/UX/Design_asset_library">Firefox OS design asset library</a></li>
+   <li><a href="/en-US/Apps/Design/Firefox_OS_Design_asset_library">Firefox OS design asset library</a></li>
    <li><a href="/en-US/Apps/Design/Firefox_OS_transitions">Firefox OS transitions</a></li>
    <li><a href="/en-US/Apps/Design/Firefox_OS_in_Arabic">Firefox OS in Arabic</a></li>
    <li><a href="/en-US/Apps/Design/Firefox_OS_TV_UX">Firefox OS for TV UX</a></li>
    <li><a href="https://developer.mozilla.org/en-US/Apps/Design/Firefox_OS_TV_User_Interface_Animation_Design">Firefox OS TV User Interface &amp; Animation Design</a></li>
   </ol>
  </li>
- <li><a href="it/docs/Web/Apps/Quickstart/Build" title="Contiene la documentazione per sviluppare le varie funzionalità di un’app con HTML5 e le API del dispositivo (API Web).">Sviluppa</a>
+ <li><a href="/en-US/Apps/Build" title="Contiene la documentazione per sviluppare le varie funzionalità di un’app con HTML5 e le API del dispositivo (API Web).">Sviluppa</a>
   <ol>
-   <li><strong><a href="it/docs/Web/Apps/Quickstart/Build">Panoramica della sezione Costruisci</a></strong></li>
+   <li><strong><a href="/en-US/Apps/Build">Panoramica della sezione Costruisci</a></strong></li>
    <li><a href="/en-US/Apps/Build/installable_apps_for_Firefox_OS">Apps for Firefox OS</a></li>
    <li><a href="/en-US/Apps/Build/Basic_data_flow">Basic data flow</a></li>
    <li><a href="/en-US/docs/Web/Apps/Build/Modern_web_app_architecture">Modern web app architecture</a></li>
@@ -135,12 +135,12 @@ based_on: None
    <li><a href="/en-US/docs/Games">Develop games</a></li>
    <li><a href="/en-US/Apps/Build/Localization">Localization</a></li>
    <li><a href="/en-US/Apps/Build/Porting">Porting  </a></li>
-   <li><a href="it/docs/Web/Apps/Build/Performance">App performance</a></li>
+   <li><a href="/en-US/Apps/Build/Performance">App performance</a></li>
    <li><a href="/en-US/Apps/Build/App_development_FAQ">App development FAQ</a></li>
   </ol>
  </li>
  <li><a href="/it/Marketplace">Pubblica</a></li>
- <li><a href="it/docs/Web/Apps/Tools_and_frameworks">Tools and frameworks</a></li>
+ <li><a href="/en-US/Apps/Tools_and_frameworks">Tools and frameworks</a></li>
  <li><a href="/it/Apps/app_riferimento">App di riferimento</a>
   <ol>
    <li><a href="/en-US/Apps/Reference_apps/Chrono">Chrono</a></li>
