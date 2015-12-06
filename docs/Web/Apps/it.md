@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 840889
+revision_id: 969745
 locale: it
 slug: Apps
 tags: "Apps" "Mobile" "Firefox OS" "Web Development"
-title: App
+title: Centro App
 summary: 
 keywords: 
 needs_technical_review: False
@@ -13,206 +13,154 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div>
 <div class="initial-steps clear" id="sect1">
 <div class="panel">
-<h2 class="section-design" id="Progetta"><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Design">Progetta</a></h2>
+<h2 class="section-design" id="Design"><a href="it/docs/Web/Apps/Design">Progetta</a></h2>
 
-<p>Impara a progettare Open Web Apps installabili che forniscano un'ottima esperienza utente cross-platform.</p>
+<p>Sviluppare un’app open web installabile per un’esperienza utente perfettamente integrata su ogni piattaforma.</p>
 
 <ul class="no-bullets">
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Design/Concept_A_great_app">L'idea dietro una grande app</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Design/Design_Principles">Basi di design</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Design/UI_guidelines">Linee guida per le UI</a></li>
+ <li><a href="it/docs/Web/Apps/Quickstart/Design">L’idea dietro una grande app</a></li>
+ <li><a href="it/docs/Web/Apps/Quickstart/Design/Linee_guida_UI">Linee guida per le UI</a></li>
+ <li><a href="it/docs/Web/Apps/Quickstart/Design/basi_design">Basi di design</a></li>
 </ul>
 </div>
 
 <div class="panel">
-<h2 class="section-build" id="Crea"><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Build">Crea</a></h2>
+<h2 class="section-build" id="Build"><a href="it/docs/Web/Apps/Quickstart/Build">Sviluppa</a></h2>
 
-<p>Trova tutti gli strumenti, la documentazione e i tutorial di cui avrai bisogno per sviluppare e testare la tua Web app.</p>
+<p>Tutti gli strumenti, la documentazione e i riferimenti utili allo sviluppo e ai test dell'app.</p>
 
 <ul class="no-bullets">
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Build/Your_first_app">La tua prima app</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Build/App_tools">Strumenti di sviluppo per le app</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Reference_apps">App di riferimento</a></li>
+ <li><a href="it/docs/Web/Apps/Quickstart">Quickstart to app development</a></li>
+ <li><a href="/en-US/Apps/Build/installable_apps_for_Firefox_OS">Installable apps for Firefox OS</a></li>
+ <li><a href="/en-US/Apps/Build/App_development_FAQ">App development FAQ</a></li>
 </ul>
 </div>
 
 <div class="panel">
-<h2 class="section-publish" id="Pubblica"><a href="https://developer.mozilla.org/docs/Mozilla/Marketplace">Pubblica</a></h2>
+<h2 class="section-publish" id="Publish"><a href="/it/Marketplace">Pubblica</a></h2>
 
-<p>Distribuisci le tue applicazioni su un marketplace aperto che pone utenti e sviluppatori al primo posto. Leggi ulteriori informazioni nella <a href="https://developer.mozilla.org/Marketplace">zona Marketplace</a>.</p>
+<p>Distribuire le app su un marketplace aperto che mette utenti e sviluppatori al primo posto. Ulteriori informazioni nella <a href="/it/Marketplace">zona Marketplace</a>.</p>
 
 <ul class="no-bullets">
- <li><a href="https://developer.mozilla.org/it/Marketplace/Publishing/opzioni_pubblicazione_app">Opzioni per la pubblicazione di un'app</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Publishing/Submitting_an_app">Invio al Marketplace</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Build/Payments">Pagamenti</a></li>
+ <li><a href="/en-US/Marketplace/Options/Introduction">App publishing options</a></li>
+ <li><a href="/en-US/Marketplace/Publishing/Submit/Overview">Submit to Marketplace</a></li>
+ <li><a href="/en-US/Marketplace/Monetization/Introduction_Monetization">Pagamenti</a></li>
 </ul>
 </div>
 </div>
 
 <div class="summary">
-<p><span class="seoSummary">Impara&nbsp;come creare Open Web Apps — vivi l'esperienza dell'uso di applicazioni eseguibili su una vasta gamma di dispositivi — usando gli stessi standard Web e le stesse tecnologie aperte che già conosci.</span></p>
+<p><span class="seoSummary">Sviluppare app open web: creare una nuova esperienza utente di applicazioni eseguibili su una vasta gamma di dispositivi usando gli stessi standard web e le stesse tecnologie aperte che già conosci.</span></p>
 </div>
 
 <div class="column-container">
 <div class="column-4">
 <h2 id="Firefox_OS">Firefox OS</h2>
 
-<p>Le informazioni di base di cui hai bisogno per cominciare: progettare, sviluppare e pubblicare app su Firefox OS, il sistema operativo mobile di Mozilla.</p>
+<p>Sviluppare app per Firefox OS, il sistema operativo aperto e basato su tecnologie web ideato da Mozilla per i dispositivi portatili.</p>
 
 <ul>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Build/Your_first_app">La tua prima app per Firefox OS</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Design/UI_guidelines">Linee guida per le UI</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Build/Developing_app_functionality">Sviluppare le funzionalità della app</a></li>
+ <li><a href="/en-US/Firefox_OS/Screencast_series:_App_Basics_for_Firefox_OS">Screencast series: App basics for Firefox OS</a></li>
+ <li><a href="/it/Firefox_OS/Developer_phone_guide">Guida ai telefoni di sviluppo Firefox OS</a></li>
+ <li><a href="/en-US/Apps/Build/Performance/Firefox_OS_performance_testing">Firefox OS performance</a></li>
 </ul>
 </div>
 
 <div class="column-4">
-<h2 id="Design_pattern">Design pattern</h2>
+<h2 id="Debugging">Debug</h2>
 
-<p>Informazioni sul rendere l'UI della tua applicazione intuitiva e facile da usare, a prescindere dalla piattaforma su cui viene eseguita.</p>
+<p>Raccolta di informazioni sui migliori strumenti per soddisfare ogni necessità di debug.</p>
 
 <ul>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Design/Design_Principles">Basi di design</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Design/Responsive_Navigation_Patterns">Modelli di navigazione reattivi</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Design/Installed_app_considerations">Considerazioni riguardo le app installabili</a></li>
+ <li><a href="it/docs/Web/Apps/Tools_and_frameworks/App_developer_tools">Indice di strumenti per lo sviluppo di Mozilla</a></li>
+ <li><a href="it/docs/Tools/WebIDE">WebIDE</a></li>
+ <li><a href="/it/docs/Tools">Zona Strumenti</a></li>
 </ul>
 </div>
 
 <div class="column-4">
-<h2 id="Componenti">Componenti</h2>
+<h2 id="Components">Componenti</h2>
 
-<p>Abbiamo a disposizione una moltitudine di modelli e componenti già pronti per aiutare a velocizzare lo sviluppo di app.</p>
-
-<ul>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Developing/App_templates">Usare i modelli per le app</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Developing/Custom_elements">Elementi personalizzati</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Developing/Web_components">Web components e Mozilla Brick</a></li>
-</ul>
-</div>
-</div>
-
-<div class="column-container">
-<div class="column-4">
-<h2 id="App_di_riferimento">App di riferimento</h2>
-
-<p>Alcune web app di esempio selezionate per permetterti di scaricarle, installarle, divertirti e imparare.</p>
+<p>Serie di strumenti e componenti pronti all’uso ideati per velocizzare il lavoro degli sviluppatori.</p>
 
 <ul>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Reference_apps/Chrono">Chrono</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Reference_apps/Face_value">Face value</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Reference_apps/Roller">Roller</a></li>
+ <li><a href="/en-US/Apps/Tools_and_frameworks/Cordova_support_for_Firefox_OS">Cordova support for Firefox OS</a></li>
+ <li><a href="/en-US/Apps/Tools_and_frameworks/Web_components">Web components and Mozilla Brick</a></li>
+ <li><a href="/en-US/Apps/Tools_and_frameworks/App_templates">Using Mortar templates</a></li>
 </ul>
-</div>
-
-<div class="column-4">
-<h2 id="Pagamenti">Pagamenti</h2>
-
-<p>Mettiamo a disposizione delle API appositamente create per permetterti di accettare pagamenti per le tue applicazioni, ad esempio per l'acquisto di app e pagamenti in-app.</p>
-
-<ul>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Publishing/Marketplace_Payments">Pagamenti sul Marketplace</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Publishing/In-app_payments">Pagamenti in-app</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Publishing/Validating_a_receipt">Convalidare una ricevuta</a></li>
-</ul>
-</div>
-
-<div class="column-4">
-<h2 id="Pubblicazione">Pubblicazione</h2>
-
-<p>Sia che tu voglia pubblicare per conto tuo, sia che tu voglia distribuire la tua applicazione sul nostro <a href="https://developer.mozilla.org/Marketplace">Firefox Marketplace</a>, abbiamo la documentazione per aiutarti.</p>
-
-<ul>
- <li><a href="https://developer.mozilla.org/it/Marketplace/Publishing/opzioni_pubblicazione_app">Opzioni per la pubblicazione di un'app</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Publishing/Submitting_an_app">Inviare un'app</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Publishing/Packaged_Apps">App Packaged</a></li>
-</ul>
-</div>
-</div>
-
-<div class="column-container">
-<div class="column-half">
-<div class="zone-callout">
-<h2 id="Articoli_principali">Articoli principali</h2>
-
-<ol>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Build/Your_first_app">La tua prima app</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Quickstart/Design/UI_guidelines">Linee guida per le UI</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Publishing/Submitting_an_app">Inviare un'app</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Developing/Manifest">Manifest</a></li>
- <li><a href="https://developer.mozilla.org/docs/Web/Apps/Developing/Offline">App offline</a></li>
-</ol>
-</div>
-</div>
-
-<div class="column-half">
-<div class="zone-callout">
-<h2 class="Tools" id="Tools" name="Tools">Strumenti per gli sviluppatori di app</h2>
-
-<ul>
- <li><a href="http://buildingfirefoxos.com/">Costruire Firefox OS: building blocks</a></li>
- <li><a href="https://marketplace.firefox.com/">Visita il Firefox Marketplace</a></li>
- <li><a href="https://developer.mozilla.org/docs/Mozilla/Firefox_OS/Using_Firefox_OS_Simulator">Firefox OS Simulator</a></li>
- <li><a href="https://developer.mozilla.org/docs/Mozilla/Firefox_OS/Using_the_App_Manager">Gestore app</a></li>
- <li><a href="https://developer.mozilla.org/docs/Apps/App_developer_tools">Strumenti di sviluppo per le app</a></li>
-</ul>
-</div>
 </div>
 </div>
 
 <div class="note">
-<p><strong>Nota:</strong> Teniamo traccia dei lavori in corso sulla documentazione dell'App Center nella nostra pagina <a href="https://developer.mozilla.org/docs/Web/Apps/Doc_Status">Stato della documentazione sulle App</a>. Se vuoi contribuire alla documentazione dell'App Center, dai un'occhiata a questa pagina per informarti sui lavori necessari!</p>
+<p><strong>Note:</strong> I progressi dei progetti in corso nel Centro app sono rintracciabili sulla pagina <a href="it/MDN/Doc_status/Apps">Apps documentation status</a>. Se desideri collaborare al Centro App, consulta la pagina e scopri quali progetti hanno bisogno di attenzione.</p>
 </div>
 
-<p>{{CommunityBox("Open Web apps", "dev-webapps", "mozilla.dev.webapps", "openwebapps", "Newsletter|https://marketplace.firefox.com/developers/#newsletter-signup|Sign up|Sign up for the Open Web Apps newsletter||Dev Derby|https://developer.mozilla.org/en/demos/devderby|See our community-written demos|Visit the Dev Derby to see demos and examples produced by the Open Web apps community")}}</p>
+<p>{{CommunityBox("Open Web Apps", "dev-webapps", "mozilla.dev.webapps", "openwebapps", "Newsletter|https://marketplace.firefox.com/developers/#newsletter-signup|Iscriviti|Iscriviti alla newsletter dedicata alle app open web", "", "firefox-os")}}</p>
 
 <h2 id="Subnav">Subnav</h2>
 
 <ol>
- <li><a href="https://developer.mozilla.org/it/Apps/Quickstart">Per cominciare</a>
-
+ <li><a href="it/docs/Web/Apps/Quickstart">Quickstart</a></li>
+ <li><a href="it/docs/Web/Apps/Design" title="Informazioni sulle app e sulla progettazione dell’interfaccia.">Progetta</a>
   <ol>
-   <li><a href="https://developer.mozilla.org/it/Apps/Quickstart/Build/Intro_to_open_web_apps">Introduzione alle open web apps</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Quickstart/Build/Intro_to_Firefox_OS">Introduzione a Firefox OS</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Quickstart/Design/Concept_A_great_app">Cosa rende grande un'app?</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Quickstart/Design/Design_Principles">Principi di design</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Quickstart/Design/UI_guidelines">Linee guida per le UI </a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Quickstart/Build/Your_first_app">La tua prima app</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Quickstart/Build/For_Web_developers">Sviluppo di app per sviluppatori web</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Quickstart/Build/For_mobile_developers">Sviluppo di app per sviluppatori mobile</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Quickstart/Build/Developing_app_functionality">Sviluppare le funzionalità delle app</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Quickstart/App_developer_tools">Strumenti di sviluppo per le app</a></li>
+   <li><strong><a href="it/docs/Web/Apps/Design">Panoramica della sezione Progetta</a></strong></li>
+   <li><a href="it/docs/Web/Apps/Quickstart/Design">Planning</a></li>
+   <li><a href="it/docs/Web/Apps/Quickstart/Design/Linee_guida_UI">Linee guida per le UI</a></li>
+   <li><a href="it/docs/Web/Apps/Quickstart/Design/basi_design">Basi di design</a></li>
+   <li><a href="https://www.mozilla.org/en-US/styleguide/products/firefox-os/">Firefox OS visual styleguide</a></li>
+   <li><a href="/en-US/Apps/Design/Copy_styleguide">Firefox OS copy styleguide</a></li>
+   <li><a href="/en-US/Apps/Design/Firefox_OS_icon_font">Firefox OS icon font</a></li>
+   <li><a href="it/Firefox_OS/UX/Design_asset_library">Firefox OS design asset library</a></li>
+   <li><a href="/en-US/Apps/Design/Firefox_OS_transitions">Firefox OS transitions</a></li>
+   <li><a href="/en-US/Apps/Design/Firefox_OS_in_Arabic">Firefox OS in Arabic</a></li>
+   <li><a href="/en-US/Apps/Design/Firefox_OS_TV_UX">Firefox OS for TV UX</a></li>
+   <li><a href="https://developer.mozilla.org/en-US/Apps/Design/Firefox_OS_TV_User_Interface_Animation_Design">Firefox OS TV User Interface &amp; Animation Design</a></li>
   </ol>
  </li>
- <li><a href="https://developer.mozilla.org/it/Apps/Design" title="Information regarding app and interface design practices.">Design</a></li>
- <li><a href="https://developer.mozilla.org/it/Apps/Developing" title="This section contains documentation about building app functionality, with HTML5 and device APIs (WebAPIs).">Crea</a></li>
- <li><a href="https://developer.mozilla.org/it/Marketplace">Pubblicazione</a></li>
- <li><a href="https://developer.mozilla.org/it/Apps/Tools_and_frameworks">Strumenti e framework</a></li>
- <li><a href="https://developer.mozilla.org/it/Apps/Reference_apps">App di riferimento</a>
+ <li><a href="it/docs/Web/Apps/Quickstart/Build" title="Contiene la documentazione per sviluppare le varie funzionalità di un’app con HTML5 e le API del dispositivo (API Web).">Sviluppa</a>
   <ol>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference_apps/Chrono">Chrono</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference_apps/Face_value">Face Value</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference_apps/Podcasts">Podcasts</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference_apps/Roller">Roller</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference_apps/Webfighter">Webfighter</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference_apps/General_notes">General notes</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference_apps/rtcamera">rtcamera</a></li>
+   <li><strong><a href="it/docs/Web/Apps/Quickstart/Build">Panoramica della sezione Costruisci</a></strong></li>
+   <li><a href="/en-US/Apps/Build/installable_apps_for_Firefox_OS">Apps for Firefox OS</a></li>
+   <li><a href="/en-US/Apps/Build/Basic_data_flow">Basic data flow</a></li>
+   <li><a href="/en-US/docs/Web/Apps/Build/Modern_web_app_architecture">Modern web app architecture</a></li>
+   <li><a href="/en-US/Apps/Build/gather_and_modify_data">Gather and modify data</a></li>
+   <li><a href="/en-US/Apps/Build/User_notifications">User notifications</a></li>
+   <li><a href="/en-US/Apps/Build/User_input_methods">User input and controls</a></li>
+   <li><a href="/en-US/Apps/Build/Offline">Offline apps</a></li>
+   <li><a href="/en-US/Apps/Build/Audio_and_video_delivery">Audio and video delivery</a></li>
+   <li><a href="/en-US/Apps/Build/Audio_and_video_manipulation">Audio and video manipulation</a></li>
+   <li><a href="/en-US/Apps/Build/Advanced_network_communication">Advanced network communication</a></li>
+   <li><a href="/en-US/docs/Games">Develop games</a></li>
+   <li><a href="/en-US/Apps/Build/Localization">Localization</a></li>
+   <li><a href="/en-US/Apps/Build/Porting">Porting  </a></li>
+   <li><a href="it/docs/Web/Apps/Build/Performance">App performance</a></li>
+   <li><a href="/en-US/Apps/Build/App_development_FAQ">App development FAQ</a></li>
   </ol>
  </li>
- <li><a href="https://developer.mozilla.org/it/Apps/Reference">Riferimento delle API</a>
+ <li><a href="/it/Marketplace">Pubblica</a></li>
+ <li><a href="it/docs/Web/Apps/Tools_and_frameworks">Tools and frameworks</a></li>
+ <li><a href="/it/Apps/app_riferimento">App di riferimento</a>
   <ol>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference/Foundation_of_a_Firefox_OS_app">Fondamenta di una app Firefox OS</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference/Layout_and_structure">Layout e struttura</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference/Drawing_and_animation">Disegno e animazioni</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference/Firefox_OS_device_APIs">API dei dispositivi Firefox OS</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference/General_Web_APIs">API web generiche</a></li>
-   <li><a href="https://developer.mozilla.org/it/Apps/Reference/Firefox_Marketplace_services">Servizi del Firefox Marketplace</a></li>
+   <li><a href="/en-US/Apps/Reference_apps/Chrono">Chrono</a></li>
+   <li><a href="/en-US/Apps/Reference_apps/Face_value">Face Value</a></li>
+   <li><a href="/en-US/Apps/Reference_apps/Podcasts">Podcasts</a></li>
+   <li><a href="/en-US/Apps/Reference_apps/Roller">Roller</a></li>
+   <li><a href="/en-US/Apps/Reference_apps/Webfighter">Webfighter</a></li>
+   <li><a href="/en-US/Apps/Reference_apps/General_notes">General Notes</a></li>
+   <li><a href="/en-US/Apps/Reference_apps/rtcamera">rtcamera</a></li>
+  </ol>
+ </li>
+ <li><a href="/en-US/Apps/Reference">Documentazione di riferimento</a>
+  <ol>
+   <li><a href="/en-US/Apps/Reference/Layout_and_structure">Layout and structure</a></li>
+   <li><a href="/en-US/Apps/Reference/Drawing_and_animation">Drawing and animation</a></li>
+   <li><a href="/en-US/Apps/Reference/Firefox_OS_device_APIs">Firefox OS device APIs</a></li>
+   <li><a href="/en-US/Apps/Reference/General_Web_APIs">General web APIs</a></li>
+   <li><a href="/en-US/Apps/Reference/Firefox_Marketplace_services">Firefox Marketplace services</a></li>
+   <li><a href="/en-US/Apps/Reference/Firefox_OS_app_tools">Firefox OS app tools</a></li>
   </ol>
  </li>
 </ol>
-</div>
-
-<p>&nbsp;</p>
 
