@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 973841
+revision_id: 973849
 locale: vi
 slug: MDN/Contribute/Localize/dich_trang
 tags: "I10n" "MDN Thẻ" "Ngôn ngữ" "Biên dịch" "Hướng dẫn" "Trang dịch"
@@ -9,20 +9,20 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 923675
+based_on: None
 ---
 <p>Bài viết này là một hướng dẫn cơ bản để biên dịch nội dung trên MDN, điều này bao gồm cả cách dịch và những thủ thuật để xử lý những loại nội dung khác nhau.</p>
 
-<h2 id="Starting_a_new_page_translation">Bắt đầu một trang dịch mới</h2>
+<h2 id="Bắt_đầu_một_trang_dịch_mới">Bắt đầu một trang dịch mới</h2>
 
 <p>Khi bạn gặp một trang mà bạn muốn dịch nó sang ngôn ngữ của bạn, hãy làm theo các bước sau:</p>
 
 <ol>
  <li>Click vào biểu tượng <strong>Ngôn ngữ</strong> ({{FontAwesomeIcon("icon-globe")}}) để mở danh mục <strong>Những ngôn ngữ</strong>, rồi click <strong>Thêm một bản dịch</strong>. Trang chọn ngôn ngữ sẽ xuất hiện.</li>
- <li>Click the language that you want to translate the page into. The Translating Article view opens with the original language text displayed on the left side of the view.</li>
- <li>Under <strong>Translate Description</strong>, you can translate the title and, optionally, the slug into the target language. The slug is the last part of the URL of a page (for example, "Translating_pages" for this article.) Some language communities do not translate the slug, keeping the same slug as English. Compare with other articles in your language to determine the common practice. You can click the minus sign next to <strong>Translate Description</strong> to hide this information when you are done with it, to make more room for the <strong>Translate Content</strong> section.</li>
+ <li>Click vào ngôn ngữ bạn muốn dịch sang. Giao diện <strong>dịch bài viết</strong> sẽ xuất hiện với ngôn ngữ gốc được hiển thị ở phía bên trái của màn hình hiển thị.</li>
+ <li>Phía dưới phần <strong>Mô tả bản dịch</strong>, bạn có thể dịch tiêu đề và slug (tùy chọn) sang ngôn ngữ của bạn. Slug là phần cuối cùng của đường dẫn (URL) của trang (ví dụ, "dich_trang" là Slug của đường dẫn của bài viết này). Một vài ngôn ngữ không dịch phần slug, hãy giữ nó giống với ngôn ngữ tiếng Anh (với tiếng Việt nên để tiếng Việt không dấu và thay dấu cách -space- bằng ký tự "_"). Compare with other articles in your language to determine the common practice. You can click the minus sign next to <strong>Translate Description</strong> to hide this information when you are done with it, to make more room for the <strong>Translate Content</strong> section.</li>
  <li>Under <strong>Translate Content</strong>, translate the body of the page.</li>
  <li>Fill at least one <strong>tag</strong> for the page</li>
  <li>Click <strong>Save Changes</strong> when you are done.</li>
