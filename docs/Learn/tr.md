@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 809345
+revision_id: 975111
 locale: tr
 slug: Öğren
 tags: "öğren"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -19,7 +19,7 @@ based_on: None
 
 <p>Web tasarım ve geliştirme hakkında öğrenilecek bir çok şey var, ama endişelenme. &nbsp;Biz sana yardım etmek için buradayız, yeni kod yazmaya başlamış veya tam teşekküllü profesyonel bir geliştirici olman fark etmez.</p>
 
-<h2 id="Nereden_ba.C5.9Flamal.C4.B1">Nereden başlamalı&nbsp;</h2>
+<h2 id="Nereden_başlamalı">Nereden başlamalı&nbsp;</h2>
 
 <p>Sizinle tanışmak ve ne durumda olduğunuzu öğrenmek istiyoruz. Hangi tanım size daha çok uyuyor?</p>
 
@@ -42,16 +42,16 @@ based_on: None
 
 <p>{{LearnBox({"title":"Quick learning: Vocabulary"})}}</p>
 
-<h2 id="Di.C4.9Fer_insanlarla_birlikte_.C3.B6.C4.9Fren">Diğer insanlarla birlikte öğren</h2>
+<h2 id="Diğer_insanlarla_birlikte_öğren">Diğer insanlarla birlikte öğren</h2>
 
-<p>Eğer br sorunuz varsa veya halen ne yapmanız gerektiğini merak ediyorsanız, Mozilla size yardım etmekten mutluluk duyacak akıl hocaları ve ögretmenler içeren web tutkunlarından oluşan global bir topluluktur. Onlarla WebMaker aracılığıyla iletişim kurun:</p>
+<p>Eğer bir sorunuz varsa veya halen ne yapmanız gerektiğini merak ediyorsanız, Mozilla size yardım etmekten mutluluk duyacak akıl hocaları ve ögretmenler içeren web tutkunlarından oluşan global bir topluluktur. Onlarla WebMaker aracılığıyla iletişim kurun:</p>
 
 <ul>
  <li><a href="http://discourse.webmaker.org/" rel="external">Discourse forum</a>'da akıl hocaları ve öğretmenlerle tanışın ve iletişim kurun.</li>
  <li><a href="https://events.webmaker.org/">Etkinlikleri bulun</a> ve Web'i müthiş insanlarla beraber öğrenin.</li>
 </ul>
 
-<h2 id="Bildiklerini_payla.C5.9F">Bildiklerini paylaş</h2>
+<h2 id="Bildiklerini_paylaş">Bildiklerini paylaş</h2>
 
 <p>Bütün bu öğrenme alanı katkıda bulunan insanlar tarafından oluşturulmuştur. Yeni başlayan, öğretmen veya yetenekli bir web geliştirici de olsanız, size takımımızda ihtiyacımız var. Eğer ilgileniyorsanız, <a href="/en-US/Learn/How_to_contribute">nasıl yardım edebilirim</a>'e bir göz atın, ve sizi bizimle bizimle sohbet etmeniz için <a href="/en-US/docs/MDN/Community#Join_our_mailing_lists">mail listelerimize</a> ve <a href="/en-US/docs/MDN/Community#Get_into_IRC">IRC kanallarına</a> davet ediyoruz. :)</p>
 
