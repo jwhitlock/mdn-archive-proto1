@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 974829
+revision_id: 975233
 locale: de
 slug: Web/MathML
 tags: "MathML"
@@ -24,9 +24,9 @@ based_on: None
  <dd>Details zu allen MathML-Elementen und Kompatibilitätsinformationen für Desktop- und Mobilbrowser.</dd>
  <dt><a href="/de/docs/Web/MathML/Attribute" title="/en-US/docs/Web/MathML/Attribute">MathML-Attributreferenz</a></dt>
  <dd>Informationen über MathML-Attribute, um Darstellung oder Verhalten der Elemente zu beeinflussen.</dd>
- <dt><a href="/de/docs/Web/MathML/Examples" title="/en-US/docs/Web/MathML/Examples">MathML-Beispiele</a></dt>
+ <dt><a href="/de/docs/Web/MathML/Beispiele" title="/en-US/docs/Web/MathML/Examples">MathML-Beispiele</a></dt>
  <dd>MathML-Beispiele, die Ihnen zu verstehen helfen, wie es funktioniert.</dd>
- <dt><a href="/de/docs/Web/MathML/Authoring">MathML benutzen</a></dt>
+ <dt><a href="/de/docs/Web/MathML/Authoring">MathML in der Praxis</a></dt>
  <dd>Vorschläge und Tipps, um in MathML zu schreiben, einschließlich MathML-Editoren und Hinweise, wie man die Ergebnisse in Web-Inhalt einfügt.</dd>
 </dl>
 
