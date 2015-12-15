@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 780933
+revision_id: 975113
 locale: ru
 slug: Web/Reference
 tags: "Русский"
@@ -25,7 +25,7 @@ based_on: None
  <dt><a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">Web API interface reference</a></dt>
  <dd>Reference material for each of the interfaces that comprise the Web's APIs, including the DOM and all of the related APIs and interfaces you can use to build Web content and apps. This list covers all interfaces, arranged alphabetically.</dd>
  <dt><a href="/en-US/docs/Web/Reference/API" title="/en-US/docs/Web/Reference/API">Web APIs</a></dt>
- <dd>Список различных интерфейсов и набора технологий,<br />
+ <dd>Список различных интерфейсов и набора технологий,<br>
  которые составляют общий Веб API.</dd>
  <dt><a href="/en-US/docs/Web/HTML" title="/en-US/docs/Web/HTML">HTML</a></dt>
  <dd>Язык гипертекстовой разметки — это язык, используемый для определения структуры и описания содержания веб-страницы в структурированной форме.</dd>
@@ -45,5 +45,5 @@ based_on: None
 </div>
 </div>
 
-<p>&nbsp;</p>
+<p> </p>
 
