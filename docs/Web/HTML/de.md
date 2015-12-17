@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 831549
+revision_id: 976087
 locale: de
 slug: Web/HTML
 tags: "Einführung" "Web Programmierung"
@@ -30,13 +30,13 @@ based_on: None
 <h2 class="Documentation" id="Documentation" name="Documentation">HTML Dokumentation</h2>
 
 <dl>
- <dt><a href="/en-US/docs/Web/Guide/HTML/Introduction" title="Introduction to HTML"><strong>Einführung in HTML</strong></a></dt>
+ <dt><a href="/de/docs/Web/Guide/HTML/Introduction" title="Introduction to HTML"><strong>Einführung in HTML</strong></a></dt>
  <dd>Eine einführende Anleitung zur Verwendung von HTML, mit Hinweisen zur korrekten Syntax und&nbsp; Anwendung</dd>
- <dt><a href="/en-US/docs/Web/HTML/Element" title="HTML/Element">HTML Element Referenz</a></dt>
+ <dt><a href="/de/docs/Web/HTML/Element" title="HTML/Element">HTML Element Referenz</a></dt>
  <dd>Ein detailliertes Nachschlagewerk aller HTML Elemente, ihrer Eigenschaften und Verwendungsmöglichkeiten sowie zur Kompatibilität mit unterschiedlichen Browsern.</dd>
- <dt><a href="/en-US/docs/Web/HTML/Attributes" title="HTML/Attributes">HTML Attribut Referenz</a></dt>
+ <dt><a href="/de/docs/Web/HTML/Attributes" title="HTML/Attributes">HTML Attribut Referenz</a></dt>
  <dd>Eine Liste aller HTML Attribute mit Hinweisen zur Verwendung mit bestimmten Elementen.</dd>
- <dt><a href="/en-US/docs/Web/Guide/HTML" title="/en-US/docs/Web/Guide/HTML">HTML Guide</a></dt>
+ <dt><a href="/de/docs/Web/Guide/HTML" title="/en-US/docs/Web/Guide/HTML">HTML Guide</a></dt>
  <dd>Anleitungen und Übungen zum Erlernen und Verwenden von HTML</dd>
 </dl>
 
@@ -45,8 +45,8 @@ based_on: None
 <h2 class="Related_Topics" id="Related_Topics" name="Related_Topics">Verwandte Inhalte</h2>
 
 <ul>
- <li><a href="/en-US/docs/CSS" title="CSS">Cascading Style Sheets (CSS)</a> für die Darstellung von HTML Inhalten</li>
- <li><a href="/en-US/docs/DOM" title="Document Object Model (DOM)">Document Object Model (DOM)</a> ist die Darstellung eines HTML Dokuments als ein objektorientiertes Baumdiagramm</li>
+ <li><a href="/de/docs/CSS" title="CSS">Cascading Style Sheets (CSS)</a> für die Darstellung von HTML Inhalten</li>
+ <li><a href="/de/docs/DOM" title="Document Object Model (DOM)">Document Object Model (DOM)</a> ist die Darstellung eines HTML Dokuments als ein objektorientiertes Baumdiagramm</li>
 </ul>
 </div>
 
