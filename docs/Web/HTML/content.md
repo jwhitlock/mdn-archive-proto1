@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 901571
+revision_id: 977185
 locale: en-US
 slug: Web/HTML
 tags: "HTML" "HTML5" "Web" "Learn" "HTML Lesson" "What is HTML" "Landing" "HTML Tutorials" "Hyper text" "Hypertext" "Reference" "HTML Programming" "l10n:priority"
@@ -13,11 +13,11 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p class="note">{{HTMLSidebar()}}</p>
+<div>{{HTMLSidebar()}}</div>
 
-<p><span class="seoSummary">HTML, which stands for HyperText Markup Language (HTML), is the most basic building block of a webpage and used for creating and visually representing a webpage. It determines the content of a webpage , but not its functionality.</span></p>
+<p><span class="seoSummary">HTML, which stands for HyperText Markup Language, is the most basic building block of a webpage and used for creating and visually representing a webpage. It determines the content of a webpage , but not its functionality.</span></p>
 
-<p>HTML adds "markup" to standard English text. "Hyper Text" refers to links that connect Web pages to one another, making the World Wide Web what it is today. By creating and uploading Web pages to the Internet, you become an active participant in the World Wide Web once your site&nbsp;is online. HTML supports visual images and other media as well. With the help of HTML everyone can make static as well as dynamic web sites.&nbsp;HTML is the language that describes the structure and the semantic content of a web document. Content within a web page is tagged with HTML elements such as {{HTMLElement("img")}}, {{HTMLElement("title")}}, {{HTMLElement("p")}}, {{HTMLElement("div")}}, {{HTMLElement("picture")}}, and so forth. These elements form the building blocks of a website.</p>
+<p>HTML adds "markup" to standard English text. "Hyper Text" refers to links that connect Web pages to one another, making the World Wide Web what it is today. By creating and uploading Web pages to the Internet, you become an active participant in the World Wide Web once your site&nbsp;is online. HTML supports visual images and other media as well. With the help of HTML everyone can make static as well as dynamic web sites.&nbsp;HTML is the language that describes the structure and the semantic content of a web document. Content within a web page is tagged with HTML elements such as {{HTMLElement("head")}}, {{HTMLElement("title")}}, {{HTMLElement("body")}}, {{HTMLElement("article")}}, {{HTMLElement("section")}},  {{HTMLElement("p")}}, {{HTMLElement("div")}}, {{HTMLElement("span")}}, {{HTMLElement("img")}}, {{HTMLElement("picture")}}, and so forth. These elements form the building blocks of a website.</p>
 
 <p>The articles here provide reference materials for web development.</p>
 
