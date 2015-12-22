@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 975233
+revision_id: 978489
 locale: de
 slug: Web/MathML
 tags: "MathML"
