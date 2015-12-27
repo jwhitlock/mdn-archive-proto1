@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 696689
+revision_id: 980999
 locale: fa
 slug: Web
 tags: "تکنولوژی های وب" "رابط های کاربردی" "رابط های کاربری" "وب"
@@ -16,7 +16,7 @@ based_on: None
 <p><strong>وب باز ، فرصتی باورنکردنی برای بادگیری این تکنولوژی. شما باید یاد بگیرید چگونه از آنها (تکنولوژِی ها) استفاده کنید. در زیر پیوند هایی به اسناد تکنولوژی های ما وجود دارد.</strong></p>
 <div class="row topicpage-table">
  <div class="section">
-  <h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">مستندات برای توسعه دهندگان</h2>
+  <h2 name="Docs_for_add-on_developers" class="Documentation" id="Docs_for_add-on_developers">مستندات برای توسعه دهندگان</h2>
   <dl>
    <dt>
     <a href="/en-US/docs/Web/Reference" title="/en-US/docs/Web/Reference">منابع توسعه دهنده وب</a></dt>
@@ -38,7 +38,7 @@ based_on: None
   <p><span class="alllinks"><a href="/en-US/docs/tag/Web">نمایش همه . . .</a></span></p>
  </div>
  <div class="section">
-  <h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">منابع تکنولوژی های وب</h2>
+  <h2 name="Docs_for_add-on_developers" class="Documentation" id="Docs_for_add-on_developers">منابع تکنولوژی های وب</h2>
   <dl>
    <dt>
     <a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">رابط های کاربردی (APIs) وب</a></dt>
@@ -63,7 +63,7 @@ based_on: None
   </dl>
  </div>
 </div>
-<h3 id="Temporary">موقت</h3>
+<h3 id="موقت">موقت</h3>
 <p><strong>مواردی که در حال حاضر سازمان در آنها فعالیت دارد.</strong></p>
 <p>{{ListSubpages}}</p>
 
