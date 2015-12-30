@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 982695
+revision_id: 982697
 locale: vi
 slug: MDN/Getting_started
 tags: 
