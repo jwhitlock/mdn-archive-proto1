@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 797385
+revision_id: 982811
 locale: hu
 slug: Web
 tags: "Web" "Landing" "TopicStub" "NeedsTranslation"
