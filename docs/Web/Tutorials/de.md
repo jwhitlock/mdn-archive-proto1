@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 908197
+revision_id: 984889
 locale: de
 slug: Web/Tutorials
 tags: 
@@ -105,8 +105,6 @@ based_on: None
      <dd>Douglas Crockford looks closely at code patterns from which JavaScript programmers can choose in authoring their applications.</dd>
      <dt><a href="http://bonsaiden.github.com/JavaScript-Garden/" rel="external">JavaScript Garden</a></dt>
      <dd>Documentation of the most quirky parts of JavaScript.</dd>
-     <dt><a href="http://stackoverflow.com/questions/394601/which-javascript-framework-jquery-vs-dojo-vs" rel="external">Which JavaScript Framework?</a> (StackOverflow)</dt>
-     <dd>Advice on choosing a JavaScript framework.</dd>
      <dt><a href="http://yuiblog.com/blog/2008/07/22/non-blocking-scripts/" rel="external">Non-blocking JavaScript Downloads</a> (YUI Blog)</dt>
      <dd>Tips on improving the download performance of pages containing JavaScript.</dd>
      <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Guide">JavaScript Guide</a></dt>
