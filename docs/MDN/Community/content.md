@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 951235
+revision_id: 984993
 locale: en-US
 slug: MDN/Community
 tags: "MDN Meta" "Guide" "Landing" "Community"
