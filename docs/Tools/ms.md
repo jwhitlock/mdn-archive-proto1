@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 955377
+revision_id: 986823
 locale: ms
 slug: Tools
 tags: "Guide" "Tools" "TopicStub" "l10n:priority" "Web Development" "NeedsTranslation" "Developing Mozilla" "Web Development:Tools"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -33,7 +33,7 @@ based_on: None
  <h3 id="Share_your_ideas">Share your ideas</h3>
  <p>Ask for new features in the developer tools or vote for ideas other developers are asking for.</p>
 </div>
-<p><img src="https://mdn.mozillademos.org/files/7307/inspector.png" style="width: 815px; height: 467px; margin-right: auto; margin-left: auto; display: block;" alt=""></p>
+<p><img src="https://mdn.mozillademos.org/files/7307/inspector.png" alt="" style="width: 815px; height: 467px; margin-right: auto; margin-left: auto; display: block;"></p>
 <div class="column-container">
  <div class="column-half">
   <h2 name="Creating" id="Creating">Creating</h2>
