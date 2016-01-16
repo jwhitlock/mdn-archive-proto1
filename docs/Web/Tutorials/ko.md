@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 988769
+revision_id: 993937
 locale: ko
 slug: Web/Tutorials
 tags: "강좌" "웹디자인" "코드" "학습서"
@@ -34,7 +34,7 @@ based_on: None
      <dd>기본 학습서를 익히며 연습합니다.</dd>
      <dt><a href="http://wikiversity.org/wiki/Web_Design/HTML_Challenges" rel="external">HTML 과제</a> (Wikiversity)</dt>
      <dd>의미있는 mark-up에 집중하여 HTML기술(예를 들어, "나는 &lt;h2&gt; 요소 또는&lt;strong&gt; 요소를 이용합니까?")을 이러한 과제에 연마, 사용합니다.</dd>
-     <dt><a href="https://developer.mozilla.org/en-US/docs/HTML/Element">MDN HTML 요소 참조</a></dt>
+     <dt><a href="https://developer.mozilla.org/ko/docs/HTML/Element">MDN HTML 요소 참조</a></dt>
      <dd>포괄적인 HTML요소에 대한 참조 및 파이어폭스와 다른 부라우저를 지원하는 방법을 알려줍니다.</dd>
      <dt><a href="http://codeavengers.com/" title="http://codeavengers.com/">CodeAvengers</a> (CodeAvengers.com)</dt>
      <dd>Code Avengers는 HTML, CSS 및 자바스크립트를 사용하여 Code Wep 에플리케이션 및 게임을 배우는 재미있고 효과적인 방법입니다.</dd>
@@ -67,7 +67,7 @@ based_on: None
     <dl>
      <dt><a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</dt>
      <dd>Codecademy는 자바 스크립트를 코딩하는 방법을 배울 수 있는 가장 쉬운 방법입니다. 친구들과 함께 재미있게 배울 수 있습니다.</dd>
-     <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Getting_Started">JavaScript 시작하기</a></dt>
+     <dt><a href="https://developer.mozilla.org/ko/docs/JavaScript/Getting_Started">JavaScript 시작하기</a></dt>
      <dd>JavaScript란 무엇이며, 어떻게 도움을 줄까?</dd>
      <dt><a href="http://docs.webplatform.org/wiki/concepts/programming/programming_basics" rel="external">Programming – 입문 </a> (WebPlatform.org)</dt>
      <dd>프로그래밍의 기본 중의 기본. 자바스크립트를 사용하고 더 많은 것을 할 수 있는 모범사례와 무엇을 할 수 있는지 소개하는 기사.</dd>
@@ -80,7 +80,7 @@ based_on: None
     <h3 id="중급">중급</h3>
 
     <dl>
-     <dt><a href="https://developer.mozilla.org/en-US/docs/A_re-introduction_to_JavaScript">JavaScript 다시 소개하기</a></dt>
+     <dt><a href="https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript">JavaScript 다시 소개하기</a></dt>
      <dd>중급 개발자들을 대상으로 자바 스크립트 프로그래밍 언어의 요점을 되풀이합니다.</dd>
      <dt><a href="http://eloquentjavascript.net/contents.html" rel="external">Eloquent JavaScript</a></dt>
      <dd>중급 및 고급 자바 스크립트 방법론에 대한 포괄적인 가이드.</dd>
@@ -88,7 +88,7 @@ based_on: None
      <dd>자바 스크립트에 필요한 디자인 패턴을 소개.</dd>
      <dt><a href="http://www.yuiblog.com/blog/2007/01/24/video-crockford-tjpl/" rel="external">JavaScript 프로그래밍 언어</a> (YUI Blog)</dt>
      <dd>오늘날, Douglas Crockford가 탐구해온 언어와 방법.</dd>
-     <dt><a href="https://developer.mozilla.org/en-US/docs/Introduction_to_Object-Oriented_JavaScript">객체 지향 JavaScript 소개</a></dt>
+     <dt><a href="https://developer.mozilla.org/ko/docs/Introduction_to_Object-Oriented_JavaScript">객체 지향 JavaScript 소개</a></dt>
      <dd>자바 스크립트 개체 모델에 대해 자세히 알아보십시오.</dd>
     </dl>
 
@@ -109,7 +109,7 @@ based_on: None
      <dd>자바 스크립트 프레임 워크를 선택하는 방법에 대한 조언.</dd>
      <dt><a href="http://yuiblog.com/blog/2008/07/22/non-blocking-scripts/" rel="external">Non-blocking JavaScript Downloads</a> (YUI Blog)</dt>
      <dd>자바 스크립트를 포함하는 페이지의 다운로드 성능 향상을 위한 팁을 제공합니다.</dd>
-     <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Guide">JavaScript 가이드</a></dt>
+     <dt><a href="https://developer.mozilla.org/ko/docs/JavaScript/Guide">JavaScript 가이드</a></dt>
      <dd>초급에서 고급까지 모든 수준을 학습 할 수 있는 포괄적이고 정기적으로 업데이트 되는 자가스크립트 설명서를 참조하십시오.</dd>
     </dl>
    </td>
@@ -124,7 +124,7 @@ based_on: None
     <h3 id="입문_3">입문</h3>
 
     <dl>
-     <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/Getting_Started">CSS 시작하기</a></dt>
+     <dt><a href="https://developer.mozilla.org/ko/docs/CSS/Getting_Started">CSS 시작하기</a></dt>
      <dd>이 학습서는 Cascading Style Sheets (CSS)를 소개합니다. 이것은 자신의 컴퓨터에 시도할 수 있는 실용적인 예제와 CSS의 기본 기능을 안내합니다.</dd>
      <dt><a href="http://docs.webplatform.org/wiki/guides/getting_started_with_css" rel="external">CSS 기초</a> (WebPlatform.org)</dt>
      <dd>CSS가 무엇인지, 어떻게 HTML에 적용하는지, 기본적인 CSS구문은 어떤 것인지. 다음과 같이 배웁니다.</dd>
@@ -134,7 +134,7 @@ based_on: None
      <dd>외부 스타일 시트에서 CSS를 사용.</dd>
      <dt><a href="http://www.w3.org/MarkUp/Guide/Style" rel="external">스타일에서 Touch 추가하기</a> (W3C)</dt>
      <dd>CSS로 웹페이지를 스타일링 하는 간단한 초보자 가이드.</dd>
-     <dt><a href="https://developer.mozilla.org/en-US/docs/Common_CSS_Questions">일반적인 CSS 질문</a></dt>
+     <dt><a href="https://developer.mozilla.org/ko/docs/Common_CSS_Questions">일반적인 CSS 질문</a></dt>
      <dd>초보자들을 위한 일반적인 질문 및 응답.</dd>
      <dt><a href="http://codeavengers.com/" title="http://codeavengers.com/">CodeAvengers</a> (CodeAvengers.com)</dt>
      <dd>Code Avengers는 HTML, CSS 및 자바스크립트를 사용하여 Code Wep 에플리케이션 및 게임을 배우는 재미있고 효과적인 방법입니다.</dd>
@@ -143,7 +143,7 @@ based_on: None
     <h3 id="중급_2">중급</h3>
 
     <dl>
-     <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference">CSS 참조</a></dt>
+     <dt><a href="https://developer.mozilla.org/ko/docs/CSS/CSS_Reference">CSS 참조</a></dt>
      <dd>파이어 폭스와 다른 브라우저에서의 지원에 대한 세부사항, CSS 참조를 작성합니다.</dd>
      <dt><a href="http://en.wikiversity.org/wiki/Web_Design/CSS_challenges" rel="external">CSS 과제</a> (Wikiversity)</dt>
      <dd>CSS 기술을 이용해 더 많은 연습을 필요로 하는곳에 참여하십시오.</dd>
@@ -163,9 +163,9 @@ based_on: None
     <dl>
      <dt><a href="http://addyosmani.com/blog/css3-screencast/" rel="external">5분 동안의 CSS3</a> (Addy Osmani)</dt>
      <dd>CSS3 도입 된핵심 기능 중 일부에 대한 간단한 소개.</dd>
-     <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/Using_CSS_transforms">CSS를 사용한 변환</a></dt>
+     <dt><a href="https://developer.mozilla.org/ko/docs/CSS/Using_CSS_transforms">CSS를 사용한 변환</a></dt>
      <dd>회전, 기울이기, 크기 조절 등의 변환을 CSS를 사용하여 적용합니다.</dd>
-     <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_transitions">CSS 전환</a></dt>
+     <dt><a href="https://developer.mozilla.org/ko/docs/CSS/CSS_transitions">CSS 전환</a></dt>
      <dd>CSS 전환, 초안 CSS3 스펙의 일부 대신에 변경 내용이 즉시 적용하는 것에 CSS 속성 변화를 보여주는 방법을 제공합니다.</dd>
      <dt><a href="http://www.alistapart.com/articles/understanding-css3-transitions/" rel="external">Understanding CSS3 Transitions</a> (A List Apart)</dt>
      <dd>신중하게 상황을 선택하여 CSS3를 사용하여 전환을 시작합니다.</dd>
