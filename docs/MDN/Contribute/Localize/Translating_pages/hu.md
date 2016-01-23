@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 996687
+revision_id: 996691
 locale: hu
 slug: MDN/Contribute/Localize/Oldalak_fordítása
 tags: "l10n" "MDN Meta" "fordítás" "útmutató" "honosítás"
@@ -30,7 +30,7 @@ based_on: None
 
 <div class="note"><strong>Megjegyzés:</strong> A Cikk fordítása nézet felhasználói felületi elemei először angolul jelennek meg. Az adott oldal következő, fordítás miatt meglátogatásakor, a felhasználói felület a megfelelő nyelven jelenik meg, ha létezik honosítás az MDN-en ahhoz a nyelvhez. Az MDN felhasználói felület a <a href="https://localize.mozilla.org/projects/mdn/" title="https://localize.mozilla.org/projects/mdn/">Pontoon</a> segítségével honosítható. Tekintse meg a <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim" title="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim">Honosítás a Pontoonnal</a> oldalt az eszköz használatának részleteiért.</div>
 
-<h2 id="Lefordított_oldal_szerkesztése">Lefordított oldalak szerkesztése</h2>
+<h2 id="Lefordított_oldalak_szerkesztése">Lefordított oldalak szerkesztése</h2>
 
 <ul>
  <li>Egy lefordított oldalon, kattintson a <strong>Szerkesztés</strong> gombra (néha megcímkézve a célnyelvvel). A Cikk fordítása ekkor megnyílik.</li>
