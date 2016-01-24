@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 825969
+revision_id: 997011
 locale: th
 slug: MDN/Contribute/Localize/Translating_pages
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -20,7 +20,7 @@ based_on: None
 <p><span id="result_box" lang="th" tabindex="-1"><span class="hps">เมื่อ</span><span>คุณเจอ</span><span>หน้า</span><span>คุณต้องการ</span><span>ที่จะแปล</span><span>เป็นภาษาของคุณ</span><span> โปรดทำตามขั้นตอน</span><span>เหล่านี้:</span></span></p>
 
 <ol>
- <li>คลิกที่ <strong>Languages icon</strong> ()เพื่อเปิดเมนู <strong>Languages</strong> แล้วคลิก <strong>Add a Translation</strong>. The Select Languages page appears.</li>
+ <li>คลิกที่ <strong>Languages icon</strong> ({{FontAwesomeIcon("icon-globe")}})เพื่อเปิดเมนู <strong>Languages</strong> แล้วคลิก <strong>Add a Translation</strong>. หน้าเพจภาษาที่เลือกแปลจะปรากฎ.</li>
  <li>Click the language that you want to translate the page into. The Translating Article view opens with the original language text displayed on the left side of the view.</li>
  <li>Under <strong>Translate Description</strong>, you can translate the title and optionally the slug into the target language. The slug is the last part of the URL of a page (for example, "Translating_pages" for this article.) Some language communities do not translate the slug, keeping the same slug as English. Compare with other articles in your language to determine the common practice. You can click the minus sign next to <strong>Translate Description</strong> to hide this information when you are done with it, to make more room for the <strong>Translate Content</strong> section.</li>
  <li>Under <strong>Translate Content</strong>, translate the body of the page.</li>
