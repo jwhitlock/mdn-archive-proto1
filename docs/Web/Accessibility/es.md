@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 906523
+revision_id: 998503
 locale: es
 slug: Web/Accesibilidad
 tags: "Accesibilidad" "Todas_las_Categorías"
@@ -30,6 +30,8 @@ Las cuatro cosas básicas y un montón de buenos enlaces.</div>
      <dt><a href="/es/Introducci%C3%B3n_a_la_Accesibilidad_Web_(externo)" title="es/Introducción_a_la_Accesibilidad_Web_(externo)">Introducción a la Accesibilidad Web (externo)</a></dt>
      <dd>WAI: estrategias, pautas, recursos para hacer la Web accesible a personas con discapacidad.</dd>
     </dl>
+
+    <p>&nbsp;</p>
 
     <dl>
      <dt><a href="/es/Pautas_de_Accesibilidad_al_Contenido_en_la_Web_1.0_(externo)" title="es/Pautas_de_Accesibilidad_al_Contenido_en_la_Web_1.0_(externo)">Pautas de Accesibilidad al Contenido en la Web 1.0 (externo)</a></dt>
