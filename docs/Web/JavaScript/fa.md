@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 998261
+revision_id: 998999
 locale: fa
 slug: Web/JavaScript
 tags: "Landing" "TopicStub" "JavaScript" "NeedsTranslation"
@@ -18,11 +18,13 @@ based_on: None
 
 <p dir="rtl">{{JsSidebar}}</p>
 
-<p dir="rtl"><strong>JavaScript</strong><sup>®</sup> (اغلب به <strong>JS</strong> مخفف می‌شود) سبک، مفسر، زبان شی‌گرا شده با <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">first-class functions</a>، به عنوان زبان اسکریپت نویسی برای صفحات وب شناخته شده است، اما <a class="external" href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">در خیلی از محیط‌های غیر مرورگری</a> مانند <a class="external" href="http://nodejs.org/">node.js</a> یا <a href="http://couchdb.apache.org">Apache CouchDB</a> نیز استفاده شده است. زبان اسکریت نویسی آن <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based" title="Prototype-based">مبتنی بر نمونه</a> است، <a href="/en-US/docs/multiparadigmlanguage.html" title="/en-US/docs/multiparadigmlanguage.html">چند نمونه</a> که پویا است،<span style="color:rgb(102, 102, 102); line-height:21px"> </span><a href="https://en.wikipedia.org/wiki/Type_safety" style="line-height: 21px;" title="Type safety">نوع امن</a><span style="line-height:1.572"> و از شی گرایی پشتیبانی می‌کند، سبک ‌های برنامه نویسی تابعی را دارد. اطلاعات بیشتر را می‌توانید از صفحه <a href="/fa/docs/docs/Web/JavaScript/About_JavaScript">درباره جاوا اسرکرپپت</a> مشاهده نمایید.</span></p>
+<p dir="rtl"><strong>JavaScript</strong><sup>®</sup> (اغلب به <strong>JS</strong> مخفف می‌شود) سبک، مفسر، زبان شی‌گرا شده با <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">first-class functions</a>، به عنوان زبان اسکریپت نویسی برای صفحات وب شناخته شده است، اما <a class="external" href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">در خیلی از محیط‌های غیر مرورگری</a> مانند <a class="external" href="http://nodejs.org/">node.js</a> یا <a href="http://couchdb.apache.org">Apache CouchDB</a> نیز استفاده شده است. زبان اسکریت نویسی آن <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based" title="Prototype-based">مبتنی بر نمونه</a> است، <a href="/en-US/docs/multiparadigmlanguage.html" title="/en-US/docs/multiparadigmlanguage.html">چند نمونه</a> که پویا است،<span style="color:rgb(102, 102, 102); line-height:21px"> </span><a href="https://en.wikipedia.org/wiki/Type_safety" style="line-height: 21px;" title="Type safety">نوع امن</a><span style="line-height:1.572"> و از شی گرایی پشتیبانی می‌کند، سبک ‌های برنامه نویسی تابعی را دارد. اطلاعات بیشتر را می‌توانید از صفحه <a href="/fa/docs/docs/Web/JavaScript/About_JavaScript">درباره جاوااسکریپت</a></span><span style="line-height:1.572"> مشاهده نمایید.</span></p>
 
 <p dir="rtl">استاندارد جاوااسکریپت <a href="/fa/docs/JavaScript/Language_Resources">اکمااسکریپت</a> (<a href="/fa/docs/JavaScript/Language_Resources">ECMAScript</a>) است که از سال ۲۰۱۲ تمامی مرورگر‌های مدرن استاندارد اکمااسکریپت نسخه ۵.۱ را به صورت کامل پشتیبانی می‌کنند، همچنین مرورگر‌های قدیمی‌تر نسخه ۳ از اکمااسکریپت را پشتیبانی می‌کنند. از ماه June سال ۲۰۱۵ اکمااسکریپت ۶ (ES6) یا همان اکمااسکریپت ۲۰۱۵ (ES2015) مورد قبول واقع شده است. توضیحات تکمیلی در مورد اکمااسکریپت ۶ را می توانید در <a class="external" href="http://wiki.ecmascript.org/doku.php?id=harmony:proposals">dedicated wiki</a> مشاهده نمایید.</p>
 
 <p dir="rtl">این بخش از سایت به زبان جاوااسکریپت اختصاص داده شده است، قسمت‌هایی که مختص به صفحات وب، یا دیگر محیط‌های میزبانی نیست. برای اطلاعات در مورد API‌های خاص برای صفحات وب، لطفا <a href="/fa/docs/DOM">DOM</a> را ببینید. در مورد این‌که چگونه DOM وJavaScript با همدیگر مناسب هستند در <a href="/fa/docs/Gecko_DOM_Reference/Introduction#DOM_and_JavaScript">مرجع DOM</a> اطلاعات بیشتری را بخوانید.</p>
+
+<p dir="rtl">JavaScript به صورت <strong>«جاواسکریپت»</strong> خوانده می‌شود، ولی در فارسی به صورت <strong>«جاوااسکریپت»</strong> ترجمه می‌شود و اگر به صورت «جاوا اسکریپت» ترجمه شود اشتباه است چون دو کلمه جدا از هم نیست و اگر به صورت دو کلمه جدا نوشته شود خطلاهای نگارشی ایجاد می‌شود، به طور مثال ممکن است کلمه جاوا در انتهای خط و کلمه اسکریپت در ابتدای خط بعدی نوشته شود.</p>
 
 <div class="row topicpage-table" dir="rtl">
 <div class="section">
@@ -30,9 +32,9 @@ based_on: None
 
 <dl>
  <dt><a href="/fa/docs/Web/JavaScript/Guide">راهنمای جاوااسکریپت</a></dt>
- <dd>اگر شما در جاوااسکریپت تازه‌کار هستید، شما باید این راهنما را بخوانید.</dd>
+ <dd>اگر شما در جاوااسکریپت تازه‌کار هستید، باید این راهنما را بخوانید.</dd>
  <dt><a href="/fa/docs/Web/JavaScript/Reference">مرجع جاوااسکریپت</a></dt>
- <dd>این مرجع جاوااسکریپت شامل مستندات کاملی برای جاوااسکریپت نسخه 1.5 و به‌روزرسانی‌های آن است.</dd>
+ <dd>این مرجع جاوااسکریپت شامل مستندات کاملی برای جاوااسکریپت نسخه ۱.۵ و به‌روزرسانی‌های آن است.</dd>
 </dl>
 
 <h3 id="مقالات_معرفی">مقالات معرفی</h3>
@@ -46,7 +48,7 @@ based_on: None
 
 <dl>
  <dt><a href="/fa/docs/Web/JavaScript/Data_structures">ساختارهای داده‌ای جاوااسکریپت</a></dt>
- <dd>نمای کلی ساختارهای داده‌ای قابل دسترس در جاپا اسکریپت</dd>
+ <dd>نمای کلی ساختارهای داده‌ای قابل دسترس در جاپااسکریپت</dd>
  <dt><a href="/fa/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain">وراثت و زنجیره نمونه</a></dt>
  <dd>توضیح ارث‌بری مبتنی بر نمونه که به‌صورت گسترده‌ای اشتباده و ناچیز شمرده شده است</dd>
 </dl>
@@ -59,7 +61,7 @@ based_on: None
  <dt><a href="/fa/docs/Web/JavaScript/Language_Resources">مراجع زبان جاوااسکریپت</a></dt>
  <dd>شرح زبان جاوااسکریپت استاندارد.</dd>
  <dt><a class="external" href="http://msdn.microsoft.com/en-us/library/ff405926.aspx">مستندات پشتیبانی استانداردهای اینترنت اکسپلورر</a></dt>
- <dd>مایکروسافت مستنداتی منتشر کرده است که "تغییرات، توضیحات، و الحاقیات برخی استانداردهای مورد تایید پشتیبانی شده توسط اینترنت اکسپلورر." را شرح می‌دهد، بعضی از آن‌ها مربوط به جاوا اسکریدت هستند:</dd>
+ <dd>مایکروسافت مستنداتی منتشر کرده است که "تغییرات، توضیحات، و الحاقیات برخی استانداردهای مورد تایید پشتیبانی شده توسط اینترنت اکسپلورر." را شرح می‌دهد، بعضی از آن‌ها مربوط به جاوااسکریپت هستند:</dd>
  <dd>
  <ul>
   <li><a class="external" href="http://msdn.microsoft.com/en-us/library/ff520996.aspx">[MS-ES3]: Internet Explorer ECMA-262 ECMAScript Language Specification Standards Support Document </a></li>
