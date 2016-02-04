@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 940729
+revision_id: 1002807
 locale: cs
 slug: Web/JavaScript
 tags: "JavaScript"
@@ -15,16 +15,16 @@ based_on: None
 ---
 <div>{{JsSidebar}}</div>
 
-<div class="callout-box"><strong><a href="/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript">Procvičení JavaScriptu</a></strong><br>
+<div class="callout-box"><strong><a href="/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript">Procvičení JavaScriptu</a></strong><br />
 Přehled pro ty, kteří si <em>myslí</em>, že JavaScriptu rozumí</div>
 
-<p><strong>JavaScript</strong><sup>®</sup> (obvykle zkracováno na <strong>JS</strong>) je nenáročný, interpretovaný, objektově orientovaný jazyk s <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">first-class funkcemi</a>. Je znám zejména jako skriptovací jazyk pro webové stránky, nicméně je kromě prohlížečů používaný i v <a href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages" class="external">mnoha jiných prostředích</a>, např. v <a href="http://nodejs.org/" class="external">node.js</a> nebo <a href="http://couchdb.apache.org">Apache CouchDB</a>. Tento <a href="https://en.wikipedia.org/wiki/Prototype-based" class="mw-redirect" title="Prototype-based">prototypový</a>, <a href="/en-US/docs/multiparadigmlanguage.html" title="/en-US/docs/multiparadigmlanguage.html">multiparadigmatický</a> skriptovací jazyk je dále dynamický<font color="#666666"> a podporuje</font><span style="line-height:1.572"> jak objektově orientovaný, tak i imperativní a funkcionální programovací styl.</span></p>
+<p><strong>JavaScript</strong><sup>®</sup> (obvykle zkracováno na&nbsp;<strong>JS</strong>) je nenáročný, interpretovaný, objektově orientovaný jazyk s <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">first-class funkcemi</a>. Je znám zejména jako skriptovací jazyk pro webové stránky, nicméně je kromě prohlížečů používaný i v <a class="external" href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">mnoha jiných prostředích</a>, např. v&nbsp;<a class="external" href="http://nodejs.org/">node.js</a> nebo&nbsp;<a href="http://couchdb.apache.org">Apache CouchDB</a>. Tento&nbsp;<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based" title="Prototype-based">prototypový</a>, <a href="/en-US/docs/multiparadigmlanguage.html" title="/en-US/docs/multiparadigmlanguage.html">multiparadigmatický</a>&nbsp;skriptovací jazyk je dále dynamický<font color="#666666">&nbsp;a podporuje</font><span style="line-height:1.572">&nbsp;jak objektově orientovaný, tak i imperativní a funkcionální programovací styl.</span></p>
 
-<p>Standardem pro JavaScript je <a href="/en-US/docs/JavaScript/Language_Resources">ECMAScript</a>. Všechny moderní prohlížeče od roku 2012 plně podporují ECMAScript 5.1. Starší prohlížeče podporují alespoň ECMAScript 3. Šestá majoritní revize tohoto standardu je stále ve fázi příprav. Aktuální stav nových a vylepšených funkcí naleznete na <a href="http://wiki.ecmascript.org/doku.php?id=harmony:proposals" class="external">vyhrazené wiki</a>.</p>
+<p>Standardem pro JavaScript je&nbsp;<a href="/en-US/docs/JavaScript/Language_Resources">ECMAScript</a>. Všechny moderní prohlížeče od roku 2012 plně podporují ECMAScript 5.1. Starší prohlížeče podporují alespoň ECMAScript 3. Šestá majoritní revize tohoto standardu je stále ve fázi příprav. Aktuální stav nových a vylepšených funkcí naleznete na&nbsp;<a class="external" href="http://wiki.ecmascript.org/doku.php?id=harmony:proposals">vyhrazené wiki</a>.</p>
 
-<p>Tato část webu je věnována samotnému jazyku Javascript, tedy těm částem, které nejsou specifické pro webové stránky, ani jiná prostředí. Detaily API, která jsou určená pro webové stránky, naleznete na stránce <a href="/en-US/docs/DOM">Document Object Model</a> (DOM). O tom, jak si spolu DOM a JavaScript rozumí, si můžete přečíst v <a href="/en-US/docs/Gecko_DOM_Reference/Introduction#DOM_and_JavaScript">Referenčním manuálu DOM</a>.</p>
+<p>Tato část webu je věnována samotnému jazyku Javascript, tedy těm částem, které nejsou specifické pro webové stránky, ani jiná prostředí. Detaily API, která jsou určená pro webové stránky, naleznete na stránce&nbsp;<a href="/en-US/docs/DOM">Document Object Model</a> (DOM). O tom, jak si spolu DOM a JavaScript rozumí, si můžete přečíst v <a href="/en-US/docs/Gecko_DOM_Reference/Introduction#DOM_and_JavaScript">Referenčním manuálu DOM</a>.</p>
 
-<p>JavaScript by neměl být zaměňován s <a href="http://en.wikipedia.org/wiki/Java_(programming_language)">programovacím jazykem Java</a>.</p>
+<p>JavaScript by neměl být zaměňován s&nbsp;<a href="http://en.wikipedia.org/wiki/Java_(programming_language)">programovacím jazykem Java</a>.</p>
 
 <div class="column-container">
 <div class="column-half">
@@ -32,42 +32,42 @@ Přehled pro ty, kteří si <em>myslí</em>, že JavaScriptu rozumí</div>
 
 <p>Naučte se jak programovat s JavaScriptem pomoci našich návodů a tutoriálů.</p>
 
-<h3 id="Introductory">Introductory</h3>
+<h3 id="Introductory">Úvod</h3>
 
 <dl>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">JavaScript Guide</a></dt>
- <dd>If you are new to JavaScript, this guide will walk you through the language.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">Příručka JavaScriptu</a></dt>
+ <dd>Pokud s JavaScriptem začínáte, tato příručka vás jím provede.</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/JavaScript_technologies_overview">JavaScript technologies overview</a></dt>
- <dd>Introduction to the web browser JavaScript landscape.</dd>
+ <dd>Úvod do vlastností JavaScriptu&nbsp;ve webovém prohlížeči.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript">Introduction to Object Oriented JavaScript</a></dt>
- <dd>Introduction to the concepts of object oriented programming in JavaScript.</dd>
+ <dd>Úvod do konceptů objektově orientovaného programování v JavaScriptu.</dd>
 </dl>
 
-<h3 id="Intermediate">Intermediate</h3>
+<h3 id="Intermediate">Pro středně pokročilé</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript">A re-introduction to JavaScript</a></dt>
- <dd>An overview for those who <em>think</em> they know about JavaScript.</dd>
+ <dd>Úvod pro ty, co si <em>myslí</em>, že už o JavaScriptu něco vědí.</dd>
 </dl>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">JavaScript data structures</a></dt>
- <dd>Overview of available data structures in JavaScript.</dd>
+ <dd>Přehled datových struktur poskytovaných v JavaScriptu.</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness">Equality comparisons and sameness</a></dt>
- <dd>JavaScript provides three different value-comparison operations: strict equality using <code>===</code> and loose equality using <code>==.</code></dd>
+ <dd>JavaScript nabízí tři odlišné operace porovnání:&nbsp;striktní rovnost pomocí&nbsp;<code>===</code>&nbsp;a ne tak striktní rovnost pomocí&nbsp;<code>==.</code></dd>
 </dl>
 
-<h3 id="Advanced">Advanced</h3>
+<h3 id="Advanced">Pro pokročilé</h3>
 
 <dl>
- <dt><a href="/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain">Inheritance and the prototype chain</a></dt>
- <dd>Explanation of the widely misunderstood and under-estimated prototype-based inheritance.</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain">Dědění a řetězení prototypů</a></dt>
+ <dd>Vysvětlení často nepochopeného a podceňovaného prototypového dědění.</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/Reference/Strict_mode">Strict mode</a></dt>
- <dd>A restricted variant of JavaScript.</dd>
+ <dd>Omezená verze JavaScriptu.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays">JavaScript typed arrays</a></dt>
- <dd>JavaScript typed arrays provide a mechanism for accessing raw binary data.</dd>
+ <dd>Typovaná pole JavaScriptu poskytují mechanismus pro přístup k nezpracovaným binárním datům.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management">Memory Management</a></dt>
- <dd>Memory life cycle and garbage collection in JavaScript.</dd>
+ <dd>Životní cyklus paměti a&nbsp;garbage collection v JavaScriptu.</dd>
 </dl>
 </div>
 
@@ -94,7 +94,7 @@ Přehled pro ty, kteří si <em>myslí</em>, že JavaScriptu rozumí</div>
 <dl>
  <dt><a href="/en-US/docs/Tools">Firefox Developer Tools</a></dt>
  <dd><a href="/en-US/docs/Tools/Scratchpad">Scratchpad</a>, <a href="/en-US/docs/Tools/Web_Console">Web Console</a>, <a href="/en-US/docs/Tools/Profiler">JavaScript Profiler</a>, <a href="/en-US/docs/Tools/Debugger">Debugger</a>, and more.</dd>
- <dt><a href="http://www.getfirebug.com/" class="external">Firebug</a></dt>
+ <dt><a class="external" href="http://www.getfirebug.com/">Firebug</a></dt>
  <dd>Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page.</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/Shells">JavaScript Shells</a></dt>
  <dd>A JavaScript shell allows you to quickly test snippets of JavaScript code.</dd>
