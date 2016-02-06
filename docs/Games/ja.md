@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1003929
+revision_id: 1004107
 locale: ja
 slug: Games
 tags: "Web" "Apps" "Games" "HTML5 Games" "Gamedev" "JavaScript Games" "Game Development"
@@ -23,10 +23,10 @@ based_on: None
 
 <dl>
  <dt><a href="/docs/Games/Introduction" title="/en-US/docs/Games/Introduction">Webのためのゲーム開発紹介</a></dt>
- <dd>ゲーム開発に役立つテクニック紹介と、Web技術を使ったゲーム開発のはじめかたについて。またビジネスでwebゲーム製作することにも詳しく見ています。</dd>
+ <dd>ゲーム開発に役立つテクニック紹介と、Web技術を使ったゲーム開発のはじめかたについて。またビジネスでwebゲーム製作することについても詳しく見ています。</dd>
  <dt><a href="/docs/Games/Anatomy_of_a_vIdeo_game">ビデオゲームとの違い</a><br />
  &nbsp;</dt>
- <dd>実際、ビデオゲームとは? 複数のゲームに共通する部分が(そうは見えなくても)あります この記事では、完全に一般的なコンテキストでのメインループといった概念の説明を見ていきます。焦点を当てる時は、web標準に向けるようにします。</dd>
+ <dd>実際、ビデオゲームとは? 複数のゲームに共通する部分が(そうは見えなくても)あります。この記事では、完全に一般的なコンテキストでのメインループといった概念の説明を見ていきます。焦点を当てる時は、web標準に向けるようにします。</dd>
  <dt><a href="/docs/Web/Apps/Developing/Games/Special_considerations">ゲーム開発における特殊な考慮</a></dt>
  <dd>アプリセンターのこの記事では、open web appとして実行するゲームを作成する時に、特に考慮すべき点を簡単に見ていきます。</dd>
 </dl>
@@ -72,7 +72,7 @@ based_on: None
  <dt><a href="/docs/Games/Tools">ツール</a></dt>
  <dd>この章は、Webゲームのエクスペリエンスを効率的に作成する補助ツール、例えばフレームワークや、Emscriptenのようなコンパイラや、デバッグツールを扱います。それぞれの背景にあるコア概念を説明して、使いこなすためのカッチリした基礎を与えます。</dd>
  <dt><a href="/docs/Games/Techniques">テクニック</a></dt>
- <dd>この章は、ゲーム開発に必要なたくさんの記事を含んでいます、例えば物理や、衝突検出、アニメーション、3D、データストレージ、その他たくさんについて。</dd>
+ <dd>この章は、ゲーム開発に必要なたくさんの記事を含んでいます。例えば物理や、衝突検出、アニメーション、3D、データストレージ、その他たくさんについて。</dd>
  <dt><a href="/docs/Games/Workflows">ワークフロー</a></dt>
  <dd>この章はいろいろな事例研究を含んでいて、上記の基本ツールやテクニックを取り上げて、素晴らしいゲームを作るのにそれらを適用します。経験豊富なweb開発者で、2D や 3D ゲームを書きたい場合でも、ネイティブのゲームをWebに移植している C++ 開発者でも、より良いモバイルゲームを書きたいモバイル開発者であっても、何かを得ることができます。</dd>
 </dl>
@@ -80,7 +80,7 @@ based_on: None
 <h2 id="デモ">デモ</h2>
 
 <dl>
- <dd>Emscripten、WebGL、そして WebRTC&nbsp; で作成された、マルチプレー対応 3D 一人称視点シューティングゲーム (FPS) です。</dd>
+ <dd>Emscripten、WebGL、そして WebRTC&nbsp; で作成された、マルチプレイ対応 3D 一人称視点シューティングゲーム (FPS) です。</dd>
  <dt><a href="/docs/Web/Apps/Tutorials/Games/Serpent_game">Serpent game</a></dt>
  <dd>古典的な「スネーク」ゲームを基にしたシンプルな Web ゲームです。素早くゲーム開発ができる <a class="external" href="https://github.com/mozilla/WebGameStub">WebGameStub</a> を利用しています。</dd>
  <dt><a href="https://hacks.mozilla.org/2013/12/monster-madness-creating-games-on-the-web-with-emscripten/">Monster Madness</a></dt>
