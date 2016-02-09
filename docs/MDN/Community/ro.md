@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 915483
+revision_id: 1005807
 locale: ro
 slug: MDN/Comunitate
 tags: "MDN" "Ghid" "Proiect MDC" "Comunitate" "Documentație"
@@ -35,7 +35,7 @@ based_on: None
  <dt><a href="https://lists.mozilla.org/listinfo/dev-mdc">dev-mdc</a></dt>
  <dd>În această listă avem în desfășurare discuții despre documentațiile de pe MDN. Vorbim despre schimbările de proces, îmbunătățirile pe care le-am făcut, și sortăm pe cei care vor să lucreze pe diferite conținuturi. Este <strong>foarte recomandat</strong> să vă alăturați acestei liste dacă vreți să vă apucați serios de documentație în MDN!</dd>
  <dt><a href="https://lists.mozilla.org/listinfo/dev-mdn">dev-mdn</a></dt>
- <dd>În această listă ținem discuții despre munca de dezvoltare de pe platforma fundamentală MDN,&nbsp; <a href="/en-US/docs/Project:MDN/Kuma">Kuma</a>. Dacă ești curios de munca de dezvoltator din spatele scenei, vrei să fi implicat procesul de luare al deciziilor despre platformă, sau lucrați pe bucăți de cod pentru a îmbunătății platforma, trebuie neapărat să vă implicați în această listă.</dd>
+ <dd>În această listă ținem discuții despre munca de dezvoltare de pe platforma fundamentală MDN,  <a href="/en-US/docs/Project:MDN/Kuma">Kuma</a>. Dacă ești curios de munca de dezvoltator din spatele scenei, vrei să fi implicat procesul de luare al deciziilor despre platformă, sau lucrați pe bucăți de cod pentru a îmbunătății platforma, trebuie neapărat să vă implicați în această listă.</dd>
  <dt><a href="https://lists.mozilla.org/listinfo/mdn-drivers">mdn-drivers</a></dt>
  <dd>Această listă de email este folosită pentru a ajuta la prioritizarea dezvoltării MDN. Este folosită în general pentru a discuta la ce ar trebui să se lucreze pe mai departe, și este locul unde mergem să atragem atenția echipei de dezvoltare când o problemă serioasă trebuie să fie reparată, după ce am completat un bug pentru această problemă.</dd>
 </dl>
@@ -61,7 +61,7 @@ based_on: None
 
 <h2 id="Alăturațivă_ședințelor_noastre_bisăptămânale_(și_alte_evenimente)">Alăturațivă ședințelor noastre bisăptămânale (și alte evenimente)</h2>
 
-<p>La fiecare a doua saptămână, comunitatea MDN ține o sedință pe IRC pentru a schimba notițe, să vorbească&nbsp; despre ce au făcut, și să își dea seama de ceea ce vor să facă în următoarele două săptămâni. Vorbim și despre planuri de dezvoltare pentru însăși platforma MDN, și primim destul de des actualizări despre caracteristici noi si viitoare ale sitului. Sunt sedințe neoficiale, hazlii, și toți sunt bineveniți să participe.</p>
+<p>La fiecare a doua saptămână, comunitatea MDN ține o sedință pe IRC pentru a schimba notițe, să vorbească  despre ce au făcut, și să își dea seama de ceea ce vor să facă în următoarele două săptămâni. Vorbim și despre planuri de dezvoltare pentru însăși platforma MDN, și primim destul de des actualizări despre caracteristici noi si viitoare ale sitului. Sunt sedințe neoficiale, hazlii, și toți sunt bineveniți să participe.</p>
 
 <p>Urmăriți pagina <a href="https://wiki.mozilla.org/MDN/Community_meetings" title="https://wiki.mozilla.org/MDN/Community_meetings">Sedințelor Comunității MDN</a> pe wiki-ul Mozilla pentru detalii despre orar, dar și ordinea de zi și notițele sedințelor care au fost și care vor fi.</p>
 
