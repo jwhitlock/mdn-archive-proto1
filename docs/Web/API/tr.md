@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 901591
+revision_id: 1007335
 locale: tr
 slug: Web/API
 tags: "API" "Web" "Referans" "JavaScript" "Uygulamalar"
@@ -15,5 +15,5 @@ based_on: None
 ---
 <p>JavaScript ile Web için kod yazarken kullanılabilecek çok fazla API vardır. Aşağıdaki listede Web uygulamanızı veya sitenizi geliştirirken kullanabileceğiniz&nbsp;tüm nesne tiplerini bulabilirsiniz.</p>
 
-<div>{{APIListAlpha("1")}}</div>
+<div>{{APIListAlpha}}</div>
 
