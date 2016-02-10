@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 626017
+revision_id: 1007581
 locale: fr
 slug: Web/API
 tags: "API" "Web" "JavaScript" "Reference" "Applications"
@@ -14,5 +14,6 @@ table_of_contents_depth: 1
 based_on: None
 ---
 <p>Quand vous codez en JavaScript pour le web, il y a un grand nombre d'API disponibles. La liste ci-dessous énumère toutes les interfaces (types et objets) que vous pouvez appeler quand vous développez votre application web ou votre site.</p>
-<p>{{APIListAlpha(1, "", "", "en-US", "true")}}</p>
+
+<p>{{APIListAlpha}}</p>
 
