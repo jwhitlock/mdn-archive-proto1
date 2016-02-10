@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 895445
+revision_id: 1007357
 locale: ro
 slug: Web/API
 tags: "NeedsTranslation"
@@ -15,5 +15,5 @@ based_on: None
 ---
 <p>Atunci cand faci programare Web folosing Javascript, ai la dispozitie foarte multe API-uri. Mai jos poti vedea lista de interfete (tipuri de obiecte), disponibile pentru aplicatia ta.</p>
 
-<div>{{APIListAlpha(1, "", "", "en-US", "true")}}</div>
+<div>{{APIListAlpha}}</div>
 
