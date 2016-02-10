@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 510413
+revision_id: 1007579
 locale: ja
 slug: Web/API
 tags: "API" "DOM" "Web" "JavaScript" "Reference"
@@ -14,6 +14,6 @@ table_of_contents_depth: 1
 based_on: None
 ---
 <p>JavaScript を用いて Web 用のコードを書くときに使用可能な非常に多くの API があります。以下のすべてののリストは、あなたの Web アプリケーションや Web サイトを開発する際に役立つでしょう。これらの各インターフェイスを含む API のリストは、<a href="/ja/docs/Web/Reference/API" title="/ja/docs/Web/Reference/API">Web API リファレンス</a> を参照してください。</p>
-<div>
- {{APIListAlpha(1, "", "", "en-US", "true")}}</div>
+
+<div>{{APIListAlpha}}</div>
 
