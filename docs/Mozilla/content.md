@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1013627
+revision_id: 1016237
 locale: en-US
 slug: Mozilla
 tags: "Apps" "Add-ons" "Landing" "Mozilla" "Advanced" "CodingScripting"
