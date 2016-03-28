@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1034240
+revision_id: 1034242
 locale: ko
 slug: Web/CSS
 tags: "CSS" "Design" "Layout" "Landing"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p><strong>Cascading Style Sheets</strong> (<strong>CSS</strong>)는 <a href="/ko/docs/HTML" title="HyperText Markup Language">HTML</a>이나 <a href="/ko/docs/XML">XML</a>(<a href="/ko/docs/SVG">SVG</a>나 <a href="/ko/docs/XHTML">XHTML</a> 같은 XML 방언dialect 포함)로 작성된 문서의 표현을 기술하기 위해 쓰이는 <a href="/ko/docs/DOM/stylesheet">스타일시트</a> 언어입니다. CSS는 요소가 화면, 종이, 스피치나 다른 매체 상에 어떻게 렌더링되어야 하는 지를 기술합니다.</p>
+<p><strong>Cascading Style Sheets</strong> (<strong>CSS</strong>)는 <a href="/ko/docs/HTML" title="HyperText Markup Language">HTML</a>이나 <a href="/ko/docs/XML">XML</a>(<a href="/ko/docs/SVG">SVG</a>나 <a href="/ko/docs/XHTML">XHTML</a> 같은 XML 방언dialect 포함)로 작성된 문서의 표현을 기술하기 위해 쓰이는 <a href="/ko/docs/Web/API/StyleSheet">스타일시트</a> 언어입니다. CSS는 요소가 화면, 종이, 스피치나 다른 매체 상에 어떻게 렌더링되어야 하는 지를 기술합니다.</p>
 
 <p>CSS는 <em>오픈 웹</em>의 핵심 언어 중 하나이고 표준화된 <a class="external" href="http://w3.org/Style/CSS/#specs">W3C 명세</a>(specification)가 있습니다. 레벨로 개발된, CSS1은 이제 안 쓰고, CSS2.1은 권고안(recommendation)이며 이제 더 작은 모듈로 나뉜 <a href="/ko/docs/Web/CSS/CSS3" title="CSS3">CSS3</a>은 표준화 과정이 진행중입니다.</p>
 
