@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 933307
+revision_id: 1036858
 locale: my
 slug: Web/JavaScript
 tags: "Landing" "TopicStub" "JavaScript" "NeedsTranslation"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -17,7 +17,7 @@ based_on: None
 
 <p class="summary"><strong>JavaScript</strong><sup>®</sup> (အတိုကောက် <strong>JS</strong>) ဆိုတာ&nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">first-class functions&nbsp; </a> နှင့်တည်ဆောက်ထား တဲ့a&nbsp; lightweight, interpreted, object-oriented language တစ်ခုဖြစ်ပါတယ်။အများက သိတာကတော့ web pages တွေအတွက် browser ကိုအခြေ ခံထားတဲ့ scripting language တစ်ခုအနေနဲ့သိကြတယ် ဒါပေမဲ့ browser ကိုအခြေခံ မထားတဲ့ <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">နေရာ</a> တွေဖြစ်တဲ့&nbsp; <a class="external" href="https://nodejs.org/">node.js</a> ဒါမှမဟုတ်&nbsp; <a href="https://couchdb.apache.org/">Apache CouchDB</a> တွေမှာလဲအသုံးပြု ပါတယ်. Javascript ဟာ&nbsp; <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based_programming" title="Prototype-based">prototype-based</a>, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
 
-<p>The JavaScript standard is called <a href="/en-US/docs/JavaScript/Language_Resources">ECMAScript</a>. As of 2012, all modern browsers fully support ECMAScript 5.1. Older browsers support at least ECMAScript 3. On June 17, 2015, the sixth major version of ECMAScript was published. This version is officially called ECMAScript 2015, but is commonly referred to as ECMAScript 6 or ES6.</p>
+<p>JavaScript စံသတ်မှတ်ချက်ကို&nbsp;<a href="/en-US/docs/JavaScript/Language_Resources">ECMAScript</a>&nbsp;လို့ခေါ်ပါတယ်။ ၂၀၁၂ မှာ modern browsers တွေအကုန်လုံးက ECMAScript 5.1 ကို အပြည့်အဝ&nbsp;support ပေးနေပါပြီ။ Older browsers တွေက အနည်းဆုံး&nbsp;ECMAScript 3 ကို support ပေးပါတယ်။&nbsp;ဇွန်လ ၁၇ ရက် ၂၀၁၅ မှာ ခြောက်ကြိမ်မြောက်&nbsp;ECMAScript ကို publish လုပ်လိုက်ပါတယ်။ အဲ့ဒီ့ version ကို&nbsp;ECMAScript 2015 လို့တရားဝင်ခေါ်ပါတယ်၊ ဒါပေမယ့်လည်း ECMAScript 6 ဒါမှမဟုတ် ES6 ဆိုပြီးလည်းခေါ်ပါတယ်။</p>
 
 <p>This section of the site is dedicated to the JavaScript language itself, the parts that are not specific to Web pages, or other host environments. For information about {{Glossary("API","APIs")}} specific to Web pages, please see <a href="/en-US/docs/Web/API">Web APIs</a> and <a href="/en-US/docs/Glossary/DOM">DOM</a>.</p>
 
@@ -70,9 +70,9 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h2 id="Reference">Reference</h2>
+<h2 id="Reference">အညွှန်း</h2>
 
-<p>Browse the complete <a href="/en-US/docs/Web/JavaScript/Reference">JavaScript reference</a> documentation.</p>
+<p>Browse the complete <a href="/en-US/docs/Web/JavaScript/Reference">JavaScript reference</a> documentation.&nbsp;</p>
 
 <dl>
  <dt><a href="/en-US/docs/Web/JavaScript/Reference/Global_Objects">Standard objects</a></dt>
