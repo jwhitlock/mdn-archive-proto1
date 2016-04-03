@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 981317
+revision_id: 1037936
 locale: es
 slug: Web/Guide
 tags: "Web" "Guia(2)" "Guía" "Landing" "TopicStub" "NeedsTranslation"
@@ -8,8 +8,8 @@ title: Guía de Desarrollo Web
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -25,11 +25,11 @@ based_on: None
 <div class="section">
 <dl>
  <dt>&nbsp;</dt>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS">Guía del Desarrollador: CSS</a></dt>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/es/docs/Web/Guide/CSS">Guía del Desarrollador: CSS</a></dt>
  <dd class="landingPageList">CSS (Cascading Style Sheets), en español: hojas de estilo en cascada. Es un lenguaje usado para describir la presentación gráfica de un documento escrito en HTML.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Events">Guía de Eventos </a></dt>
  <dd class="landingPageList">Evento se refiere a dos cosas. El patrón de diseño usado para el manejo asíncrono de sucesos que ocurren en el tiempo de vida de una página web y al nombramiento, caracterización y uso de grandes cantidades de sucesos de diferentes tipos.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics">Elementos Gráficos en la Web</a></dt>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/es/docs/Web/Guide/Graphics">Elementos Gráficos en la Web</a></dt>
  <dd class="landingPageList">Las páginas web y aplicaciones modernas a menudo necesitan presentar elementos gráficos (2D, 3D o video).</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/API">Guía de Web APIs</a></dt>
  <dd class="landingPageList">Listado de todas las APIs Web y que hacen.</dd>
@@ -49,7 +49,7 @@ based_on: None
 
 <div class="section">
 <dl>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Performance">Optimización y Rendimiento</a></dt>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/es/docs/Web/Guide/Performance">Optimización y Rendimiento</a></dt>
  <dd class="landingPageList">Cuando creamos modernas Web apps y páginas web, es importante hacer que tu contenido rinda bien. Eso es, hacer que funcione de forma rápida y eficiente. Esto permite trabajar de forma más efectiva tanto a los usuarios de potentes equipos de sobremesa como a los que usan dispositivos portátiles con menos potencia.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML">Mapeo y Serialización XML</a></dt>
  <dd class="landingPageList">La plataforma web provee los siguientes elementos para mapear y serializar XML:</dd>
