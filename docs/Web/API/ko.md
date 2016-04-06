@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1007585
+revision_id: 1038904
 locale: ko
 slug: Web/API
 tags: "API" "DOM" "Web" "JavaScript" "Reference"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>자바스크립트를 이용해서 코드를 작성할때 이용할 수 있는 많은 API가 있습니다. 아래의 목록은 웹앱이나 사이트를 만들때 사용할 수 있는 인터페이스(객체의 종류)입니다.</p>
+<p><span class="seoSummary">자바스크립트로 웹 코드를 작성할 때, 이용할 수 있는 꽤 많은 API가 있습니다. 아래는 웹 앱이나 사이트를 만들 때 사용할 수 있는 모든 인터페이스(즉, 객체 형) 목록입니다.</span></p>
 
 <div>{{APIListAlpha}}</div>
 
