@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1041252
+revision_id: 1041254
 locale: ja
 slug: Web/Reference
 tags: "Web" "Landing" "Reference"
@@ -13,15 +13,13 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>{{draft()}}</p>
-
 <p>オープン Web は、数多くの技術の上に構築されています。以下のリンクから各技術のリファレンス記事を見つけてください。</p>
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="Core_Web_technologies">コア Web 技術</h2>
+<h2 class="Documentation" id="コア_Web_技術">コア Web 技術</h2>
 
-<p>{{ Page ("Web", "Web technologies") }}</p>
+<p>{{ Page ("ja/docs/Web", "Web_技術") }}</p>
 </div>
 
 <div class="section">
