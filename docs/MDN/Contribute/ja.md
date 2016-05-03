@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1047412
+revision_id: 1050168
 locale: ja
 slug: MDN/Contribute
 tags: "MDN Meta" "Guide" "Landing"
@@ -15,11 +15,11 @@ based_on: None
 ---
 <div>{{IncludeSubnav("/ja/docs/MDN")}}</div>
 
-<p>ようこそ！　あなたはこのページを訪れることで MDN 貢献者への第一歩を踏み出しました。</p>
+<p>ようこそ！　このページを訪れることで、あなたは MDN 貢献者への第一歩を踏み出しました。</p>
 
-<p><span class="seoSummary">これらの解説ドキュメントは、MDN への貢献に関するありとあらゆる内容（スタイルガイド / エディターの使い方 / ツールの使い方など）を網羅しています。ページを編集したり作成したりする前に、<a href="https://www.mozilla.org/ja/about/legal/terms/mozilla/">Mozilla の利用規約</a>をよく読んで（そして守って）下さい。</span></p>
+<p><span class="seoSummary">これらの解説ドキュメントは、MDN への貢献に関するありとあらゆる内容（スタイルガイド / エディタの使い方 / ツールの使い方など）を網羅しています。ページを編集したり作成したりする前に、<a href="https://www.mozilla.org/about/legal/terms/mozilla/">Mozilla の利用規約</a>をよく読んで（そして守って）ください。</span></p>
 
-<p>あなたが今までにMDNに貢献したことがない場合、<a href="/ja/docs/MDN/Getting_started">MDNを始めよう</a>はあなたが参加し役立つためのタスクを選ぶ手助けになります。</p>
+<p>今まで MDN に貢献したことがない方は、<a href="/ja/docs/MDN/Getting_started">MDN を始めよう</a> ガイドをお読みください。あなたが参加するタスクを選ぶ助けになります。</p>
 
 <p>{{LandingPageListSubPages()}}</p>
 
