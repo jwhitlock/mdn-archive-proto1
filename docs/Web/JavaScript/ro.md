@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 912421
+revision_id: 1054730
 locale: ro
 slug: Web/JavaScript
 tags: "Tutorial" "JavaScript" "Introducere" "Documentatie(2)" "privire generală" "pagina principală"
