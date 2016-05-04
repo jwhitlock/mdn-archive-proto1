@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 915319
+revision_id: 1054720
 locale: ru
 slug: Web/Guide/Графика
 tags: 
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Современным веб-сайтам и веб-приложениям часто требуется отображать графику. Статические изображения легко отобразить с помощью элемента {{HTMLElement("img")}}, или с помощью CSS свойства&nbsp; {{cssxref("background-image")}}. Часто требуется создавать графику на лету, или <span style="font-family:arial,sans-serif; font-size:10.5pt; line-height:115%">модифицировать&nbsp;</span>ее каким-либо образом после. Как это проделать можно узнать в следующих статьях.</p>
+<p>Современным веб-сайтам и веб-приложениям часто требуется отображать графику. Статические изображения легко отобразить с помощью элемента {{HTMLElement("img")}}, или с помощью CSS свойства&nbsp; {{cssxref("background-image")}}. Часто требуется создавать графику на лету, или модифицировать ее каким-либо образом после. Как это проделать можно узнать в следующих статьях.</p>
 
 <div class="row topicpage-table">
 <div class="section">
