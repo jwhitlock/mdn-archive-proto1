@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1056616
+revision_id: 1056620
 locale: en-US
 slug: Mozilla/Firefox
 tags: "Firefox" "Landing" "Mozilla"
