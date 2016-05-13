@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 797483
+revision_id: 1059596
 locale: it
 slug: Web/JavaScript
 tags: "JavaScript"
@@ -21,7 +21,7 @@ Una panoramica per chi <em>pensa </em>di conoscere JavaScript</div>
 
 <p><strong>JavaScript</strong> (spesso abbreviato in <strong>JS</strong>) è un linguaggio leggero, interpretato, funzionale e orientato agli oggetti, conosciuto per lo più come linguaggio di script per pagine web, ma <a class="external" href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages" title="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">utilizzato in molti ambienti non-browser</a> così come <a class="external" href="http://nodejs.org/">node.js</a> o <a href="http://couchdb.apache.org" title="http://couchdb.apache.org">Apache CouchDB</a>.</p>
 
-<p>Lo standard JavaScript è <a href="/docs/JavaScript/Language_Resources" title="ECMAScript">ECMAScript</a>. A partire dal 2012, tutti i moderni browser supportano ECMAScript 5.1. I browser più vecchi supportano almeno ECMAScript 3. Una versione 6 dello standard è in lavorazione. Lo stato di avanzamento delle nuove caratteristiche può essere seguito sul <a class="external" href="http://wiki.ecmascript.org/doku.php?id=harmony:proposals">wiki dedicato</a>.</p>
+<p>Lo standard JavaScript è <a href="/docs/JavaScript/Language_Resources" title="ECMAScript">ECMAScript</a>. A partire&nbsp;dal 2012, tutti i moderni browser supportano ECMAScript 5.1. I browser più vecchi supportano almeno ECMAScript 3. Una versione 6 dello standard è in lavorazione. Lo stato di avanzamento delle nuove caratteristiche può essere seguito sul <a class="external" href="http://wiki.ecmascript.org/doku.php?id=harmony:proposals">wiki dedicato</a>.</p>
 
 <p>Questa sezione del sito è dedicata al solo linguaggio JavaScript, ossia a quelle parti non specifiche per pagine Web o ad altri ambienti ospite. Per informazioni sulle API specifiche alle pagine Web, vedere <a href="/docs/DOM" title="DOM">DOM</a>. Nel <a href="/docs/Gecko_DOM_Reference/Introduction#DOM_and_JavaScript" title="Gecko DOM Reference/Introduction#DOM and JavaScript">DOM Reference</a> puoi approfondire il come DOM e JavaScript si compenetrino.</p>
 
