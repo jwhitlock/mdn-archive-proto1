@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1059938
+revision_id: 1060214
 locale: es
 slug: Tools
 tags: "TopicStub" "Herramientas" "Desarrollo web" "NeedsMarkupWork" "Necesita traducción" "Desarrollando Mozilla" "Necesita Revisión Técnica" "Desarrollo Web: Herramientas"
@@ -13,7 +13,10 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div class="column-container zone-callout">&nbsp;
+<div class="summary"><span class="seoSummary">Examina, edita y depura HTML, CSS y&nbsp; JavaScript en el ordenador y en el móvil</span></div>
+
+<div class="column-container zone-callout"><a href="https://www.mozilla.org/en-US/firefox/developer/" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;">Instala Firefox Developer Edition</a>
+
 <h3 id="What's_new_in_Aurora.3F" name="What's_new_in_Aurora.3F">¿Qué hay de nuevo en Firefox Developer Edition?</h3>
 
 <p><a href="/en-US/Firefox/Developer_Edition">Firefox Developer Edition</a> es una versión de Firefox adaptada para desarrolladores, ofreciendo las últimas características y herramientas de desarrollo experimental. La actual edición de desarrollo (<a href="/en-US/Firefox/Developer_Edition">Firefox Developer Edition</a>) incluye estos cambios en las herramientas de desarrollador:</p>
