@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1059956
+revision_id: 1060208
 locale: pt-BR
 slug: Tools
 tags: "Tools" "TopicStub" "NeedsMarkupWork" "Web Development" "NeedsTranslation" "Developing Mozilla" "Web Development:Tools" "NeedsTechnicalReview"
