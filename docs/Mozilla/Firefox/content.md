@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1057146
+revision_id: 1062848
 locale: en-US
 slug: Mozilla/Firefox
 tags: "Firefox" "Landing" "Mozilla"
@@ -54,7 +54,7 @@ based_on: None
 
 <h3 id="Firefox_Beta">Firefox Beta</h3>
 
-<p>After spending six weeks in Firefox Developer Edition <a href="https://shapeshift.zendesk.com/hc/en-us/community/posts/206681379-HD-Liverpool-v-s-Watford-Live-St-rea-m-08-05-2016">Liverpool vs Watford 2016</a>, we take the features that are stable enough, and create a new version of Firefox Beta. Firefox Beta builds are for Firefox enthusiasts to test what's destined to become the next released Firefox version.</p>
+<p>After spending six weeks in Firefox Developer Edition, we take the features that are stable enough, and create a new version of Firefox Beta. Firefox Beta builds are for Firefox enthusiasts to test what's destined to become the next released Firefox version.</p>
 
 <p><a href="https://www.mozilla.org/firefox/channel/#beta" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox Beta</a></p>
 
