@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1055456
+revision_id: 1066252
 locale: zh-CN
 slug: Web/Guide
 tags: "指南" "Web"
