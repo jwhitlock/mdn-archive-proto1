@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1062848
+revision_id: 1067232
 locale: en-US
 slug: Mozilla/Firefox
 tags: "Firefox" "Landing" "Mozilla"
@@ -65,6 +65,14 @@ based_on: None
 <p><a href="https://www.mozilla.org/firefox/channel/#firefox" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox</a></p>
 
 <p>If you find yourself using multiple Firefox channels—or just multiple configurations—on a regular basis, you should read how to <a href="/en-US/docs/Mozilla/Firefox/Multiple_profiles">use multiple Firefox profiles</a> by turning Firefox's Profile Manager and other profile management tools to your advantage.</p>
+
+<h3 id="Firefox_Extended_Support_Release_(ESR)">Firefox Extended Support Release (ESR)</h3>
+
+<p>Firefox ESR is the long-term support edition of Firefox for desktop for use by organizations including schools, universities, businesses and others who need extended support for mass deployments.</p>
+
+<p><a href="/en-US/Firefox/Firefox_ESR">Learn more about Firefox Extended Support Release</a>.</p>
+
+<p><a href="https://www.mozilla.org/en-US/firefox/organizations/all/" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox ESR</a></p>
 
 <p>{{CommunityBox("Firefox", "firefox-dev", "firefox-dev", "developers", "Calendar|https://mail.mozilla.com/home/publiccalendar@mozilla.com/Releases%20Scheduling.html|Web|View the release schedule on the Web++https://mail.mozilla.com/home/publiccalendar@mozilla.com/Releases%20Scheduling.ics|iCal|Subscribe to the iCal release schedule calendar")}}</p>
 
