@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1000251
+revision_id: 1069982
 locale: it
 slug: Web
 tags: "Web" "Landing" "Techonology"
