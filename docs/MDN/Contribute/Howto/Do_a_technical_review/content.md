@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1064806
+revision_id: 1071402
 locale: en-US
 slug: MDN/Contribute/Howto/Do_a_technical_review
 tags: "MDN Meta" "Guide" "Howto" "Review" "Documentation"
@@ -13,6 +13,8 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
+<div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
+
 <p class="summary"><strong>A Technical review</strong> consists of reviewing the technical accuracy and completeness of an article&nbsp;and correcting it if necessary. If a writer of an article wants someone else to check the technical content of an article, the writer ticks the "Technical review" checkbox while editing. Often the writer contacts a specific engineer to perform the technical review, but anyone with technical expertise in the topic can do one.</p>
 
 <p><span class="seoSummary">This article describes how to perform a technical review, thereby helping to ensure that MDN's content is accurate.</span></p>
