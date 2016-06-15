@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1056690
+revision_id: 1071590
 locale: id
 slug: Web/HTML
 tags: 
@@ -57,7 +57,7 @@ based_on: None
 
 <ul>
  <li>Konsultasi pada forum Mozilla : {{DiscussionList("dev-tech-html", "mozilla.dev.tech.html")}}</li>
- <li>Ke <a href="http://stackoverflow.com/questions/tagged/html" title="http://stackoverflow.com/questions/tagged/css">Stack Overflow</a>, yang bersama-sama dibangun dan dipelihara situs Q&amp;A (Tanya-Jawab) dan lihat jika Anda bisa menemukan jawaban dari pertanyaan Anda. Jika tidak, anda juga dapat bertanya di sana.</li>
+ <li>Ke <a href="http://stackoverflow.com/questions/tagged/html" title="http://stackoverflow.com/questions/tagged/css">Stack Overflow</a>, yang bersama-sama dibangun serta dipelihara situs Q&amp;A (Tanya-Jawab) dan lihat jika Anda bisa menemukan jawaban dari pertanyaan Anda. Jika tidak, anda juga dapat bertanya di sana.</li>
 </ul>
 
 <p><span class="alllinks"><a href="http://www.catb.org/~esr/faqs/smart-questions.html">Jangan lupa etika ber-internet (<em>netiquette</em>)...</a></span></p>
