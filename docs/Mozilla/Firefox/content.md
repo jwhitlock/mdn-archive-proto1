@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1067238
+revision_id: 1073766
 locale: en-US
 slug: Mozilla/Firefox
 tags: "Firefox" "Landing" "Mozilla"
@@ -13,12 +13,12 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p><a href="https://www.mozilla.org/firefox/">Firefox</a> is Mozilla's popular Web browser, available for multiple platforms including Windows, OS X, and Linux on the desktop and all Android mobile devices. With broad compatibility, the latest in Web technologies, and powerful development tools, Firefox is a great choice for both Web developers and end users.</p>
+<p><a href="https://www.mozilla.org/firefox/">Firefox</a> is Mozilla's popular Web browser, available for multiple platforms including Windows, OS X, and Linux on the desktop and all Android and iOS mobile devices. With broad compatibility, the latest in Web technologies, and powerful development tools, Firefox is a great choice for both Web developers and end users.</p>
 
 <p>Firefox is an open source project; much of the code is contributed by our huge community of volunteers. Here you can learn about how to contribute to the Firefox project and you will also find links to information about the construction of Firefox add-ons, using the developer tools in Firefox, and other topics.</p>
 
 <div class="summary">
-<p>Learn how to create add-ons for <a href="https://www.mozilla.org/en-US/firefox/">Firefox</a>, how to develop and build Firefox itself, and how the internals of Firefox and its subprojects work.</p>
+<p>Learn how to create add-ons for <a href="https://www.mozilla.org/firefox/">Firefox</a>, how to develop and build Firefox itself, and how the internals of Firefox and its subprojects work.</p>
 </div>
 
 <ul class="card-grid">
@@ -50,7 +50,7 @@ based_on: None
 
 <p><a href="/en-US/Firefox/Developer_Edition">Learn more about Firefox Developer Edition</a>.</p>
 
-<p><a href="https://www.mozilla.org/en-US/firefox/developer/" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox Developer Edition</a></p>
+<p><a href="https://www.mozilla.org/firefox/developer/" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox Developer Edition</a></p>
 
 <h3 id="Firefox_Beta">Firefox Beta</h3>
 
@@ -70,9 +70,9 @@ based_on: None
 
 <p><a href="/en-US/Firefox/Firefox_ESR">Learn more about Firefox Extended Support Release</a>.</p>
 
-<p><a href="https://www.mozilla.org/en-US/firefox/organizations/all/" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox ESR</a></p>
+<p><a href="https://www.mozilla.org/firefox/organizations/all/" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox ESR</a></p>
 
-<h2>Firefox profiles</h2>
+<h2 id="Firefox_profiles">Firefox profiles</h2>
 
 <p>If you find yourself using multiple Firefox channels—or just multiple configurations—on a regular basis, you should read how to <a href="/en-US/docs/Mozilla/Firefox/Multiple_profiles">use multiple Firefox profiles</a> by turning Firefox's Profile Manager and other profile management tools to your advantage.</p>
 
