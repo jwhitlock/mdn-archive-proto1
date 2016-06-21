@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 825283
+revision_id: 1073810
 locale: th
 slug: Learn
 tags: "Web" "Index" "Learn" "Landing" "Beginner" "TopicStub" "NeedsTranslation"
@@ -9,12 +9,14 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 763959
+based_on: None
 ---
 <div class="summary">
 <p>Do you want to make your own websites and web apps? You've come to the right place!</p>
+
+<p>คุณต้องการที่จะพัฒนาเว็บไซต์และเว็บแอ๊พของคุณ? คุณมาถูกที่แล้ว!!</p>
 </div>
 
 <p>There's a lot to learn about web design and development, but don't worry. We're here to help you, whether you're just picking up a bit of code or becoming a full-fledged professional developer.</p>
