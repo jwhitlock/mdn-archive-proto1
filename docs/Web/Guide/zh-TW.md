@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 912937
+revision_id: 1073644
 locale: zh-TW
 slug: Web/Guide
 tags: "Web" "Guide" "Landing" "TopicStub" "NeedsTranslation"
-title: Web developer guide
+title: Web 開發者指引
 summary: 
 keywords: 
 needs_technical_review: False
@@ -22,13 +22,13 @@ based_on: None
 <div>{{LandingPageListSubpages}}</div>
 
 <dl>
- <dt><a href="/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></dt>
+ <dt><a href="/zh-TW/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></dt>
  <dd>JavaScript 是用來創造網頁應用程式的腳本化語言.</dd>
 </dl>
 
-<h2 id="See_also">參見</h2>
+<h2 id="參見">參見</h2>
 
 <ul>
- <li><a href="/en-US/docs/Web/Reference" title="/en-US/docs/Web/Reference">Web Developer Reference</a></li>
+ <li><a href="/zh-TW/docs/Web/Reference" title="/en-US/docs/Web/Reference">Web Developer Reference</a></li>
 </ul>
 
