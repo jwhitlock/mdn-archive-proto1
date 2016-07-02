@@ -1,20 +1,22 @@
 ---
 version: prototype1
-revision_id: 652789
+revision_id: 1078672
 locale: de
 slug: MDN/Contribute/Howto/Do_a_technical_review
 tags: 
 title: Wie eine technische Überprüfung gemacht wird
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
-based_on: cc2bfb5c24efe41dc120ef2d48c01681ec44243c
+based_on: None
 ---
 <p class="summary"><strong>Technische Überprüfungen beinhalten die Prüfung der technischen Genauigkeit und Vollständigkeit eines Artikels und gegebenenfalls dessen Korrektur.</strong> Falls ein Autor eines Artikels will, dass jemand anderes den technischen Inhalt eines Artikels überprüft, so kann er das Kontrollkästchen "Technisch – Quelltext-Ausschnitte, APIs oder Technologien" während der Bearbeitung anhaken. Oftmals kontaktiert der Autor eine bestimmte Person, damit diese die technische Überprüfung durchführt, jedoch kann jeder mit technischer Expertise im jeweiligen Bereich diese durchführen.</p>
+
 <p><span class="seoSummary">Dieser Artikel beschreibt, wie man bei einer technischen Überprüfung vorgeht, und hilft somit, sicherzustellen, dass die Inhalte auf MDN korrekt sind.</span></p>
+
 <table class="fullwidth-table">
  <tbody>
   <tr>
@@ -58,5 +60,6 @@ based_on: cc2bfb5c24efe41dc120ef2d48c01681ec44243c
   </tr>
  </tbody>
 </table>
+
 <p>&nbsp;</p>
 
