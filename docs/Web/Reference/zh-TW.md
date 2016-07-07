@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1073646
+revision_id: 1080514
 locale: zh-TW
 slug: Web/Reference
 tags: "Web" "Landing" "TopicStub" "Reference" "Référence(2)" "NeedsTranslation"
-title: Web technology reference
+title: Web 技術參考資料
 summary: 
 keywords: 
 needs_technical_review: False
@@ -13,29 +13,22 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>{{draft()}}</p>
+<p>{{draft()}}<br />
+ The open Web is built using a number of technologies that require an adequate knowledge in order to use them. Below you'll find the links to our reference material for each of them.</p>
 
-<p>The open Web is built using a number of technologies. Below you'll find links to our reference material for each of them.</p>
+<h2 class="Documentation" id="Web_technologies">Web technologies</h2>
 
-<p><a href="/zh-TW/docs/Web/API" title="/en-US/docs/Web/API">Web APIsReference</a>material for each of the interfaces that comprise the Web's APIs, including the DOM and all of the related APIs and interfaces you can use to build Web content and apps.</p>
+<p>It is recommended that you already <a href="https://developer.mozilla.org/zh-TW/docs/Learn/Getting_started_with_the_web">got started with the web</a>, however it isn't absolutely necessary.</p>
 
-<div class="row topicpage-table">
-<div class="section">
 <dl>
- <dd>&nbsp;Markup Language is the language used to describe and define the content of a Web page.</dd>
- <dd>&nbsp;Style Sheets are used to describe the appearance of Web content.</dd>
- <dd>&nbsp;Vector Graphics let you describe images as sets of vectors and shapes in order to allow them to scale smoothly regardless of the size at which they're drawn.</dd>
- <dd>&nbsp;Mathematical Markup Language makes it possible to display complex mathematical equations and syntax.</dd>
- <dt>&nbsp;</dt>
+ <dt><strong><a href="/zh-TW/docs/Glossary/HTML">HTML</a></strong> — structuring the Web</dt>
+ <dd>The <strong>HyperText Markup Language</strong> is used to define and describe semantically the content (<a href="/zh-TW/docs/Glossary/markup">markup</a>) of a Web page in a well-structured format.<br />
+ HTML provides a means to create structured documents, made up of blocks called <a href="/zh-TW/docs/Web/HTML/Element">HTML elements</a> that are delineated by <em><a href="/zh-TW/docs/Glossary/Tag">tags</a></em>, written using angle brackets: some introduce content into the page directly, others provide information about document text and may include other tags as sub-elements. Obviously, browsers do not display them, since they are used to interpret the content of the page.<br />
+ <br />
+ <a href="/zh-TW/Learn/HTML/Introduction_to_HTML">Introduction to HTML</a> | <a href="/zh-TW/Learn/HTML">Learn HTML</a> | <a href="/zh-TW/docs/Web/Guide/HTML/HTML5">HTML5</a> | <a href="/zh-TW/docs/Web/Guide/HTML">Developer guide</a> | <a href="/zh-TW/docs/Web/HTML/Element">Element reference</a> | <strong><a href="/zh-TW/docs/Web/HTML/Reference">reference</a></strong></dd>
+ <dt><strong><a href="/zh-TW/docs/Glossary/CSS">CSS</a></strong> — styling the Web</dt>
+ <dd>The <strong>Cascading Style Sheets</strong> are used to describe the appearance of Web content.<br />
+ <br />
+ <a href="/zh-TW/Learn/CSS/Introduction_to_CSS">Introduction to CSS</a>&nbsp; | <a href="/zh-TW/docs/Web/Guide/CSS/Getting_started">Getting started with CSS</a> | <a href="/zh-TW/Learn/CSS">Learn CSS</a> | <a href="/zh-TW/docs/Web/CSS/CSS3">CSS3 </a>| <a href="/zh-TW/docs/Web/Guide/CSS">Developer guide</a> | <a href="/zh-TW/docs/Web/CSS/Common_CSS_Questions">Common CSS questions</a> | <strong><a href="/zh-TW/docs/Web/CSS/Reference">reference</a></strong></dd>
 </dl>
-</div>
-
-<div class="section">
-<h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">&nbsp;</h2>
-
-<p>&nbsp;</p>
-</div>
-</div>
-
-<p>&nbsp;</p>
 
