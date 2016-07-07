@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1080518
+revision_id: 1080526
 locale: de
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "MDN" "Guide" "Anfänger" "Beginner" "Übersetzung" "übersetzen" "Lokalisation" "Seite Übersetzen"
