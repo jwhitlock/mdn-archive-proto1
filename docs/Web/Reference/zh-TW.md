@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1080514
+revision_id: 1080520
 locale: zh-TW
 slug: Web/Reference
 tags: "Web" "Landing" "TopicStub" "Reference" "Référence(2)" "NeedsTranslation"
-title: Web 技術參考資料
+title: 網頁技術參考資料
 summary: 
 keywords: 
 needs_technical_review: False
