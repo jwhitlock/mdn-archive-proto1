@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1059596
+revision_id: 1081102
 locale: it
 slug: Web/JavaScript
 tags: "JavaScript"
