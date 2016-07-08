@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1071402
+revision_id: 1080890
 locale: en-US
 slug: MDN/Contribute/Howto/Do_a_technical_review
 tags: "MDN Meta" "Guide" "Howto" "Review" "Documentation"
