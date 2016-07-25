@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1007575
+revision_id: 1090129
 locale: fa
 slug: Web/API
 tags: "API" "Web" "JavaScript" "Reference"
@@ -9,11 +9,11 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site.</p>
+<p dir="rtl">در هنگام نوشتن کد برای برنامه های تحت وب به وسیله جاواسکریپت API های بسیار زیادی وجود دارند. در زیر لیستی از تمام رابط ها که شما ممکن است در هنگام توسعه برنامه های وب ویا سایت های خودتان بخواهید از آنها استفاده کنید موجود است.</p>
 
-<div>{{APIListAlpha}}</div>
+<div>{{APIListAlpha}}&nbsp;</div>
 
