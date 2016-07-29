@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1098365
+revision_id: 1098383
 locale: ka
 slug: MDN/სწრაფი_დასაწყისი
 tags: "დაწყება" "სწრაფი დასაწყისი" "შესავალი"
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: b393111a399e9d0cb06e622b0aa3bdf293f1d423
+based_on: None
 ---
 <div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
 
@@ -19,7 +19,7 @@ based_on: b393111a399e9d0cb06e622b0aa3bdf293f1d423
 
 <p>MDN-ის ყოველი ნაწილი (კოდი რომლითაც მუშაობს საიტი, დოკუმენტაცია ,მაგალითად მოცემული კოდი და დემო) &nbsp;შექმნილია ამ თემის მიერ. ყველას ძალუძს&nbsp;დახმარება,&nbsp;იმედია, თქვენც შემოგვიერთდებით!</p>
 
-<h2 id="3_simple_steps_to_MDN">3 მარტივი საფეხური&nbsp;MDN-ისაკენ</h2>
+<h2 id="3_მარტივი_საფეხური_MDN-ისაკენ">3 მარტივი საფეხური&nbsp;MDN-ისაკენ</h2>
 
 <p>&nbsp;</p>
 
@@ -27,41 +27,41 @@ based_on: b393111a399e9d0cb06e622b0aa3bdf293f1d423
 
 <p>წვლილის შემოტანა იოლი და უსაფრთხოა. შეცდომაც რომ მოგივიდეთ, მისი გამოსწორება ადვილია. თუ დარწმუნებული არ ხართ, როგორ უნდა გამოიყურებოდეს რაღაც ან თქვენი წერიპი უნარი მოიკოჭლებს, მხრებს ნუ ჩამოყრით! ჩვენ გვავს გუნდი რომლის მოვალეობაცაა MDN-ის შინაარსის ხარისხზე ზრუნვა და მისი უზრუნველყოფა. ყოველთვის იქნება ვიღაც, ვინც შეასწორებს გაპარულ შეცდომას, გამართავს ნაწერს. გაგვიზიარეთ თქვენი ცოდნა და ენდეთ თემის სხვა წევრებს თქვენი ნამუშევარის გაუმჯობესებაში.</p>
 
-<h3 id="Step_1_Create_an_account_on_MDN">1-ელი საფეხური :&nbsp;&nbsp;MDN-ანგარიშის შექმნა</h3>
+<h3 id="1-ელი_საფეხური_MDN-ანგარიშის_შექმნა">1-ელი საფეხური :&nbsp;&nbsp;MDN-ანგარიშის შექმნა</h3>
 
-<p>MDN-ზე წვლილის შემოსატანად აუცილებელია&nbsp;MDN-ანგარიშის ქონა. დამატები ცნობებისათვის შეგიძლიათ ნახოთ <a href="/ka-GE/docs/MDN/Contribute/Howto/Create_an_MDN_account">როგორ შევიქმნათ ანგარიში</a>.</p>
+<p>MDN-ზე წვლილის შემოსატანად აუცილებელია&nbsp;MDN-ანგარიშის ქონა. დამატები ცნობებისათვის შეგიძლიათ ნახოთ <a href="/ka/docs/MDN/Contribute/Howto/Create_an_MDN_account">როგორ შევიქმნათ ანგარიში</a>.</p>
 
-<p>თუ თქვენი ამოცანა მოიცავს გვერდის შექმნას, ახალი გვერდის შესაქმნელად საჭირო ნებართვის მისაღებად გაეცანით {{SectionOnPage("/ka-GE/docs/MDN/Contribute/Howto/Create_and_edit_pages", "გვერდის შესაქმნელად საჭირო უფლებათა მოპოვება")}}-ს; უსაფრთხოებსი მოსაზრებებდან გამომდინარე, ახლადდარეგისტრირებულ მომხმარებლებს არ შეუძლიათ გვერდის შექმნა.</p>
+<p>თუ თქვენი ამოცანა მოიცავს გვერდის შექმნას, ახალი გვერდის შესაქმნელად საჭირო ნებართვის მისაღებად გაეცანით {{SectionOnPage("/ka/docs/MDN/Contribute/Howto/Create_and_edit_pages", "გვერდის შესაქმნელად საჭირო უფლებათა მოპოვება")}}-ს; უსაფრთხოებსი მოსაზრებებდან გამომდინარე, ახლადდარეგისტრირებულ მომხმარებლებს არ შეუძლიათ გვერდის შექმნა.</p>
 
-<h3 id="Step_2_Pick_a_task">მე-2&nbsp;საფეხური: ამოცანის შერჩევა</h3>
+<h3 id="მე-2_საფეხური_ამოცანის_შერჩევა">მე-2&nbsp;საფეხური: ამოცანის შერჩევა</h3>
 
 <p>ახლა, როცა უკვე სიტემაში ხართ შემოსული, გაეცანით სხვადასხვა ამოცანების ტიპებს&nbsp;{{anch("Possible task types", "ქვემორე სიაში")}}-ში და გადაწყვიტეთ, რომელი მათგანი გიზიდავთ ყველაზე მეტად. ამოირჩიეთ ამოცანა რომელიც მოგეპრიანებათ და დაიწყეთ წვლილის შემოტანა.</p>
 
-<h3 id="Step_3_Do_the_task">მე-3&nbsp;საფეხური: Do the task</h3>
+<h3 id="მე-3_საფეხური_ამოცანის_შესრულება">მე-3&nbsp;საფეხური: ამოცანის შესრულება</h3>
 
-<p>Once you've decided what kind of task you want to do, find a specific page, code example, etc. to work on, and just do it!</p>
+<p>როგორც ამოირჩევთ ამოცანას, მოიძიოთ შესაბამისი გვერდი და &nbsp;შეუდექით მის შესრულებას!</p>
 
-<p>Don't worry about doing it perfectly; other MDN contributors are here to help fix errors that slip through. If you have questions as you go, see the <a href="/en-US/docs/MDN/Community">Community</a> page for info on mailing lists and chat channels where you can get answers.</p>
+<p>ნუ იდარდებთ თუ თავს სრულყოფილად ვერ ართმევთ,&nbsp;MDN-ის სხვა წევრები ჩაასწორებენ გაპარულ შეცდომებს. თუ გაგიჟნდებათ კითხვა, არ მოგერიდოთ, მოინახულეთ&nbsp;<a href="/en-US/docs/MDN/Community">სათემო</a>, დაგზავნის სიები ან სასაუბრო ოთახები საჭირო ცნობების მისაღებად.</p>
 
 <div class="note">
-<p>If you want to experiment with editing on MDN before doing something "for real", we have a <strong><a href="/en-US/docs/Sandbox">Sandbox</a></strong> page for you to play around in. Please limit your experiments to this page. Please don't make unneeded changes to content pages just to see what happens; that's making a mess for others to clean up or, worse, confusing readers who are just trying to learn something or look something up.</p>
+<p>თუ „ნამდვილად გაკეთებამდე" გსურთ მოსინჯოთ თქვენი ძალები, ეწვიეთ&nbsp;<strong><a href="/en-US/docs/Sandbox">ქვიშის მოედანს</a></strong>&nbsp;და გამოსცადეთ თქვენი შესაძლებლობანი. გთხოვთ, ძალების მოსინჯვა&nbsp;მაგ გვერდით შემოფარგლოთ. საჭიროების გარეშე, რათა უბრალოდ ნახოთ რა მოხდება,&nbsp;ნუ დაარედაქტირებთ გვერდებს; ეს საქმეს ურთულებს სხვა წევრებს ჩასწორება-გამართვაში და ხელს უშლის მათ ვინც უბრალოდ სასწავლად ან რაღაცის სანახავადაა მოსული.</p>
 </div>
 
-<p>When you're done with your chosen task, feel free to pick another item, or see below for <a href="#Other_things_you_can_do_on_MDN">other things you can do on MDN</a>.</p>
+<p>ამორჩეული ამოცანის შესრულების მერე, ნუ მოგერიდებათ,&nbsp;შეეჭიდეთ სხვა ამოცანას ან ნახეთ <a href="#Other_things_you_can_do_on_MDN">სხვა რისი გაკეთება ძალგიძთ</a>.</p>
 
-<h2 id="Possible_task_types">ამოცანათა შესაძლო ტიპები</h2>
+<h2 id="ამოცანათა_შესაძლო_ტიპები">ამოცანათა შესაძლო ტიპები</h2>
 
-<p>There are multiple avenues you can take to contribute to MDN depending on your skill set and interests. Even though some tasks may be daunting, we do have lots of simple activities available. A lot of them need only five minutes (or less!) of your time. Below, along with the task and its short description, you will find the approximate time that each type of task typically takes.</p>
+<p>თქვენი ინტერესებისა და უნარებიდან გამომდინარე MDN-ზე წვლილი შეგიძლიათ რამდენიმე მიმართულებით შემოიტანოთ. თუ რამე ძალინ რთულად გეჩვენებათ, აირჩიეთ სხვა, უფრო ადვილი. ბევრ მათგანს მხოლოდ 5 წუთი&nbsp;(ხშირად უფრო ნაკლებიც)&nbsp;სჭირდება. ქვემოთ, ამოცანის და&nbsp;მისი მოკლე აღწერის გვერდით, ფრჩხილებში, ნახავთ ამ ტიპის ამოცანის შესასრულებლად საჭირო დაახლოებით დროს.</p>
 
-<h3 id="Option_1_I_like_words">Option 1: I like words</h3>
+<h3 id="Option_1_I_like_words">1-ელი შესაძლებლობა: მიყვარს სიიტყვები</h3>
 
-<p>You can help us review or edit existing docs, and apply correct tags to them.</p>
+<p>შეგიძლიათ გადაიკითხოთ, რედაქტირება გაუკეთოთ და შეასწოროთ არსებული დოკები, მიუთითოთ სწორი ჭდეები ან შეასწოროთ არსებულები.</p>
 
 <ul>
- <li><a href="/en-US/docs/MDN/Contribute/Howto/Set_the_summary_for_a_page">Set the summary for a page</a> (5-15 minutes)</li>
- <li><a href="/en-US/docs/MDN/Contribute/Howto/Do_an_editorial_review">Do editorial reviews</a> (5–30 minutes)</li>
- <li><a href="/en-US/docs/MDN/Contribute/Howto/Write_a_new_entry_in_the_Glossary">Write a new entry in the Glossary</a> (15 minutes-1 hour)</li>
- <li><a href="/en-US/docs/MDN/Contribute/Howto/Write_an_article_to_help_learn_about_the_Web">Write an article to help people learn about the web</a> (1-3 hours)</li>
+ <li><a href="/en-US/docs/MDN/Contribute/Howto/Set_the_summary_for_a_page">გვერდის რეზიუმეს დაწრეა</a>&nbsp;(5-15 წუთი)</li>
+ <li><a href="/en-US/docs/MDN/Contribute/Howto/Do_an_editorial_review">სარედაქტორო გადაკითხვა</a>&nbsp;(5–30 წუთი)</li>
+ <li><a href="/en-US/docs/MDN/Contribute/Howto/Write_a_new_entry_in_the_Glossary">სიტყვარში ჩანაწერი დამატება</a>&nbsp;(15 წუთი-1 საათი)</li>
+ <li><a href="/en-US/docs/MDN/Contribute/Howto/Write_an_article_to_help_learn_about_the_Web">სტატიის დაწერა ხალხისათვის ვების გასაცნობად</a>&nbsp;(1-3 საათი)</li>
 </ul>
 
 <div class="note"><strong>Note:</strong> If you are reviewing articles or writing new ones, we ask you to please review the <a href="/en-US/docs/MDN/Contribute/Guidelines/Style_guide">Style Guide</a>. This will help to ensure that articles are consistent.</div>
