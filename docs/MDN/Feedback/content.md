@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1072024
+revision_id: 1098121
 locale: en-US
 slug: MDN/Feedback
 tags: "MDN" "MDN Meta" "Guide" "Documentation"
@@ -21,7 +21,7 @@ based_on: None
 
 <h2 id="Update_the_documentation">Update the documentation</h2>
 
-<p>First of all, if you've seen a problem with the documentation, you should always feel free to correct it yourself. Simply <a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">sign in</a> using <a href="https://www.persona.org/" title="/en-US/docs/">Persona</a> or <a href="https://github.com/">Github</a>, then click any blue <strong>Edit</strong> button to open the <a href="/en-US/docs/MDN/Contribute/Editor">editor</a> and enter the world of contributing to MDN documentation. The documentation here is in a wiki, and is curated by a team of volunteers and paid staff, so don't be shy—your grammar doesn't have to be perfect. We'll clean it up if you make a mistake; no harm done!</p>
+<p>First of all, if you've seen a problem with the documentation, you should always feel free to correct it yourself. Simply <a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">sign in</a> using <a href="https://github.com/">Github</a>, then click any blue <strong>Edit</strong> button to open the <a href="/en-US/docs/MDN/Contribute/Editor">editor</a> and enter the world of contributing to MDN documentation. The documentation here is in a wiki, and is curated by a team of volunteers and paid staff, so don't be shy—your grammar doesn't have to be perfect. We'll clean it up if you make a mistake; no harm done!</p>
 
 <p>For more information about contributing to MDN documentation, see:</p>
 
