@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 945023
+revision_id: 1102213
 locale: sv-SE
 slug: Tools
 tags: "Guide" "Verktyg" "l10n:prioritet" "Webbutveckling" "Utvecklar Mozilla" "Webbutveckling:Verktyg"
@@ -8,22 +8,22 @@ title: Firefox Developer Tools
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 926965
+based_on: None
 ---
 <div class="summary"><span class="seoSummary">Examine, edit, and debug HTML, CSS, and JavaScript on the desktop and on mobile</span></div>
 
-<div class="column-container zone-callout"><a href="https://www.mozilla.org/en-US/firefox/developer/" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Install Firefox Developer Edition</a>
+<div class="column-container zone-callout"><a href="https://www.mozilla.org/en-US/firefox/developer/" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Installera utvecklingsversionen av Firefox</a>
 
-<h3 id="What's_new_in_Aurora.3F" name="What's_new_in_Aurora.3F">What's new in Firefox Developer Edition?</h3>
+<h3 id="What's_new_in_Aurora.3F" name="What's_new_in_Aurora.3F">Vad är nytt i utvecklingsversionen av Firefox?</h3>
 
-<p><a href="/en-US/Firefox/Developer_Edition">Firefox Developer Edition</a> is a version of Firefox tailored for developers, featuring the latest Firefox features and experimental developer tools. The current Developer Edition includes these updates to the developer tools:</p>
+<p><a href="/en-US/Firefox/Developer_Edition">Utvecklingsversionen av Firefox</a> är en skräddarsydd Firefox-version för utvecklare, featuring the latest Firefox features and experimental developer tools. The current Developer Edition includes these updates to the developer tools:</p>
 
 <ul>
  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations#Firefox_43">New animation inspector UI</a></li>
- <li><a href="/en-US/docs/Tools/Web_Console/Console_messages#Server">Server logging in the Web Console</a></li>
+ <li><a href="/en-US/docs/Tools/Web_Console/Console_messages#Server">Server-loggning i Webkonsolen</a></li>
  <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations">Quickly find the rule that overrode a CSS declaration</a></li>
  <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu">"Use in Console" context menu item in Inspector</a></li>
  <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Strict_search">"Strict" option for filtering in the Rules view</a></li>
@@ -32,9 +32,9 @@ based_on: 926965
 </ul>
 </div>
 
-<div class="column-container zone-callout"><a href="http://mzl.la/devtools" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Share your ideas</a>
+<div class="column-container zone-callout"><a href="http://mzl.la/devtools" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Dela med dig av dina idéer</a>
 
-<h3 id="Share_your_ideas" name="Share_your_ideas">Share your ideas</h3>
+<h3 id="Share_your_ideas" name="Share_your_ideas">Dela med dig av dina idéer</h3>
 
 <p>Ask for new features in the developer tools or vote for ideas other developers are asking for.</p>
 </div>
@@ -50,7 +50,7 @@ based_on: 926965
 <dl>
  <dt><a href="/en-US/docs/Tools/Scratchpad">Scratchpad</a></dt>
  <dd>A text editor built into Firefox that lets you write and execute JavaScript.</dd>
- <dt><a href="/en-US/docs/Tools/Style_Editor">Style Editor</a></dt>
+ <dt><a href="/en-US/docs/Tools/Style_Editor">Stilredigerare</a></dt>
  <dd>View and edit CSS styles for the current page.</dd>
  <dt><a href="/en-US/docs/Tools/Shader_Editor">Shader Editor</a></dt>
  <dd>View and edit the vertex and fragment shaders used by <a href="/en-US/docs/Web/WebGL">WebGL</a>.</dd>
@@ -65,11 +65,11 @@ based_on: 926965
 <p>Examine, explore, and debug websites and web apps.</p>
 
 <dl>
- <dt><a href="/en-US/docs/Tools/Web_Console">Web Console</a></dt>
+ <dt><a href="/en-US/docs/Tools/Web_Console">Webbkonsol</a></dt>
  <dd>See messages logged a web page, and interact with the page using JavaScript.</dd>
- <dt><a href="/en-US/docs/Tools/Page_Inspector">Page Inspector</a></dt>
+ <dt><a href="/en-US/docs/Tools/Page_Inspector">Sidinspektör</a></dt>
  <dd>View and modify the page HTML and CSS.</dd>
- <dt><a href="/en-US/docs/Tools/Debugger">JavaScript Debugger</a></dt>
+ <dt><a href="/en-US/docs/Tools/Debugger">JavaScript-felsökare</a></dt>
  <dd>Stop, step through, examine and modify the JavaScript running in a page.</dd>
  <dt><a href="/en-US/docs/Tools/Network_Monitor">Network Monitor</a></dt>
  <dd>See the network requests made when a page is loaded.</dd>
@@ -77,7 +77,7 @@ based_on: 926965
  <dd>Inspect cookies, local storage, indexedDB and session storage present in a page.</dd>
  <dt><a href="/en-US/docs/Tools/GCLI">Developer Toolbar</a></dt>
  <dd>A command-line interface for the developer tools.</dd>
- <dt><a href="/en-US/docs/Tools/3D_View">3D View</a></dt>
+ <dt><a href="/en-US/docs/Tools/3D_View">3D-vy</a></dt>
  <dd>3D visualization of the page.</dd>
  <dt><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></dt>
  <dd>Select a color from the page.</dd>
@@ -183,7 +183,7 @@ based_on: 926965
 </div>
 
 <hr />
-<h2 id="More_resources" name="More_resources">More resources</h2>
+<h2 id="More_resources" name="More_resources">Fler resurser</h2>
 
 <p>This section lists resources which are not currently maintained by Mozilla's developer tools team, but which are widely used by web developers. We've included a few Firefox add-ons in this list, but for the complete list see the <a href="https://addons.mozilla.org/en-US/firefox/extensions/web-development/">“Web Development” category on addons.mozilla.org</a>.</p>
 
@@ -194,7 +194,7 @@ based_on: 926965
  <dd>A very popular and powerful web development tool, including a JavaScript debugger, HTML and CSS viewer and editor, and network monitor.</dd>
  <dt><a href="/en-US/docs/Tools/Add-ons/DOM_Inspector">DOM Inspector</a></dt>
  <dd>Inspect, browse, and edit the DOM of web pages or XUL windows.</dd>
- <dt><a href="https://addons.mozilla.org/en-US/firefox/addon/web-developer/">Web Developer</a></dt>
+ <dt><a href="https://addons.mozilla.org/en-US/firefox/addon/web-developer/">Webbutvecklare</a></dt>
  <dd>Adds a menu and a toolbar to the browser with various web developer tools.</dd>
 </dl>
 </div>
@@ -221,30 +221,30 @@ based_on: 926965
 
   <ol>
    <li><a href="/en-US/docs/Tools/Scratchpad">Scratchpad</a></li>
-   <li><a href="/en-US/docs/Tools/Style_Editor">Style Editor</a></li>
+   <li><a href="/en-US/docs/Tools/Style_Editor">Stilredigerare</a></li>
    <li><a href="/en-US/docs/Tools/Shader_Editor">Shader Editor</a></li>
    <li><a href="/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></li>
   </ol>
  </li>
- <li><a href="#">Debugging</a>
+ <li><a href="#">Felsökning</a>
   <ol>
-   <li><a href="/en-US/docs/Tools/Page_Inspector">Page Inspector</a></li>
-   <li><a href="/en-US/docs/Tools/Web_Console">Web Console</a></li>
-   <li><a href="/en-US/docs/Tools/Debugger">Debugger</a></li>
-   <li><a href="/en-US/docs/Tools/Network_Monitor">Network Monitor</a></li>
-   <li><a href="/en-US/docs/Tools/Storage_Inspector">Storage Inspector</a></li>
+   <li><a href="/en-US/docs/Tools/Page_Inspector">Sidinspektör</a></li>
+   <li><a href="/en-US/docs/Tools/Web_Console">Webbkonsol</a></li>
+   <li><a href="/en-US/docs/Tools/Debugger">Avlusare</a></li>
+   <li><a href="/en-US/docs/Tools/Network_Monitor">Nätverksövervakare</a></li>
+   <li><a href="/en-US/docs/Tools/Storage_Inspector">Lagringsinspektör</a></li>
    <li><a href="/en-US/docs/Tools/GCLI">Developer Toolbar</a></li>
-   <li><a href="/en-US/docs/Tools/3D_View">3D View</a></li>
+   <li><a href="/en-US/docs/Tools/3D_View">3D-vy</a></li>
    <li><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></li>
    <li><a href="/en-US/docs/tools/Working_with_iframes">Selecting iframes</a></li>
-   <li><a href="/en-US/docs/Tools/View_source">View Source</a></li>
+   <li><a href="/en-US/docs/Tools/View_source">Visa källa</a></li>
   </ol>
  </li>
- <li><a href="#">Mobile</a>
+ <li><a href="#">Mobil</a>
   <ol>
-   <li><a href="/en-US/Firefox_OS/Using_the_App_Manager">App Manager</a></li>
+   <li><a href="/en-US/Firefox_OS/Using_the_App_Manager">Apphanterare</a></li>
    <li><a href="/en-US/docs/Tools/WebIDE">WebIDE</a></li>
-   <li><a href="/en-US/docs/Tools/Remote_Debugging/Firefox_for_Android">Firefox for Android</a></li>
+   <li><a href="/en-US/docs/Tools/Remote_Debugging/Firefox_for_Android">Firefox för Android</a></li>
    <li><a href="/en-US/docs/Tools/Firefox_OS_Simulator">Firefox OS Simulator</a></li>
    <li><a href="/en-US/docs/Tools/Responsive_Design_View">Responsive Design View</a></li>
   </ol>
@@ -252,7 +252,7 @@ based_on: 926965
  <li><a href="/en-US/docs/Tools/Performance">Performance</a>
   <ol>
    <li><a href="/en-US/docs/Tools/Performance/Frame_rate">Frame rate graph</a></li>
-   <li><a href="/en-US/docs/Tools/Performance/Waterfall">Waterfall</a></li>
+   <li><a href="/en-US/docs/Tools/Performance/Waterfall">Vattenfall</a></li>
    <li><a href="/en-US/docs/Tools/Performance/Call_Tree">Call Tree</a></li>
    <li><a href="/en-US/docs/Tools/Performance/Flame_Chart">Flame Chart</a></li>
    <li><a href="/en-US/docs/Tools/Paint_Flashing_Tool">Paint Flashing Tool</a></li>
@@ -277,7 +277,7 @@ based_on: 926965
    <li><a href="/en-US/docs/Tools/Web_Console/Custom_output">Web Console custom output</a></li>
   </ol>
  </li>
- <li><a href="/en-US/docs/Tools_Toolbox#Settings">Settings</a></li>
- <li><a href="/en-US/docs/Tools/Release_notes">Release notes</a></li>
+ <li><a href="/en-US/docs/Tools_Toolbox#Settings">Inställningar</a></li>
+ <li><a href="/en-US/docs/Tools/Release_notes">Anteckningar för utgåvan</a></li>
 </ol>
 
