@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 959345
+revision_id: 1105105
 locale: pt-BR
 slug: MDN/Comunidade
 tags: "Guia(2)" "Iniciando" "Comunidade"
@@ -48,7 +48,7 @@ based_on: None
 
 <p>Porque "dev-mdc"? Antigamente conhecido como&nbsp;"Mozilla Developer Center" ou&nbsp;MDC. The mailing list dates back to that era, so it's dev-mdc. There's also a <a href="https://lists.mozilla.org/listinfo/dev-mdn" title="https://lists.mozilla.org/listinfo/dev-mdn">dev-mdn</a> mailing list, which is for discussion about developing the <a href="https://github.com/mozilla/kuma" title="https://github.com/mozilla/kuma">Kuma</a> platform that MDN runs on. Você está convidade a se juntar conosco, mas não é necessário se você está interessado somente no conteúdo da MDN.</p>
 
-<h2 id="Get_into_IRC">Entrar no IRC</h2>
+<h2 id="Entrar_no_IRC">Entrar no IRC</h2>
 
 <p>Internet Relay Chat (IRC) é nosso método preferido para bate-bapo diária em tempo real e discussão entre os membros da comunidade. Usamos alguns canais para discussões relacionadas ao MDN.</p>
 
@@ -63,22 +63,22 @@ based_on: None
 
 <p>If you're not familiar with IRC, the quickest way to join is using <a href="http://scrollback.io/">Scrollback</a> - a web-based IRC client that is pre-configured with the <a href="http://scrollback.io/mozdn/">mdn</a> and <a href="http://scrollback.io/mdndev/">mdndev</a> channels. You may also want to <a href="http://wiki.mozilla.org/IRC" title="http://wiki.mozilla.org/IRC">learn more about IRC</a> and use an installable IRC client such as <a href="https://addons.mozilla.org/en-US/firefox/addon/chatzilla/" title="https://addons.mozilla.org/en-US/firefox/addon/chatzilla/">ChatZilla</a>. It is implemented as a Firefox add-on, which makes it quick and easy to install and use.</p>
 
-<h2 id="Join_our_biweekly_meetings_(and_other_events)">Join our biweekly meetings (and other events)</h2>
+<h2 id="Join_our_biweekly_meetings_(and_other_events)">Participe das nossas reuniões bi semanais (e outros eventos)</h2>
 
-<p>Every other week, the MDN community holds an IRC-based meeting to exchange notes, talk about what we've been doing, and sort out what we'd like to do for the next two weeks. We also talk about development plans for the MDN platform itself, and often get updates about new and upcoming features of the site. These are casual, fun meetings, and everyone's welcome to participate.</p>
+<p>De duas em duas semanas a comunidade do MDN junta-se em uma reunião em um canal IRC para trocar observações, falar sobre o que nós temos feito, e definir o que nós gostaríamos de fazer nas duas semanas seguintes. Nós também falamos sobre planos de desenvolvimento para a própria plataforma do MDN, e sempre ficamos atualizados sobre as novas versões do site. É uma reunião casual, divertida e todo mundo é bem vindo para participar.</p>
 
-<p>See the <a href="https://wiki.mozilla.org/MDN/Community_meetings" title="https://wiki.mozilla.org/MDN/Community_meetings">MDN Community Meetings</a> page on the Mozilla wiki for details on the schedule as well as agendas and notes for past and upcoming meetings.</p>
+<p>Veja a página <a href="https://wiki.mozilla.org/MDN/Community_meetings" title="https://wiki.mozilla.org/MDN/Community_meetings">MDN Community Meetings</a> no Mozilla wiki para detalhes do cronograma como também agenda e observações de reuniões passadas e futuras.</p>
 
-<p>See the <a href="https://mail.mozilla.com/home/publiccalendar@mozilla.com/MDN_Events.html">MDN Events calendar</a> for these and other meetings, doc sprints, and other events.</p>
+<p>Veja o <a href="https://mail.mozilla.com/home/publiccalendar@mozilla.com/MDN_Events.html">MDN Events calendar</a> para esta outras reuniões, <em>doc sprint</em><em>s</em>, e outros eventos.</p>
 
-<h2 id="Project_administrators">Project administrators</h2>
+<h2 id="Project_administrators">Administradores do projeto</h2>
 
-<p>You can contact an MDN project administrator by email. If you wish to talk to the MDN documentation lead, his name is {{UserLink("Sheppy", "Eric Shepherd")}}, and he's happy to try to answer your questions, or help you find the right person to do so.</p>
+<p>Você pode entrar em contado com um administrador do projeto MDN por email. Se você deseja falar com o lider da documentação do MDN, seu nome é {{UserLink("Sheppy", "Eric Shepherd")}}, e ele ficará feliz ao tentar responder suas dúvidas, ou ajudar a encontrar a pessoa certa para te responder.</p>
 
-<h2 id="Next_steps">Next steps</h2>
+<h2 id="Next_steps">Próximos passos</h2>
 
 <ul>
- <li><a href="/pt-BR/docs/MDN/Contribute" title="/pt-BR/docs/Project:MDN/Contributing">Contributing to MDN</a>: Look here for guides to working in MDN, and suggestions for things to work on.</li>
- <li><a href="/pt-BR/docs/Project:MDN/Contributing/Follow_what_s_happening" title="/pt-BR/docs/Project:MDN/Contributing/Follow_what_s_happening">Follow what's happening</a>: More ways to keep up with MDN, and Mozilla Developer Relations in general.</li>
+ <li><a href="/pt-BR/docs/MDN/Contribute" title="/pt-BR/docs/Project:MDN/Contributing">Contribuindo com o MDN</a>: Veja aqui alguns guias para trabalhar com o MDN, e sugestões de coisas para se engajar.</li>
+ <li><a href="/pt-BR/docs/Project:MDN/Contributing/Follow_what_s_happening" title="/pt-BR/docs/Project:MDN/Contributing/Follow_what_s_happening">Siga o que está acontecendo</a>:&nbsp; Outras formas de ficar atualizado sobre o MDN, e notícias do Mozilla Developer Relations em geral.</li>
 </ul>
 
