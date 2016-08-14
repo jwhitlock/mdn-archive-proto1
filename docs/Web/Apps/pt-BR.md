@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1098961
+revision_id: 1105061
 locale: pt-BR
 slug: Apps
 tags: "Mobile" "Aplicativos" "Desenvolvimento Web" "Aplicativos Modernos para a web"
@@ -118,7 +118,7 @@ based_on: None
  <li><a href="/pt-BR/Apps/Design">Projete</a>
   <ol>
    <li><strong><a href="/en-US/Apps/Design">Visão geral</a></strong></li>
-   <li><a href="/pt-BR/Apps/Design/Planning">Planejamento</a></li>
+   <li><a href="/pt-BR/docs/Web/Apps/Design/Planejando">Planejamento</a></li>
    <li><a href="/pt-BR/Apps/Design/UI_layout_basics">Layout básico de interface de usuário</a></li>
    <li><a href="/pt-BR/Apps/Design/Firefox_OS_building_blocks">Firefox OS Building Blocks</a></li>
    <li><a href="https://www.mozilla.org/en-US/styleguide/products/firefox-os/">Firefox OS guia de estilo visual</a></li>
