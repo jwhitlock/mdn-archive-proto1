@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 800539
+revision_id: 1106553
 locale: fr
 slug: Web/Reference
 tags: "Reference" "Référence(2)"
@@ -21,7 +21,7 @@ based_on: None
 <div class="section">
 <h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">TECHNOLOGIES AU CŒUR DU WEB</h2>
 
-<h3 id="Bases">Bases</h3>
+<h3 id="Bases_et_formatage">Bases et formatage&nbsp;</h3>
 
 <dl>
  <dt><a href="/en-US/docs/Web/HTML" title="/fr/docs/Web/HTML">HTML</a></dt>
@@ -66,11 +66,19 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">AUTRES TECHNOLOGIES</h2>
+<h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">AUTRES TECHNOLOGIES&nbsp;</h2>
 
-<p>&nbsp;</p>
+<dl>
+ <dt><a href="/fr/docs/WebSockets/Writing_WebSocket_servers" title="/fr/docs/Web/HTML">WebSockets</a>&nbsp;</dt>
+ <dd>Les websockets permettent la création de connexions persistantes entre le navigateur du client (la page qu'il affiche par exemple) et le serveur. Ces connexions permettent à chacun d'envoyer à l'autre une donnée au moment où il le souhaite (méthode dites <em>push </em>et <em>pull</em>).&nbsp;</dd>
+</dl>
 </div>
 </div>
 
-<p>&nbsp;</p>
+<dl>
+ <dt><a href="https://developer.mozilla.org/fr/docs/AJAX">Ajax&nbsp;</a></dt>
+ <dd>AJAX est une méthode et non un langage de programmation, basée sur Javascript et la réception de données en XML (AJAX : <em>Asynchronous JAvascript XML</em>). Elle supporte aussi l'échange de&nbsp;texte (en réalité&nbsp;le XML est envoyé en texte ; le texte est donc le type d'échange standard, supportant par exemple le format&nbsp;<a href="https://fr.wikipedia.org/wiki/JavaScript_Object_Notation">JSON</a>). Cette méthode est dite "<em>asynchrone</em>", c'est-à-dire qu'elle permet d'émettre depuis la page vers le serveur, une requête GET, POST ou HEAD par exemple, négociée pour l'être une requête classique. Cela évite donc de recharger toute la page, en ne renvoyant qu'une partie ou des données particulières.&nbsp;<br />
+ Cependant&nbsp;<strong>chaque</strong>&nbsp;requête vers le serveur crée une connexion qui sera <strong>close </strong>lors de la réception de la réponse du serveur.&nbsp;</dd>
+ <dd>&nbsp;</dd>
+</dl>
 
