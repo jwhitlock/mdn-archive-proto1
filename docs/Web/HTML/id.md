@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1071590
+revision_id: 1107039
 locale: id
 slug: Web/HTML
 tags: 
@@ -13,6 +13,8 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
+<p>&nbsp;</p>
+
 <div>{{HTMLSidebar()}}</div>
 
 <p><strong><img alt="" src="/files/3563/HTML5_Logo_128.png" style="float:left; height:128px; margin:6px; width:128px" /><span class="seoSummary">HyperText Markup Language (HTML)</span></strong><span class="seoSummary">&nbsp;adalah bahasa inti dari hampir semua konten Web.&nbsp;Sebagian besar dari apa yang Anda lihat pada layar browser anda adalah sebuah deskripsi, secara mendasar, menggunakan HTML.</span>&nbsp;Lebih tepatnya, HTML adalah bahasa yang menggambarkan struktur dan isi semantik dari sebuah dokumen Web. Konten dalam halaman Web &nbsp;ditandai dengan elemet HTML seperti &nbsp;{{HTMLElement("img")}}, {{HTMLElement("title")}}, {{HTMLElement("p")}}, {{HTMLElement("div")}}, dan sebagainya.</p>
