@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 932185
+revision_id: 1107881
 locale: es
 slug: Web/Reference
 tags: "Web" "Landing" "Reference" "Referencia"
-title: Guía de referencia de Tecnologías Web
+title: Referencia de Tecnologías Web
 summary: 
 keywords: 
 needs_technical_review: False
@@ -28,7 +28,7 @@ based_on: None
  <dd>Las Hojas de Estilo en Cascada (<em>Cascading Style Sheets</em>) se usan para describir la apariencia del contenido Web.</dd>
 </dl>
 
-<h3 id="Programación">Código</h3>
+<h3 id="Código">Código</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">JavaScript</a></dt>
