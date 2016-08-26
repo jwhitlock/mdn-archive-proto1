@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 1072098
+revision_id: 1109851
 locale: vi
 slug: Web/API
 tags: "API" "Web" "Apps" "TopicStub" "JavaScript" "Reference" "NeedsTranslation"
 title: Web API Interfaces
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
