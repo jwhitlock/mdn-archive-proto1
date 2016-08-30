@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 998503
+revision_id: 1111481
 locale: es
 slug: Web/Accesibilidad
 tags: "Accesibilidad" "Todas_las_Categorías"
 title: Accesibilidad
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
