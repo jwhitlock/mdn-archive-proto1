@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1024786
+revision_id: 1116093
 locale: en-US
 slug: Web/Guide
 tags: "Web" "Guide" "Landing"
@@ -27,7 +27,7 @@ based_on: None
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics">Graphics on the Web</a></dt>
  <dd class="landingPageList">Modern Web sites and applications often need to present graphics of varying sophistication.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/API">Guide to Web APIs</a></dt>
- <dd class="landingPageList">A list all Web APIs and what they do.</dd>
+ <dd class="landingPageList">A list of all Web APIs and what they do.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></dt>
  <dd>JavaScript is the powerful scripting language used to create applications for the Web.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Localizations_and_character_encodings">Localizations and character encodings</a></dt>
@@ -45,8 +45,6 @@ based_on: None
  <dd class="landingPageList">The Web platform provides different methods of parsing and serializing XML, each with its own pros and cons.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF">The Web Open Font Format (WOFF)</a></dt>
  <dd class="landingPageList"><strong>WOFF</strong> (<strong>Web Open Font Format</strong>) is a font file format that is free for anyone to use on the web.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/User_experience">User experience</a></dt>
- <dd class="landingPageList">Making the user experience of your Web site or app a pleasant one for your users is important if you want them to use it again and again. Here you'll find articles that may help you along.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Using_FormData_Objects">Using FormData Objects</a></dt>
  <dd class="landingPageList">The <a href="https://developer.mozilla.org/en/DOM/XMLHttpRequest/FormData"><code>FormData</code></a> object lets you compile a set of key/value pairs to send using <code>XMLHttpRequest</code>. It's primarily intended for sending form data, but can be used independently from forms in order to transmit keyed data. The transmission is in the same format that the form's <code>submit()</code> method would use to send the data if the form's encoding type were set to "multipart/form-data".</dd>
  <dt class="landingPageList"><a href="/en-US/docs/Glossary">Glossary</a></dt>
