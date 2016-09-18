@@ -1,8 +1,8 @@
 ---
 version: prototype1
-revision_id: 1003245
+revision_id: 1120509
 locale: el
-slug: Project:Αποσαφηνισμοί/Getting_started
+slug: MDN/Getting_started
 tags: 
 title: Getting started on MDN
 summary: 
