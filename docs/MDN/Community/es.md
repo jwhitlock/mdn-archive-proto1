@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 621575
+revision_id: 1120577
 locale: es
 slug: MDN/Comunidad
 tags: "Guia(2)" "Guía" "Guide" "MDC Project" "Proyecto MDC" "Community" "Comunidad" "Documentación" "Documentation"
