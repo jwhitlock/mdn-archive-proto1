@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 821005
+revision_id: 1120525
 locale: es
 slug: MDN/Contribute/Localize
 tags: "MDN" "Proyecto MDC" "Localización" "Documentación" "Necesita traducción"
