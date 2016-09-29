@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 965867
+revision_id: 1125497
 locale: en-US
 slug: Games
 tags: "Web" "Apps" "Games" "HTML5 Games" "Gamedev" "JavaScript Games" "Game Development"
@@ -19,19 +19,49 @@ based_on: None
 
 <div class="column-container">
 <div class="column-half">
-<h2 id="Introducing_web_game_development">Introducing web game development</h2>
+<h2 id="Develop_web_games">Develop web games</h2>
+
+<p>Welcome to the MDN game development center! In this area of the site we provide resources for web developers wanting to develop games. You'll find many useful tutorials and technique articles in the main menu on the left, so feel free to explore.</p>
+
+<p>We've also included a reference section so you can easily find information about all the most common APIs used in game development, plus useful lists of <a href="/en-US/docs/Games/Tools/Engines_and_tools">engines and tools</a>, and <a href="/en-US/docs/Games/Examples">game examples</a>.</p>
+
+<div class="note">
+<p><strong>Note</strong>: You should have mastered at least the basics of core web technologies — such as HTML, CSS and JavaScript — before attempting to create web games. The <a href="/en-US/docs/Learn">Learning Area</a> is a good place to go if you are a complete beginner.</p>
+</div>
 
 <dl>
- <dt><a href="/en-US/docs/Games/Introduction" title="/en-US/docs/Games/Introduction">Introduction to game development for the Web</a></dt>
- <dd>An introduction to the technologies useful for game developers and how to get started developing games using Web technologies. This article also examines the business case for creating web games.</dd>
- <dt><a href="/en-US/docs/Games/Anatomy_of_a_vIdeo_game">Anatomy of a video game</a></dt>
- <dd>What is a video game, really? There are certain parts that are common between games (even if it doesn't seem like it). This article looks to explain concepts like main loops in a completely general context. When it does focus, it does so toward web standards.</dd>
- <dt><a href="/en-US/docs/Web/Apps/Developing/Games/Special_considerations">Special considerations for game developers</a></dt>
- <dd>This article from the App Center looks briefly at things you need to consider specifically when trying to create a game that will run as an open web app.</dd>
 </dl>
+</div>
 
-<h2 id="Additional_resources">Additional resources</h2>
+<div class="column-half">
+<h2 id="Port_native_games_to_the_Web">Port native games to the Web</h2>
 
+<p>If you are a native developer (for example writing games in C++), and you are interested in how you can port your games over to the Web, you should learn more about our <a href="http://kripken.github.io/emscripten-site/index.html">Emscripten</a> tool — this is An LLVM to JavaScript compiler, which takes LLVM bytecode (e.g. generated from C/C++ using Clang, or from another language) and compiles that into <a href="/en-US/docs/Games/Tools/asm.js">asm.js</a>, which can be run on the Web.</p>
+
+<p>To get started, see:</p>
+
+<ul>
+ <li><a href="http://kripken.github.io/emscripten-site/docs/introducing_emscripten/about_emscripten.html">About Emscripten</a> for an introduction including high-level details.</li>
+ <li><a href="http://kripken.github.io/emscripten-site/docs/getting_started/downloads.html">Download and Install</a> for installing the toolchain.</li>
+ <li><a href="http://kripken.github.io/emscripten-site/docs/getting_started/Tutorial.html">Emscripten Tutorial</a> for a tutorial to teach you how to get started.</li>
+</ul>
+</div>
+</div>
+
+<div class="column-container">
+<div class="column-half">
+<h2 id="Examples">Examples</h2>
+
+<p>For a list of web game examples, see our <a href="/en-US/docs/Games/Examples">examples page</a>. Also check out <a href="http://www.openwebgames.com/">openwebgames.com</a> for more useful resources and examples!</p>
+</div>
+</div>
+
+<p><a href="http://www.openwebgames.com"><img alt="" src="https://mdn.mozillademos.org/files/12790/owg-logo-dark.svg" style="display:block; margin:0px auto; width:400px" /></a></p>
+
+<h2 id="See_also">See also</h2>
+
+<div class="column-container">
+<div class="column-half">
 <dl>
  <dt><a href="http://buildnewgames.com/">Build New Games</a></dt>
  <dd>A collaborative site featuring a large number of open web game development tutorials. Hasn't been very active recently, but still holds some nice resources.</dd>
@@ -47,6 +77,11 @@ based_on: None
  <dd>Weekly newsletter about HTML5 game development, sent every Friday. Contains the latest articles, tutorials, tools, and resources.</dd>
  <dt><a href="http://www.html5gamedevs.com/">HTML5 Game Devs Forum</a></dt>
  <dd>Forums for developers, framework creators and publishers. Ask questions, get feedback, help others.</dd>
+</dl>
+</div>
+
+<div class="column-half">
+<dl>
  <dt><a href="http://html5gameengine.com/">HTML5 Game Engine</a></dt>
  <dd>List of the most popular HTML5 game frameworks along with their rating, features and samples.</dd>
  <dt><a href="http://www.jsbreakouts.org/">JSBreakouts</a></dt>
@@ -63,51 +98,7 @@ based_on: None
  <dd>Games category on the Mozilla Hacks blog containing interesting gamedev related articles.</dd>
 </dl>
 </div>
-
-<div class="column-half">
-<h2 id="Game_development_topics">Game development topics</h2>
-
-<dl>
- <dt><a href="/en-US/docs/Games/Tools">Tools</a></dt>
- <dd>This section covers the tools available for facilitating the creation of effective gaming experiences on the Web, such as frameworks, compilers such as Emscripten, and debugging tools. It explain the core concepts behind each, giving you a solid base to work upon.</dd>
- <dt><a href="/en-US/docs/Games/Techniques">Techniques</a></dt>
- <dd>This section contains many articles covering essential techniques for game development, such as physics, collision detection, animation, 3D, data storage, and much more.</dd>
- <dt><a href="/en-US/docs/Games/Workflows">Workflows</a></dt>
- <dd>This section includes multiple case studies, taking the basic tools and techniques covered above and applying them to the creation of awesome games. There's something for you here, whether you are an experienceed web developer wanting to write 2D or 3D games, a C++ developer looking to port native games to the Web or a mobile developer looking for help writing better mobile games.</dd>
-</dl>
-
-<h2 id="Examples">Examples</h2>
-
-<dl>
- <dt><a href="/en-US/demos/detail/bananabread" title="/en-US/demos/detail/bananabread">BananaBread</a></dt>
- <dd>A multiplayer, 3D first-person shooter game developed using Emscripten, WebGL, and WebRTC. One of the first high profile webGL game demos.</dd>
- <dt><a href="https://hacks.mozilla.org/2013/12/monster-madness-creating-games-on-the-web-with-emscripten/">Monster Madness</a></dt>
- <dd>A WebGL and asm.js-based multiplayer online shooter, developed by Nom Nom Games and Trendy entertainment.</dd>
- <dt><a href="http://www.auraluxgame.com/game/">Auralux</a></dt>
- <dd>WebGL and asm.js-based strategy game: capture all the suns to win!</dd>
- <dt><a href="http://playcanv.as/p/JtL2iqIH">Swooop</a></dt>
- <dd>A plane flying game: control your plane and collect the jewels. Again, created with <a href="https://playcanvas.com/">PlayCanvas</a>.</dd>
- <dt><a href="https://ga.me/games/polycraft">Polycraft</a></dt>
- <dd>A shipwreck 'n survive game. Explore the island, and defeat the monsters.</dd>
- <dt><a href="http://beta.unity3d.com/jonas/DT2/">Dead Trigger 2</a></dt>
- <dd>Classic zombie splatter action, made with <a href="http://unity3d.com/">Unity3D</a>.</dd>
- <dt><a href="http://playbiolab.com/">Biolab Disaster</a></dt>
- <dd>Side-scrolling platform shooter. An early attempt at a canvas game — a classic.</dd>
-</dl>
-
-<div class="note">
-<p><strong>Note</strong>: For an extended list of examples, see our <a href="/en-US/docs/Games/Examples">examples page</a>.</p>
 </div>
-</div>
-</div>
-
-<p>{{GameTechBox}}</p>
-
-<div class="note">
-<p><strong>Note that we are keeping track of ongoing work on game development documentation on our <a href="/en-US/docs/Games/Doc_Status">Game development documentation status</a> page. If you want to help contribute to game development documentation, please have a look at this page to see what work needs doing!</strong></p>
-</div>
-
-<p>&nbsp;</p>
 
 <p>{{CommunityBox("Games development", "community-games", "mozilla.community.games", "games", "Games Wiki|https://wiki.mozilla.org/Platform/Games|View Wiki|Find more information about Mozilla gaming efforts on the Games Wiki")}}</p>
 
@@ -119,16 +110,27 @@ based_on: None
   <ol>
    <li><a href="/en-US/docs/Games/Introduction" title="An introduction to the technologies useful for game developers and how to get started developing games using Web technologies. This article also looks at the business case for why it makes sense to create games for the Web">Introduction to game development for the Web</a></li>
    <li><a href="/en-US/docs/Games/Anatomy" title="What is a video game, really? There are certain parts that are common between games (even if it doesn't seem like it). This article looks to explain concepts like main loops in a completely general context. When it does focus, it does so toward web standards.">Anatomy of a video game</a></li>
-   <li><a href="/en-US/docs/Web/Apps/Developing/Games/Special_considerations" title="This article from the App Center looks briefly at things you need to consider spefically when trying to create a game that will run as an open web app.">Special considerations for game developers</a></li>
+   <li><a href="/en-US/docs/Games/Examples">Examples</a></li>
   </ol>
  </li>
- <li><a href="/en-US/docs/Games/Tools">Tools</a>
+ <li><a href="#">APIs for game development</a>
   <ol>
-   <li><a href="/en-US/docs/Games/Tools/asm.js" title="asm.js is a very limited subset of the JavaScript language, which can be greatly optimized and run in an ahead-of-time (AOT) compiling engine for much faster performance than your typical JavaScript performance. This is, of course, great for games.">asm.js</a></li>
-   <li><a href="/en-US/docs/Emscripten" title="An LLVM to JavaScript compiler; with Emscripten, you can compile C++ and other languages that can compile to LLVM bytecode into high-performance JavaScript.">Emscripten</a></li>
+   <li><a href="/en-US/docs/Web/API/Canvas_API">Canvas</a></li>
+   <li><a href="/en-US/docs/Web/CSS">CSS</a></li>
+   <li><a href="/en-US/docs/Web/Apps/Fundamentals/User_notifications/Full_screen_api">Full Screen</a></li>
+   <li><a href="/en-US/docs/Web/API/Gamepad_API">Gamepad</a></li>
+   <li><a href="/en-US/docs/Web/API/IndexedDB_API">IndexedDB</a></li>
+   <li><a href="/en-US/docs/Web/JavaScript">JavaScript</a></li>
+   <li><a href="/en-US/docs/Web/API/Pointer_Lock_API">Pointer Lock</a></li>
+   <li><a href="/en-US/docs/Web/SVG">SVG</a></li>
+   <li><a href="/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray">Typed Arrays</a></li>
+   <li><a href="/en-US/docs/Web/API/Web_Audio_API">Web Audio</a></li>
+   <li><a href="/en-US/docs/Web/API/WebGL_API">WebGL</a></li>
+   <li><a href="/en-US/docs/Web/API/WebRTC_API">WebRTC</a></li>
+   <li><a href="/en-US/docs/Web/API/WebSockets_API">Web Sockets</a></li>
    <li><a href="/en-US/docs/Web/API/WebVR_API">WebVR</a></li>
-   <li><a href="https://developer.mozilla.org/en-US/docs/Mozilla/Performance/Profiling_with_the_Built-in_Profiler">Gecko profiler</a></li>
-   <li><a href="/en-US/docs/Games/Tools/Engines_and_tools" title="A list of engines, templates and technologies useful to game developers.">Game engines and tools</a></li>
+   <li><a href="/en-US/docs/Web/API/Web_Workers_API">Web Workers</a></li>
+   <li><a href="/en-US/docs/Web/API/XMLHttpRequest">XmlHttpRequest</a></li>
   </ol>
  </li>
  <li><a href="/en-US/docs/Games/Techniques">Techniques</a>
@@ -142,6 +144,11 @@ based_on: None
      <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web">3D games on the Web overview</a></li>
      <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory">Explaining basic 3D theory</a></li>
      <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Three.js">Building up a basic demo with Three.js</a></li>
+     <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas">Building up a basic demo with PlayCanvas</a></li>
+     <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Whitestorm.js">Building up a basic demo with Whitestorm.js</a></li>
+     <li>
+      <p><a href="/en-US/docs/Games/Techniques/3D_on_the_web/WebVR">WebVR</a></p>
+     </li>
     </ol>
    </li>
    <li><a href="/en-US/docs/Games/Techniques/Audio_for_Web_Games">Audio for Web Games</a></li>
@@ -159,13 +166,22 @@ based_on: None
      <li><a href="/en-US/docs/Games/Techniques/Tilemaps/Square_tilemaps_implementation%3A_Scrolling_maps">Scrolling maps</a></li>
     </ol>
    </li>
+   <li><a href="/en-US/docs/Games/Techniques/Control_mechanisms">Implementing game control mechanisms</a>
+    <ol>
+     <li><strong><a href="/en-US/docs/Games/Techniques/Control_mechanisms">Game control mechanisms overview</a></strong></li>
+     <li><a href="/en-US/docs/Games/Techniques/Control_mechanisms/Mobile_touch">Mobile touch controls</a></li>
+     <li><a href="/en-US/docs/Games/Techniques/Control_mechanisms/Desktop_with_mouse_and_keyboard">Desktop mouse and keyboard controls</a></li>
+     <li><a href="/en-US/docs/Games/Techniques/Control_mechanisms/Desktop_with_gamepad">Desktop gamepad controls</a></li>
+     <li><a href="/en-US/docs/Games/Techniques/Control_mechanisms/Other">Unconventional controls</a></li>
+    </ol>
+   </li>
   </ol>
  </li>
- <li><a href="/en-US/docs/Games/Workflows">Workflows</a>
+ <li><a href="/en-US/docs/Games/Tutorials">Tutorials</a>
   <ol>
-   <li><a href="https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript">2D breakout game using pure JavaScript</a></li>
-   <li><a href="/en-US/docs/Games/Workflows/2D_breakout_game_Phaser">2D breakout game using Phaser</a></li>
-   <li><a href="/en-US/docs/Games/Workflows/HTML5_Gamedev_Phaser_Device_Orientation">2D maze game with device orientation</a></li>
+   <li><a href="/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript">2D breakout game using pure JavaScript</a></li>
+   <li><a href="/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser">2D breakout game using Phaser</a></li>
+   <li><a href="/en-US/docs/Games/Tutorials/HTML5_Gamedev_Phaser_Device_Orientation">2D maze game with device orientation</a></li>
   </ol>
  </li>
  <li><a href="/en-US/docs/Games/Publishing_games">Publishing games</a>
@@ -176,6 +192,5 @@ based_on: None
    <li><a href="/en-US/docs/Games/Publishing_games/Game_monetization">Game monetization</a></li>
   </ol>
  </li>
- <li><a href="/en-US/docs/Games/Examples">Examples</a></li>
 </ol>
 
