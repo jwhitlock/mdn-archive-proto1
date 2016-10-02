@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1084337
+revision_id: 1126181
 locale: pt-BR
 slug: MDN/Contribute/guia/Do_an_editorial_review
 tags: "Guia(2)" "MDN Meta" "Revisão" "como fazer" "Documentação"
@@ -19,11 +19,11 @@ based_on: None
 
 <dl>
  <dd><strong>Qual é a tarefa?</strong></dd>
- <dd>Edição e revisão de artigos que estiverem&nbsp;marcados como <em>precisando de revisão editorial</em>.</dd>
- <dd><strong>Onde é preciso ser feito?</strong></dd>
- <dd>Em artigos específicos que são marcados como <em>precisando de revisão editorial</em>.</dd>
+ <dd>Edição e revisão de artigos que estiverem&nbsp;marcados como "<em>precisando de revisão editorial</em>."</dd>
+ <dd><strong>Onde é que isso precisa ser feito?</strong></dd>
+ <dd>Em artigos específicos que são marcados como <em>"precisando de revisão editorial</em>."</dd>
  <dd><strong>O que é preciso conhecer para fazer essa tarefa?</strong></dd>
- <dd>Você precisa de uma boa noção de gramática e semântica.</dd>
+ <dt><span id="result_box" lang="pt"><span>Você precisa ter</span> <span>um bom dominio do idioma Ingles</span> e <span>habilidades</span> <span>de ortografia e gramática</span><span>.</span> <span>Uma revisão editorial</span> <span>consiste em garantir</span> <span>que a gramática</span><span>, ortografia e</span> <span>redação</span> <span>estão corretas e</span> <span>fazendo sentido; É</span><span> que o</span> <span>guia de</span> <span>estilo de escrita</span> <span>MDN seje consultado</span><span>.</span></span></dt>
  <dd><strong>Quais são os passos a seguir?</strong></dd>
  <dd>
  <ol>
