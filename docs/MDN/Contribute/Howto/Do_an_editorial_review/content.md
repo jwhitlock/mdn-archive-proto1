@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1071396
+revision_id: 1126375
 locale: en-US
 slug: MDN/Contribute/Howto/Do_an_editorial_review
 tags: "MDN Meta" "Guide" "Howto" "Documentation" "Editorial Review"
@@ -31,15 +31,15 @@ based_on: None
  <ol>
   <li>Pick an article to review:
    <ol>
-    <li>Go to the list of <a href="/en-US/docs/needs-review/editorial">articles needing editorial review</a>.&nbsp; This lists all the pages for which an editorial review has been requested.</li>
-    <li>Choose a page that has an English title and whose path doesn't start with&nbsp; <code>Template:</code> (<code>Template:</code> pages contain MDN macro code.)</li>
+    <li>Go to the list of <a href="/en-US/docs/needs-review/editorial">articles needing editorial review</a>. This lists all the pages for which an editorial review has been requested.</li>
+    <li>Choose a page that has an English title and whose path doesn't start with <code>Template:</code> (<code>Template:</code> pages contain MDN macro code.)</li>
     <li>Click on the article link to load the page.</li>
    </ol>
   </li>
   <li><a id="core-steps" name="core-steps"></a>Read the article, paying close attention for typos, spelling, grammar, or usage errors. Don't hesitate to switch to a different page if the first one you choose doesn't suit you.</li>
   <li>If there are no errors, you don't need to edit the article to mark it as reviewed. Look for the "quick review" box in the left sidebar of the page:<br />
-   <img alt="Screenshot of the editorial review request sidebar box" src="https://mdn.mozillademos.org/files/13018/SidebarReviewBoxEditorial.png" /><br />
-   Deselect the <strong>Editorial</strong> box and click <strong>Save</strong>.</li>
+   <img alt="Screenshot of the editorial review request sidebar box" src="https://mdn.mozillademos.org/files/13018/SidebarReviewBoxEditorial.png" /></li>
+  <li>Deselect the <strong>Editorial</strong> box and click <strong>Save</strong>.</li>
   <li>If you find errors that need to be corrected:
    <ol>
     <li>Click the <strong>Edit</strong> button near the top of the page; this brings you into the <a href="/en-US/docs/Project:MDN/Contributing/Editor_guide">MDN editor</a>.</li>
