@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1116567
+revision_id: 1127937
 locale: uk
 slug: Web/Guide
 tags: "Web" "Guide" "Landing" "TopicStub"
-title: Web developer guide
+title: Керівництво веб-розробника
 summary: 
 keywords: 
 needs_technical_review: False
