@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1083534
+revision_id: 1133735
 locale: it
 slug: Tools
 tags: "Tools" "TopicStub" "NeedsMarkupWork" "Web Development" "NeedsTranslation" "Developing Mozilla" "Web Development:Tools" "NeedsTechnicalReview"
@@ -38,7 +38,7 @@ based_on: None
  <dd>Vi permette di editare gli stili CSS della pagina corrente in tempo reale; in aggiunta, è possibile attivarli o disattivarli. Un fantastico modo di lavorare in tempo reale sull'aspetto del sito!</dd>
  <dt><a href="/en-US/docs/Tools/Debugger" title="/en-US/docs/Tools/Debugger">JavaScript Debugger</a> {{ fx_minversion_inline("15.0") }}</dt>
  <dd>Scorrendo il codice JavaScript in esecuzione nel Browser (o eventualmente in un Browser remoto!) e visualizzando le variabili, vi aiuta a rilevare i bugs. Questa documentazione inoltre include il Debugger Remoto, che potrete usare per il debug di codice in esecuzione in un dispositivo Firefox OS o in Firefox in un dispositivo Android.</dd>
- <dt><a href="/en-us/docs/Tools/Responsive_Design_View" title="/en-us/docs/Tools/Responsive_Design_View">Responsive Design View</a> {{ fx_minversion_inline("15.0") }}</dt>
+ <dt><a href="/it/docs/Tools/Visualizzazione_Flessibile" title="/en-us/docs/Tools/Responsive_Design_View">Visualizzazione flessibile </a>{{ fx_minversion_inline("15.0") }}</dt>
  <dd>Visualizza come, il vostro design, si mostra con le differenti risoluzioni senza cambiare la dimensione di finestra del vostro browser.</dd>
  <dt><a href="/en-US/docs/Tools/Using_the_Source_Editor" title="en/Tools/Using the Source Editor">Using the Source Editor</a></dt>
  <dd>Il Source Editor non è uno strumento integrato; mentre, invece, è l'editor usato in Scratchpad e in Style Editor. Questo articolo fornisce le informazioni comuni di tutti gli strumenti che fanno uso delle <a href="/en-US/docs/JavaScript_code_modules/source-editor.jsm" title="source-editor.jsm">Source Editor API</a>.</dd>
