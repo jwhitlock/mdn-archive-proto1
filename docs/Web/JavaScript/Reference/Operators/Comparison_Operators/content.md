@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 845711
+revision_id: 1134887
 locale: en-US
 slug: Web/JavaScript/Reference/Operators/Comparison_Operators
 tags: "Operator" "JavaScript" "Reference"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{jsSidebar("Operators")}}</div>
 
-<p>JavaScript has both strict and type–converting comparisons. A strict comparison (e.g., <code>===</code>) is only true if the operands are of the same type. The more commonly used abstract comparison (e.g. <code>==</code>) converts the operands to the same Type before making the comparison. For relational abstract comparisons (e.g., <code>&lt;=</code>), the operands are first converted to primitives, then to the same type, before comparison.</p>
+<p>JavaScript has both strict and type–converting comparisons. A strict comparison (e.g., <code>===</code>) is only true if the operands are of the same type and the contents match. The more commonly-used abstract comparison (e.g. <code>==</code>) converts the operands to the same type before making the comparison. For relational abstract comparisons (e.g., <code>&lt;=</code>), the operands are first converted to primitives, then to the same type, before comparison.</p>
 
 <p>Strings are compared based on standard lexicographical ordering, using Unicode values.</p>
 
@@ -45,10 +45,16 @@ x == y
 <h4 id="Examples">Examples</h4>
 
 <pre class="brush: js">
- 1   ==  1     // true
-"1"  ==  1     // true
- 1   == '1'    // true
- 0   == false  // true
+  1   ==  1        // true
+ "1"  ==  1        // true
+  1   == '1'       // true
+  0   == false     // true
+  0   == null      // false
+var object1 = {"value":"key"}, object2={"value":"key"}; 
+object1 == object2 //false
+
+  0   == undefined // false
+null  == undefined // true
 </pre>
 
 <h3 id="Inequality_(!)"><a name="Inequality">Inequality (!=)</a></h3>
@@ -72,7 +78,7 @@ x != y</pre>
 
 <h3 id="Identity_strict_equality_()"><a name="Identity">Identity / strict equality (===)</a></h3>
 
-<p>The identity operator returns true if the operands are strictly equal (see above) <strong>with no type conversion</strong>.</p>
+<p>The identity operator returns true if the operands are strictly equal (see above) <strong>with no type conversion</strong>.&nbsp;</p>
 
 <h4 id="Syntax_3">Syntax</h4>
 
@@ -83,9 +89,13 @@ x === y</pre>
 
 <pre class="brush: js ">
 3 === 3   // true
-3 === '3' // false</pre>
+3 === '3' // false
+var object1 = {"value":"key"}, object2={"value":"key"};
+object1 === object2 //false</pre>
 
-<h3 id="Non-identity_strict_not_equal_(!)"><a name="Nonidentity">Non-identity / strict not equal (!==)</a></h3>
+<p>&nbsp;</p>
+
+<h3 id="Non-identity_strict_inequality_(!)"><a name="Nonidentity">Non-identity / strict inequality (!==)</a></h3>
 
 <p>The non-identity operator returns true if the operands <strong>are not equal and/or not of the same type</strong>.</p>
 
@@ -102,6 +112,8 @@ x !== y</pre>
 </pre>
 
 <h2 id="Relational_operators">Relational operators</h2>
+
+<p>Each of these operators will call the&nbsp;<code>valueOf()</code>&nbsp;function on each operand before a comparison is made.</p>
 
 <h3 id="Greater_than_operator_(&gt;)"><a name="Greater_than_operator">Greater than operator (&gt;)</a></h3>
 
@@ -166,13 +178,13 @@ x &gt; y</pre>
 
 <h2 id="Using_the_Equality_Operators">Using the Equality Operators</h2>
 
-<p>The standard equality operators (<code>==</code> and <code>!=</code>) use the <a href="http://www.ecma-international.org/ecma-262/5.1/#sec-11.9.3">Abstract Equality Comparison Algorithm</a> to compare two operands. If the operands are of different Types, it will attempt to convert them to the same Type before making the comparison, e.g., in the expression <code>5 == '5'</code>, the string on the right is converted to Number before the comparison is made.</p>
+<p>The standard equality operators (<code>==</code> and <code>!=</code>) use the <a href="http://www.ecma-international.org/ecma-262/5.1/#sec-11.9.3">Abstract Equality Comparison Algorithm</a> to compare two operands. If the operands are of different types, it will attempt to convert them to the same type before making the comparison, e.g., in the expression <code>5 == '5'</code>, the string on the right is converted to {{jsxref("Number")}} before the comparison is made.</p>
 
-<p>The strict equality operators (<code>===</code> and <code>!==</code>) use the Strict Equality Comparison Algorithm and are intended for performing equality comparisons on operands of the same Type. If the operands are of different Types, the result is always <code>false</code> so <code>5 !== '5'</code>.</p>
+<p>The strict equality operators (<code>===</code> and <code>!==</code>) use the <a href="http://www.ecma-international.org/ecma-262/5.1/#sec-11.9.6">Strict Equality Comparison Algorithm</a> and are intended for performing equality comparisons on operands of the same type. If the operands are of different types, the result is always <code>false</code> so <code>5 !== '5'</code>.</p>
 
-<p>Use strict equality operators if the operands must be of a specific Type as well as value or if the exact Type of the operands is important. Otherwise, use the standard equality operators, which allow you to compare the identity of two operands even if they are not of the same Type.</p>
+<p>Use strict equality operators if the operands must be of a specific type as well as value or if the exact type of the operands is important. Otherwise, use the standard equality operators, which allow you to compare the identity of two operands even if they are not of the same type.</p>
 
-<p>When Type conversion is involved in the comparison (i.e., non–strict comparison), JavaScript converts Type String, Number, Boolean, or Object operands as follows:</p>
+<p>When type conversion is involved in the comparison (i.e., non–strict comparison), JavaScript converts the types {{jsxref("String")}}, {{jsxref("Number")}}, {{jsxref("Boolean")}}, or {{jsxref("Object")}} operands as follows:</p>
 
 <ul>
  <li>When comparing a number and a string, the string is converted to a number value. JavaScript attempts to convert the string numeric literal to a <code>Number</code> type value. First, a mathematical value is derived from the string numeric literal. Next, this value is rounded to nearest <code>Number</code> type value.</li>
@@ -181,19 +193,19 @@ x &gt; y</pre>
  <li>Note that an object is converted into a primitive if, and only if, its comparand is a primitive. If both operands are objects, they're compared as objects, and the equality test is true only if both refer the same object.</li>
 </ul>
 
-<div class="note"><strong>Note:</strong> String Objects are Type Object, not String! String objects are rarely used, so the following results might be surprising:</div>
+<div class="note"><strong>Note:</strong> String objects are Type Object, not String! String objects are rarely used, so the following results might be surprising:</div>
 
 <pre class="brush:js">
-// true as both operands are Type String (i.e. string primitives):
+// true as both operands are type String (i.e. string primitives):
 'foo' === 'foo'
 
 var a = new String('foo');
 var b = new String('foo');
 
-// false as a and b are Type Object and reference different objects
+// false as a and b are type Object and reference different objects
 a == b 
 
-// false as a and b are Type Object and reference different objects
+// false as a and b are type Object and reference different objects
 a === b 
 
 // true as a and 'foo' are of different type and, the Object (a) 
@@ -228,6 +240,11 @@ a == 'foo'</pre>
    <td>{{SpecName('ES6', '#sec-relational-operators')}}</td>
    <td>{{Spec2('ES6')}}</td>
    <td>Defined in several sections of the specification: <a href="http://www.ecma-international.org/ecma-262/6.0/#sec-relational-operators">Relational Operators</a>, <a href="http://www.ecma-international.org/ecma-262/6.0/#sec-equality-operators">Equality Operators</a></td>
+  </tr>
+  <tr>
+   <td>{{SpecName('ESDraft', '#sec-relational-operators')}}</td>
+   <td>{{Spec2('ESDraft')}}</td>
+   <td>Defined in several sections of the specification: <a href="http://tc39.github.io/ecma262/#sec-relational-operators">Relational Operators</a>, <a href="http://tc39.github.io/ecma262/#sec-equality-operators">Equality Operators</a></td>
   </tr>
  </tbody>
 </table>
@@ -288,6 +305,7 @@ a == 'foo'</pre>
 
 <ul>
  <li>{{jsxref("Object.is()")}}</li>
+ <li>{{jsxref("Math.sign()")}}</li>
  <li><a href="/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness">Equality comparisons and sameness</a></li>
 </ul>
 
