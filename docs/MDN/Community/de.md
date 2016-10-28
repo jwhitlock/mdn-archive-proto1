@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1120463
+revision_id: 1135413
 locale: de
 slug: MDN/Community
 tags: "MDN Meta" "Guide" "Landing" "Meeting" "Community"
@@ -13,11 +13,11 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
+<div>{{IncludeSubnav("/en-de/docs/MDN")}}</div>
 
-<p>MDN is more than a wiki: It's a community of developers working together to make MDN an outstanding resource for developers who use open Web technologies. The "work" happens on the MDN site, but the "community" also happens through (asynchronous) discussion and (synchronous) online chat.</p>
+<p>MDN ist mehr als ein wiki: Es ist eine Community von Entwicklern, die zusammen arbeiten um MDN eine eigenständig Ressource für Entwickler, die openWeb Technologien nutzen,&nbsp; zu machen . Die "Arbeit" wird auf der&nbsp; MDN-Seite gemacht, aber die "community" funktioniert auch (unsynchron) durch Diskussionen und (synchron) durch Online-Chats.</p>
 
-<p>We'd love it if you contribute to MDN, but we'd love it even more if you participate in the MDN community. Here's how to get connected, in three easy steps:</p>
+<p>Wir würden es lieben, wenn Sie beim MDN mitmachen würden, aber sogar noch mehr, wenn Sie bei der MDN-Community mitmachen würden. Unten können Sie lesen, wie man sich in einfachen Schritten einloggt:</p>
 
 <ol>
  <li>Erstelle einen&nbsp; MDN account.</li>
@@ -46,9 +46,9 @@ based_on: None
 
 <p>Warum "Dev-Mdc"? In der Vergangenheit wurde dies als "Mozilla Developer Center" oder MDC bezeichnet. Die Mailing-Liste stammt aus jener Zeit, so ist es Dev-Mdc. Es gibt auch eine Dev-Mdn Mailing-Liste für die Diskussion ist über die Entwicklung der Kuma-Plattform, die MDN läuft auf. Du bist herzlich eingeladen, die auch, aber es ist nicht notwendig, wenn Sie nur in MDN Inhalt interessiert.</p>
 
-<h2 id="Get_into_IRC">Get into IRC</h2>
+<h2 id="Get_into_IRC">In IRC gehen</h2>
 
-<p>Internet Relay Chat (IRC) is our preferred method for day-to-day chat and real-time discussions among community members. We use a few channels for discussions related to MDN.</p>
+<p>Internet Relay Chat (IRC) ist unserer bvorzugter Weg um Tag-zu-Tag chats und echtzeit Diskussionen, unter Community Migliedern. Wir nutzen einige Kanäle um Diskuusionen zu führen, die mit dem MDN zu tun haben.</p>
 
 <dl>
  <dt><a href="irc://irc.mozilla.org/devmo" title="irc://irc.mozilla.org/devmo">#devmo</a></dt>
