@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 822561
+revision_id: 1135573
 locale: fa
 slug: Web/Tutorials
 tags: 
@@ -13,13 +13,20 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p dir="rtl">لینک‌ها در این صفحه به آموزش‌ها و مواد آموزشی متنوعی هدایت شده است. چه شما تازه شروع کرده باشید، در حال یادگیری اصول اولیه هستید، یا در توسعه وب قدیمی هستید، در اینجا منابع مفیدی را برای تمرین بهتر می‌توانید پیدا کنید. این منابع توسط شرکت‌های متفکر رو به جلو و توسعه دهندگان وبی که استانداردهای باز و بهترین تمرین‌ها برای توسعه دهندگان وب&nbsp;را پذیرفته‌اند ساخته شده است وآن منابع آماده یا برای ترجمه اجازه داده می‌شود، از طریق گواهی‌نامه محتوای باز مانند Creative Commons.</p>
+<div class="note">
+<ol>
+ <li><span style="display:none">&nbsp;</span><span style="display:none">&nbsp;</span>لینک‌ها در این صفحه به آموزش‌ها و مواد آموزشی متنوعی هدایت شده است. چه شما تازه شروع کرده باشید، در حال یادگیری اصول اولیه هستید، یا در توسعه وب قدیمی هستید، در اینجا منابع مفیدی را برای تمرین بهتر می‌توانید پیدا کنید. این منابع توسط شرکت‌های متفکر رو به جلو و توسعه دهندگان وبی که استانداردهای باز و بهترین تمرین‌ها برای توسعه دهندگان وب&nbsp;را پذیرفته‌اند ساخته شده است وآن منابع آماده یا برای ترجمه اجازه داده می‌شود، از طریق گواهی‌نامه محتوای باز مانند Creative Commons.</li>
+</ol>
+
+<dl>
+</dl>
+</div>
 
 <div class="row topicpage-table" dir="rtl">
 <div class="section">
 <h2 class="Documentation" id="Documentation" name="Documentation">آموزش HTML</h2>
 
-<h3 id="Introductory_level">سطح مقدماتی</h3>
+<h3 id="سطح_مقدماتی">سطح مقدماتی</h3>
 
 <dl>
  <dt><a href="/en-US/docs/Web/Guide/HTML/Introduction">معرفی به HTML</a></dt>
@@ -34,7 +41,7 @@ based_on: None
  <dd>Code Avengers یک سرگرمی است، راه مؤثری برای یادگیری کد نرم افزارهای تحت وب و بازی‌ها باHTML، CSS، و JavaScript.</dd>
 </dl>
 
-<h3 id="Advanced_level">سطح پیشرفته</h3>
+<h3 id="سطح_پیشرفته">سطح پیشرفته</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Tips_for_Authoring_Fast-loading_HTML_Pages">نکاتی برای نوشتن بارگذاری سریع صفحات HTML </a></dt>
@@ -53,7 +60,7 @@ based_on: None
 
 <h2 class="Documentation" id="Documentation" name="Documentation">آموزش Javascript</h2>
 
-<h3 id="Introductory_level_2">سطح مقدماتی</h3>
+<h3 id="سطح_مقدماتی_2">سطح مقدماتی</h3>
 
 <dl>
  <dt><a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</dt>
@@ -68,7 +75,7 @@ based_on: None
  <dd>CodeCombat یک بازی است تا به شما جاوا اسکریپت آموزش دهد. منبع باز است.</dd>
 </dl>
 
-<h3 id="Intermediate_level">سطح میانی</h3>
+<h3 id="سطح_میانی">سطح میانی</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/A_re-introduction_to_JavaScript">A Re-Introduction to JavaScript</a></dt>
@@ -85,7 +92,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h3 id="Advanced_level_2">سطح پیشرفته</h3>
+<h3 id="سطح_پیشرفته_2">سطح پیشرفته</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Guide">JavaScript Guide</a></dt>
@@ -110,7 +117,7 @@ based_on: None
 
 <h2 class="Documentation" id="Documentation" name="Documentation">CSS tutorials</h2>
 
-<h3 id="Introductory_level_3">Introductory level</h3>
+<h3 id="Introductory_level">Introductory level</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/Getting_Started">CSS Getting Started</a></dt>
@@ -129,7 +136,7 @@ based_on: None
  <dd>Quite nice and detailed overview of CSS selectors.</dd>
 </dl>
 
-<h3 id="Intermediate_level_2">Intermediate level</h3>
+<h3 id="Intermediate_level">Intermediate level</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference">CSS Reference</a></dt>
@@ -146,7 +153,7 @@ based_on: None
  <dd>Design layouts that fluidly resize with the browser window, while still using a typographic grid.</dd>
 </dl>
 
-<h3 id="Advanced_level_3">Advanced level</h3>
+<h3 id="Advanced_level">Advanced level</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/Using_CSS_transforms">Using CSS Transforms</a></dt>
