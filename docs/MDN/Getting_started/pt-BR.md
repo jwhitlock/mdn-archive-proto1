@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1105127
+revision_id: 1141317
 locale: pt-BR
 slug: MDN/Primeiros_Passos
 tags: "MDN" "Guia(2)" "MDN Meta" "Projeto MDN" "Começando" "Documentação" "Wiki de edição" "Novos contribuidores"
@@ -40,7 +40,7 @@ based_on: None
 <p>Não se preocupe em fazer tudo perfeito; outros colaboradores do MDN estão aqui para ajudar a corrigir os erros que passaram despercebidos. Se estiver com dúvidas sobre como fazer, visite a página da <a href="/pt-BR/docs/MDN/Community">comunidade</a> para obter respostas via chat ou email.</p>
 
 <div class="note">
-<p><strong>Nota</strong>: Se você quiser testar antes de fazer algo "de verdade", você pode editar a página&nbsp;<strong><a href="/pt-BR/docs/Sandbox">Sandbox</a></strong> para você poder brincar. Por favor limite seus experimentos a esta página. Por favor não faça mudança desnecessárias nas páginas apenas para ver o que acontece, isso acaba por fazer uma bagunça para que outros tenham que limpar.</p>
+<p><strong>Nota</strong>: Se você quiser testar antes de fazer algo "de verdade", você pode editar a página&nbsp;<strong><a href="/pt-BR/docs/Sandbox">Sandbox</a></strong> para você poder brincar. Por favor, limite seus experimentos a esta página. Por favor, não faça mudanças desnecessárias nas páginas apenas para ver o que acontece, isso acaba por fazer uma bagunça para que outros tenham que limpar, ou, pior ainda, confundindo os leitores que estão tentando aprender coisas novas ou buscando por algo.</p>
 </div>
 
 <p>Quando terminar, fique à vontade para escolher outro item, ou veja <a href="#Outras_coisas_que_voce_pode_fazer_no_MDN">outras coisas que você pode fazer no MDN</a>.</p>
