@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1133887
+revision_id: 1143511
 locale: en-US
 slug: Mozilla/Add-ons/WebExtensions
 tags: "add-on" "Landing" "Extensions" "WebExtensions"
@@ -47,7 +47,7 @@ based_on: None
 <h3 id="Concepts">Concepts</h3>
 
 <ul>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Using_the_JavaScript_APIs">Using the JavaScript APIs</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/API">JavaScript API overview</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/User_interface_components">User interface components</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/Content_scripts">Content scripts</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/Match_patterns">Match patterns</a></li>
