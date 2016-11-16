@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1143125
+revision_id: 1143787
 locale: nl
 slug: Web/JavaScript
 tags: "Leer" "Landing" "JavaScript"
@@ -27,15 +27,15 @@ based_on: None
 <div class="column-half">
 <h2 id="Tutorials">Tutorials</h2>
 
-<p>Leer hoe je moet programmeren in JavaScript met gidsen en tutorials.</p>
+<p>Leer hoe je kan programmeren in JavaScript door middel van gidsen en tutorials.</p>
 
-<h3 id="Introductory">Inleidende artikelen</h3>
+<h3 id="Inleidende_artikelen">Inleidende artikelen</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">JavaScript Guide</a></dt>
- <dd>Als je nieuw bent bij JavaScript, deze gids zal u begeleiden door de taal.</dd>
+ <dd>Als JavaScript nieuw voor u&nbsp;is, zal deze gids je begeleiden door de taal.</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/JavaScript_technologies_overview">JavaScript technologies overview</a></dt>
- <dd>Introduction to the web browser JavaScript landscape.</dd>
+ <dd>Introductie over het landschap van JavaScript in een webbrowser.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript">Introduction to Object Oriented JavaScript</a></dt>
  <dd>Introduction to the concepts of object oriented programming in JavaScript.</dd>
 </dl>
@@ -71,9 +71,9 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h2 id="Reference">Referenties</h2>
+<h2 id="Referenties">Referenties</h2>
 
-<p>Browse the complete <a href="/en-US/docs/Web/JavaScript/Reference">JavaScript reference</a> documentation.</p>
+<p>Surf door de complete <a href="/en-US/docs/Web/JavaScript/Reference">JavaScript referentie</a> documentatie.</p>
 
 <dl>
  <dt><a href="/en-US/docs/Web/JavaScript/Reference/Global_Objects">Standard objects</a></dt>
