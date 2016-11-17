@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1089349
+revision_id: 1144039
 locale: es
 slug: MDN/Comenzando
 tags: "Guia(2)" "Guía" "Guide" "Comenzando" "Getting Started" "New Contributors" "Nuevos Colaboradores"
@@ -58,7 +58,7 @@ based_on: None
 
 <div class="note"><strong>Note:</strong> Si revisas articulos ya existentes o creas nuevos, deberías revisar la <a href="/es/docs/Project:Guía_de_estilo">Guía de Estilos</a>. Esto asegura que todos los articulos son consistentes entre sí.</div>
 
-<h3 id="Option_2_Me_gusta_el_código">Option 2: Me gusta el código</h3>
+<h3 id="Option_2_Me_gusta_el_código">Opción 2: Me gusta el código</h3>
 
 <p>¡Necesitamos más ejemplos de código! ¡También puedes ayudar a construir nuestra plataforma, <a href="https://developer.mozilla.org/en-US/docs/Project:MDN/Kuma">Kuma</a>!</p>
 
@@ -69,7 +69,7 @@ based_on: None
  <li><a href="https://developer.mozilla.org/es/demos/submit#">Entregar una demo </a>(1 hora)</li>
 </ul>
 
-<h3 id="Opcion_3_Me_gustan_las_palabras_y_el_código">Opcion 3: Me gustan las palabras y el código</h3>
+<h3 id="Opcion_3_Me_gustan_las_palabras_y_el_código">Opción 3: Me gustan las palabras y el código</h3>
 
 <p>Tenemos tareas que requieren conocimientos técnicos y manejo del lenguaje, como escribir nuevos articulos, revisando que estos sean precisos, o adaptando documentos.</p>
 
