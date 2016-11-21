@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1068728
+revision_id: 1145474
 locale: en-US
 slug: Web/JavaScript
 tags: "Learn" "Landing" "JavaScript" "l10n:priority"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{JsSidebar}}</div>
 
-<p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) is a lightweight, interpreted, programming language with <a href="https://en.wikipedia.org/wiki/First-class_functions">first-class functions</a>. Most well-known as the scripting language for Web pages, <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">many non-browser environments</a> also use it, such as <a class="external" href="https://nodejs.org/">node.js</a> and <a href="https://couchdb.apache.org/">Apache CouchDB</a>. JS is a <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based_programming" title="Prototype-based programming">prototype-based</a>, multi-paradigm, dynamic scripting language, supporting object-oriented,&nbsp;imperative, and&nbsp;declarative (e.g.&nbsp;functional programming) styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
+<p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) is a lightweight, interpreted, programming language with {{Glossary("First-class Function", "first-class functions")}}. While it is most well-known as the scripting language for Web pages, <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">many non-browser environments</a> also use it, such as <a class="external" href="https://nodejs.org/">node.js</a> and <a href="https://couchdb.apache.org/">Apache CouchDB</a>. JS is a {{Glossary("Prototype-based programming", "prototype-based")}}, multi-paradigm, dynamic scripting language, supporting object-oriented,&nbsp;imperative, and&nbsp;declarative (e.g.&nbsp;functional programming) styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
 
 <p>This section of the site is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments. For information about {{Glossary("API","APIs")}} specific to Web pages, please see <a href="/en-US/docs/Web/API">Web APIs</a> and <a href="/en-US/docs/Glossary/DOM">DOM</a>.</p>
 
@@ -77,7 +77,7 @@ based_on: None
 
 <dl>
  <dt><a href="/en-US/docs/Web/JavaScript/Reference/Global_Objects">Standard objects</a></dt>
- <dd>Get to know standard built-in objects {{jsxref("Array")}}, {{jsxref("Boolean")}}, {{jsxref("Date")}}, {{jsxref("Error")}}, {{jsxref("Function")}}, {{jsxref("JSON")}}, {{jsxref("Math")}}, {{jsxref("Number")}}, {{jsxref("Object")}}, {{jsxref("RegExp")}}, {{jsxref("String")}}, {{jsxref("Map")}}, {{jsxref("Set")}}, {{jsxref("WeakMap")}} , {{jsxref("WeakSet")}}, and others.</dd>
+ <dd>Get to know standard built-in objects {{jsxref("Array")}}, {{jsxref("Boolean")}}, {{jsxref("Date")}}, {{jsxref("Error")}}, {{jsxref("Function")}}, {{jsxref("JSON")}}, {{jsxref("Math")}}, {{jsxref("Number")}}, {{jsxref("Object")}}, {{jsxref("RegExp")}}, {{jsxref("String")}}, {{jsxref("Map")}}, {{jsxref("Set")}}, {{jsxref("WeakMap")}}, {{jsxref("WeakSet")}}, and others.</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/Reference/Operators">Expressions and operators</a></dt>
  <dd>Learn more about the behavior of JavaScript's operators {{jsxref("Operators/instanceof", "instanceof")}}, {{jsxref("Operators/typeof", "typeof")}}, {{jsxref("Operators/new", "new")}}, {{jsxref("Operators/this", "this")}}, the <a href="/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence">operator precedence</a>, and more.</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/Reference/Statements">Statements and declarations</a></dt>
