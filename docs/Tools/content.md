@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 943063
+revision_id: 1145842
 locale: en-US
 slug: Tools
 tags: "Guide" "Tools" "l10n:priority" "Web Development" "Developing Mozilla" "Web Development:Tools"
@@ -13,37 +13,13 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div class="summary"><span class="seoSummary">Examine, edit, and debug HTML, CSS, and JavaScript on the desktop and on mobile</span></div>
+<p><strong>Examine, edit, and debug HTML, CSS, and JavaScript on the desktop and on mobile. For the latest updates to the developer tools, download <a href="https://www.mozilla.org/en-US/firefox/developer/">Firefox Developer Edition</a>.</strong></p>
 
-<div class="column-container zone-callout"><a href="https://www.mozilla.org/en-US/firefox/developer/" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Install Firefox Developer Edition</a>
-
-<h3 id="What's_new_in_Aurora.3F" name="What's_new_in_Aurora.3F">What's new in Firefox Developer Edition?</h3>
-
-<p><a href="/en-US/Firefox/Developer_Edition">Firefox Developer Edition</a> is a version of Firefox tailored for developers, featuring the latest Firefox features and experimental developer tools. The current Developer Edition includes these updates to the developer tools:</p>
-
-<ul>
- <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations#Firefox_43">New animation inspector UI</a></li>
- <li><a href="/en-US/docs/Tools/Web_Console/Console_messages#Server">Server logging in the Web Console</a></li>
- <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations">Quickly find the rule that overrode a CSS declaration</a></li>
- <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu">"Use in Console" context menu item in Inspector</a></li>
- <li><a href="/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Strict_search">"Strict" option for filtering in the Rules view</a></li>
- <li><a href="/en-US/docs/Tools/Web_Console/Console_messages#Network">Network entries in the Console now link to the Network Monitor</a></li>
- <li><span class="author-g-1scq3ywqbljc5puc">New sidebar UI for WebIDE</span></li>
-</ul>
-</div>
-
-<div class="column-container zone-callout"><a href="http://mzl.la/devtools" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Share your ideas</a>
-
-<h3 id="Share_your_ideas" name="Share_your_ideas">Share your ideas</h3>
-
-<p>Ask for new features in the developer tools or vote for ideas other developers are asking for.</p>
-</div>
-
-<p><img alt="" src="https://mdn.mozillademos.org/files/10529/inspector.png" style="display:block; height:467px; margin-left:auto; margin-right:auto; width:815px" /></p>
+<p><img alt="" src="https://mdn.mozillademos.org/files/14297/tools.png" style="display:block; height:588px; margin-left:auto; margin-right:auto; width:1012px" /></p>
 
 <div class="column-container">
 <div class="column-half">
-<h2 id="Creating" name="Creating">Creating</h2>
+<h2 id="Creating">Creating</h2>
 
 <p>Authoring tools for websites and web apps.</p>
 
@@ -60,27 +36,33 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h2 id="Exploring" name="Exploring">Exploring and debugging</h2>
+<h2 id="Exploring_and_debugging">Exploring and debugging</h2>
 
 <p>Examine, explore, and debug websites and web apps.</p>
 
 <dl>
- <dt><a href="/en-US/docs/Tools/Web_Console">Web Console</a></dt>
- <dd>See messages logged a web page, and interact with the page using JavaScript.</dd>
+ <dt><a href="/en-US/docs/Tools/Tools_Toolbox">Toolbox</a></dt>
+ <dd>The Toolbox provides a single home for most of the developer tools that are built into Firefox.</dd>
+ <dt><a href="/en-US/docs/Tools/Web_Console">Console</a></dt>
+ <dd>See messages logged by a web page and interact with the page using JavaScript.</dd>
  <dt><a href="/en-US/docs/Tools/Page_Inspector">Page Inspector</a></dt>
- <dd>View and modify the page HTML and CSS.</dd>
+ <dd>View and modify a page in HTML and CSS.</dd>
  <dt><a href="/en-US/docs/Tools/Debugger">JavaScript Debugger</a></dt>
- <dd>Stop, step through, examine and modify the JavaScript running in a page.</dd>
+ <dd>Stop, step through, examine, and modify the JavaScript running in a page.</dd>
  <dt><a href="/en-US/docs/Tools/Network_Monitor">Network Monitor</a></dt>
  <dd>See the network requests made when a page is loaded.</dd>
  <dt><a href="/en-US/docs/Tools/Storage_Inspector">Storage Inspector</a></dt>
- <dd>Inspect cookies, local storage, indexedDB and session storage present in a page.</dd>
+ <dd>Inspect cookies, local storage, indexedDB, and session storage present in a page.</dd>
+ <dt><a href="/en-US/docs/Tools/DOM_Inspector">DOM Inspector</a></dt>
+ <dd>Inspect the page's DOM properties, functions, etc.</dd>
  <dt><a href="/en-US/docs/Tools/GCLI">Developer Toolbar</a></dt>
  <dd>A command-line interface for the developer tools.</dd>
- <dt><a href="/en-US/docs/Tools/3D_View">3D View</a></dt>
- <dd>3D visualization of the page.</dd>
+ <dt><a href="/en-US/docs/Tools/Remote_Debugging">Remote Debugging</a></dt>
+ <dd>Connect the developer tools to Firefox from remote machine.</dd>
  <dt><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></dt>
  <dd>Select a color from the page.</dd>
+ <dt><a href="/en-US/docs/Tools/about:debugging">about:debugging</a></dt>
+ <dd>A dashboard to debug add-ons and workers</dd>
  <dt><a href="/en-US/docs/Tools/Working_with_iframes">Working with iframes</a></dt>
  <dd>How to target a particular iframe.</dd>
 </dl>
@@ -90,19 +72,19 @@ based_on: None
 <hr />
 <div class="column-container">
 <div class="column-half">
-<h2 id="Mobile" name="Mobile">Mobile</h2>
+<h2 id="Mobile">Mobile</h2>
 
 <p>Tools for mobile development.</p>
 
 <dl>
+ <dt><a href="/en-US/docs/Tools/Responsive_Design_Mode">Responsive Design Mode</a></dt>
+ <dd>See how your website or app will look on different screen sizes without changing the size of your browser window.</dd>
  <dt><a href="/en-US/Firefox_OS/Using_the_App_Manager">App Manager</a></dt>
  <dd>App Manager has been replaced by <a href="/en-US/docs/Tools/WebIDE">WebIDE</a>.</dd>
  <dt><a href="/en-US/docs/Tools/WebIDE">WebIDE</a></dt>
- <dd>The replacement for the App Manager, available from Firefox 33 onwards.</dd>
+ <dd>Create, edit, run, and debug web apps using the <a href="/en-US/docs/Tools/Firefox_OS_Simulator">Firefox OS Simulator</a> or a real Firefox OS device. WebIDE is the replacement for the App Manager, available from Firefox 33 onwards.</dd>
  <dt><a href="/en-US/docs/Tools/Firefox_OS_Simulator">Firefox OS Simulator</a></dt>
  <dd>Run and debug your Firefox OS app on the desktop, without needing a real Firefox OS device.</dd>
- <dt><a href="/en-us/docs/Tools/Responsive_Design_View">Responsive Design View</a></dt>
- <dd>See how your website or app will look on different screen sizes without changing the size of your browser window.</dd>
  <dt><a href="/en-US/docs/Tools/Remote_Debugging/Firefox_for_Android">Debugging on Firefox for Android</a></dt>
  <dd>Connect the developer tools to Firefox for Android.</dd>
  <dt><a href="/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE">Debugging Firefox for Android with WebIDE</a></dt>
@@ -113,27 +95,26 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h2 id="Performance" name="Performance">Performance</h2>
+<h2 id="Performance">Performance</h2>
 
 <p>Diagnose and fix performance problems.</p>
 
 <dl>
- <dt><a href="/en-US/docs/Tools/Performance">Performance tool</a></dt>
- <dd>Analyze your site's general responsiveness, JavaScript and layout performance.</dd>
+ <dt><a href="/en-US/docs/Tools/Performance">Performance Tool</a></dt>
+ <dd>Analyze your site's general responsiveness, JavaScript, and layout performance.</dd>
+ <dt><a href="/en-US/docs/Tools/Memory">Memory</a></dt>
+ <dd>Figure out which objects are keeping memory in use.</dd>
  <dt><a href="/en-US/docs/Tools/Performance/Frame_rate">Frame rate graph</a></dt>
  <dd>See the frame rate for your site.</dd>
  <dt><a href="/en-US/docs/Tools/Performance/Waterfall">Waterfall</a></dt>
  <dd>Figure out what the browser is doing as it runs your site.</dd>
  <dt><a href="/en-US/docs/Tools/Performance/Call_Tree">Call Tree</a></dt>
  <dd>Figure out where your JavaScript code is spending its time.</dd>
-</dl>
-
-<dl>
  <dt><a href="/en-US/docs/Tools/Performance/Flame_Chart">Flame Chart</a></dt>
  <dd>See which functions are on the stack over the course of a performance profile.</dd>
  <dt><a href="/en-US/docs/Tools/Paint_Flashing_Tool">Paint Flashing Tool</a></dt>
  <dd>Highlights the parts of the page that are repainted in response to events.</dd>
- <dt><a href="/en-US/docs/Tools/Web_Console#Reflow_events">Reflow Event Logging</a></dt>
+ <dt><a href="/en-US/docs/Tools/Web_Console/Console_messages#Reflow_events">Reflow Event Logging</a></dt>
  <dd>See reflow events in the web console.</dd>
  <dt><a href="/en-US/docs/Tools/Network_Monitor#Performance_analysis">Network Performance</a></dt>
  <dd>See how long the parts of your site take to load.</dd>
@@ -142,28 +123,24 @@ based_on: None
 </div>
 
 <hr />
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <div class="column-container">
 <div class="column-half">
-<h2 id="Debugging_the_browser" name="Debugging_the_browser">Debugging the browser</h2>
+<h2 id="Debugging_the_browser">Debugging the browser</h2>
 
 <p>By default, the developer tools are attached to a web page or web app. But you can also connect them to the browser as a whole. This is useful for browser and add-on development.</p>
 
 <dl>
  <dt><a href="/en-US/docs/Tools/Browser_Console">Browser Console</a></dt>
- <dd>See messages logged by the browser itself and add-ons, and run JavaScript code in the browser's scope.</dd>
+ <dd>See messages logged by the browser itself and by add-ons, and run JavaScript code in the browser's scope.</dd>
  <dt><a href="/en-US/docs/Tools/Browser_Toolbox">Browser Toolbox</a></dt>
  <dd>Attach the Developer Tools to the browser itself.</dd>
 </dl>
 </div>
 
 <div class="column-half">
-<h2 id="Extending_the_devtools" name="Extending_the_devtools">Extending the devtools</h2>
+<h2 id="Extending_the_devtools">Extending the devtools</h2>
 
-<p>The developer tools are designed to be extensible. Firefox add-ons can access the developer tools and the components they use to extend existing tools and add new tools. With the remote debugging protocol you can implement your own debugging clients and servers, enabling you to debug websites using your own tools or to debug different targets using the Firefox tools.</p>
+<p>The developer tools are designed to be extensible. Firefox add-ons can access the developer tools and the components they use to extend existing tools and add new tools. With the remote debugging protocol, you can implement your own debugging clients and servers, enabling you to debug websites using your own tools or to debug different targets using the Firefox tools.</p>
 
 <dl>
  <dt><a href="/en-US/docs/Tools/Adding_a_panel_to_the_toolbox">Add a new panel to the devtools</a></dt>
@@ -183,7 +160,28 @@ based_on: None
 </div>
 
 <hr />
-<h2 id="More_resources" name="More_resources">More resources</h2>
+<h2 id="Contribute">Contribute</h2>
+
+<p>If you want to help to improve the developer tools, there are several resources were to start.</p>
+
+<div class="column-container">
+<div class="column-half">
+<dl>
+ <dt><a href="https://wiki.mozilla.org/DevTools/GetInvolved">Get Involved</a></dt>
+ <dd>Mozilla wiki page explaining how to get involved.</dd>
+</dl>
+</div>
+
+<div class="column-half">
+<dl>
+ <dt><a href="http://firefox-dev.tools/">firefox-dev.tools</a></dt>
+ <dd>A tool helping to find bugs to work on.</dd>
+</dl>
+</div>
+</div>
+
+<hr />
+<h2 id="More_resources">More resources</h2>
 
 <p>This section lists resources which are not currently maintained by Mozilla's developer tools team, but which are widely used by web developers. We've included a few Firefox add-ons in this list, but for the complete list see the <a href="https://addons.mozilla.org/en-US/firefox/extensions/web-development/">“Web Development” category on addons.mozilla.org</a>.</p>
 
@@ -201,12 +199,12 @@ based_on: None
 
 <div class="column-half">
 <dl>
- <dt><a href="https://webmaker.org/en-US/tools/">Webmaker Tools</a></dt>
+ <dt><a href="https://webmaker.org">Webmaker Tools</a></dt>
  <dd>A set of tools developed by Mozilla, aimed at people getting started with Web development.</dd>
- <dt><a href="http://www.w3.org/Status.html">W3C Validators</a></dt>
- <dd>The W3C website hosts a number of tools to check the validity of your website, including its <a href="http://validator.w3.org/" title="http://validator.w3.org/">HTML</a> and <a href="http://jigsaw.w3.org/css-validator/" title="http://jigsaw.w3.org/css-validator/">CSS</a>.</dd>
- <dt><a href="http://www.jshint.com/">JSHint</a></dt>
- <dd>JavaScript code analysis tool.</dd>
+ <dt><a href="https://www.w3.org/Status.html">W3C Validators</a></dt>
+ <dd>The W3C website hosts a number of tools to check the validity of your website, including its <a href="https://validator.w3.org/" title="http://validator.w3.org/">HTML</a> and <a href="https://jigsaw.w3.org/css-validator/" title="http://jigsaw.w3.org/css-validator/">CSS</a>.</dd>
+ <dt><a href="http://eslint.org/">ESLint</a></dt>
+ <dd>JavaScript linting and code analysis tool.</dd>
 </dl>
 </div>
 </div>
@@ -214,7 +212,7 @@ based_on: None
 <hr />
 <div>{{CommunityBox("Developer tools", "dev-developer-tools", "mozilla.dev.developer-tools", "devtools", "Team info|https://wiki.mozilla.org/DevTools|Dev tools wiki|Designs and plans for the dev tools||Blog|https://hacks.mozilla.org/|Hacks blog|Hacks blog", "FirefoxDevTools", "firefox-developer-tools")}}</div>
 
-<h2 id="Subnav" name="Subnav">Subnav</h2>
+<h2 id="Subnav">Subnav</h2>
 
 <ol>
  <li><a href="#">Creating</a>
@@ -228,35 +226,38 @@ based_on: None
  </li>
  <li><a href="#">Debugging</a>
   <ol>
+   <li><a href="/en-US/docs/Tools/Tools_Toolbox">Toolbox</a></li>
    <li><a href="/en-US/docs/Tools/Page_Inspector">Page Inspector</a></li>
-   <li><a href="/en-US/docs/Tools/Web_Console">Web Console</a></li>
+   <li><a href="/en-US/docs/Tools/Web_Console">Console</a></li>
    <li><a href="/en-US/docs/Tools/Debugger">Debugger</a></li>
    <li><a href="/en-US/docs/Tools/Network_Monitor">Network Monitor</a></li>
    <li><a href="/en-US/docs/Tools/Storage_Inspector">Storage Inspector</a></li>
+   <li><a href="/en-US/docs/Tools/DOM_Property_Viewer">DOM Property Viewer</a></li>
    <li><a href="/en-US/docs/Tools/GCLI">Developer Toolbar</a></li>
    <li><a href="/en-US/docs/Tools/3D_View">3D View</a></li>
    <li><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></li>
+   <li><a href="/en-US/docs/Tools/about:debugging">about:debugging</a></li>
    <li><a href="/en-US/docs/tools/Working_with_iframes">Selecting iframes</a></li>
    <li><a href="/en-US/docs/Tools/View_source">View Source</a></li>
   </ol>
  </li>
  <li><a href="#">Mobile</a>
   <ol>
-   <li><a href="/en-US/Firefox_OS/Using_the_App_Manager">App Manager</a></li>
+   <li><a href="/en-US/docs/Tools/Responsive_Design_Mode">Responsive Design Mode</a></li>
    <li><a href="/en-US/docs/Tools/WebIDE">WebIDE</a></li>
    <li><a href="/en-US/docs/Tools/Remote_Debugging/Firefox_for_Android">Firefox for Android</a></li>
-   <li><a href="/en-US/docs/Tools/Firefox_OS_Simulator">Firefox OS Simulator</a></li>
-   <li><a href="/en-US/docs/Tools/Responsive_Design_View">Responsive Design View</a></li>
   </ol>
  </li>
- <li><a href="/en-US/docs/Tools/Performance">Performance</a>
+ <li><a href="#">Performance</a>
   <ol>
+   <li><a href="/en-US/docs/Tools/Performance">Performance Tool</a></li>
+   <li><a href="/en-US/docs/Tools/Memory">Memory</a></li>
    <li><a href="/en-US/docs/Tools/Performance/Frame_rate">Frame rate graph</a></li>
    <li><a href="/en-US/docs/Tools/Performance/Waterfall">Waterfall</a></li>
    <li><a href="/en-US/docs/Tools/Performance/Call_Tree">Call Tree</a></li>
    <li><a href="/en-US/docs/Tools/Performance/Flame_Chart">Flame Chart</a></li>
    <li><a href="/en-US/docs/Tools/Paint_Flashing_Tool">Paint Flashing Tool</a></li>
-   <li><a href="/en-US/docs/Tools/Web_Console#Reflow_events">Reflow Event Logging</a></li>
+   <li><a href="/en-US/docs/Tools/Web_Console/Console_messages#Reflow_events">Reflow Event Logging</a></li>
    <li><a href="/en-US/docs/Tools/Network_Monitor#Performance_analysis">Network Performance</a></li>
   </ol>
  </li>
@@ -277,7 +278,9 @@ based_on: None
    <li><a href="/en-US/docs/Tools/Web_Console/Custom_output">Web Console custom output</a></li>
   </ol>
  </li>
- <li><a href="/en-US/docs/Tools_Toolbox#Settings">Settings</a></li>
+ <li><a href="/en-US/docs/Tools/Settings">Settings</a></li>
+ <li><a href="/en-US/docs/Tools/Tips">Tips</a></li>
+ <li><a href="/en-US/docs/Tools/Keyboard_shortcuts">Keyboard shortcuts</a></li>
  <li><a href="/en-US/docs/Tools/Release_notes">Release notes</a></li>
 </ol>
 
