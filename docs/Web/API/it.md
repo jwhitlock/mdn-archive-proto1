@@ -1,19 +1,19 @@
 ---
 version: prototype1
-revision_id: 1007363
+revision_id: 1147570
 locale: it
 slug: Web/API
 tags: "API" "Web" "Landing" "Riferimento"
-title: Web API reference
+title: Riferimento Web API
 summary: 
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site.</p>
+<p>Quando scrivi codice per il Web con JavaScript, ci sono molte interessanti APIs disponibili. Sotto c'è una lista di tutte le interfacce (ovvero i tipi di oggetti) che puoi utilizzare quando sviluppi la tua Web app o sito.&nbsp;</p>
 
 <div>
 <div>{{APIListAlpha}}</div>
