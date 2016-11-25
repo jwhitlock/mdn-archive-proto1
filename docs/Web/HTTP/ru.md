@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1145294
+revision_id: 1148064
 locale: ru
 slug: Web/HTTP
 tags: "HTTP" "Web" "Reference" "l10n:priority"
@@ -26,6 +26,8 @@ based_on: None
  <dd>Основные свойства клиент-серверного протокола: что можно сделать и для чего он предназначен</dd>
  <dt><a href="/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP">Эволюция HTTP</a></dt>
  <dd>Краткое описание изменений, произошедших в HTTP, начиная с самых ранних версий, заканчивая новой HTTP/2 и далее.</dd>
+ <dt><a href="https://wiki.mozilla.org/Security/Guidelines/Web_Security">Принципы вэб-безопасности Mozilla</a></dt>
+ <dd>Сборник советов для помощи в разработке защищённых вэб-приложений.</dd>
  <dt><a href="/en-US/docs/Web/HTTP/Messages">HTTP-сообщения (HTTP Messages)</a></dt>
  <dd>Описывает тип и структуру разных видов сообщений HTTP/1.x и HTTP/2.</dd>
  <dt><a href="/en-US/docs/Web/HTTP/Session">Обычный сеанс HTTP</a></dt>
@@ -74,6 +76,8 @@ based_on: None
 <dl>
  <dt><a href="/ru/docs/Tools">Firefox Developer Tools</a></dt>
  <dd><a href="/ru/docs/Tools/Network_Monitor">Network monitor</a></dd>
+ <dt><a href="https://observatory.mozilla.org/">Mozilla Observatory</a></dt>
+ <dd>Проект, созданный в помощь разработчикам, системным администраторам и специалистам по безопасности для создания безопасных и надёжных сайтов.</dd>
  <dt><a href="https://redbot.org/">RedBot</a></dt>
  <dd>Инструмент для проверки кэширования заголовков</dd>
  <dt><a href="http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/">Принципы работы современных веб-браузеров</a></dt>
