@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1148594
+revision_id: 1148612
 locale: ar
 slug: Learn
 tags: "Web" "Index" "Learn" "Landing" "Beginner" "TopicStub" "NeedsTranslation"
@@ -20,7 +20,7 @@ based_on: None
 <p dir="rtl">ليس الهدف من هذا المكان هو أن يأخذك من مرحلة «مبتدئ» إلى مرحلة «محترف» ولكن لأخذك من مرحلة «مبتدئ» إلى «مرتاح». من هناك يجب أن تكون قادرا على إكمال طريقك، التعلم من<a href="https://developer.mozilla.org/en-US/"> بقية MDN</a>، والتعلم من خلال المصادر التي تنقلك من متوسط إلى متقدم والتي تتطلب معرفة مسبقة.</p>
 
 <div class="warning" dir="rtl">
-<p><strong>مهم</strong>: المحتوى في منطقة التعلم في مراحله الأولى، ويتم إضافة المزيد بشكل منتظم. إذا كان لديك أسئلة بخصوص مواضيع تود أن يتم تغطيتها أو تشعر أنها ناقصة، انظر إلى قسم «مشاركة المعرفة» أسفله للحصول على معلومات عن كيفية التواصل معنا.</p>
+<p><strong>مهم</strong>: المحتوى في منطقة التعلم في مراحله الأولى، ويتم إضافة المزيد بانتظام. إذا كان لديك أسئلة بخصوص مواضيع تود أن يتم تغطيتها أو تشعر أنها ناقصة، انظر إلى قسم «مشاركة المعرفة» أسفله للحصول على معلومات عن كيفية التواصل معنا.</p>
 </div>
 
 <h2 dir="rtl" id="أين_تبدأ">أين تبدأ</h2>
@@ -28,16 +28,16 @@ based_on: None
 <ul class="card-grid" dir="rtl">
  <li><span>مبتدئ:</span>
 
-  <p>إذا كنت مبتدئً في تطوير الويب نحن نقترح عليك أن تبدأ في وحدة <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">البدء مع الأنترنت</a>، والتي توفر مقدمة عملية في تطوير الويب.</p>
+  <p>إذا كنت مبتدئًا في تطوير الويب نحن نقترح عليك أن تبدأ في وحدة <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">البدء مع الأنترنت</a>، والتي توفر مقدمة عملية في تطوير الويب.</p>
  </li>
  <li><span>أسئلة محددة:</span>
   <p>إذا كان لديك سؤال محدد حول تطوير الويب، قد تجد شيئا يساعدك في قسم <a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions">الأسئلة الشائعة</a>.</p>
  </li>
  <li><span>أبعد من الأساسيات:</span>
-  <p>إذا كان لديك القليل من المعرفة مسبقا، الخطوة التالية هي تعلم HTML و CSS في التفصيل مع وحدة «<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML">مقدمة الى HTML</a>» والمتابعة بعدها إلى وحدة «<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS">مقدمة إلى CSS</a>».</p>
+  <p>إذا كان لديك القليل من المعرفة مسبقا، الخطوة التالية هي تعلم HTML و CSS بالتفصيل مع وحدة «<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML">مقدمة إلى HTML</a>» والمتابعة بعدها إلى وحدة «<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS">مقدمة إلى CSS</a>».</p>
  </li>
  <li><span>الإنتقال إلى البرمجة:</span>
-  <p>إذا كنت تشعر بالراحة مع HTML و CSS بالفعل، وأنت مهتم بالبرمجة، ستريد الإنتقال إلى «JavaScript». ابدأ مع وحدة «<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps">الخطوات الأولى مع JavaScript</a>».</p>
+  <p>إذا كنت تشعر بالراحة مع HTML وCSS بالفعل، وأنت مهتم بالبرمجة، ستريد الإنتقال إلى «JavaScript». ابدأ مع وحدة «<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps">الخطوات الأولى مع JavaScript</a>».</p>
  </li>
 </ul>
 
@@ -47,7 +47,7 @@ based_on: None
 
 <p dir="rtl">{{LearnBox({"title":"معلومة سريعة"})}}</p>
 
-<h2 dir="rtl" id="التعلم_مع_اشخاص_اخرين">التعلم مع أشخاص آخرين</h2>
+<h2 dir="rtl" id="التعلم_مع_أشخاص_آخرين">التعلم مع أشخاص آخرين</h2>
 
 <p dir="rtl">إذا كان لديك سؤال أو لازلت محتارا إلى أين تذهب، موزيلا مجتمع عالمي من هواة الويب، بما فيهم من موجهين ومعلمين سعيدين بمساعدتك. تواصل معهم من خلال WebMaker.</p>
 
@@ -58,7 +58,7 @@ based_on: None
 
 <h2 dir="rtl" id="مشاركة_المعرفة">مشاركة المعرفة</h2>
 
-<p dir="rtl">جميع منطقة التعلم هذه بناها المساهمون. نحن نحتاجك في فريقنا سواء كنت مبتدئً، معلما، أو مطور ويب ماهر. إذا كنت مهتما، ألق نظرة على «<a href="/en-US/Learn/How_to_contribute">كيف تستطيع المساعدة</a>»، ونحن نشجعك على التواصل معنا من خلال <a href="/en-US/docs/MDN/Community#Join_our_mailing_lists">قائمة المراسلة</a>&nbsp;أو <a href="/en-US/docs/MDN/Community#Get_into_IRC">قناة الآي آر سي</a>. :)</p>
+<p dir="rtl">جميع منطقة التعلم هذه بناها المساهمون. نحن نحتاجك في فريقنا سواء كنت مبتدئًـا، معلما، أو مطور ويب ماهر. إذا كنت مهتما، ألق نظرة على «<a href="/en-US/Learn/How_to_contribute">كيف تستطيع المساعدة</a>»، ونحن نشجعك على التواصل معنا من خلال <a href="/en-US/docs/MDN/Community#Join_our_mailing_lists">قائمة المراسلة</a>&nbsp;أو <a href="/en-US/docs/MDN/Community#Get_into_IRC">قناة الآي آر سي</a>. :)</p>
 
 <p dir="rtl">{{CommunityBox("Learn", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Projects/Content/Learning_Area/Weekly_meetings|Every Monday in IRC||Contribute|/en-US/docs/MDN/Doc_status/Learn|See the doc status for more information||Mentors to help you|/profiles/Jeremie|Jeremie")}}</p>
 
