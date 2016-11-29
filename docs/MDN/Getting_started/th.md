@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 944635
+revision_id: 1149320
 locale: th
 slug: MDN/Getting_started
 tags: 
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div class="syntaxbox" id="What_is_MDN.3F"><span class="seoSummary">เราคือ สังคมเสรี หรือกลุ่มเปิด สังคมที่เป็นกลุ่มของผู้ที่เป็นนักพัฒนาและสร้างสิ่งดีๆสำหรับเว็บไซต์ , โดยไม่คำนึงถึง แบรนด์ บราวเซอร์ตัวเปิดดูเว็บไซต์, หรือแพลตฟอร์ม. ทุกคนสามารถร่วมเป็นส่วนหนึ่งในการที่จะพัฒนาหรือทำสิ่งดีๆ. เราร่วมกันพัฒนาต่อยอดหรือสร้างนวัตกรรมใหม่ๆบนเว็บเพื่อสิ่งที่ดีกว่า. เริ่มต้นที่นี่ กับคุณ.</span></div>
 
-<p><span>ทุกๆส่วนของ MDN  (เอกสาร, ตัวอย่าง, การสาธิต, และตัวเว็บไซต์เอง) ได้ถูกสร้างขึ้นหรือทำขึ้นโดยใครก็ได้ภายในสังคมเปิดหรือสังคมเสรีของนักพัฒนา แต่มันจะไม่ได้อะไรหากไมไ่ด้รับการช่วยเหลือของพวกคุณเช่นกัน</span></p>
+<p><span>ทุกๆส่วนของ MDN&nbsp; (เอกสาร, ตัวอย่าง, การสาธิต, และตัวเว็บไซต์เอง) ได้ถูกสร้างขึ้นหรือทำขึ้นโดยใครก็ได้ภายในสังคมเปิดหรือสังคมเสรีของนักพัฒนา แต่มันจะไม่ได้อะไรหากไมไ่ด้รับการช่วยเหลือของพวกคุณเช่นกัน</span></p>
 
 <p>3 ขั้นตอน สู่ MDN</p>
 
@@ -41,7 +41,7 @@ based_on: None
 <p><strong>Note: </strong>If you want to experiment with editing on MDN before doing something "for real", we have a <strong><a href="/en-US/docs/Sandbox">Sandbox</a></strong> page for you to play around in. Please limit your experiments to this page. Please don't make unneeded changes to content pages just to see what happens; that's making a mess for others to clean up.</p>
 </div>
 
-<p>เมื่อคุณทำงานในสิ่งที่คุณเลือกเสร็จแล้ว, หากคุณยังมีเวลาว่าง คุณสามารถเลือกงานชิ้นอื่นๆ ได้โดยการเข้าไปที่ <a href="#Other_things_you_can_do_on_MDN">other things you can do on MDN</a>.</p>
+<p>เมื่อคุณทำงานในสิ่งที่คุณเลือกเสร็จแล้ว, หากคุณยังมีเวลาว่าง คุณสามารถเลือกงานชิ้นอื่นๆ ได้โดยการเข้าไปที่ <a href="#">other things you can do on MDN</a>.</p>
 
 <h2 id="Possible_task_types">Possible task types</h2>
 
@@ -97,7 +97,7 @@ based_on: None
 
 <h3 id="ตัวเลือกที่_5_ฉันพบข้อผิดพลาดบางอย่างของเนื้อหา_แต่ไม่รู้ว่าจะแก้ไขอย่างไร">ตัวเลือกที่ 5: ฉันพบข้อผิดพลาดบางอย่างของเนื้อหา แต่ไม่รู้ว่าจะแก้ไขอย่างไร</h3>
 
-<p>คุณสามารถรายงานข้อผิดพลาดโดย  <a class="external" href="https://bugzilla.mozilla.org/enter_bug.cgi?product=Mozilla%20Developer%20Network">filing a documentation bug</a>. (5 minutes)</p>
+<p>คุณสามารถรายงานข้อผิดพลาดโดย&nbsp; <a class="external" href="https://bugzilla.mozilla.org/enter_bug.cgi?product=Mozilla%20Developer%20Network">filing a documentation bug</a>. (5 minutes)</p>
 
 <p>Use these field values:</p>
 
