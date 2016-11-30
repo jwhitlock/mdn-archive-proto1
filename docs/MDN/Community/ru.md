@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1063880
+revision_id: 1149436
 locale: ru
 slug: MDN/Сообщество
 tags: "МДН" "Сообщество" "Руководство"
@@ -35,11 +35,11 @@ based_on: None
 <div class="section">
 <dl>
  <dt class="landingPageList"><a href="/ru/docs/MDN/Community/Roles">Роли сообщества</a></dt>
- <dd class="landingPageList">Есть определённое количество ролей в&nbsp;MDN сообществе с разной степенью ответственности.</dd>
+ <dd class="landingPageList">Есть определённое количество ролей в MDN сообществе с разной степенью ответственности.</dd>
  <dt class="landingPageList"><a href="/ru/docs/MDN/Community/Doc_sprints">Док-спринты</a></dt>
  <dd class="landingPageList">Это руководство по организации спринтов документации. Оно содержит советы и подсказки от людей, которые уже проводили док-спринты, чтобы помочь вам организовать свой.</dd>
  <dt class="landingPageList"><a href="/ru/docs/MDN/Community/Whats_happening">Смотрите, что происходит</a></dt>
- <dd class="landingPageList">MDN создана&nbsp;<a class="external" href="https://wiki.mozilla.org/MDN">сообществом Mozilla Developer Network</a>. Вот несколько способов, которыми мы можем поделиться с вами информацией о том, что мы делаем.</dd>
+ <dd class="landingPageList">MDN создана <a class="external" href="https://wiki.mozilla.org/MDN">сообществом Mozilla Developer Network</a>. Вот несколько способов, которыми мы можем поделиться с вами информацией о том, что мы делаем.</dd>
 </dl>
 
 <dl>
@@ -51,8 +51,10 @@ based_on: None
  <dt class="landingPageList"><a href="/ru/docs/MDN/Community/Conversations">Обсуждения сообщества MDN</a></dt>
  <dd class="landingPageList">"Работа" MDN происходит на её сайте, но "сообщество" также общается через (асинхронные) дискуссии и (синхронные) чаты и встречи.</dd>
  <dt class="landingPageList"><a href="/ru/docs/MDN/Community/Working_in_community">Работа в сообществе</a></dt>
- <dd class="landingPageList">Большая часть вклада в документацию на&nbsp;MDN какого-либо значительного размера требует знаний, как работать, как часть&nbsp;MDN сообщества. Эта статья содержит советы, которые помогут вам сделать большую часть ваших взаимодействий с другими редакторами и разработчиками.</dd>
+ <dd class="landingPageList">Большая часть вклада в документацию на MDN какого-либо значительного размера требует знаний, как работать, как часть MDN сообщества. Эта статья содержит советы, которые помогут вам сделать большую часть ваших взаимодействий с другими редакторами и разработчиками.</dd>
 </dl>
 </div>
 </div>
+
+<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC||Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events", "MozDevNet")}}&nbsp;</p>
 
