@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1135413
+revision_id: 1149638
 locale: de
 slug: MDN/Community
 tags: "MDN Meta" "Guide" "Landing" "Meeting" "Community"
@@ -9,46 +9,46 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <div>{{IncludeSubnav("/en-de/docs/MDN")}}</div>
 
-<p>MDN ist mehr als ein wiki: Es ist eine Community von Entwicklern, die zusammen arbeiten um MDN eine eigenständig Ressource für Entwickler, die openWeb Technologien nutzen,&nbsp; zu machen . Die "Arbeit" wird auf der&nbsp; MDN-Seite gemacht, aber die "community" funktioniert auch (unsynchron) durch Diskussionen und (synchron) durch Online-Chats.</p>
+<p>MDN ist mehr als ein Wiki: Es ist eine Gemeinschaft von Entwicklern, die zusammenarbeiten um MDN zu einer eigenständigen Ressource für Entwickler, die openWeb-Technologien nutzen, zu machen. Die "Arbeit" wird auf der&nbsp; MDN-Seite gemacht, aber die "Community" funktioniert auch (asynchron) durch Diskussionen und (synchron) durch Online-Chats.</p>
 
-<p>Wir würden es lieben, wenn Sie beim MDN mitmachen würden, aber sogar noch mehr, wenn Sie bei der MDN-Community mitmachen würden. Unten können Sie lesen, wie man sich in einfachen Schritten einloggt:</p>
+<p>Wir würden uns freuen, wenn Du beim MDN mitmachen würdest, aber noch mehr, wenn Du bei der MDN-Community mitmachen würdest. Hierunter kannst Du lesen, wie man sich in wenigen Schritten anmeldet:</p>
 
 <ol>
- <li>Erstelle einen&nbsp; MDN account.</li>
+ <li>Erstelle einen MDN account.</li>
  <li>Aboniere dev-mdc discussions.</li>
  <li>Gehe zu IRC.</li>
 </ol>
 
-<h2 id="Erstelle_einen_MDN_account">Erstelle einen&nbsp; MDN account</h2>
+<h2 id="Erstelle_einen_MDN_account">Erstelle ein MDN-Konto</h2>
 
 <p>{{page("/en-US/docs/Project:MDN/Contributing/Getting_started", "Creating an account") }}</p>
 
-<h2 id="Unsere_Mailing-Listen_beitreten">Unsere Mailing-Listen beitreten</h2>
+<h2 id="Unsere_Mailing-Listen_beitreten">Unseren Verteiler-Listen beitreten</h2>
 
-<p>um Informationsaustausch und Diskussionen, Mozilla hat mehrere nützliche Mailinglisten. Insbesondere durch MDN sind :</p>
+<p>Zum Informationsaustausch und für Diskussionen hat Mozilla mehrere nützliche Mailinglisten. Insbesondere für MDN sind das:</p>
 
 <dl>
  <dt><a href="https://lists.mozilla.org/listinfo/dev-mdc">dev-mdc</a></dt>
- <dd>dieser Liste ist, wo wir Diskussionen über die Dokumentation auf MDN. Wir sprechen über Änderungen, Verbesserungen, die wir gemacht haben, und wir klären, wer welche Inhalte arbeiten möchte. Es wird dringend empfohlen, dass Sie dieser Liste beitreten, wenn Sie ernsthaft Dokumentation auf MDN Tauchen interessieren!</dd>
+ <dd>In dieser Liste diskutieren wir über die Dokumentation auf MDN. Wir sprechen über Änderungen und Verbesserungen die wir gemacht haben und wir klären, wer welche Inhalte bearbeiten möchte. Wir empfehlen dringend, dass Du dieser Liste beitrittst, wenn Du Dich ernsthaft für die Dokumentation auf MDN interessierst!</dd>
  <dt><a href="https://lists.mozilla.org/listinfo/dev-mdn">dev-mdn</a></dt>
- <dd>dieser Liste ist, wo wir halten Diskussionen über die Entwicklung auf MDNs zugrunde liegenden Kuma Plattform funktionieren. Wenn Sie neugierig auf die Entwicklung der Arbeit hinter den Kulissen, in den Prozess der Decsisions über die Plattform beteiligt sein wollen, oder an Patches arbeiten für die Plattform zu verbessern, Sie sollten auf jeden Fall engagieren auf dieser Liste.</dd>
+ <dd>In dieser Liste führen wir Diskussionen über die Entwicklung der MDN zugrunde liegenden Plattform Kuma. Wenn Du neugierig auf die Entwicklung und Arbeit hinter den Kulissen bist und am Entscheidungsprozess über die Plattform beteiligt sein möchtest, oder an Verbesserungen für die Plattform arbeiten willst, solltest Du Dich auf jeden Fall in dieser Liste engagieren.</dd>
  <dt><a href="https://lists.mozilla.org/listinfo/mdn-drivers">mdn-drivers</a></dt>
- <dd>Diese Mailingliste wird verwendet, um Prioritäten für die MDN Entwicklung entscheiden. Es dient in der Regel zu diskutieren, was weiter gearbeitet werden soll, und gehen wir das Entwicklungsteam Aufmerksamkeit zu erregen, wenn ein ernstes Problem muss behoben werden, nachdem wir einen Bug für das Thema eingereicht haben.</dd>
+ <dd>Diese Mailingliste wird verwendet, um über die Prioritäten für die MDN-Entwicklung zu entscheiden. Es dient in der Regel dazu zu diskutieren, was weitergehend bearbeitet werden soll und gehen wir das Entwicklungsteam Aufmerksamkeit zu erregen, wenn ein ernstes Problem muss behoben werden, nachdem wir einen Bug für das Thema eingereicht haben.</dd>
 </dl>
 
 <p>Es gibt auch ein paar Listen speziell für MDN Lokalisierung Gemeinschaften. Wenn Ihre Gemeinde sehr groß und aktiv ist, erhalten Sie wahrscheinlich eine Liste erstellt für Ihre Gemeinde; Fragen Sie uns und wir schauen hinein. Derzeit haben diese Sprachen Listen : <a href="https://lists.mozilla.org/listinfo/dev-mdc-es">Spanish</a>, <a href="https://lists.mozilla.org/listinfo/dev-mdc-ja">Japanese</a>, und <a href="https://lists.mozilla.org/listinfo/dev-mdc-pt">Portuguese</a>.</p>
 
 <p>Warum "Dev-Mdc"? In der Vergangenheit wurde dies als "Mozilla Developer Center" oder MDC bezeichnet. Die Mailing-Liste stammt aus jener Zeit, so ist es Dev-Mdc. Es gibt auch eine Dev-Mdn Mailing-Liste für die Diskussion ist über die Entwicklung der Kuma-Plattform, die MDN läuft auf. Du bist herzlich eingeladen, die auch, aber es ist nicht notwendig, wenn Sie nur in MDN Inhalt interessiert.</p>
 
-<h2 id="Get_into_IRC">In IRC gehen</h2>
+<h2 id="In_IRC_gehen">In den IRC gehen</h2>
 
-<p>Internet Relay Chat (IRC) ist unserer bvorzugter Weg um Tag-zu-Tag chats und echtzeit Diskussionen, unter Community Migliedern. Wir nutzen einige Kanäle um Diskuusionen zu führen, die mit dem MDN zu tun haben.</p>
+<p>Der Internet Relay Chat (IRC) ist unserer bevorzugter Weg um uns täglich abzusprechen und in Echtzeit Diskussionen unter Community-Mitgliedern zu führen. Wir nutzen verschiedene Kanäle um Diskussionen zu führen, die mit dem MDN zu tun haben.</p>
 
 <dl>
  <dt><a href="irc://irc.mozilla.org/devmo" title="irc://irc.mozilla.org/devmo">#devmo</a></dt>
@@ -61,10 +61,9 @@ based_on: None
 
 <p>Diese Kanäle sind am ehesten in Nordamerika unter der Woche aktiv sein.</p>
 
-<p>Erfahren Sie mehr über IRC, wenn Sie nicht mit ihm vertraut sind. ChatZilla ist ein IRC-Client implementiert als Firefox Add-on, das macht es schnell und einfach zu installieren und starten Sie mit it.<br />
- Join unseren alle zwei Wochen treffen (und andere Veranstaltungen)</p>
+<p>Erfahre mehr über IRC, wenn Du damit nicht vertraut bist. ChatZilla ist ein IRC-Client implementiert als Firefox Add-on, das macht es schnell und einfach zu installieren und starten Sie mit it.</p>
 
-<h2 id="Join_our_biweekly_meetings_(and_other_events)">Join our biweekly meetings (and other events)</h2>
+<h2 id="Join_our_biweekly_meetings_(and_other_events)">Nimm an unseren zweiwöchentlichen Besprechungen (und anderen Veranstaltungen) teil</h2>
 
 <p>Jede zweite Woche, hält die MDN Gemeinschaft ein IRC-basierten Live Meeting Notizen austauschen, reden, was wir getan haben und klären wir für die nächsten zwei Wochen zu tun möchten. Wir sprechen auch über Entwicklungspläne für die MDN-Plattform selbst und oft Updates über neue und kommende Features der Website erhalten. Dies sind lockere, lustige treffen, und jeder ist herzlich willkommen.<br />
  <br />
