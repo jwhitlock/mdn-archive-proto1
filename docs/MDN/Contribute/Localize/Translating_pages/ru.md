@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1138789
+revision_id: 1149690
 locale: ru
 slug: Project:MDN/Localizing/Translating_pages
 tags: "MDN" "Новичку" "Перевод" "Локализация" "Руководство"
@@ -52,6 +52,6 @@ based_on: None
  <li>Статьи в <a href="/ru/docs/Словарь">Словаре</a> хороши для новичков потому, что они короткие и простые.</li>
  <li>Статьи <a href="/en-US/docs/tag/l10n%3Apriority">отмеченные "l10n:priority"</a> надо переводить в первую очередь.</li>
  <li>Если вы видите текст между двумя фигурными скобками, типа <code>\{{some-text("more text")}}</code>, оставьте его непереведённым и не меняйте никаких символов. Это <a href="/ru/docs/MDN/Contribute/Structures/Macros">макрос</a>, который создаёт структуру страницы или делает ещё что-то полезное. Вы можете видеть непереведённый текст, который генерируется макросом; не волнуйтесь об этом, пока не наработаете больше опыта о MDN. (Изменение этих текстов требует <a href="/ru/docs/MDN/Contribute/Tools/Template_editing">специальных привелегий</a> потому, что макросы могут быть очень мощными.) Если вам любопытно, посмотрите на <a href="/ru/docs/MDN/Contribute/Structures/Macros/Commonly-used_macros">частоиспользуемые макросы</a>, чтобы увидеть виды задач, которые они делают.</li>
- <li>Посмотрите <a href="/en-US/docs/MDN/Contribute/Localize/Localization_projects">страницу локализации проектов</a>, чтобы узнать о вашей локали больше.</li>
+ <li>Посмотрите <a href="/en-US/docs/MDN/Contribute/Localize/Localization_projects">страницу локализации проектов</a>, чтобы узнать больше&nbsp;о локализации для вашего языка.</li>
 </ul>
 
