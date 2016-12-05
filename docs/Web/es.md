@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1114865
+revision_id: 1151772
 locale: es
 slug: Web
 tags: "API" "Web" "Landing" "Lanzamiento" "Desarrollo web"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>La <em>open Web</em> ofrece increíbles oportunidades para los desarrolladores. Para sacar el máximo provecho a estas tecnologías, primero necesitas saber cómo usarlas. A continuación podrás encontrar una serie de enlaces a nuestra documentación sobre la tecnología Web.</p>
+<p>La <em>naturaleza abierta de la web</em> ofrece increíbles oportunidades para los desarrolladores. Para sacar el máximo provecho a estas tecnologías, primero necesitas saber cómo usarlas. A continuación podrás encontrar una serie de enlaces a nuestra documentación sobre la tecnología Web.</p>
 
 <div class="row topicpage-table">
 <div class="section">
