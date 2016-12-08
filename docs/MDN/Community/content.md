@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1151898
+revision_id: 1153110
 locale: en-US
 slug: MDN/Community
 tags: "MDN Meta" "Guide" "Landing" "Community"
@@ -24,9 +24,7 @@ based_on: None
 <ol>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">Create an MDN account</a>.</li>
  <li><a href="/en-US/docs/MDN/Community/Conversations">Join in conversations</a>.</li>
- <li>
-  <p><a href="/en-US/docs/MDN/Community/Whats_happening">Follow what's happening</a>.</p>
- </li>
+ <li><a href="/en-US/docs/MDN/Community/Whats_happening">Follow what's happening</a>.</li>
 </ol>
 
 <h2 id="How_the_community_works">How the community works</h2>
