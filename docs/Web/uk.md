@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1153958
+revision_id: 1154272
 locale: uk
 slug: Web
 tags: "Веб" "Landing" "NeedsTranslation"
@@ -34,7 +34,7 @@ based_on: None
  <dt><a href="/uk/docs/Web/JavaScript">JavaScript</a></dt>
  <dd>JavaScript є мовою програмування, яка працює у браузері, що використовується, для побудови просунутих інтерактивних веб-сайтів та додатків для&nbsp;безпечного виконання в браузері.</dd>
  <dt><a href="/uk/docs/Web/Reference/API">Web APIs</a></dt>
- <dd>Даний розділ містить довідкові матеріали, по кожному API, які надають величезні можливості для створення веб-сценаріїв, включаючи <a href="https://developer.mozilla.org/ru/docs/DOM">DOM</a> та всі пов'язані з ним API, які ви можете використовувати для побудови веб-контенту і додатків.
+ <dd>Даний розділ містить довідкові матеріали, по кожному API, які надають величезні можливості для створення веб-сценаріїв, включаючи <a href="https://developer.mozilla.org/uk/docs/DOM">DOM</a> та всі пов'язані з ним API, які ви можете використовувати для побудови веб-контенту і додатків.
  <ul>
   <li><a href="/uk/docs/Web/API" title="/uk/docs/Web/API">Web API interface reference</a> - всі інтерфейси відсортовані по-алфавіту.</li>
   <li><a href="/uk/docs/WebAPI">WebAPI</a> - перелік API для взаємодії з пристроями та іншими API корисними для додатків.</li>
@@ -74,13 +74,13 @@ based_on: None
  <p>The Web Developer Guide provides useful how-to content to help you actually use Web technologies to do what you want or need to do.</p>
  </dd>
  <dt>
- <p><a href="/uk/docs/Web/Tutorials">Tutorials for Web developers</a></p>
+ <p><a href="/uk/docs/Web/Tutorials">Підручники для веб-розробників</a></p>
  </dt>
  <dd>
  <p>A list of tutorials to take you step-by-step through learning APIs, technologies, or broad topic areas.</p>
  </dd>
  <dt>
- <p><a href="/uk/docs/Web/Reference">References</a></p>
+ <p><a href="/uk/docs/Web/Reference">Посилання</a></p>
  </dt>
  <dd>
  <p><em>This page will offer links to all reference information on MDN, but for now use one of the technology links in the left section.</em></p>
