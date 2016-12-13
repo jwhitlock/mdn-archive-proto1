@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 953303
+revision_id: 1155470
 locale: hi-IN
 slug: MDN/About
 tags: "MDN Meta" "Guide" "Licenses" "TopicStub" "Community" "Copyright" "Collaborating" "NeedsTranslation"
@@ -11,17 +11,17 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: e03d199263efb6ef8d993c6108e1df3dcd988dd4
+based_on: None
 ---
 <div>{{IncludeSubNav("/en-US/docs/MDN")}}</div>
 
 <p>The Mozilla Developer Network (MDN) is an evolving learning platform for Web technologies and the software that powers the Web, including:</p>
 
 <ul>
- <li>Web standards such as <a href="/en-US/docs/CSS" title="/en-US/docs/CSS">CSS</a>, <a href="/en-US/docs/HTML" title="/en-US/docs/HTML">HTML</a>, and <a href="/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></li>
- <li><a href="/en-US/docs/Apps" title="/en-US/docs/Apps">Open Web app development</a></li>
- <li><a href="/en-US/docs/Add-ons" title="/en-US/docs/Add-ons">Firefox add-on development</a></li>
- <li><a href="/en-US/docs/Mozilla/Firefox_OS" title="/en-US/docs/Mozilla/Firefox_OS">Firefox OS development</a></li>
+ <li>વેબ માપદંડો જેવા કે <a href="/en-US/docs/CSS" title="/en-US/docs/CSS">CSS</a>, <a href="/en-US/docs/HTML" title="/en-US/docs/HTML">HTML</a>, and <a href="/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></li>
+ <li><a href="/en-US/docs/Apps" title="/en-US/docs/Apps">મુક્ત વેબ એપ વિકાસ</a></li>
+ <li><a href="/en-US/docs/Add-ons" title="/en-US/docs/Add-ons">Firefox add-on વિકાસ</a></li>
+ <li><a href="/en-US/docs/Mozilla/Firefox_OS" title="/en-US/docs/Mozilla/Firefox_OS">Firefox OS&nbsp; વિકાસ</a></li>
 </ul>
 
 <h2 id="Our_mission">Our mission</h2>
