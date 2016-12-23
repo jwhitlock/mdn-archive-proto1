@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1154272
+revision_id: 1159854
 locale: uk
 slug: Web
 tags: "Веб" "Landing" "NeedsTranslation"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -68,22 +68,22 @@ based_on: None
 <div>
 <dl>
  <dt>
- <p><a href="/uk/docs/Web/Guide">Web Developer Guide</a></p>
+ <p><a href="/uk/docs/Web/Guide">Розробка Веб-застосунків</a></p>
  </dt>
  <dd>
- <p>The Web Developer Guide provides useful how-to content to help you actually use Web technologies to do what you want or need to do.</p>
+ <p>Цей розділ містить статті, що пояснюють техніки, які використовують для розробки веб-застосунків для мобільних пристроїв, настільних комп'ютерів та середовищ Firefox OS.</p>
  </dd>
  <dt>
  <p><a href="/uk/docs/Web/Tutorials">Підручники для веб-розробників</a></p>
  </dt>
  <dd>
- <p>A list of tutorials to take you step-by-step through learning APIs, technologies, or broad topic areas.</p>
+ <p>Тут ти знадеш перелік навчальних матеріалів, що дозволять тобі крок за кроком опанувати&nbsp;API, веб-технології та знайти відповіді на дотичні до цих тем питання.</p>
  </dd>
  <dt>
  <p><a href="/uk/docs/Web/Reference">Посилання</a></p>
  </dt>
  <dd>
- <p><em>This page will offer links to all reference information on MDN, but for now use one of the technology links in the left section.</em></p>
+ <p><em>Ця сторінка міститиме посилання на усю довідникову інформацію проекту MDN, але поки що можна скористатись посиланнями на веб-технології в лівій секції сторінки.</em></p>
  </dd>
 </dl>
 </div>
@@ -107,13 +107,13 @@ based_on: None
  <p><a href="/uk/docs/Web/Accessibility">Доступність</a></p>
  </dt>
  <dd>
- <p>Accessibility in Web development means enabling as many people as possible to use Web sites, even when those people's abilities are limited in some way. Here we provide information on developing Web content to be accessible.</p>
+ <p>Доступні веб-сайти надають можливість вільно користуватись можливостями мережі якомога більшій кількості людей, включно з тими, чиї можливості бачити, чути, тощо, певною мірою обмежені. Цей розділ статей надасть тобі інформацію про доступність у веб-розробці.</p>
  </dd>
  <dt>
  <p><a href="/uk/docs/Web/Security">Безпека</a></p>
  </dt>
  <dd>
- <p>Ensuring that your Web site or open Web app is secure is critical.</p>
+ <p>Гарантувати безпеку свого веб-сайту чи веб-застосунку є життєвою необхідністю для його існування. Не дозволь персональним даним користувачів потрапити до рук "поганих хлопців", використавши поради з цього циклу статей.</p>
  </dd>
 </dl>
 </div>
