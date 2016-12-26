@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1125497
+revision_id: 1160322
 locale: en-US
 slug: Games
 tags: "Web" "Apps" "Games" "HTML5 Games" "Gamedev" "JavaScript Games" "Game Development"
@@ -96,6 +96,8 @@ based_on: None
  <dd>JavaScript coding competition for HTML5 game developers with the file size limit set to 13 kilobytes. All the submitted games are available in a readable form on GitHub.</dd>
  <dt><a href="https://hacks.mozilla.org/category/games/">Mozilla Hacks blog</a></dt>
  <dd>Games category on the Mozilla Hacks blog containing interesting gamedev related articles.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Games/Visual-js_game_engine">Visual-js game engine</a></dt>
+ <dd>2d/3d/webSocket orientend game engine. Comes with tools for windows only. Hosted on bitbucket&nbsp;projects site. &nbsp;&nbsp;</dd>
 </dl>
 </div>
 </div>
