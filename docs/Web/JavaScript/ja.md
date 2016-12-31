@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1107929
+revision_id: 1162642
 locale: ja
 slug: Web/JavaScript
 tags: "Learn" "Landing" "JavaScript"
@@ -99,7 +99,7 @@ based_on: None
  <dd>ちょっとした JavaScript のコードを簡単にテストできる&nbsp;JavaScript シェル。</dd>
  <dt><a href="https://togetherjs.com/">TogetherJS</a></dt>
  <dd>
- <p>簡単にリアルタイムコラボレーションを行えるライブラリ。</p>
+ <p>簡単にリアルタイムコラボレーションを行えるライブラリ。TogetherJS をサイトに追加することで、ユーザーがウェブサイト上でリアルタイムに助け合えるようになります。</p>
  </dd>
  <dt><a href="http://stackoverflow.com/questions/tagged/javascript">Stack Overflow</a></dt>
  <dd>"JavaScript" のタグが付いた Stack Overflow の質問一覧ページ。</dd>
