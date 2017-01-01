@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1163188
+revision_id: 1163230
 locale: nl
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "l10n" "MDN Meta" "Guide" "Localization" "Page Translation"
@@ -50,10 +50,10 @@ based_on: None
 
 <ul>
  <li>Artikelen in de <a href="/en-US/docs/Glossary">Glossary</a> zijn geweldig voor nieuwkomers om te vertalen, omdat ze kort een eenvoudig zijn.</li>
- <li>Artikelen die <a href="/en-US/docs/tag/l10n%3Apriority">het label ‘l10n:priority’</a> hebben, worden beschouwd als artikelen met hoge prioriteit voor vertaling. Handleidingen en conceptuele artikelen hebben in het algemeen ook hogere prioriteit dan referentiepagina’s, omdat lezers meer behoefte bij het leren van nieuwe concepten meer behoefte hebben aan vertalingen.</li> 
+ <li>Artikelen die <a href="/en-US/docs/tag/l10n%3Apriority">het label ‘l10n:priority’</a> hebben, worden beschouwd als artikelen met hoge prioriteit voor vertaling. Handleidingen en conceptuele artikelen hebben in het algemeen ook hogere prioriteit dan referentiepagina’s, omdat lezers meer behoefte hebben aan vertalingen bij het leren van nieuwe concepten.</li>
  <li>Als u tekst ziet tussen dubbele accolades, zoals <code>\{{some-text("more text")}}</code>, laat deze dan onvertaald in het artikel, en wijzig de interpunctietekens niet. Dit is een <a href="/docs/MDN/Contribute/Structures/Macros">macro</a> die waarschijnlijk een structuur op de pagina maakt, of iets anders nuttigs doet. Mogelijk ziet u onvertaalde tekst die door een macro is gegenereerd; maak u hier geen zorgen over voordat u wat meer ervaring met MDN hebt opgedaan. (Wijzigen van deze tekst vereist <a href="/docs/MDN/Contribute/Tools/Template_editing">speciale bevoegdheden</a>, omdat macro’s erg krachtig kunnen zijn.) Als u nieuwsgierig bent, bekijk dan de <a href="/docs/MDN/Contribute/Structures/Macros/Commonly-used_macros">Veelgebruikte macro’s</a> om te zien wat macro’s kunnen doen.</li>
  <li>Bekijk de <a href="/docs/MDN/Contribute/Localize/Localization_projects">pagina Vertaalprojecten</a> voor meer info over vertalingen voor uw locale.</li>
 </ul>
 
-<p> </p>
+<p>&nbsp;</p>
 
