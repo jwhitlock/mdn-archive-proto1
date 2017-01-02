@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1164096
+revision_id: 1164098
 locale: tr
 slug: MDN/Contribute/Howto/Editor_incelemesi_nasil_yapilir
 tags: 
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 76c7be4e48b62f1af0e39d773d43390298d2c1e5
+based_on: None
 ---
 <div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
 
@@ -21,9 +21,9 @@ based_on: 76c7be4e48b62f1af0e39d773d43390298d2c1e5
 
 <dl>
  <dt>Görev nedir?</dt>
- <dd>Bir "editör incelemesi gerektiriyor"&nbsp;olarak işaretlenmiş makalelerin kopyalama-düzenleme ve son&nbsp;okuması/düzenlemesi.</dd>
+ <dd>Bir "editör incelemesi gerektiriyor" olarak işaretlenmiş makalelerin kopyalama-düzenleme ve son okuması/düzenlemesi.</dd>
  <dt>Nerede yapılması gerekiyor?</dt>
- <dd>Bir "editör incelemesi gerektiriyor" olarak işaretlenmiş&nbsp;makalelerde yapılması gerekiyor.</dd>
+ <dd>Bir "editör incelemesi gerektiriyor" olarak işaretlenmiş makalelerde yapılması gerekiyor.</dd>
  <dt>Görevi yapmak için bilmeniz gereken şey nedir?</dt>
  <dd>İyi İngilizce dil bilgisi ve yazım becerilerine sahip olmanız gerekir. Bir editör incelemesi, dil bilgisi, yazım denetimi ve ifadelerin doğru ve mantıklı olmasını sağlamak ve <a href="/en-US/docs/MDN/Contribute/Guidelines/Writing_style_guide">MDN yazım sitili rehberi</a>nin izlenmesiyle ilgilidir.</dd>
  <dt>Bunu yapmanın adımları nelerdir?</dt>
@@ -32,20 +32,20 @@ based_on: 76c7be4e48b62f1af0e39d773d43390298d2c1e5
   <li>İncelenecek bir makale seçin:
    <ol>
     <li><a href="/en-US/docs/needs-review/editorial">Editörlük incelemesine ihtiyaç duyan makaleler listesi</a>ne gidin. Bu liste, editör incelemesinin talep edildiği tüm sayfaları listeler.</li>
-    <li>İngilizce başlığına sahip ve sayfa yolu Template ile başlamayan bir sayfa seçin. (<code>Template:</code>&nbsp;sayfalar MDN makro kodu içermektedir.)</li>
+    <li>İngilizce başlığına sahip ve sayfa yolu Template ile başlamayan bir sayfa seçin. (<code>Template:</code> sayfalar MDN makro kodu içermektedir.)</li>
     <li>Sayfayı yüklemek için makale bağlantısını tıklayın.</li>
    </ol>
   </li>
-  <li><a id="core-steps" name="core-steps"></a>&nbsp;Yazım hatalarını, dil bilgisini veya kullanım hatalarını yakından takip ederek makaleyi okuyun. Seçtiğiniz ilk sayfa sizin için uygun değilse farklı bir sayfaya geçmekten çekinmeyin..</li>
-  <li>Herhangi bir hata yoksa makaleyi gözden geçirilmiş olarak işaretlemek için düzenlemenize gerek yoktur. Sayfanın sol kenar çubuğundaki "hızlı inceleme" kutusunu bulun:<br />
-   <img alt="Screenshot of the editorial review request sidebar box" src="https://mdn.mozillademos.org/files/13018/SidebarReviewBoxEditorial.png" /></li>
-  <li>Editöryel(<strong>Editorial</strong>) kutusundaki seçimi kaldırın ve&nbsp;Kaydet(<strong>Save)&nbsp;</strong>düğmesine&nbsp;tıklayın.</li>
+  <li><a id="core-steps" name="core-steps"></a> Yazım hatalarını, dil bilgisini veya kullanım hatalarını yakından takip ederek makaleyi okuyun. Seçtiğiniz ilk sayfa sizin için uygun değilse farklı bir sayfaya geçmekten çekinmeyin..</li>
+  <li>Herhangi bir hata yoksa makaleyi gözden geçirilmiş olarak işaretlemek için düzenlemenize gerek yoktur. Sayfanın sol kenar çubuğundaki "hızlı inceleme" kutusunu bulun:<br>
+   <img alt="Screenshot of the editorial review request sidebar box" src="https://mdn.mozillademos.org/files/13018/SidebarReviewBoxEditorial.png"></li>
+  <li>Editöryel(<strong>Editorial</strong>) kutusundaki seçimi kaldırın ve Kaydet(<strong>Save) </strong>düğmesine tıklayın.</li>
   <li>Düzeltilmesi gereken hatalar bulursanız:
    <ol>
-    <li>Sayfanın üst kısmındaki Düzenle(<strong>Edit</strong>) düğmesini tıklayın; Bu sizi&nbsp;<a href="/en-US/docs/Project:MDN/Contributing/Editor_guide">MDN editör</a>üne getiriyor.</li>
+    <li>Sayfanın üst kısmındaki Düzenle(<strong>Edit</strong>) düğmesini tıklayın; Bu sizi <a href="/en-US/docs/Project:MDN/Contributing/Editor_guide">MDN editör</a>üne getiriyor.</li>
     <li>Bulduğunuz yazım hatalarını, yazım kurallarını, dilbilgisi veya kullanım hatalarını düzeltin. Her şeyi düzeltmek zorunda değilsiniz, ancak tüm makalenin tam bir incelemesini yaptığınızı makul bir derecede eminseniz, editörlük inceleme talebini yerine getirdiğinizden emin olun..</li>
-    <li>Makalenin en altında Revizyon Yorumu (<strong>Revision Comment)</strong> düğmesine&nbsp;basın; açıklama kısmına&nbsp;'Editöryel inceleme: sabit yazım hataları, dilbilgisi ve yazım denetimi' gibi birşey yazabilirsiniz. Bu diğer&nbsp;katkıda bulunanlar ve site editorleri tarafından sayfada ne değişti neden değiştiyi bilmeleri içindir.</li>
-    <li>İnceleme Gerekli mi(<strong>Review Needed</strong>)? Editöryel(<strong>Editorial)</strong>&nbsp;kutusunun seçimini kaldırın. Bu, sayfanın Revizyon Yorumu(<strong>Revision Comment</strong>) bölümünün hemen altında yer alır.</li>
+    <li>Makalenin en altında Revizyon Yorumu (<strong>Revision Comment)</strong> düğmesine basın; açıklama kısmına 'Editöryel inceleme: sabit yazım hataları, dilbilgisi ve yazım denetimi' gibi birşey yazabilirsiniz. Bu diğer katkıda bulunanlar ve site editorleri tarafından sayfada ne değişti neden değiştiyi bilmeleri içindir.</li>
+    <li>İnceleme Gerekli mi(<strong>Review Needed</strong>)? Editöryel(<strong>Editorial)</strong> kutusunun seçimini kaldırın. Bu, sayfanın Revizyon Yorumu(<strong>Revision Comment</strong>) bölümünün hemen altında yer alır.</li>
     <li>Yayınla (<strong>Publish)</strong> düğmesine tıklayın.</li>
    </ol>
   </li>
