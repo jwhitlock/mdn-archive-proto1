@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1078106
+revision_id: 1168101
 locale: zh-TW
 slug: Web/API
 tags: "NeedsTag" "TopicStub"
