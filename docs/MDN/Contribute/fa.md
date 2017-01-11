@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 730253
+revision_id: 1168165
 locale: fa
 slug: MDN/Contribute
 tags: "ام‌دی‌ان" "راهنما" "صفحه فرود" "مستندات" "نیازمند ترجمه"
-title: مشارکت دهی به MDN
+title: مشارکت در شبکه توسعه دهندگان موزیلا
 summary: 
 keywords: 
 needs_technical_review: False
@@ -21,7 +21,7 @@ based_on: None
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 dir="rtl" id=".D8.B1.D8.A7.D9.87.D9.86.D9.85.D8.A7.D9.87.D8.A7.DB.8C_.D9.85.D8.B4.D8.A7.D8.B1.DA.A9.D8.AA_.D8.AF.D9.87.D9.86.D8.AF.D9.87">راهنماهای مشارکت دهنده</h2>
+<h2 dir="rtl" id="راهنماهای_مشارکت_دهنده">راهنماهای مشارکت دهنده</h2>
 
 <dl>
  <dt dir="rtl"><a href="/en-US/docs/MDN/Getting_started">آغاز به کار</a></dt>
@@ -47,7 +47,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 dir="rtl" id=".DA.86.DA.AF.D9.88.D9.86.D9.87_...">چگونه ...</h2>
+<h2 dir="rtl" id="چگونه_...">چگونه ...</h2>
 
 <p>Our <a href="/en-US/docs/MDN/Contribute/Howto">how-to guides</a> provide step-by-step instructions to help you accomplish specific tasks when contributing to MDN.</p>
 
@@ -62,7 +62,7 @@ based_on: None
  <dd>This guide will help you to properly interpret standard Web specifications; being able to read these can be an art form, and knowing how to do it will help you produce better documentation.</dd>
 </dl>
 
-<h2 dir="rtl" id=".D9.85.D8.AD.D9.84.DB.8C_.D8.B3.D8.A7.D8.B2.DB.8C">محلی سازی</h2>
+<h2 dir="rtl" id="محلی_سازی">محلی سازی</h2>
 
 <dl>
  <dt dir="rtl"><a href="/en-US/docs/MDN/Contribute/Localize/Tour">تور راهنمایی محلی‌سازی</a></dt>
