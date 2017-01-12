@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1152016
+revision_id: 1168597
 locale: ca
 slug: Web/Tutorials
 tags: "CSS" "HTML" "MDN" "Code" "Guide" "Beginner" "Tutorial" "Web_Design" "JavaScript" "Web Fundamental"
@@ -11,13 +11,13 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 1111859
+based_on: None
 ---
 <p>Els enllaços d'aquesta pàgina condueixen a una varietat de tutorials i material de formació. Ja sigui que estigueu començant l'aprenentatge dels conceptes bàsics, o si sou un gat vell en el desenvolupament web, podeu trobar recursos útils aquí per obtenir les millors pràctiques. Aquests recursos són creats per empreses amb visió de futur i desenvolupadors web que han abraçat els estàndards oberts i les millors pràctiques per al desenvolupament web i que proporciona o permet traduccions, a través d'una llicència de contingut obert, com Creative Commons.</p>
 
 <h2 class="Documentation" id="Documentation" name="Documentation">Tutorials HTML</h2>
 
-<h3 id="Introductory_level">Nivell Introductori</h3>
+<h3 id="Nivell_Introductori">Nivell Introductori</h3>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -39,7 +39,7 @@ based_on: 1111859
 </div>
 </div>
 
-<h3 id="Advanced_level">Nivell Avançat</h3>
+<h3 id="Nivell_Avançat">Nivell Avançat</h3>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -67,7 +67,7 @@ based_on: 1111859
 
 <h2 class="Documentation" id="Documentation" name="Documentation">Tutorial Javascript</h2>
 
-<h3 id="Introductory_level_2">Nivell Introductori</h3>
+<h3 id="Nivell_Introductori_2">Nivell Introductori</h3>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -89,7 +89,7 @@ based_on: 1111859
 </div>
 </div>
 
-<h3 id="Intermediate_level">Nivell Intermedi</h3>
+<h3 id="Nivell_Intermedi">Nivell Intermedi</h3>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -115,7 +115,7 @@ based_on: 1111859
 </div>
 </div>
 
-<h3 id="Advanced_level_2">Nivell avançat</h3>
+<h3 id="Nivell_avançat">Nivell avançat</h3>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -155,7 +155,7 @@ based_on: 1111859
 </div>
 </div>
 
-<h3 id="Extension_Development"><span class="short_text" id="result_box" lang="ca"><span>Desenvolupament</span> <span>d'extensions</span></span></h3>
+<h3 id="Desenvolupament_d'extensions"><span class="short_text" id="result_box" lang="ca"><span>Desenvolupament</span> <span>d'extensions</span></span></h3>
 
 <div class="row topicpage-table" style="width: 100%;">
 <div class="section">
@@ -179,7 +179,7 @@ based_on: 1111859
 
 <h2 class="Documentation" id="Documentation" name="Documentation">Tutorials CSS</h2>
 
-<h3 id="Introductory_level_3">Nivesll introductori</h3>
+<h3 id="Nivesll_introductori">Nivesll introductori</h3>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -205,7 +205,7 @@ based_on: 1111859
 </div>
 </div>
 
-<h3 id="Intermediate_level_2">Nivell Intermedi</h3>
+<h3 id="Nivell_Intermedi_2">Nivell Intermedi</h3>
 
 <div class="row topicpage-table" style="width: 100%;">
 <div class="section">
@@ -229,7 +229,7 @@ based_on: 1111859
 </div>
 </div>
 
-<h3 id="Advanced_level_3">Nivell advançat</h3>
+<h3 id="Nivell_advançat">Nivell advançat</h3>
 
 <div class="row topicpage-table">
 <div class="section">
