@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1133677
+revision_id: 1168785
 locale: ca
 slug: MDN/Contribute/Localize/traducció_pàgines
 tags: "MDN" "català" "traducció" "localització"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -64,38 +64,7 @@ based_on: None
  <li>Feu clic a <strong>Desa els canvis</strong> quan hagi acabat.</li>
 </ol>
 
-<div class="note"><strong>Nota: </strong>Els elements d'interfície de l'usuari de l'Article a Traduir, iinicialment la vista és&nbsp; mostrada en anglès.
-
-<div class="form-control second-textarea">En visites subsegüents, per traduir un article en particular, l'UI és mostra en la llengua apropiada si la localització en el MDN està disponible per aquesta llengua.L'interfície d'usuari del MDN pot ser localizat utilitzant<a href="https://localize.mozilla.org/projects/mdn/" title="https://localize.mozilla.org/projects/mdn/"> Pontoon</a>. Per mes detalls,&nbsp; veure <a href="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim" title="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim">Localització amb Pontoon</a> com utilitzar aquesta eina.</div>
-
-<div class="wrapper ">
-<div class="container-fluid">
-<div class="row">
-<div class="contingut contingut-left col-sm-12 col-md-8">
-<section class="formulari-eines contingut-section" id="sect3">
-<div class="traductor-textarea form-group">
-<div class="textarea-desti col-xs-12 col-sm-6">
-<div class="form-control second-textarea">
-<section class="content-wrapper" id="content" role="main">
-<div class="wrapper ">
-<div class="container-fluid">
-<div class="row">
-<div class="contingut contingut-left col-sm-12 col-md-8">
-<section class="formulari-eines contingut-section" id="sect4">&nbsp;</section>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
+<div class="note"><strong>Nota: </strong>Els elements d'interfície de l'usuari de l'Article a Traduir, iinicialment la vista és&nbsp; mostrada en anglès.En visites subsegüents, per traduir un article en particular, l'UI és mostra en la llengua apropiada si la localització en el MDN està disponible per aquesta llengua.L'interfície d'usuari del MDN pot ser localizat utilitzant<a href="https://localize.mozilla.org/projects/mdn/" title="https://localize.mozilla.org/projects/mdn/"> Pontoon</a>. Per mes detalls,&nbsp; veure <a href="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim" title="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim">Localització amb Pontoon</a> com utilitzar aquesta eina.</div>
 
 <h2 id="Edició_d'una_pàgina_traduïda">Edició d'una pàgina traduïda</h2>
 
@@ -126,7 +95,7 @@ based_on: None
 <ul>
  <li class="form-control second-textarea">Els articles en el <a href="https://developer.mozilla.org/en-US/docs/Glossary">Glossari</a> són ideals per traduir pels nous benvinguts, perquè són curts i senzills.</li>
  <li class="form-control second-textarea">Els articles que estan etiquetats amb <a href="https://developer.mozilla.org/en-US/docs/tag/l10n%3Apriority">"|10n:priority"</a> són considerats d'alta prioritat per traduir.</li>
- <li class="form-control second-textarea">Si veus texte entre dobles claus, com \ {{some-text ( "more text")}}, aquest no es pot traduir en l'article ni canviar els signes de puntuació. Aquesta és una <a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Macros">macro</a>, que probablement crea una estructura en la pàgina, o té alguna utilitat. És possible que aparegui text sense traduir que es genera per una macro; no et preocupis per ell fins que adquireixis més experiència amb el MDN. (El canvi d'aquest text requereix privilegis especials a causa de les macros que poden ser molt potentes.). Si ets curiós, mira les <a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Macros/Commonly-used_macros">macros utilitzades habitualment</a> per veure el tipus de coses que fan.</li>
+ <li class="form-control second-textarea">Si veus texte entre dobles claus, com <code>\{{some-text("more text")}}</code>, aquest no es pot traduir en l'article ni canviar els signes de puntuació. Aquesta és una <a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Macros">macro</a>, que probablement crea una estructura en la pàgina, o té alguna utilitat. És possible que aparegui text sense traduir que es genera per una macro; no et preocupis per ell fins que adquireixis més experiència amb el MDN. (El canvi d'aquest text requereix privilegis especials a causa de les macros que poden ser molt potentes.). Si ets curiós, mira les <a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Macros/Commonly-used_macros">macros utilitzades habitualment</a> per veure el tipus de coses que fan.</li>
  <li class="form-control second-textarea">Comproba la <a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Localize/Localization_projects">pàgina de localització de projectes</a> per trobar més informació sobre la ubicació de la teva localitat.</li>
 </ul>
 
