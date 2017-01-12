@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1152564
+revision_id: 1168591
 locale: ca
 slug: Web
 tags: "Web" "History" "Landing" "Web Development"
-title: Web technology for developers
+title: Tecnologia web per a desenvolupadors
 summary: 
 keywords: 
 needs_technical_review: False
