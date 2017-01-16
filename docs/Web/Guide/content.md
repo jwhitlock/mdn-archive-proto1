@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1116093
+revision_id: 1170943
 locale: en-US
 slug: Web/Guide
 tags: "Web" "Guide" "Landing"
@@ -18,9 +18,9 @@ based_on: None
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML">HTML developer guide</a></dt>
+ <dt class="landingPageList"><a href="/en-US/docs/Learn/HTML">HTML Learning Area</a></dt>
  <dd class="landingPageList"><strong>HyperText Markup Language (HTML)</strong> is the core language of nearly all Web content. Most of what you see on screen in your browser is described, fundamentally, using HTML.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS">CSS developer guide</a></dt>
+ <dt class="landingPageList"><a href="/en-US/docs/Learn/CSS">CSS Learning Area</a></dt>
  <dd class="landingPageList">Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Events">Events developer guide</a></dt>
  <dd class="landingPageList">Events refers both to a design pattern used for the asynchronous handling of various incidents which occur in the lifetime of a web page and to the naming, characterization, and use of a large number of incidents of different types.</dd>
