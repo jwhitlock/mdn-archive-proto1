@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1172739
+revision_id: 1172743
 locale: fr
 slug: MDN/Contribute/Howto/faire_relecture_technique
 tags: 
@@ -13,20 +13,20 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p class="summary"><strong>T</strong>aɣuṛi taknikit <strong>La relecture technique consiste en une vérification de la véracité des explications techniques de l'article, et à corriger les erreurs qui pourraient s'y trouver. Si un rédacteur de l'article souhaite que quelqu'un d'autre vérifie le contenu technique, le rédacteur coche la case "Technical review" (Relecture technique) lors de l'édition. Souvent le rédacteur contacte un ingénieur particulier pour réaliser la relecture technique, mais n'importe qui avec une expectise technique sur le sujet peut le faire.</strong></p>
+<p class="summary"><strong>La relecture technique consiste en une vérification de la véracité des explications techniques de l'article, et à corriger les erreurs qui pourraient s'y trouver. Si un rédacteur de l'article souhaite que quelqu'un d'autre vérifie le contenu technique, le rédacteur coche la </strong><strong>case "Technical review" (Relecture technique) lors de l'édition. Souvent le rédacteur contacte un ingénieur particulier pour réaliser la relecture technique, mais n'importe qui avec une expectise technique sur le sujet peut le faire.</strong></p>
 
 <table class="fullwidth-table">
  <tbody>
   <tr>
-   <td><strong>anda ig laq ad itt wamhal ?</strong></td>
-   <td>Deg imagraden ig tt w creḍen umi sefk yiwet n&nbsp;tɣuri tateknit.</td>
+   <td><strong>Où cela doit être fait ?</strong></td>
+   <td>Dans les articles qui sont marqués comme nécessitant une <a href="/fr/docs/needs-review/technical">relecture technique</a>.</td>
   </tr>
   <tr>
-   <td><strong>Dacu ig laqen iw akken a sneg tawuri ?</strong></td>
+   <td><strong>Qu'est ce qu'il faut savoir pour faire cette tâche ?</strong></td>
    <td>
     <ul>
-     <li>Abay ɣef u meggay ye ddlen amagrad i d teddum a teɣṛem.</li>
-     <li>Isinem att ẓregem imagraden deg MDN.&nbsp;</li>
+     <li>Expertise sur le sujet couvert par&nbsp;l'article que vous vous apprêtez à relire.</li>
+     <li>Savoir éditer des articles sur MDN.</li>
     </ul>
    </td>
   </tr>
