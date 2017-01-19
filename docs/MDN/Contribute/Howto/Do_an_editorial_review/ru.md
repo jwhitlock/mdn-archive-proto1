@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1173335
+revision_id: 1173337
 locale: ru
 slug: MDN/Contribute/Howto/Do_an_editorial_review
 tags: "MDN Meta" "Guide" "Howto" "Как сделать" "Руководство"
