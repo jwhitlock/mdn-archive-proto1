@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1160442
+revision_id: 1173191
 locale: tr
 slug: Web/JavaScript
 tags: "öğren" "JavaScript" "JavaScript öğrenmek"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <p>{{JsSidebar}}</p>
 
-<p class="summary"><strong>JavaScript</strong><sup>®</sup> (genellikle JS olarak kısaltılır) basit şekilde&nbsp;yorumlanmış ve <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">birinci sınıf fonksiyonlar</a> ile harmanlanmış nesne tabanlı bir programlama dilidir. Daha çok web sayfaları için kullanılan bir betik dili olarak bilinir, ancak <a class="external external-icon" href="https://nodejs.org/">node.js</a> veya <a href="https://couchdb.apache.org/">Apache CouchDB</a> gibi <a class="external external-icon" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">tarayıcı olmayan ortamlarda da sıkça kullanılır</a>. <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based_programming" title="Prototype-based">Prototip tabanlı</a> olması ve çoklu paradigma içeren bir dil olması dinamik ve fonksiyonel bir yapı sağlar. JavaScript hakkında <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript">detaylı bilgi edinin</a>.</p>
+<p class="summary"><strong>JavaScript</strong><sup>®</sup> (genellikle js&nbsp;olarak kısaltılır) basit şekilde&nbsp;yorumlanmış ve <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">birinci sınıf fonksiyonlar</a> ile harmanlanmış nesne tabanlı bir programlama dilidir. Daha çok web sayfaları için kullanılan bir betik dili olarak bilinir, ancak <a class="external external-icon" href="https://nodejs.org/">node.js</a> veya <a href="https://couchdb.apache.org/">Apache CouchDB</a> gibi <a class="external external-icon" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">tarayıcı olmayan ortamlarda da sıkça kullanılır</a>. <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based_programming" title="Prototype-based">Prototip tabanlı</a> olması ve çoklu paradigma içeren bir dil olması dinamik ve fonksiyonel bir yapı sağlar. JavaScript hakkında <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript">detaylı bilgi edinin</a>.</p>
 
 <p>JavaScript standardı <a href="https://developer.mozilla.org/en-US/docs/JavaScript/Language_Resources">ECMAScript</a> olarak adlandırılır. 2012 yılı itibariyle tüm modern tarayıcılar ECMAScript 5.1'i desteklerken eski tarayıcılar ECMAScript 3'e kadar destekler. 17 Haziran 2015'de resmi olarak ECMAScript 2015 adı verilen 6. versiyon yayınlandı fakat çoğunlukla ECMAScript 6 veya ES6 olarak ifade edildi. Bu döküman şu an için ECMAScript 6'yı kapsıyor, ancak yakında ECMAScript 7'yi kapsayacak şekilde güncellenecektir.</p>
 
