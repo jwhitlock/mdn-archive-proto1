@@ -1,19 +1,19 @@
 ---
 version: prototype1
-revision_id: 1071662
+revision_id: 1173829
 locale: th
 slug: MDN/Contribute/Howto/Do_a_technical_review
 tags: 
 title: How to do a technical review
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
-<h2><font><font><font><font>{{IncludeSubnav ( "/ en-US / เอกสาร / MDN")}}</font></font></font></font></h2>
+<h2 id="IncludeSubnav_(_en-US_เอกสาร_MDN)"><font><font><font><font>{{IncludeSubnav ( "/ en-US / เอกสาร / MDN")}}</font></font></font></font></h2>
 
 <p class="summary"><strong><font><font><font><font>การตรวจสอบทางเทคนิค</font></font></font></font></strong><font><font><font><font>ประกอบด้วยการตรวจสอบความถูกต้องทางด้านเทคนิคและความสมบูรณ์ของบทความและแก้ไขได้ถ้าจำเป็น</font></font></font><font><font><font>ถ้าเป็นนักเขียนของบทความต้องการให้คนอื่นตรวจสอบเนื้อหาทางเทคนิคของบทความนักเขียนเห็บ "การตรวจสอบทางเทคนิคช่อง" ขณะที่การแก้ไข</font></font></font><font><font><font>การติดต่อมักจะเขียนเป็นวิศวกรที่เฉพาะเจาะจงในการดำเนินการตรวจสอบทางเทคนิค แต่ทุกคนที่มีความเชี่ยวชาญทางเทคนิคในหัวข้อสามารถทำอย่างใดอย่างหนึ่ง</font></font></font></font></p>
 
