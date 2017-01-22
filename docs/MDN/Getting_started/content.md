@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1087695
+revision_id: 1174143
 locale: en-US
 slug: MDN/Getting_started
 tags: "MDN Meta" "Guide" "Beginner" "Introduction" "Getting Started"
@@ -19,17 +19,17 @@ based_on: None
 
 <p>Every part of MDN (from the code that makes the site work to the documentation, code samples, and demos) is created by a community of developers and writers. Everyone has something to offer, and we hope you'll join us!</p>
 
-<h2 id="3_simple_steps_to_MDN">3 simple steps to MDN</h2>
+<h2 id="3_Simple_steps_to_MDN">3 Simple steps to MDN</h2>
 
-<p><span class="seoSummary">MDN is a wiki, where <strong>anyone</strong> can add and edit content. You don't need to be a programmer or know a lot about technologies. There are plenty of things that need to be done, from simple tasks such as proofreading and correcting typos to the complex ones such as writing API documentation.</span></p>
+<p><span class="seoSummary">MDN is a wiki, where <strong>anyone</strong> can add and edit content. You don't need to be a programmer or know a lot about technologies. There are plenty of things that need to be done, from simple tasks such as proofreading and correcting typos to the complex ones such as writing API documentation. This guide will get you started and help steer you toward finding ways <em>you</em> can help improve MDN's content.</span></p>
 
 <p>Contributing is easy and safe. Even if you make a mistake, it's easily fixed; if you don't know exactly how things should look, or your grammar isn't all that great, don't worry about it! We have a team of people whose job it is to make sure that MDN's contents are as good as possible. Someone will be along to make sure your work is tidy and well-written. Share what you know and follow your strengths, and trust in the rest of the community to help make your work even better.</p>
 
 <h3 id="Step_1_Create_an_account_on_MDN">Step 1: Create an account on MDN</h3>
 
-<p>To begin your contributions to MDN, you need to have an account on MDN. For details, please see <a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">how to create an account</a>.</p>
+<p>To begin your contributions to MDN, you need to have an account on MDN. For details, please see <a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">how to create an account</a>. Note that you'll <a href="https://github.com/join">need a GitHub account</a> before you can create an MDN account, since we use GitHub for authentication at this time.</p>
 
-<p>If your task involves creating new pages, please see {{SectionOnPage("/en-US/docs/MDN/Contribute/Howto/Create_and_edit_pages", "Getting page creation permissions")}} for important information about how to get permission to add new pages; for security reasons, new accounts don't have this ability.</p>
+<p>If your task involves creating new pages, please see {{SectionOnPage("/en-US/docs/MDN/Contribute/Howto/Create_and_edit_pages", "Getting page creation permissions")}} for important information about how to get permission to add new pages; for security reasons, new accounts don't have this ability by default.</p>
 
 <h3 id="Step_2_Pick_a_task">Step 2: Pick a task</h3>
 
@@ -62,7 +62,7 @@ based_on: None
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Write_an_article_to_help_learn_about_the_Web">Write an article to help people learn about the web</a> (1-3 hours)</li>
 </ul>
 
-<div class="note"><strong>Note:</strong> If you are reviewing articles or writing new ones, we ask you to please review the <a href="/en-US/docs/MDN/Contribute/Guidelines/Style_guide">Style Guide</a>. This will help to ensure that articles are consistent.</div>
+<div class="note">If you are reviewing articles or writing new ones, we ask you to please review the <a href="/en-US/docs/MDN/Contribute/Guidelines/Style_guide">Style Guide</a>. This will help to ensure that articles are consistent.</div>
 
 <h3 id="Option_2_I_like_code">Option 2: I like code</h3>
 
@@ -93,7 +93,7 @@ based_on: None
 <p>All localization and translation work done on MDN is done by our amazing community of volunteers.</p>
 
 <ul>
- <li><a href="/en-US/docs/MDN/Contribute/Localize/Translating_pages">Translating pages</a> (2 hours)</li>
+ <li><a href="/en-US/docs/MDN/Contribute/Localize/Translating_pages">Translating pages</a> (2 hours) (See <a href="/en-US/docs/MDN/Doc_status/l10nPriority">top priorities</a>)</li>
  <li>Connect with other localizers listed in <a href="/en-US/docs/MDN/Contribute/Localize/Localization_projects">Localization projects</a> (30 minutes)</li>
 </ul>
 
