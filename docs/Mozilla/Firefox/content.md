@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1102043
+revision_id: 1174403
 locale: en-US
 slug: Mozilla/Firefox
 tags: "Firefox" "Landing" "Mozilla"
@@ -42,21 +42,43 @@ based_on: None
 
 <p>Each night we build Firefox from the latest code in <a href="/en-US/docs/mozilla-central">mozilla-central</a>. These builds are for Firefox developers or those who want to try out the very latest cutting edge features while they're still under active development.</p>
 
-<p><a href="https://nightly.mozilla.org/" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox Nightly</a></p>
+<p><a href="https://nightly.mozilla.org/" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox Ni</a></p>
+
+<p><a href="https://nightly.mozilla.org/" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">ghtly</a></p>
+
+<p>&nbsp;</p>
 
 <h3 id="Firefox_Developer_Edition">Firefox Developer Edition</h3>
 
 <p>This is a version of Firefox tailored for developers. Every six weeks, we take the features in Firefox Nightly that are stable enough and create a new version of Firefox Developer Edition. We also add some extra features for developers that are only available in this channel.</p>
 
-<p><a href="/en-US/Firefox/Developer_Edition">Learn more about Firefox Developer Edition</a>.</p>
+<p><a href="/en-US/Firefox/Developer_Edition">Learn more about Firefox Develo</a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><a href="/en-US/Firefox/Developer_Edition">per Edition</a>.</p>
 
 <p><a href="https://www.mozilla.org/firefox/developer/" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox Developer Edition</a></p>
+
+<p><a href="https://www.mozilla.org/firefox/developer/" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">eloper Edition</a></p>
 
 <h3 id="Firefox_Beta">Firefox Beta</h3>
 
 <p>After spending six weeks in Firefox Developer Edition, we take the features that are stable enough, and create a new version of Firefox Beta. Firefox Beta builds are for Firefox enthusiasts to test what's destined to become the next released Firefox version.</p>
 
-<p><a href="https://www.mozilla.org/firefox/channel/#beta" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox Beta</a></p>
+<p><a href="https://www.mozilla.org/firefox/channel/#beta" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Downl</a></p>
+
+<p><a href="https://www.mozilla.org/firefox/channel/#beta" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">oad Firefox Beta</a></p>
 
 <h3 id="Firefox">Firefox</h3>
 
