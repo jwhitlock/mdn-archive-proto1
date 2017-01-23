@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1083160
+revision_id: 1174457
 locale: pl
 slug: MDN/rozpocznij_mdn
 tags: "MDN" "nowy" "Places" "pomóż" "tłumacz" "zacznij" "pierwsze kroki"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p id="What_is_MDN.3F"><span class="seoSummary">Jestesmy otwartą społecznością deweloperów, pracujących nad stworzeniem lepszej sieci, niezależnej od platformy, przegladarki czy konkretnej marki. </span>Każdy może pomóc nam osiągnąć ten cel. Razem możemy dalej zmieniać oblicze sieci i dostarczać nasze innowacyjne rozwiązania wszystkim. Ta przygoda rozpoczyna się tutaj, z tobą.</p>
+<p id="What_is_MDN.3F"><span class="seoSummary">Jesteśmy otwartą społecznością deweloperów, pracujących nad stworzeniem lepszej sieci, niezależnej od platformy, przegladarki czy konkretnej marki. </span>Każdy może pomóc nam osiągnąć ten cel. Razem możemy dalej zmieniać oblicze sieci i dostarczać nasze innowacyjne rozwiązania wszystkim. Ta przygoda rozpoczyna się tutaj, z tobą.</p>
 
 <p><span>Każda część MDN (dokumenty, dema, oraz same strony) tworzone są przez naszą społeczność deweloperów. Dołącz do nas!</span></p>
 
