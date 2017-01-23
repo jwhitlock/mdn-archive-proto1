@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 976087
+revision_id: 1174651
 locale: de
 slug: Web/HTML
 tags: "Einführung" "Web Programmierung"
@@ -15,11 +15,11 @@ based_on: None
 ---
 <div class="note">Die MDN HTML Dokumentation ist noch nicht vollständig ins Deutsche übersetzt. Hilf mit die <a href="/de/docs/MDN/Doc_status/HTML">Seiten zu übersetzen</a>!</div>
 
-<p><strong><img alt="" src="/files/3563/HTML5_Logo_128.png" style="float:left; height:128px; margin:6px; width:128px" /><span class="seoSummary">HyperText Markup Language (HTML)</span></strong><span class="seoSummary"> ist die Kernsprache jeglicher Webinhalte. Praktisch alles, das im Webbrowser zu sehen ist, ist durch die Auszeichnungssprache HTML strukturiert</span></p>
+<p><strong><img src="/files/3563/HTML5_Logo_128.png" style="float:left; height:128px; margin:6px; width:128px" alt=""><span class="seoSummary">HyperText Markup Language (HTML)</span></strong><span class="seoSummary"> ist die Kernsprache jeglicher Webinhalte. Praktisch alles, das im Webbrowser zu sehen ist, ist durch die Auszeichnungssprache HTML strukturiert</span></p>
 
-<p>Genauer gesagt ist HTML die Sprache, die die Struktur und Semantik der Inhalte eines Web-Dokuments beschreibt. Die Inhalte einer Webseite, d.h. eines Dokuments, werden durch sogenannte HTML-Elemente markiert – wie z.&nbsp;B. {{HTMLElement("img")}}, {{HTMLElement("title")}}, {{HTMLElement("p")}}, {{HTMLElement("div")}}, und ähnliche.</p>
+<p>Genauer gesagt ist HTML die Sprache, die die Struktur und Semantik der Inhalte eines Web-Dokuments beschreibt. Die Inhalte einer Webseite, d.h. eines Dokuments, werden durch sogenannte HTML-Elemente markiert – wie z. B. {{HTMLElement("img")}}, {{HTMLElement("title")}}, {{HTMLElement("p")}}, {{HTMLElement("div")}}, und ähnliche.</p>
 
-<p>HTML ist ein internationaler Standard, dessen Spezifikationen durch das <a class="external" href="http://www.w3.org/">World Wide Web Consortium</a> und die Interessenvertretung <a href="http://www.whatwg.org/" title="http://www.whatwg.org/">WHATWG</a> vereinbart und verwaltet werden. Man versteht HTML als "lebenden Standard", der sich technologisch kontinuierlich weiterentwickelt, also niemals endgültig fertig ist. Die aktuelle Iteration der Spezifikation wird als <strong>HTML5</strong> bezeichnet.</p>
+<p>HTML ist ein internationaler Standard, dessen Spezifikationen durch das <a href="http://www.w3.org/" class="external">World Wide Web Consortium</a> und die Interessenvertretung <a href="http://www.whatwg.org/" title="http://www.whatwg.org/">WHATWG</a> vereinbart und verwaltet werden. Man versteht HTML als "lebenden Standard", der sich technologisch kontinuierlich weiterentwickelt, also niemals endgültig fertig ist. Die aktuelle Iteration der Spezifikation wird als <strong>HTML5</strong> bezeichnet.</p>
 
 <p>HTML5 beschreibt nicht den Darstellungsstil oder die Präsentation von Inhalten, sondern nur die Inhalte selbst und ihre Bedeutung. Anweisungen zur Darstellung und Formatierung der Inhalte werden definiert und kontrolliert über die Verwendung von <a href="/en-US/docs/CSS" title="/en-US/docs/Web/CSS"><strong>Cascading Style Sheets</strong></a> (CSS).</p>
 
@@ -27,11 +27,11 @@ based_on: None
 
 <div class="cleared topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="Documentation" name="Documentation">HTML Dokumentation</h2>
+<h2 name="Documentation" class="Documentation" id="Documentation">HTML Dokumentation</h2>
 
 <dl>
  <dt><a href="/de/docs/Web/Guide/HTML/Introduction" title="Introduction to HTML"><strong>Einführung in HTML</strong></a></dt>
- <dd>Eine einführende Anleitung zur Verwendung von HTML, mit Hinweisen zur korrekten Syntax und&nbsp; Anwendung</dd>
+ <dd>Eine einführende Anleitung zur Verwendung von HTML, mit Hinweisen zur korrekten Syntax und  Anwendung</dd>
  <dt><a href="/de/docs/Web/HTML/Element" title="HTML/Element">HTML Element Referenz</a></dt>
  <dd>Ein detailliertes Nachschlagewerk aller HTML Elemente, ihrer Eigenschaften und Verwendungsmöglichkeiten sowie zur Kompatibilität mit unterschiedlichen Browsern.</dd>
  <dt><a href="/de/docs/Web/HTML/Attributes" title="HTML/Attributes">HTML Attribut Referenz</a></dt>
@@ -42,7 +42,7 @@ based_on: None
 
 <p><span class="alllinks"><a href="/en-US/docs/tag/HTML" title="Article tagged: HTML">Alle anzeigen...</a></span></p>
 
-<h2 class="Related_Topics" id="Related_Topics" name="Related_Topics">Verwandte Inhalte</h2>
+<h2 name="Related_Topics" class="Related_Topics" id="Related_Topics">Verwandte Inhalte</h2>
 
 <ul>
  <li><a href="/de/docs/CSS" title="CSS">Cascading Style Sheets (CSS)</a> für die Darstellung von HTML Inhalten</li>
@@ -51,7 +51,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Community" id="Community" name="Community">Hilfe von der Community</h2>
+<h2 name="Community" class="Community" id="Community">Hilfe von der Community</h2>
 
 <p>Ein HTML verwandtes Problem, welches nicht mit Hilfe der Dokumentation zu lösen ist?</p>
 
@@ -62,20 +62,20 @@ based_on: None
 
 <p><span class="alllinks"><a href="http://www.catb.org/~esr/faqs/smart-questions.html">Und nicht die <em>Netiquette</em> vergessen...</a></span></p>
 
-<h2 class="Tools" id="Tools" name="Tools">Tools für HTML Entwickler</h2>
+<h2 name="Tools" class="Tools" id="Tools">Tools für HTML Entwickler</h2>
 
 <ul>
  <li>Aktuelle Versionen des Firefox Browsers enthalten <a href="/en-US/docs/Tools#Integrated_into_Firefox" title="/en-US/docs/Tools#Integrated_into_Firefox">Werkzeuge für Webentwickler</a> - wie z.B. die <a href="/en-US/docs/Tools/Web_Console" title="/en-US/docs/Tools/Web_Console">Web Console</a>, <a href="/en-US/docs/Tools/Page_Inspector" title="/en-US/docs/Tools/Page_Inspector">Page Inspector</a>, <a href="/en-US/docs/Tools/Style_Editor" title="/en-US/docs/Tools/Style_Editor">den Style Editor</a> und den <a href="/en-US/docs/Tools/Responsive_Design_View" title="/en-US/docs/Tools/Responsive_Design_View">Responsive Design View</a>, die beim Entwickeln, bei der Fehlersuche und bei der Optimierung von Webseiten helfen können.</li>
- <li>Die <a class="link-https" href="https://addons.mozilla.org/en-US/firefox/addon/1843">Firebug extension</a><span class="external"> von Firefox ist eine beliebte Erweiterung, die die </span>Orientierung in der Elementstruktur erleichtert und während der Betrachtung von Webseiten das Editieren von CSS Code ermöglicht. Sehr praktisch, um Änderungen auszuprobieren und zu testen. Firebug kann aber noch viel mehr...</li>
- <li><a class="external" href="http://validator.w3.org/">HTML Validator</a></li>
- <li><a class="link-https" href="https://addons.mozilla.org/en-US/firefox/addon/web-developer/">Web Developer Extension</a></li>
- <li><a class="external" href="http://tidy.sourceforge.net/">HTML Tidy</a></li>
- <li><a class="external" href="http://prettydiff.com/?html">Pretty Diff</a></li>
+ <li>Die <a href="https://addons.mozilla.org/en-US/firefox/addon/1843" class="link-https">Firebug extension</a><span class="external"> von Firefox ist eine beliebte Erweiterung, die die </span>Orientierung in der Elementstruktur erleichtert und während der Betrachtung von Webseiten das Editieren von CSS Code ermöglicht. Sehr praktisch, um Änderungen auszuprobieren und zu testen. Firebug kann aber noch viel mehr...</li>
+ <li><a href="http://validator.w3.org/" class="external">HTML Validator</a></li>
+ <li><a href="https://addons.mozilla.org/en-US/firefox/addon/web-developer/" class="link-https">Web Developer Extension</a></li>
+ <li><a href="http://tidy.sourceforge.net/" class="external">HTML Tidy</a></li>
+ <li><a href="http://prettydiff.com/?html" class="external">Pretty Diff</a></li>
 </ul>
 
 <p><span class="alllinks"><a href="/en-US/docs/tag/HTML:Tools" title="Article tagged: HTML:Tools">Alle anzeigen...</a></span></p>
 </div>
 </div>
 
-<p>&nbsp;</p>
+<p> </p>
 
