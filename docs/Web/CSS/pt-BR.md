@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1126443
+revision_id: 1175063
 locale: pt-BR
 slug: Web/CSS
 tags: "CSS" "Design" "Layout" "Landing" "Reference" "Referência(2)"
@@ -27,7 +27,7 @@ based_on: None
   <p>Uma <a href="/pt-BR/CSS/Getting_Started" title="Primeiros Passos">introdução passo-a-passo</a> para ajudar <em>iniciantes</em> a começar. Este provê todos os fundamentos necessários.</p>
  </li>
  <li><span>Exemplos CSS3</span>
-  <p>Uma <a href="/pt-BR/demos/tag/tech:css3">coleção de exemplos</a>&nbsp;que mostra as últimas tecnologias do CSS em ação: um impulso para a criatividade.</p>
+  <p>Uma <a href="/pt-BR/demos/tag/tech:css3">coleção de exemplos</a> que mostra as últimas tecnologias do CSS em ação: um impulso para a criatividade.</p>
  </li>
 </ul>
 
@@ -37,7 +37,7 @@ based_on: None
 
 <dl>
  <dt>Conceitos chaves de CSS</dt>
- <dd>Descreve a <a href="/pt-BR/docs/Web/CSS/Syntax">sintaxe e formas da linguagem</a> e introduz fundamentos como <a href="/pt-BR/docs/Web/CSS/Specificity" title="Especificação">especificação</a> e <a href="/pt-BR/docs/Web/CSS/inheritance" title="Herança">herança</a>,o <a href="/pt-BR/docs/Web/CSS/box_model" title="Box model">box model</a> e <a href="/pt-BR/docs/Web/CSS/margin_collapsing" title="Margin collapsing">colapso de margem</a>, <a href="/pt-BR/docs/Web/CSS/Understanding_z-index/The_stacking_context" title="O contexto stacking">empilhamento</a>&nbsp;e contextos de&nbsp;<a href="//pt-BR/docs/Web/CSS/block_formatting_context" title="block formatting context">formatação em blocos</a>, ou os valores <a href="/pt-BR/docs/Web/CSS/initial_value" title="initial value">iniciais</a>, <a href="/en/CSS/computed_value" title="computed value">computados</a>, <a href="/pt-BR/docs/Web/CSS/used_value" title="used value">usados</a> e <a href="/pt-BR/docs/Web/CSS/actual_value" title="actual value">atuais</a>. Entidades como as <a href="/pt-BR/docs/Web/CSS/Shorthand_properties">propriedades&nbsp;CSS shorthand</a>&nbsp;também são definidas.</dd>
+ <dd>Descreve a <a href="/pt-BR/docs/Web/CSS/Syntax">sintaxe e formas da linguagem</a> e introduz fundamentos como <a href="/pt-BR/docs/Web/CSS/Specificity" title="Especificação">especificação</a> e <a href="/pt-BR/docs/Web/CSS/inheritance" title="Herança">herança</a>,o <a href="/pt-BR/docs/Web/CSS/box_model" title="Box model">box model</a> e <a href="/pt-BR/docs/Web/CSS/margin_collapsing" title="Margin collapsing">colapso de margem</a>, <a href="/pt-BR/docs/Web/CSS/Understanding_z-index/The_stacking_context" title="O contexto stacking">empilhamento</a> e contextos de <a href="//pt-BR/docs/Web/CSS/block_formatting_context" title="block formatting context">formatação em blocos</a>, ou os valores <a href="/pt-BR/docs/Web/CSS/initial_value" title="initial value">iniciais</a>, <a href="/en/CSS/computed_value" title="computed value">computados</a>, <a href="/pt-BR/docs/Web/CSS/used_value" title="used value">usados</a> e <a href="/pt-BR/docs/Web/CSS/actual_value" title="actual value">atuais</a>. Entidades como as <a href="/pt-BR/docs/Web/CSS/Shorthand_properties">propriedades CSS shorthand</a> também são definidas.</dd>
  <dt><a href="/pt-BR/docs/Web/Guide/CSS">Guia CSS para desenvolvedores</a></dt>
  <dd>Artigos para ajuda-lo a aprender tudo desde dos básicos de estilizar HTML até diversas técnicas de CSS para fazer seu conteúdo brilhar.</dd>
  <dt><a href="/pt-BR/docs/Web/CSS/Common_CSS_Questions">Questões comuns sobre CSS</a></dt>
@@ -50,10 +50,10 @@ based_on: None
 
 <ul>
  <li>O <a class="external" href="http://jigsaw.w3.org/css-validator/">W3C CSS Validation Service</a> verifica se o CSS é válido. O serviço <a class="external" href="http://www.onlinewebcheck.com/">OnlineWebCheck.com</a> também faz o mesmo. Estas são ferramentas indispensáveis de depuração.</li>
- <li><a href="/pt-BR/docs/Tools">As Ferramentas do Firefox para desenvolvedores</a> permitem ver e editar o CSS de uma pagina ao vivo via as ferramentas <a href="/pt-BR/docs/Tools/Page_Inspector">Inspeção</a>&nbsp;e <a href="/pt-BR/docs/Tools/Style_Editor">Editor de Estilo</a>.</li>
+ <li><a href="/pt-BR/docs/Tools">As Ferramentas do Firefox para desenvolvedores</a> permitem ver e editar o CSS de uma pagina ao vivo via as ferramentas <a href="/pt-BR/docs/Tools/Page_Inspector">Inspeção</a> e <a href="/pt-BR/docs/Tools/Style_Editor">Editor de Estilo</a>.</li>
  <li><a class="link-https" href="https://addons.mozilla.org/pt-BR/firefox/addon/1843">O complemento Firebug </a> para Firefox, um complemento popular deste navegador que permite a edição ao vivo de CSS nos sites visualizados. Muito prático para testar certas mudanças, apesar deste complemento fazer muito mais.</li>
  <li><a class="link-https" href="https://addons.mozilla.org/pt-BR/firefox/addon/60">O complemento Web Developer</a> para Firefox também permite a observação e edição de CSS ao vivo dos sites visualizados. Mais simples do que o Firebug, mas menos poderoso.</li>
- <li><a href="/pt-BR/docs/Web/CSS/Tools">Ferramentas diversas&nbsp;para CSS.</a></li>
+ <li><a href="/pt-BR/docs/Web/CSS/Tools">Ferramentas diversas para CSS.</a></li>
 </ul>
 </div>
 </div>
