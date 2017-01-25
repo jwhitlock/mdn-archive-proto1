@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 900439
+revision_id: 1175263
 locale: ko
 slug: Apps
 tags: "Apps" "TopicStub" "Web Development" "NeedsTranslation"
@@ -29,7 +29,7 @@ based_on: None
 <div class="panel">
 <h2 class="section-build" id="개발하기"><a href="/en-US/docs/Web/Apps/Build">개발하기</a></h2>
 
-<p>Find all the recommendations and tutorials you'll need for solving your real world development problems.</p>
+<p>여러분이 필요한 실 세계(real world) 개발 문제에 대한 추천 항목과 튜토리얼 찾을 수 있습니다.</p>
 
 <ul class="no-bullets">
  <li><a href="/en-US/Apps/Quickstart">퀵스타트</a></li>
@@ -39,9 +39,9 @@ based_on: None
 </div>
 
 <div class="panel">
-<h2 class="section-publish" id="Publish"><a href="/en-US/docs/Mozilla/Marketplace">출판하기</a></h2>
+<h2 class="section-publish" id="출판하기"><a href="/en-US/docs/Mozilla/Marketplace">출판하기</a></h2>
 
-<p>Distribute your apps on an open marketplace that puts users and developers first. Read more on the <a href="/en-US/Marketplace">Marketplace zone</a>.</p>
+<p>당신의 어플리케이션을 오픈 마켓 플레이스에 사용자들과 개발자들에게 배포하세요. 자세한 사항은&nbsp;&nbsp;<a href="/en-US/Marketplace">Marketplace zone</a> 을 참고하세요.</p>
 
 <ul class="no-bullets">
  <li><a href="/en-US/Marketplace/Publishing/Publish_options">App publishing options</a></li>
