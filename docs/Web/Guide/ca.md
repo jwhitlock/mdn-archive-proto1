@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1151690
+revision_id: 1176673
 locale: ca
 slug: Web/Guide
 tags: "Web" "Guide" "Landing" "TopicStub" "NeedsTranslation"
@@ -18,9 +18,9 @@ based_on: None
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML">HTML guia per a desenvolupadors</a></dt>
+ <dt class="landingPageList"><a href="/en-US/docs/Learn/HTML">HTML Àrea d'Aprenentatge</a></dt>
  <dd class="landingPageList"><strong>HyperText Markup Language (HTML)</strong> és el nucli del llenguatge de gairebé tot el contingut web. La major part del que veieu a la pantalla en el vostre navegador es descrit, fonamentalment, amb l'ús d'HTML.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS">CSS guia per a desenvolupadors</a></dt>
+ <dt class="landingPageList">&nbsp; <a href="/en-US/docs/Learn/CSS">CSS Àrea d'Aprenentatge</a></dt>
  <dd class="landingPageList"><span id="result_box" lang="ca"><span>Fulles</span> <span>d'estil en</span> <span>cascada</span> <span>(</span><span>CSS</span><span>)</span> <span>és</span> <span>un llenguatge de</span> <span>full d'estil</span> <span>s'utilitza</span> <span>per descriure la</span> <span>presentació</span> <span>d'un</span> <span>document</span> <span>escrit</span> <span>en HTML.</span></span></dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Events">Esdeveniments guia per a desenvolupador</a></dt>
  <dd class="landingPageList">Esdeveniments es refereix tant a un patró de disseny utilitzat per al maneig asíncrona de diversos incidents que es produeixen en el curs de la vida d'una pàgina web i a la nomenclatura, la caracterització i l'ús d'un gran nombre d'incidents de diferents tipus</dd>
