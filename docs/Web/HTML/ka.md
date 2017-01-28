@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 949019
+revision_id: 1179403
 locale: ka
 slug: Web/HTML
 tags: "HTML გაკვეთილები" "HTML პროგრამირება" "HTML5" "გზამკვლევი" "ვები" "რა არის HTML" "ჰიპერ ტექსტი"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
