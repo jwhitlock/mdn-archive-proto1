@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1180613
+revision_id: 1180619
 locale: nl
 slug: Web/CSS
 tags: "CSS" "Design" "Layout" "Ontwerp" "Verdeling" "Referentie"
@@ -62,7 +62,7 @@ based_on: None
 <h2 id="Zie_ook">Zie ook</h2>
 
 <ul>
- <li>Mozilla's <a href="/en-US/Learn/CSS">Leer CCS sectie</a></li>
+ <li>Mozilla's <a href="/en-US/Learn/CSS">Leer CSS sectie</a></li>
  <li>Web talen waarop CSS vaak wordt toegepast:&nbsp;<a href="/en-US/docs/HTML" title="en-US/docs/HTML">HTML</a>, <a href="/en-US/docs/SVG" title="SVG">SVG</a>, <a href="/en-US/docs/XHTML" title="en-US/docs/XHTML">XHTML</a> en&nbsp;<a href="/en-US/docs/XML" title="en-US/docs/XML">XML</a>.</li>
  <li>Mozilla technologieën die gebruik maken van CSS:&nbsp;<a href="/en-US/docs/Mozilla/Tech/XUL" title="en-US/docs/XUL">XUL</a>, <a href="/en-US/Firefox">Firefox</a>, en&nbsp;<a href="/en-US/docs/Mozilla/Thunderbird">Thunderbird</a> <a href="/en-US/docs/Extensions" title="en-US/docs/Extensions">extensies</a> en&nbsp;<a href="/en-US/Add-ons/Themes" title="en-US/docs/Themes">thema's</a>.</li>
 </ul>
