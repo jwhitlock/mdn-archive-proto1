@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1183883
+revision_id: 1183945
 locale: fr
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "l10n" "MDN Meta" "Guide" "Localisation"
@@ -20,7 +20,7 @@ based_on: None
 <p>Quand vous rencontrez une page que vous aimeriez traduire dans votre langue, suivez ces étapes :</p>
 
 <ol>
- <li>Cliquez sur l'icône de Langues ({{FontAwesomeIcon("icon-language")}}) pour ouvrir le menu <strong>Langues</strong> , et cliquez sur <strong>Ajouter une traduction</strong>. La page de sélection de langues apparaît.</li>
+ <li>Cliquez sur l'icône de Langues ({{FontAwesomeIcon("icon-language")}}) pour ouvrir le menu <strong>Langues</strong>, et cliquez sur <strong>Ajouter une traduction</strong>. La page de sélection de langues apparaît.</li>
  <li>Sélectionnez la langue dans laquelle vous voulez traduire. L'interface pour traduire l'article s'ouvre avec le texte original affiché sur la vue de gauche.</li>
  <li>Sous <strong>Traduire la description</strong>, vous pouvez traduire le titre et de façon facultative le permalien dans la langue cible. Le permalien est la dernière partie de l'URL d'une page (par exemple, "Translating_pages" pour cet article). Certaines communautés linguistiques ne traduisent pas le permalien, gardant le même permalien que l'Anglais. Comparez avec d'autres articles dans votre langue pour déterminer la pratique commune. Vous pouvez cliquer sur le signe moins à côté de <strong>Traduire la description</strong> pour cacher cette information quand vous en avez fini avec elle, pour faire plus de place pour la section <strong>Traduire le contenu</strong>.</li>
  <li>Sous <strong>Traduire le contenu</strong>, traduisez le corps de la page.</li>
@@ -44,13 +44,14 @@ based_on: None
 
 <p>Certaines étiquettes sont utilisées pour les filtres de recherche, ou comme conventions entre les contributeurs. Elles ne doivent pas être traduites. Pour connaître ces balises, lire les <a href="/en-US/docs/Project:MDN/Contributing/Tagging_standards">Règles d'étiquetage</a>. Vous êtes libre de créer des étiquettes traduites pour le contenu d'un groupe si ce n'est pas couvert par l'une des étiquettes de normalisation.</p>
 
-<h2>Astuces pour les nouveaux traducteurs</h2>
+<h2 id="Astuces_pour_les_nouveaux_traducteurs">Astuces pour les nouveaux traducteurs</h2>
 
 <p>Voici une liste de suggestions, si vous débutez dans la traduction sur MDN :</p>
 
 <ul>
  <li>Les articles listés dans le <a href="https://developer.mozilla.org/fr/docs/Glossaire">Glossaire</a> sont un bon moyen de démarrer pour les nouveaux venus. Courts et simples, ils seront facilement traduisibles.</li>
- <li>Les articles avec le mot-clé <a href="https://developer.mozilla.org/en-US/docs/tag/l10n%3Apriority">"l10n:priority"</a> ont une forte priorité de traduction. De même, les tutoriels et articles conceptuels ont une priorité plus importante que les pages de référence. En effet les lecteurs ont souvent bien plus besoin d'une traduction pour apprendre de nouveaux concepts.</li>
- <li>Si vous voyez du texte entre double crochets, un peu comme cela <code>\{{some-text("more text")}}</code>, ne le traduisez pas et ne changez pas la ponctuation des caractères. C'est une <a href="/fr/docs/MDN/Contribute/Structures/Macros">macro</a> qui permet de créer une structure dans la page ou d'être utile à la compréhension de l'article. Le texte non traduit est généré par la macro, ne vous souciez pas de sa traduction. Attendez de gagner un peu plus d'expérience sur MDN. (Changez ce texte nécessite...)</li>
+ <li>Les articles avec le mot-clé <a href="https://developer.mozilla.org/en-US/docs/tag/l10n%3Apriority">"l10n:priority"</a> ont une forte priorité de traduction. De même, les tutoriels et articles conceptuels ont une priorité plus importante que les pages de référence. En effet, les lecteurs ont bien souvent plus besoin d'une traduction dans leur langue pour l'apprentissage de nouveaux concepts.</li>
+ <li>Si vous voyez du texte entre double crochets, un peu comme cela <code>\{{some-text("more text")}}</code>, ne le traduisez pas et ne changez pas la ponctuation des caractères. C'est une <a href="/fr/docs/MDN/Contribute/Structures/Macros">macro</a> qui permet de créer une structure dans la page ou d'être utile à la compréhension de l'article. Le texte non traduit est généré par la macro, ne vous souciez pas de sa traduction. Attendez de gagner plus d'expérience sur MDN. (Changer ce texte nécessite des <a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Tools/Template_editing">prévilèges spécifiques</a> étant donné que les macros sont des systèmes élaborés.) Si vous êtes curieux, n'hésitez pas à regarder du côté des <a href="/fr/docs/MDN/Contribute/Structures/Macros/Commonly-used_macros">Macros fréquemment utilisés</a> pour comprendre leur fonctionnement et leurs utilisations.</li>
+ <li>Vérifiez la <a href="/fr/docs/Project:Projets_de_localisation">page de Projets de localisation</a> pour en apprendre plus sur la traduction dans votre région.</li>
 </ul>
 
