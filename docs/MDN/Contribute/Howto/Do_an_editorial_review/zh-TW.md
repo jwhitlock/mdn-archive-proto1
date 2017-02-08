@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1154404
+revision_id: 1184799
 locale: zh-TW
 slug: MDN/Contribute/Howto/Do_an_editorial_review
 tags: "如何" "指南" "文件" "編輯審查"
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 76c7be4e48b62f1af0e39d773d43390298d2c1e5
+based_on: None
 ---
 <div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
 
