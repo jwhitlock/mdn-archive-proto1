@@ -1,32 +1,32 @@
 ---
 version: prototype1
-revision_id: 1162082
+revision_id: 1185155
 locale: id
 slug: Games
 tags: 
-title: Game development
+title: Pengembangan games
 summary: 
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 1160322
+based_on: None
 ---
 <div class="summary">
-<p><span class="seoSummary">Gaming is one of the most popular computer activities. New technologies are constantly arriving to make it possible to develop better and more powerful games that can be run in any standards-compliant web browser.</span></p>
+<p><span class="seoSummary">Memainkan <em>games&nbsp;</em>adalah salah satu aktivitas terpopuler&nbsp;yang dilakukan di komputer. Teknologi baru berkembang secara konstan untuk memungkinkan pengembangan <em>games&nbsp;</em>yang lebih baik sekaligus lebih bertenaga sehingga dapat dijalankan di peramban standar manapun.</span></p>
 </div>
 
 <div class="column-container">
 <div class="column-half">
-<h2 id="Develop_web_games">Develop web games</h2>
+<h2 id="Develop_web_games">Kembangkan&nbsp;<em>web-games</em></h2>
 
-<p>Welcome to the MDN game development center! In this area of the site we provide resources for web developers wanting to develop games. You'll find many useful tutorials and technique articles in the main menu on the left, so feel free to explore.</p>
+<p>Selamat datang di Pusat Pengembangan <em>Game </em>MDN! Disini kami menyediakan sarana-prasarana bagi para pengembang web yang ingin mengembangkan <em>games</em>. Anda akan menemui sejumlah artikel bermanfaat mengenai tutorial dan teknik yang dapat Anda temui di bagian kiri Menu Utama.</p>
 
-<p>We've also included a reference section so you can easily find information about all the most common APIs used in game development, plus useful lists of <a href="/en-US/docs/Games/Tools/Engines_and_tools">engines and tools</a>, and <a href="/en-US/docs/Games/Examples">game examples</a>.</p>
+<p>Kami juga menyediakan bagian referensi, sehingga Anda dapat menemukan informasi mengenai semua API yang umum digunakan dalam pengembangan games dengan mudah, ditambah daftar&nbsp;<a href="/en-US/docs/Games/Tools/Engines_and_tools"><em>engine</em>&nbsp;dan <em>tools</em></a>, serta&nbsp;<a href="/en-US/docs/Games/Examples">contoh <em>games</em></a>&nbsp;yang kami sediakan.</p>
 
 <div class="note">
-<p><strong>Note</strong>: You should have mastered at least the basics of core web technologies — such as HTML, CSS and JavaScript — before attempting to create web games. The <a href="/en-US/docs/Learn">Learning Area</a> is a good place to go if you are a complete beginner.</p>
+<p><strong>Catatan</strong>: Anda sebaiknya telah menguasai setidaknya teknologi web dasar&nbsp;— seperti HTML, CSS dan JavaScript — sebelum mencoba untuk membuat webgames. <a href="/en-US/docs/Learn">Area Belajar</a>&nbsp;adalah tempat yang bagus untuk belajar dan melatih diri jika Anda benar-benar seorang pemula.</p>
 </div>
 
 <dl>
