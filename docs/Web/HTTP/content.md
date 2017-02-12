@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1187173
+revision_id: 1187221
 locale: en-US
 slug: Web/HTTP
 tags: "HTTP" "Web" "Reference" "l10n:priority"
