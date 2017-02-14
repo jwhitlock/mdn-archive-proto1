@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 931705
+revision_id: 1188021
 locale: ru
 slug: MDN/Contribute/Howto/Do_a_technical_review
 tags: "MDN Meta" "Guide" "Howto" "Как сделать" "Руководство"
@@ -25,7 +25,7 @@ based_on: None
  <dt>Что Вы должны знать, чтобы выполнить задачу?</dt>
  <dd>
  <ul>
-  <li>Экспертные зания в теме, которую Вы обозреваете.</li>
+  <li>Экспертные знания в теме, которую Вы обозреваете.</li>
   <li>Возможность редактирования вики статьи на MDN.</li>
  </ul>
  </dd>
