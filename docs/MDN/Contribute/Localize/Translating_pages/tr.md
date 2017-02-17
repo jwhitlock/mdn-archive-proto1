@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1190335
+revision_id: 1190337
 locale: tr
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "MDN" "Rehber" "Çeviri" "Sayfa Çevirisi" "Yerelleştirme"
@@ -38,13 +38,13 @@ based_on: None
 
 <p>Çevirinin son güncellenmesinden bu yana İngilizce versiyon değiştiyse, Makale Çevirisi görünümü İngilizce versiyonda ve kaynak-kod görünümünde&nbsp;değişiklikleri yansııtır. Bu size neyin güncellenmesi gerektiği konusunda yardımcı olur.</p>
 
-<h2 id="Çeviri_Etiketleri">Etiket çevirileri</h2>
+<h2 id="Etiket_çevirileri">Etiket çevirileri</h2>
 
 <p><span id="result_box" lang="tr"><span class="hps">Her</span> <span class="hps">sayfanın&nbsp;en</span> <span class="hps">az bir</span> <span class="hps">etiket ile etiketlenmiş</span> <span class="hps">olması</span> <span class="hps">önemlidir, b</span>u "çeviri" olsa bile. Genel olarak, orjinal makalenin kullandığı etiketleri kullanmak daha iyidir.</span></p>
 
 <p>Bazı etiketler arama filtreleri için kullanılır, ya da katkıda bulunanlar arasında topanma yerleri için. Bunlar çevirilmemelidir. Bu etiketleri öğrenmek için, <a href="https://developer.mozilla.org/en-US/docs/Project:MDN/Contributing/Tagging_standards">etiket standartları</a>'nı okuyun. Eğer standart etiketler tarafından alınmadıysa, içerik gruplamak için çevrilmiş etiketler oluşturmada özgürsünüz.</p>
 
-<h2 id="Tips_for_new_localizers">Yeni yerelleştiricilere tavsiyeler</h2>
+<h2 id="Yeni_yerelleştiricilere_tavsiyeler">Yeni yerelleştiricilere tavsiyeler</h2>
 
 <p>MDN yerelleştirmede yeniysen, aşağıda bulunan önerileri okuyabilirsin:</p>
 
