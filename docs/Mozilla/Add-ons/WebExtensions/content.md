@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1143511
+revision_id: 1190585
 locale: en-US
 slug: Mozilla/Add-ons/WebExtensions
 tags: "add-on" "Landing" "Extensions" "WebExtensions"
@@ -17,7 +17,7 @@ based_on: None
 
 <p>WebExtensions are a cross-browser system for developing browser add-ons. To a large extent the system is compatible with the <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a> supported by Google Chrome and Opera. Extensions written for these browsers will in most cases run in Firefox or <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a> with <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">just a few changes</a>. The API is also fully compatible with <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">multiprocess Firefox</a>.</p>
 
-<p>We're also intending to extend the APIs to support the needs of add-on developers, so if you have ideas, we'd love to hear them. You can reach us on the <a href="https://mail.mozilla.org/listinfo/dev-addons">dev-addons mailing list</a> or <a href="irc://irc.mozilla.org/webextensions">#webextensions</a> on <a href="https://wiki.mozilla.org/IRC">IRC</a>.</p>
+<p>We also intend to extend the APIs to support the needs of add-on developers, so if you have ideas, we'd love to hear them. You can reach us on the <a href="https://mail.mozilla.org/listinfo/dev-addons">dev-addons mailing list</a> or <a href="irc://irc.mozilla.org/webextensions">#webextensions</a> on <a href="https://wiki.mozilla.org/IRC">IRC</a>.</p>
 
 <div class="row topicpage-table">
 <div class="section">
