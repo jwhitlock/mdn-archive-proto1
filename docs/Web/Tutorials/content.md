@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1111859
+revision_id: 1190703
 locale: en-US
 slug: Web/Tutorials
 tags: "CSS" "HTML" "MDN" "Code" "Guide" "Beginner" "Tutorial" "Web_Design" "JavaScript" "Web Fundamental"
@@ -107,8 +107,6 @@ based_on: None
 <dl>
  <dt><strong><a href="http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/" rel="external">Essential JavaScript Design Patterns</a> (Addy Osmani)</strong></dt>
  <dd>An introduction to essential JavaScript design patterns.</dd>
- <dt><strong><a href="http://www.yuiblog.com/blog/2007/01/24/video-crockford-tjpl/" rel="external">The JavaScript Programming Language</a> (YUI Blog)</strong></dt>
- <dd>Douglas Crockford explores the language as it is today, and how it came to be.</dd>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Introduction_to_Object-Oriented_JavaScript">Introduction to Object-Oriented JavaScript</a></strong></dt>
  <dd>Learn about the JavaScript object model.</dd>
 </dl>
@@ -128,12 +126,6 @@ based_on: None
  <dd>John Resig's guide to advanced JavaScript.</dd>
  <dt><strong><a href="http://www.elated.com/articles/javascript-dom-intro/" rel="external">Introducing the JavaScript DOM</a> (Elated)</strong></dt>
  <dd>What is the Document Object Model, and why is it useful? This article gives you a gentle introduction to this powerful JavaScript feature.</dd>
- <dt><strong><a href="http://yuiblog.com/blog/2006/10/20/video-crockford-domtheory/" rel="external">An Inconvenient API: The Theory of the DOM</a> (YUI Blog)</strong></dt>
- <dd>Douglas Crockford explains the Document Object Model.</dd>
- <dt><strong><a href="http://yuiblog.com/blog/2006/11/27/video-crockford-advjs/" rel="external">Advanced JavaScript</a> (YUI Blog)</strong></dt>
- <dd>Douglas Crockford looks closely at code patterns from which JavaScript programmers can choose in authoring their applications.</dd>
- <dt><strong><a href="http://javascript.crockford.com/" rel="external">JavaScript Trove</a> (Douglas Crockford)</strong></dt>
- <dd>Gain Access to a valuable collection of everything JavaScript by Douglas Crockford.</dd>
 </dl>
 </div>
 
@@ -142,9 +134,7 @@ based_on: None
  <dt><strong><a href="http://bonsaiden.github.com/JavaScript-Garden/" rel="external">JavaScript Garden</a></strong></dt>
  <dd>Documentation of the most quirky parts of JavaScript.</dd>
  <dt><strong><a href="http://exploringjs.com/es6/" rel="external">Exploring ES6</a> (Dr. Axel Rauschmayer)</strong></dt>
- <dd>Reliable and in-depth information on ECMAScript 6.</dd>
- <dt><strong><a href="http://yuiblog.com/blog/2008/07/22/non-blocking-scripts/" rel="external">Non-Blocking JavaScript Downloads</a> (YUI Blog)</strong></dt>
- <dd>Tips on improving the download performance of pages containing JavaScript.</dd>
+ <dd>Reliable and in-depth information on ECMAScript 2015.</dd>
  <dt><strong><a href="http://shichuan.github.io/javascript-patterns" rel="external">Javascipt Patterns</a></strong></dt>
  <dd>A JavaScript pattern and antipattern collection that covers function patterns, jQuery patterns, jQuery plugin patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns, DOM.</dd>
  <dt><strong><a href="http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/">How browsers work</a></strong></dt>
