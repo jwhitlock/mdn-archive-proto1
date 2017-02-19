@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 998099
+revision_id: 1190759
 locale: en-US
 slug: Web/Guide/Graphics
 tags: "2D" "3D" "HTML5" "SVG" "Web" "WebGL" "WebRTC" "Canvas" "Graphics"
@@ -17,7 +17,7 @@ based_on: None
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="2D Graphics">2D Graphics</h2>
+<h2 class="Documentation" id="2D_Graphics">2D Graphics</h2>
 
 <dl>
  <dt><a href="/en-US/docs/HTML/Canvas">Canvas</a></dt>
@@ -30,7 +30,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="3D Graphics">3D Graphics</h2>
+<h2 class="Documentation" id="3D_Graphics">3D Graphics</h2>
 
 <dl>
  <dt><a href="/en-US/docs/Web/WebGL">WebGL</a></dt>
