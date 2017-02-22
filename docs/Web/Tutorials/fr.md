@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1183871
+revision_id: 1192447
 locale: fr
 slug: Web/Tutoriels
 tags: "CSS" "MDN" "Code" "Design" "Débutant" "Tutoriel" "JavaScript" "Fondamentaux du Web"
@@ -82,7 +82,7 @@ based_on: None
     <dl>
      <dt><a href="/fr/docs/Web/JavaScript/Une_réintroduction_à_JavaScript"><font><font>Ré-introduction au JavaScript</font></font></a></dt>
      <dd><font><font>Résumé de JavaScript destiné aux développeurs intermédiaires.</font></font></dd>
-     <dt><a href="http://eloquentjavascript.net/contents.html" rel="external"><font><font>Eloquent JavaScript</font></font></a></dt>
+     <dt><a href="http://eloquentjavascript.net/" rel="external"><font><font>Eloquent JavaScript</font></font></a></dt>
      <dd><font><font>Guide JavaScript complet comprenant des pratiques de niveau intermédiaire et avancé.</font></font></dd>
      <dt><a href="http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/" rel="external"><font><font>Les Design Patterns essentiels en Javascript</font></font></a><font><font> (Addy Osmani)</font></font></dt>
      <dd><font><font>Les <em>design patterns</em> de base pour JavaScript.</font></font></dd>
