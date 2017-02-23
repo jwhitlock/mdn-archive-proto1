@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1167073
+revision_id: 1193013
 locale: en-US
 slug: Learn
 tags: "Web" "Index" "Intro" "Learn" "Landing" "Beginner"
@@ -33,7 +33,7 @@ based_on: None
  <li><span>Complete beginner:</span> If you are a complete beginner to web development, we'd recommend that you start by working through our <a href="/en-US/docs/Learn/Getting_started_with_the_web">Getting started with the Web</a> module, which provides a practical introduction to web development.</li>
  <li><span>Specific questions:</span> If you have a specific question about web development, our <a href="/en-US/docs/Learn/Common_questions">Common questions</a> section may have something to help you.</li>
  <li><span>Beyond the basics:</span> If you have a bit of knowledge already, the next step is to learn {{glossary("HTML")}} and {{glossary("CSS")}} in detail: start with our <a href="/en-US/docs/Learn/HTML/Introduction_to_HTML">Introduction to HTML</a> module and move on to our <a href="/en-US/docs/Learn/CSS/Introduction_to_CSS">Introduction to CSS</a> module.</li>
- <li><span>Moving onto scripting:</span> If you are comfortable with HTML and CSS already, or you are mainly interested in coding, you'll want to move onto {{glossary("JavaScript")}} or server-side development. Begin with our <a href="/en-US/docs/Learn/JavaScript/First_steps">JavaScript first steps</a> and <a href="/en-US/docs/Learn/Server-side/First_steps">server-side first steps</a> modules.</li>
+ <li><span>Moving onto scripting:</span> If you are comfortable with HTML and CSS already, or you are mainly interested in coding, you'll want to move onto {{glossary("JavaScript")}} or server-side development. Begin with our <a href="/en-US/docs/Learn/JavaScript/First_steps">JavaScript first steps</a> and <a href="/en-US/docs/Learn/Server-side/First_steps">Server-side first steps</a> modules.</li>
 </ul>
 
 <div class="note">
