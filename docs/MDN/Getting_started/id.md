@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1135651
+revision_id: 1201981
 locale: id
 slug: MDN/Langkah_Awal
 tags: "MDN" "Proyek MDN" "Panduan" "Langkah Awal" "Dokumentasi"
@@ -23,7 +23,7 @@ based_on: None
 
 <p>MDN adalah sebuah ensiklopedia, dimana <strong>semua orang</strong> bisa menambah dan mengedit konten. Anda tidak perlu menjadi seorang pemrogram atau mengetahui banyak hal mengenai teknologi. Ada beberapa tugas yang harus diselesaikan, mulai dari yang termudah (Mengoreksi bacaan and mengoreksi kesalahan penulisan) <span id="result_box" lang="id"><span class="hps">hingga yang kompleks</span></span> (menulis dokumentasi Program aplikasi antarmuka, <em>API</em>).</p>
 
-<p>Ikut berkontribusi sangatlah mudah dan aman. Bahkan jika Anda melakukan kesalahan, itu mudah diperbaiki. Bahkan jika Anda tidak mengetahui dengan tepat bagaimana suatu hal yang seharusnya benar, atau tata bahasa Anda tidak sepenuhnya bagus, jangan khawatir akan hal tersebut! Kami memiliki tim yang terdiri dari orang orang yang bekerja untuk memastikan bahwa konten di MDN bisa lebih baik sebisa mungkin. Seseorang akan ikut serta untuk memastikan bahwa pekerjaan Anda rapih dan ditulis dengan benar.</p>
+<p>Ikut berkontribusi sangatlah mudah dan aman. Bahkan jika Anda melakukan kesalahan, itu mudah diperbaiki. Bahkan jika Anda tidak mengetahui dengan tepat bagaimana suatu hal yang seharusnya benar, atau tata bahasa Anda tidak sepenuhnya bagus, jangan khawatir akan hal tersebut! Kami memiliki tim yang terdiri dari orang-orang yang bekerja untuk memastikan bahwa konten di MDN bisa lebih baik sebisa mungkin. Seseorang akan ikut serta untuk memastikan bahwa pekerjaan Anda rapih dan ditulis dengan benar.</p>
 
 <h3 id="Langkah_1_Membuat_akun_di_MDN">Langkah 1: Membuat akun di MDN</h3>
 
@@ -37,7 +37,7 @@ based_on: None
 
 <p>Setelah Anda menentukan tugas seperti apa yang Anda ingin kerjakan, temukan halaman yang spesifik, misalnya kode, atau yang lainnya untuk dikerjakan, dan lakukanlah!</p>
 
-<p>Jangan khawatir mengenai kesempurnaan dalam mengerjakan; kontributor MDN lainnya ada disini untuk membantu memperbaiki kesalahan yang terjadi. Jika Anda ingin melakukan percobaan sebelum melakukan sesuatu "yang nyata", Anda bisa mengedit halaman <a href="/en-US/docs/Sandbox">Kotakpasir</a>. Jika Anda memiliki pertanyaan selama melakukan pekerjaan, kunjungi halaman <a href="/en-US/docs/MDN/Community">Komunitas</a> untuk informasi di&nbsp;daftar surat menyurat (<em>mailing lists</em>) and saluran bercakap (<em>Chat Channels</em>) dimana Anda bisa mendapatkan jawaban.</p>
+<p>Jangan khawatir mengenai kesempurnaan dalam mengerjakan; kontributor MDN lainnya ada disini untuk membantu memperbaiki kesalahan yang terjadi. Jika Anda ingin melakukan percobaan sebelum melakukan sesuatu "yang nyata", Anda bisa mengedit halaman <a href="/en-US/docs/Sandbox">Kotakpasir</a>. Jika Anda memiliki pertanyaan selama melakukan pekerjaan, kunjungi halaman <a href="/en-US/docs/MDN/Community">Komunitas</a> untuk informasi di&nbsp;daftar surat menyurat (<em>mailing lists</em>) dan saluran bercakap (<em>Chat Channels</em>) dimana Anda bisa mendapatkan jawaban.</p>
 
 <p>Ketika Anda selesai, silahkan ambil item lainnya, atau lihat lagi <a href="#Other_things_you_can_do_on_MDN">Hal lain yang Anda bisa lakukan di MDN</a>.</p>
 
