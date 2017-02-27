@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1126375
+revision_id: 1204277
 locale: en-US
 slug: MDN/Contribute/Howto/Do_an_editorial_review
 tags: "MDN Meta" "Guide" "Howto" "Documentation" "Editorial Review"
@@ -32,8 +32,8 @@ based_on: None
   <li>Pick an article to review:
    <ol>
     <li>Go to the list of <a href="/en-US/docs/needs-review/editorial">articles needing editorial review</a>. This lists all the pages for which an editorial review has been requested.</li>
-    <li>Choose a page that has an English title and whose path doesn't start with <code>Template:</code> (<code>Template:</code> pages contain MDN macro code.)</li>
-    <li>Click on the article link to load the page.</li>
+    <li>Click on the article link to load the page.<br />
+     <strong>Note: </strong>This listing is generated automatically but infrequently, so some articles appear on the list that no longer need editorial review. If the article you picked does <em>not</em> display a banner that says "This article needs an editorial review", skip that article and pick a different one.</li>
    </ol>
   </li>
   <li><a id="core-steps" name="core-steps"></a>Read the article, paying close attention for typos, spelling, grammar, or usage errors. Don't hesitate to switch to a different page if the first one you choose doesn't suit you.</li>
