@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 1185155
+revision_id: 1203921
 locale: id
 slug: Games
 tags: 
 title: Pengembangan games
 summary: 
 keywords: 
-needs_technical_review: False
+needs_technical_review: True
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -19,7 +19,7 @@ based_on: None
 
 <div class="column-container">
 <div class="column-half">
-<h2 id="Develop_web_games">Kembangkan&nbsp;<em>web-games</em></h2>
+<h2 id="Kembangkan_web-games">Kembangkan&nbsp;<em>web-games</em></h2>
 
 <p>Selamat datang di Pusat Pengembangan <em>Game </em>MDN! Disini kami menyediakan sarana-prasarana bagi para pengembang web yang ingin mengembangkan <em>games</em>. Anda akan menemui sejumlah artikel bermanfaat mengenai tutorial dan teknik yang dapat Anda temui di bagian kiri Menu Utama.</p>
 
@@ -34,23 +34,23 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h2 id="Port_native_games_to_the_Web">Port native games to the Web</h2>
+<h2 id="Port_native_games_to_the_Web">Port native game to the Web</h2>
 
-<p>If you are a native developer (for example writing games in C++), and you are interested in how you can port your games over to the Web, you should learn more about our <a href="http://kripken.github.io/emscripten-site/index.html">Emscripten</a> tool — this is An LLVM to JavaScript compiler, which takes LLVM bytecode (e.g. generated from C/C++ using Clang, or from another language) and compiles that into <a href="/en-US/docs/Games/Tools/asm.js">asm.js</a>, which can be run on the Web.</p>
+<p><span class="short_text" id="result_box" lang="id" tabindex="-1"><span>Jika Anda seorang</span> <span>pengembang</span> <span>asli</span></span> (<span class="short_text" id="result_box" lang="id" tabindex="-1"><span>misalnya</span> <span>menulis</span> <span>game</span> <span>di</span> <span>C</span> <span>++</span></span>), dan kamu are interested in how you can port your games over to the Web, you should learn more about our <a href="http://kripken.github.io/emscripten-site/index.html">Emscripten</a> tool — this is An LLVM to JavaScript compiler, which takes LLVM bytecode (e.g. generated from C/C++ using Clang, or from another language) and compiles that into <a href="/en-US/docs/Games/Tools/asm.js">asm.js</a>, which can be run on the Web.</p>
 
-<p>To get started, see:</p>
+<p><span class="short_text" id="result_box" lang="id" tabindex="-1"><span>Untuk memulai</span><span>, lihat</span></span>:</p>
 
 <ul>
- <li><a href="http://kripken.github.io/emscripten-site/docs/introducing_emscripten/about_emscripten.html">About Emscripten</a> for an introduction including high-level details.</li>
- <li><a href="http://kripken.github.io/emscripten-site/docs/getting_started/downloads.html">Download and Install</a> for installing the toolchain.</li>
- <li><a href="http://kripken.github.io/emscripten-site/docs/getting_started/Tutorial.html">Emscripten Tutorial</a> for a tutorial to teach you how to get started.</li>
+ <li><a href="http://kripken.github.io/emscripten-site/docs/introducing_emscripten/about_emscripten.html">Tentang Emscripten</a> <span class="short_text" id="result_box" lang="id" tabindex="-1"><span>untuk</span> <span>pengenalan</span> <span>termasuk</span> <span>rincian</span> <span>tingkat tinggi</span><span>.</span></span></li>
+ <li><a href="http://kripken.github.io/emscripten-site/docs/getting_started/downloads.html">Unduh dan Pasang </a><span class="short_text" id="result_box" lang="id" tabindex="-1"><span>untuk menginstal</span> <span>toolchain</span><span>.</span></span></li>
+ <li><a href="http://kripken.github.io/emscripten-site/docs/getting_started/Tutorial.html">Panduan Emscripten&nbsp;</a> <span id="result_box" lang="id" tabindex="-1"><span>untuk</span> <span>sebuah tutorial</span> <span>mengajarkan Anda</span> <span>bagaimana untuk memulai</span><span>.</span></span></li>
 </ul>
 </div>
 </div>
 
 <div class="column-container">
 <div class="column-half">
-<h2 id="Examples">Examples</h2>
+<h2 id="Examples">Contoh</h2>
 
 <p>For a list of web game examples, see our <a href="/en-US/docs/Games/Examples">examples page</a>. Also check out <a href="http://www.openwebgames.com/">openwebgames.com</a> for more useful resources and examples!</p>
 </div>
