@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1130825
+revision_id: 1203679
 locale: id
 slug: Web
 tags: "Web" "Landing"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Web basis terbuka memberikan peluang yang luar biasa bagi para pengembang. Untuk mengambil keuntungan penuh dari teknologi ini, Anda perlu tahu bagaimana menggunakannya. Di bawah ini Anda akan menemukan link ke dokumentasi teknologi Web kami.</p>
+<p>Web basis terbuka&nbsp;memberikan peluang&nbsp;yang luar biasa&nbsp;bagi para pengembang.&nbsp;Untuk&nbsp;mengambil keuntungan penuh dari&nbsp;teknologi ini,&nbsp;Anda perlu tahu&nbsp;bagaimana menggunakannya.&nbsp;Di bawah ini Anda&nbsp;akan menemukan&nbsp;link ke dokumentasi&nbsp;teknologi&nbsp;Web kami.</p>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -23,21 +23,21 @@ based_on: None
 
 <dl>
  <dt><a href="/id/docs/Web/HTML">HTML</a></dt>
- <dd>HyperText Markup Language adalah bahasa yang digunakan untuk mendeskripsikan dan menentukan isi dari halaman Web.</dd>
+ <dd><strong>HyperText Markup Language</strong> adalah bahasa yang digunakan untuk mendeskripsikan dan menentukan isi dari halaman Web.</dd>
  <dt><a href="/id/docs/Web/CSS">CSS</a></dt>
- <dd>Cascading Style Sheets digunakan untuk menentukan tampilan dari konten Web.</dd>
+ <dd><strong>Cascading Style Sheets</strong> digunakan untuk menentukan tampilan dari konten Web.</dd>
 </dl>
 
 <h3 id="Scripting">Scripting</h3>
 
 <dl>
  <dt><a href="/id/docs/Web/JavaScript">JavaScript</a></dt>
- <dd>JavaScript merupakan bahasa pemrogramman yang berjalan di browser klien, yang dapat digunakan untuk membuat website yang interaktif dan aplikasi untuk eksekusi browser yang aman.</dd>
+ <dd><strong>JavaScript</strong> merupakan bahasa pemrogramman yang berjalan di browser klien, yang dapat digunakan untuk membuat website yang interaktif dan aplikasi untuk&nbsp;eksekusi browser yang aman.</dd>
  <dt><a href="/id/docs/Web/Reference/API">Web APIs</a></dt>
- <dd>Bahan acuan untuk masing-masing antar muka yang terdiri APIWeb, termasuk <a href="/en-US/docs/DOM">DOM</a> dan semua API terkait dan antar mukayang dapat digunakan untuk membangun konten Web dan aplikasi.
+ <dd>Bahan acuan&nbsp;untuk masing-masing&nbsp;antar muka&nbsp;yang terdiri&nbsp;APIWeb,&nbsp;termasuk&nbsp;<a href="/en-US/docs/DOM">DOM</a>&nbsp;dan semua&nbsp;API&nbsp;terkait dan&nbsp;antar mukayang dapat digunakan untuk&nbsp;membangun konten&nbsp;Web dan aplikasi.
  <ul>
-  <li><a title="/en-US/docs/Web/API" href="/en-US/docs/Web/API">Referensi antarmuka Web API</a> — Semua antarmuka, menurut abjad.</li>
-  <li><a href="/en-US/docs/WebAPI">Halaman WebAPI</a> daftar API akses perangkat dan API lain yang berguna untuk membuat aplikasi.</li>
+  <li><a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">Referensi antarmuka Web&nbsp;API</a>&nbsp;— Semua antarmuka, menurut abjad.</li>
+  <li><a href="/en-US/docs/WebAPI">Halaman WebAPI</a>&nbsp;daftar&nbsp;API akses perangkat&nbsp;dan API lain yang berguna untuk membuat aplikasi.</li>
  </ul>
  </dd>
 </dl>
@@ -46,16 +46,16 @@ based_on: None
 
 <dl>
  <dt><a href="/en-US/docs/SVG">SVG</a></dt>
- <dd>Scalable Vector Graphics memperbolehkan anda menentukan gambar sebagai set vektor dan bentuk serta memungkinkan mereka untuk meghaluskan skala, terlepas dari ukuran ketika mereka ditarik..</dd>
- <dt><a title="/en-US/docs/Web/WebGL" href="/en-US/docs/Web/WebGL">WebGL</a></dt>
- <dd>WebGL menyediakan grafik 3D ke Web dengan memperkenalkan API yang sesuai dengan OpenGL ES 2.0, yang dapat digunakan di elemen {{HTMLElement("canvas")}} HTML.</dd>
+ <dd><strong>Scalable Vector Graphics</strong> memperbolehkan anda menentukan gambar&nbsp;sebagai&nbsp;set&nbsp;vektor&nbsp;dan bentuk&nbsp;serta memungkinkan mereka&nbsp;untuk meghaluskan skala, terlepas dari ukuran&nbsp;ketika mereka&nbsp;ditarik..</dd>
+ <dt><a href="/en-US/docs/Web/WebGL" title="/en-US/docs/Web/WebGL">WebGL</a></dt>
+ <dd><strong>WebGL</strong> menyediakan&nbsp;grafik 3D ke Web dengan memperkenalkan API yang sesuai dengan&nbsp;OpenGL ES 2.0, yang dapat digunakan di&nbsp;elemen&nbsp;<strong><code>{{HTMLElement("canvas")}}</code></strong> HTML.</dd>
 </dl>
 
 <h3 id="Lainnya">Lainnya</h3>
 
 <dl>
  <dt><a href="/en-US/docs/Web/MathML">MathML</a></dt>
- <dd>Mathematical Markup Language memungkinkan untuk menampilkan persamaan matematika kompleks dan sintaks.</dd>
+ <dd><strong>Mathematical Markup Language</strong>&nbsp;memungkinkan&nbsp;untuk menampilkan&nbsp;persamaan matematika&nbsp;kompleks dan&nbsp;sintaks.</dd>
 </dl>
 </div>
 
@@ -63,10 +63,10 @@ based_on: None
 <h2 class="Documentation" id="Dokumentasi_berdasarkan_jenis">Dokumentasi berdasarkan jenis</h2>
 
 <dl>
- <dt><a href="/en-US/docs/Web/Guide">Paduan pengembang Web </a></dt>
- <dd>Paduan pengembang web menyediakan tutorial  untuk membantu anda menggunakan teknologi web melakukan apa yang anda inginkan atau anda butuhkan.</dd>
- <dt><a href="/en-US/docs/Web/Tutorials">Tutorial untuk pengembang Web</a></dt>
- <dd>Daftar tutorial untuk membantu langkah demi langkah belajar tentang APIs, teknologi, atau area topik yang luas.</dd>
+ <dt><a href="/en-US/docs/Web/Guide">Panduan pengembang Web&nbsp;</a></dt>
+ <dd>Panduan pengembang web menyediakan tutorial &nbsp;untuk membantu anda menggunakan teknologi web melakukan apa yang anda inginkan atau anda butuhkan.</dd>
+ <dt><a href="/en-US/docs/Web/Tutorials">Tutorial&nbsp;untuk pengembang Web</a></dt>
+ <dd>Daftar tutorial untuk membantu langkah demi langkah belajar tentang APIs, teknologi,&nbsp;atau area&nbsp;topik yang luas.</dd>
  <dt><a href="/en-US/docs/Web/Reference">Referensi</a></dt>
  <dd>
  <div class="note">Halaman ini akan menawarkan link ke semua informasi referensi pada MDN, tapi masih dalam pengembangan.</div>
@@ -76,8 +76,8 @@ based_on: None
 <h2 id="Topik_lain">Topik lain</h2>
 
 <dl>
- <dt><a href="/en-US/docs/Web/Apps">Membangun Aplikasi Web</a></dt>
- <dd>Dokumentasi untuk pengembang aplikasi web; Aplikasi web hanya cukup ditulis sekali, Jalankan aplikasi dimanapun baik di mobile, desktop, dan FIrefox OS.</dd>
+ <dt><a href="/en-US/docs/Web/Apps">Membangun Aplikasi&nbsp;Web</a></dt>
+ <dd>Dokumentasi untuk pengembang aplikasi web; Aplikasi web hanya cukup ditulis sekali, Jalankan aplikasi dimanapun baik di <em>Mobile, Desktop, dan Firefox OS.</em></dd>
  <dt><a href="/en-US/docs/Web/Accessibility">Aksesibilitas</a></dt>
  <dd>Aksesibilitas dalam pengembangan Web berarti memungkinkan orang sebanyak mungkin untuk menggunakan situs web, bahkan ketika kemampuan orang-orang ini terbatas dalam beberapa cara. Di sini kami menyediakan informasi pada pengembangan konten web untuk dapat diakses.</dd>
  <dt><a href="/en-US/docs/Web/Security">Keamanan</a></dt>
