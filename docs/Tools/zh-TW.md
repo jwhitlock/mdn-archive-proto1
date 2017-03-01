@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1186543
+revision_id: 1210759
 locale: zh-TW
 slug: Tools
 tags: "Tools" "TopicStub" "NeedsMarkupWork" "Web Development" "NeedsTranslation" "Developing Mozilla" "Web Development:Tools" "NeedsTechnicalReview"
@@ -14,6 +14,8 @@ table_of_contents_depth: 1
 based_on: None
 ---
 <p>在桌機與手機上檢查、編輯、並處理 HTML、CSS 與 JavaScript 的錯誤。要取得最新的開發者工具，請下載 <a href="https://www.mozilla.org/zh-TW/firefox/developer/">Firefox Developer Edition</a>。</p>
+
+<p>{{ SauceLabsPromo("a") }}</p>
 
 <h2 id="核心工具">核心工具</h2>
 
@@ -99,6 +101,8 @@ based_on: None
  <dd>查看與編輯 <a href="/zh-TW/docs/Web/WebGL">WebGL</a> 使用的 vertex 與 fragment shader。</dd>
  <dt><a href="/zh-TW/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></dt>
  <dd>檢查音頻的節點圖形，並修改其參數。</dd>
+ <dt><a href="/zh-TW/docs/Tools/Screenshot_tool">擷取畫面</a></dt>
+ <dd>擷取整個網頁或是某個元素。</dd>
 </dl>
 </div>
 
