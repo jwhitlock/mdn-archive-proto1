@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1057722
+revision_id: 1205101
 locale: id
 slug: Web/Guide/Grafis
 tags: "2D" "3D" "MDN" "Web" "WebRTC" "OpenGL" "Canvas" "Grafik"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p><span class="seoSummary">Situs web moderen dan aplikasi sering membutuhkan tampilan grafis.</span> Gambar statis dapat dengan mudah ditamilkan dengan menggunakan elemen {{HTMLElement("img")}} , atau mengatur tampilan background dari elemen HTML dengan menggunakan properti css {{cssxref("background-image")}}. anda sering menginginkan tampilan grafis melayang, atau memanipulasi gambar dari gambar nyatanya. <span class="seoSummary">Artikel ini memberikan wawasan tentang bagaimana anda dapat melakukannya</span></p>
+<p><span class="seoSummary">Situs web moderen dan aplikasi sering membutuhkan tampilan grafis.</span>&nbsp;Gambar statis dapat dengan mudah ditamilkan dengan menggunakan elemen <code>{{HTMLElement("img")}}</code> , atau mengatur tampilan background dari elemen HTML dengan menggunakan properti css<code>&nbsp;{{cssxref("background-image")}}</code>. anda sering menginginkan tampilan grafis melayang, atau memanipulasi gambar dari gambar nyatanya. <span class="seoSummary">Artikel ini memberikan wawasan tentang bagaimana anda dapat melakukannya</span></p>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -21,12 +21,12 @@ based_on: None
 
 <dl>
  <dt><a href="/en-US/docs/HTML/Canvas">Canvas</a></dt>
- <dd>Elemen {{HTMLElement("canvas")}} menyediakan API untuk menggambar grafik 2D menggunakan javascript.</dd>
+ <dd>Elemen <code>{{HTMLElement("canvas")}}</code> menyediakan API untuk menggambar grafik 2D&nbsp;menggunakan javascript.</dd>
  <dt><a href="/en-US/docs/Web/SVG">SVG</a></dt>
- <dd>Scalable Vector Graphics(SVG) memungkinkan anda menggunakan garis, kurva, dan bentuk geometris lain untuk membuat grafik. Dengan menghindari penggunaan bitmap, Anda dapat membuat gambar yang bersih dengan skala berbagai ukuran.</dd>
+ <dd><strong>Scalable Vector Graphics</strong> (SVG) memungkinkan anda menggunakan garis, kurva, dan bentuk geometris lain untuk membuat grafik. Dengan menghindari penggunaan bitmap, Anda dapat membuat gambar yang bersih dengan skala berbagai ukuran.</dd>
 </dl>
 
-<p><span class="alllinks"><a href="/en-US/docs/tag/Graphics">Lihat Semua...</a></span> </p>
+<p><span class="alllinks"><a href="/en-US/docs/tag/Graphics">Lihat Semua...</a></span>&nbsp;</p>
 </div>
 
 <div class="section">
@@ -40,7 +40,7 @@ based_on: None
 <h2 id="Video">Video</h2>
 
 <dl>
- <dt><a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">Menggunakan HTML5 audio dan video</a></dt>
+ <dt><a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">Menggunakan&nbsp;HTML5 audio dan video</a></dt>
  <dd>Embedding video dan / atau audio di halaman web dan mengendalikan pemutaran nya.</dd>
  <dt><a href="/en-US/docs/WebRTC">WebRTC</a></dt>
  <dd>RTC pada WebRTC artinya Real-Time Communications, teknologi yang memungkinkan streaming audio/video serta berbagi data antar browser pengguna (peers).</dd>
