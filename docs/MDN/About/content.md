@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 919077
+revision_id: 1214363
 locale: en-US
 slug: MDN/About
 tags: "MDN Meta" "Guide" "Licenses" "Community" "Copyright" "Collaborating" "Documentation"
@@ -21,28 +21,27 @@ based_on: None
  <li>Web standards such as <a href="/en-US/docs/CSS" title="/en-US/docs/CSS">CSS</a>, <a href="/en-US/docs/HTML" title="/en-US/docs/HTML">HTML</a>, and <a href="/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></li>
  <li><a href="/en-US/docs/Apps" title="/en-US/docs/Apps">Open Web app development</a></li>
  <li><a href="/en-US/docs/Add-ons" title="/en-US/docs/Add-ons">Firefox add-on development</a></li>
- <li><a href="/en-US/docs/Mozilla/Firefox_OS" title="/en-US/docs/Mozilla/Firefox_OS">Firefox OS development</a></li>
 </ul>
 
 <h2 id="Our_mission">Our mission</h2>
 
-<p>MDN's mission is simple: to provide complete, accurate, and helpful documentation for everything about the <a href="/en-US/docs/Web">open Web</a>, whether it's supported by Mozilla-built software or not. If it's an open technology exposed to the Web, we want to document it.</p>
+<p>MDN's mission is simple: to provide developers with the information they need to easily build projects on the <a href="/en-US/docs/Web">open Web</a>. If it's an open technology exposed to the Web, we want to document it.</p>
 
-<p>In addition, we provide documentation about how to <a href="/en-US/docs/Mozilla">build and contribute to Mozilla projects</a> and about <a href="/en-US/Firefox_OS">Firefox OS</a> and <a href="/en-US/Apps">Web app development</a>.</p>
+<p>In addition, we provide documentation about <a href="/en-US/docs/Mozilla">Mozilla products</a> and how to <a href="/en-US/docs/Mozilla">build and contribute to Mozilla projects</a>. We also cover the <a href="/en-US/docs/Mozilla/B2G_OS">B2G OS</a> (formerly Firefox OS).</p>
 
 <p>If you're not sure whether a particular topic should be covered on MDN, read: <a href="/en-US/docs/Project:MDN/Contributing/Does_this_belong">Does this belong on MDN?</a></p>
 
 <h2 id="How_you_can_help">How you can help</h2>
 
-<p>You don't need to be able to code—or to write—in order to be able to help MDN! We have lots of ways you can help, from reviewing articles to be sure they make sense, to contributing text, to adding sample code. In fact, there are so many ways to help that we have a <a href="/en-US/docs/MDN/Getting_started">Getting Started</a> page that helps you pick tasks to do, based on your interests and how much time you have to spare!</p>
+<p>You don't need to be able to code—or to write well—in order to be able to help MDN! We have lots of ways you can help, from reviewing articles to be sure they make sense, to contributing text, to adding sample code. In fact, there are so many ways to help that we have a <a href="/en-US/docs/MDN/Getting_started">Getting Started</a> page that helps you pick tasks to do, based on your interests and how much time you have to spare!</p>
 
 <p>You can also help by <a href="/en-US/docs/MDN/About/Promote">promoting MDN</a> on your own blog or website.</p>
 
 <h2 id="The_MDN_community">The MDN community</h2>
 
-<p>Our community is a global one! We have amazing contributors all around the world, in a number of languages. If you'd like to learn more about us, or if you need help of any kind with MDN, feel free to check out our mailing list or IRC channel !</p>
+<p>Our community is a global one! We have amazing contributors all around the world, in a number of languages. If you'd like to learn more about us, or if you need help of any kind with MDN, feel free to check out our <a href="http://lists.mozilla.org/listinfo/dev-mdc">mailing list</a> or <a href="irc://irc.mozilla.org#mdn">IRC channel</a>! You can also keep up with what we're up to by following our Twitter account, <a href="http://twitter.com/MozDevNet">@MozDevNet</a>. You can also send tweets our way if you see something wrong or if you'd like to offer feedback (or great big thank yous) to our writers and contributors!</p>
 
-<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC||Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events||Trello board|https://trello.com/b/HAhl54zz/status|Project management board||Contribute|/en-US/Inbox|Create a page", "MozDevNet")}}</p>
+<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC||Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events", "MozDevNet")}}</p>
 
 <h2 id="Using_MDN_content">Using MDN content</h2>
 
@@ -55,7 +54,7 @@ based_on: None
 <p>Note that in the example, "Mozilla Contributors" links to the history of the cited page. See <a href="http://wiki.creativecommons.org/Marking/Users">Best practices for attribution</a> for further explanation.</p>
 
 <div class="note">
-<p><strong>Note:</strong> See <a href="/en-US/docs/MDN_content_on_WebPlatform.org" title="/en-US/docs/MDN_content_on_WebPlatform.org">MDN content on WebPlatform.org</a> for information about how to reuse and attribute MDN content on that site.</p>
+<p>See <a href="/en-US/docs/MDN_content_on_WebPlatform.org" title="/en-US/docs/MDN_content_on_WebPlatform.org">MDN content on WebPlatform.org</a> for information about how to reuse and attribute MDN content on that site.</p>
 </div>
 
 <p>Code samples added to this wiki before August 20, 2010 are available under the <a class="external" href="http://www.opensource.org/licenses/mit-license.php" title="http://www.opensource.org/licenses/mit-license.php">MIT license</a>; you should insert the following attribution information into the MIT template:&nbsp;"© &lt;date of last wiki page revision&gt; &lt;name of person who put it in the wiki&gt;".</p>
@@ -67,7 +66,7 @@ based_on: None
 <p>Some older content was made available under a license other than the licenses noted above; these are indicated at the bottom of each page by way of an <a class="internal" href="/Archive/Meta_docs/Examples/Alternate_License_Block" title="Project:En/Examples/Alternate License Block">Alternate License Block</a>.</p>
 
 <div class="warning">
-<p><strong>Important:</strong> No new pages may be created using alternate licenses.</p>
+<p>No new pages may be created using alternate licenses.</p>
 </div>
 
 <p><strong>Copyright for contributed materials remains with the author unless the author assigns it to someone else</strong>.</p>
@@ -79,9 +78,9 @@ based_on: None
 
 <h3 id="Downloading_content">Downloading content</h3>
 
-<p>You can download <a href="/media/developer.mozilla.org.tar.gz">a full tarball mirror of MDN</a>. (8GB as of 2015-08-18)</p>
+<p>You can download <a href="/media/developer.mozilla.org.tar.gz">a full tarball mirror of MDN</a> (2.5 GB as of 2016-11-30).</p>
 
-<h4 id="Single_Pages">Single Pages</h4>
+<h4 id="Single_pages">Single pages</h4>
 
 <p>You can retrieve the content of a single page on MDN by adding <a href="/en-US/docs/MDN/Kuma/API#Document_parameters">document parameters</a> to the URL to specify what format you want.</p>
 
