@@ -1,19 +1,19 @@
 ---
 version: prototype1
-revision_id: 1071664
+revision_id: 1214417
 locale: th
 slug: MDN/Contribute/Howto/Do_an_editorial_review
 tags: "บัวปูนปั้น สำเร็จรูป"
 title: How to do an editorial review
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 6be7e8ca5c0255e6d15c777f982b8c11214e05b3
+based_on: None
 ---
-<div>Ctrl/cmd v{{IncludeSubnav("/en-US/docs/MDN")}}</div>
+<p><a href="http://www.mastae.net/" target="_blank"><img alt="" src="http://www.mastae.net/" style="height:91px; width:320px" /></a>Ctrl/cmd v{{IncludeSubnav("/en-US/docs/MDN")}}</p>
 
 <p class="summary"><strong>Editorial reviews</strong> consist of fixing typos, spelling, grammar, usage, or textual errors in an article. Not all contributors are language experts, but regardless due to their knowledge will have contributed extremely useful articles, which need copy-editing and proof-reading. This is done in an editorial review.</p>
 
