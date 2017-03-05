@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1188823
+revision_id: 1214329
 locale: it
 slug: Mozilla/Add-ons/WebExtensions
 tags: 
@@ -8,20 +8,20 @@ title: WebExtensions
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 1143511
+based_on: None
 ---
 <div>{{AddonSidebar}}</div>
 
-<p>Le WebExtensions sono un metodo per sviluppare cross-browser add-ons. In larga parte il metodo è compatibile con la <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a> supportata da Google Chrome e Opera. Le estensioni create per questi browsers funzioneranno con <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">poche modifiche</a> su Firefox o <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a>. La API è anche completamente compatibile con <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">multiprocess Firefox</a>.</p>
+<p>Le WebExtensions sono un metodo cross-browser per sviluppare add-on. In larga parte il metodo è compatibile con le <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a> supportate da Google, Chrome e Opera. Le estensioni create per questi browsers funzioneranno con <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">poche modifiche</a> su Firefox o <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a>. Le API sono anche completamente compatibili con <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">Firefox multiprocesso</a>.</p>
 
-<p>Vogliamo continuare ad estendere la API per supportare le necessità degli sviluppatori di add-ons, perciò se hai idee, ci piacerebbe sentirle. Contattaci su <a href="https://mail.mozilla.org/listinfo/dev-addons">dev-addons mailing list</a> o <a href="irc://irc.mozilla.org/webextensions">#webextensions</a> su <a href="https://wiki.mozilla.org/IRC">IRC</a>.</p>
+<p>Vogliamo continuare ad estendere le API per supportare le necessità degli sviluppatori di add-ons, perciò se hai idee, ci piacerebbe sentirle. Contattaci su <a href="https://mail.mozilla.org/listinfo/dev-addons">dev-addons mailing list</a> o <a href="irc://irc.mozilla.org/webextensions">#webextensions</a> su <a href="https://wiki.mozilla.org/IRC">IRC</a>.</p>
 
 <div class="row topicpage-table">
 <div class="section">
-<h3 id="Getting_started">Iniziare</h3>
+<h3 id="Iniziare">Iniziare</h3>
 
 <ul>
  <li><a href="/en-US/Add-ons/WebExtensions/What_are_WebExtensions">Cosa sono le WebExtensions?</a></li>
@@ -31,7 +31,7 @@ based_on: 1143511
  <li><a href="/en-US/Add-ons/WebExtensions/Examples">Esempi di WebExtensions</a></li>
 </ul>
 
-<h3 id="How_to">Come fare</h3>
+<h3 id="Come_fare">Come fare</h3>
 
 <ul>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests">Rilevare richieste HTTP</a></li>
@@ -44,7 +44,7 @@ based_on: 1143511
  <li>Accedere e modificare&nbsp;cookies</li>
 </ul>
 
-<h3 id="Concepts">Concetti</h3>
+<h3 id="Concetti">Concetti</h3>
 
 <ul>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/API">JavaScript API overview</a></li>
@@ -52,7 +52,7 @@ based_on: 1143511
  <li><a href="/en-US/Add-ons/WebExtensions/Content_scripts">Scripts contenuto</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/Match_patterns">Match di patterns</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Internationalization">Internationazionalizzazione</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_Security_Policy">Policy Sicurezza Contenuti</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_Security_Policy">Policy di Sicurezza dei Contenuti</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging">Messaging Nativo</a></li>
 </ul>
 
@@ -63,7 +63,7 @@ based_on: 1143511
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on">Porting di un add-on Firefox</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Embedded_WebExtensions">Embedded WebExtensions</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Comparison_with_the_Add-on_SDK">Comparazione con la Add-on SDK</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Comparison_with_XUL_XPCOM_extensions">Comparazione con estensioni XUL/XPCOM</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Comparison_with_XUL_XPCOM_extensions">Comparazione con le estensioni XUL/XPCOM</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Chrome_incompatibilities">Incompatibilità di Chrome</a></li>
 </ul>
 
@@ -80,7 +80,7 @@ based_on: 1143511
 </div>
 
 <div class="section">
-<h3 id="Reference">Riferimenti</h3>
+<h3 id="Riferimenti">Riferimenti</h3>
 
 <ul>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/API">JavaScript API overview</a></li>
