@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1054720
+revision_id: 1215553
 locale: ru
 slug: Web/Guide/Графика
 tags: 
@@ -33,7 +33,7 @@ based_on: None
 <h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">3D графика</h2>
 
 <dl>
- <dt><a href="/en-US/docs/Web/WebGL">WebGL</a></dt>
+ <dt><a href="/ru/docs/Web/WebGL">WebGL</a></dt>
  <dd>Руководство по быстрому старту с WebGL. WebGL предоставляет API для работы с 3D графиками&nbsp;в веб. Эта технология позволяет Вам использовать стандартный OpenGL ES в веб контексте.</dd>
 </dl>
 
