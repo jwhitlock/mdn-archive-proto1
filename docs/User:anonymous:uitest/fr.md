@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1181727
+revision_id: 1215919
 locale: fr
 slug: User:anonymous:uitest
 tags: 
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 60d9c50484a9953d8656f688b73729d8ff017325
+based_on: None
 ---
 <p>{{HTMLSidebar()}}</p>
 
