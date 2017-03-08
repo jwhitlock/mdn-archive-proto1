@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1146822
+revision_id: 1216399
 locale: en-US
 slug: User:anonymous:uitest
 tags: 
@@ -15,7 +15,7 @@ based_on: None
 ---
 <p>{{HTMLSidebar()}}</p>
 
-<p>This is a seed test article for functional testing.</p>
+<p>This is a test article for functional testing.</p>
 
 <p><span class="seoSummary">SEO SUMMARY</span></p>
 
