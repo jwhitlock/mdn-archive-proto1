@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1189747
+revision_id: 1216979
 locale: zh-CN
 slug: MDN/Contribute/Howto/Do_an_editorial_review
 tags: "文档" "编辑审核"
@@ -47,7 +47,7 @@ based_on: None
   <ol>
    <li>点击右上角蓝色的&nbsp;<code><strong>编辑</strong>&nbsp;</code>按钮；它将带你进入 <a href="/en-US/docs/Project:MDN/Contributing/Editor_guide">MDN 编辑器</a>。</li>
    <li>更正所有你看到的的排版、错字、用词、语法或者词语使用错误。你并不需要将所有问题都一次性改好，不过当完成整篇文章的时候你还觉得不确定是否完美，一定要保留文法复核的请求。</li>
-   <li>在文本底部输入一段<strong>修改评论</strong>；比如 <em>“文法符合：更改了排版，语法和用词错误。” &nbsp;</em>这有助于其他编辑者和网站管理员知道你更改了什么以及为什么做出更改。</li>
+   <li>在文本底部输入一段<strong>修订注释</strong>；比如 <em>“文法符合：更改了排版，语法和用词错误。” &nbsp;</em>这有助于其他编辑者和网站管理员知道你更改了什么以及为什么做出更改。</li>
    <li>如果你确定一切都已改好，在 <code><strong>需要复核吗？</strong></code> 下面取消 <code><strong>文法</strong></code> 的选择。这一项位于页面的 <strong><code>版本备注</code></strong> 当中。<br />
     <img alt="文法复核编辑模式屏幕截图" src="https://mdn.mozillademos.org/files/13166/editorial%20review%20edit-mode%5Bzh-CN%5D.JPG" style="height:246px; width:259px" /></li>
    <li>点击&nbsp;<strong><code>发布</code>&nbsp;</strong>按钮。</li>
