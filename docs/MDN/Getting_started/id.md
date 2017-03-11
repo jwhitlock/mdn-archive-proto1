@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1201981
+revision_id: 1217413
 locale: id
 slug: MDN/Langkah_Awal
 tags: "MDN" "Proyek MDN" "Panduan" "Langkah Awal" "Dokumentasi"
@@ -8,14 +8,14 @@ title: Langkah Awal Di MDN
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
 <div>{{IncludeSubnav("/id/docs/MDN")}}</div>
 
-<p id="What_is_MDN.3F"><span class="seoSummary">Kami adalah komunitas terbuka dari<span class="seoSummary"><span id="result_box" lang="id"><span class="hps"> pengembang</span> <span class="hps">sumber daya</span> <span class="hps">bangunan</span></span></span> <span id="result_box" lang="id"><span class="hps">untuk</span> <span class="hps">Web</span> <span class="hps">yang lebih baik</span></span>, terlepas dari merek, browser, atau perangkat. Siapa saja dapat memberikan kontribusinya dan mereka yang membuat kami semakin kuat. Bersama kita bisa melanjutkan untuk menggerakkan inovasi di Web untuk memberikan pelayanan yang lebih baik. Dimulai disini, dengan Anda. </span></p>
+<p id="What_is_MDN.3F"><span class="seoSummary">Kami adalah komunitas terbuka yang terdiri dari pengembang dan penulis sumber daya untuk Web yang lebih baik, terlepas dari merek, browser, atau perangkat. Siapa saja dapat memberikan kontribusinya dan mereka yang membuat kami semakin kuat. Bersama kita bisa melanjutkan untuk menggerakkan inovasi di Web untuk memberikan pelayanan yang lebih baik. Dimulai disini, dengan Anda. </span></p>
 
 <p><span>Setiap bagian dari MDN (dokumen, demonstrasi, dan situs itu sendiri) dibuat oleh komunitas terbuka para pengembang sumber daya. Bergabunglah bersama kami!</span></p>
 
