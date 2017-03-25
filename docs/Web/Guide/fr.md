@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1114679
+revision_id: 1223143
 locale: fr
 slug: Web/Guide
 tags: "Web" "Guide" "Landing" "TopicStub" "NeedsTranslation"
@@ -9,13 +9,13 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <p><span style="line-height:1.5">Ces articles fournissent des informations d'utilisation pour vous aider à utiliser les technologies et les API spécifiques.</span></p>
 
-<p><strong>Guide du développeur HTM.</strong></p>
+<p><strong>Guide du développeur HTML.</strong></p>
 
 <p>HyperText Markup Language (HTML) est le noyau de language pour l'ensemble du contenu Web. L'essentiel de ce que vous voyez sur l'écran de votre navigateur utilise le HTML.</p>
 
