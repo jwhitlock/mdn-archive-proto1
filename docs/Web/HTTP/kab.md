@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1221015
+revision_id: 1224487
 locale: kab
 slug: Web/HTTP
 tags: 
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 1187221
+based_on: None
 ---
 <div>{{HTTPSidebar}}</div>
 
@@ -19,9 +19,9 @@ based_on: 1187221
 
 <div class="column-container">
 <div class="column-half">
-<h2 id="Tutorials">Itutorialen</h2>
+<h2 id="Itutorialen">Ituṭurialen</h2>
 
-<p>Learn how to use HTTP with guides and tutorials.</p>
+<p>Afet-ed ammek ara tesqedcem akked&nbsp; imniren ed ituṭurialen.</p>
 
 <dl>
  <dt><a href="/en-US/docs/Web/HTTP/Overview">Overview of HTTP</a></dt>
@@ -52,7 +52,7 @@ based_on: 1187221
 </div>
 
 <div class="column-half">
-<h2 id="Reference">Timselɣa</h2>
+<h2 id="Timselɣa">Timselɣa</h2>
 
 <p>Browse through detailed HTTP reference documentation.</p>
 
@@ -67,7 +67,7 @@ based_on: 1187221
  <dd>The {{HTTPHeader("Content-Security-Policy")}} response header fields allows web site administrators to control resources the user agent is allowed to load for a given page. With a few exceptions, policies mostly involve specifying server origins and script endpoints.</dd>
 </dl>
 
-<h2 id="Tools_resources">Ifecka &amp;&nbsp;iɣbula</h2>
+<h2 id="Ifecka_iɣbula">Ifecka &amp;&nbsp;iɣbula</h2>
 
 <p>Helpful tools and resources for understanding and debugging HTTP.</p>
 
