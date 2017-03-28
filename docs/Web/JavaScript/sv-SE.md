@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1058566
+revision_id: 1224301
 locale: sv-SE
 slug: Web/JavaScript
 tags: "Inlära"
