@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1190585
+revision_id: 1225009
 locale: en-US
 slug: Mozilla/Add-ons/WebExtensions
 tags: "add-on" "Landing" "Extensions" "WebExtensions"
@@ -44,11 +44,22 @@ based_on: None
  <li>Access and modify cookies</li>
 </ul>
 
+<h3 id="User_interface">User interface</h3>
+
+<ul>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Browser_action">Browser actions</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Page_actions">Page actions</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Popups">Popups</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Sidebars">Sidebars</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Options_pages">Options pages</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Context_menu_items">Context menu items</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Notifications">Notifications</a></li>
+</ul>
+
 <h3 id="Concepts">Concepts</h3>
 
 <ul>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/API">JavaScript API overview</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/User_interface_components">User interface components</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/Content_scripts">Content scripts</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/Match_patterns">Match patterns</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Internationalization">Internationalization</a></li>
