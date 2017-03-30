@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1121673
+revision_id: 1225305
 locale: es
 slug: MDN/Contribute/Howto/revision_tecnica
 tags: 
@@ -38,7 +38,7 @@ based_on: None
     <ol>
      <li>Vé a la lista de páginas que necesitan <a href="/en-US/docs/needs-review/technical">revisiones técnicas</a>. Ésta lista todas las páginas para las cuales se solicitó revisión técnica.</li>
      <li>Elige una página con cuyo tema estés muy familiarizado.</li>
-     <li>Haz click en el enlace del artículocle para cargar la página.</li>
+     <li>Haz click en el enlace del artículo&nbsp;para cargar la página.</li>
      <li>Una vez cargada la página, haz click en el botón &nbsp;<strong>EDITAR (EDIT)</strong>&nbsp;de la parte superior; esto te lleva al editor MDN. No dudes en cambiar a una página diferente si la primera que eliges no te conviene.</li>
      <li>Mientras lees el artículo, corrige cualquier información técnica que no esté correcta y agrega cualquier información importante que falte.</li>
      <li>Ingresa un comentario al pie del artículo que describa lo que hiciste, como "Revisión técnica completa".&nbsp;Si corregiste la información, incluye eso en tu comentario, por ejemplo "<em>Revisión Técnica: descripciones de parámetros arregladas".</em></li>
