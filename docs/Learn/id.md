@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1174609
+revision_id: 1225147
 locale: id
 slug: Learn
 tags: "Web" "Index" "Pemula" "Landing"
@@ -16,10 +16,10 @@ based_on: None
 <div>{{LearnSidebar}}</div>
 
 <div>
-<p class="summary">Selamat Datang di Area Belajar MDN. Seri artikel ini bertujuan untuk memberikan paduan&nbsp;lengkap untuk pengembang&nbsp;web pemula dengan semua yang mereka butuhkan untuk memulai coding website sederhana.</p>
+<p class="summary">Selamat Datang di Area Belajar MDN. Kumpulan artikel ini bertujuan untuk memberikan paduan&nbsp;lengkap untuk pengembang&nbsp;web pemula dengan semua yang mereka butuhkan untuk memulai coding website sederhana.</p>
 </div>
 
-<p>Tujuan dari area MDN bukan untuk membawa anda dari "Pemula" hingga "Ahli" akan tetapi akan membawa anda dari&nbsp;"Pemula" hingga "Titik nyaman". Dari sana anda diharapkan dapat memulai belajar sendiri, belajar dari&nbsp;<a href="https://developer.mozilla.org/id/">Seluruh&nbsp;MDN</a>, &nbsp;dan sumber lain dari tingkat menengah hingga lanjutan yang sesuai dengan pengetahuan anda sebelumnya.</p>
+<p>Tujuan dari area MDN bukan untuk mengubah anda dari "Pemula" menjadi "Ahli", akan tetapi akan membawa anda dari&nbsp;"Pemula" hingga "Titik nyaman". Dari sana anda diharapkan dapat memulai belajar sendiri, belajar dari&nbsp;<a href="https://developer.mozilla.org/id/">Seluruh&nbsp;MDN</a>, &nbsp;dan sumber lain dari tingkat menengah hingga lanjutan yang sesuai dengan pengetahuan anda sebelumnya.</p>
 
 <p>Jika anda adalah pemula, pengembangan web akan sangat menantang&nbsp;— kami bertujuan untuk menuntun anda agar belajar dengan nyaman, dengan memberikan topik yang detail, yang dapat anda gunakan&nbsp;untuk belajar. Anggap rumah sendiri baik anda adalah seorang pelajar yang belajar pengembagan web&nbsp;( untuk anda sendiri&nbsp;atau bagian dari pelajaran di kelas), seorang pengajar mencari materi kelas, seorang penghobi, atau orang lain yang hanya ingin mengetahui bagaimana kerja teknologi web.</p>
 
