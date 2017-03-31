@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1186905
+revision_id: 1225865
 locale: kab
 slug: Tools
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -92,7 +92,7 @@ based_on: None
  <dt><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></dt>
  <dd>Select a color from the page.</dd>
  <dt><a href="/en-US/docs/Tools/Scratchpad">Scratchpad</a></dt>
- <dd>A text editor built into Firefox that lets you write and execute JavaScript.</dd>
+ <dd>Amaẓṛag n umagrad yeseɣreden deg Firefox yettaǧǧa-kwen a-t arum u a-t selkemem JavaScriptt.</dd>
  <dt><a href="/en-US/docs/Tools/Style_Editor">Style Editor</a></dt>
  <dd>View and edit CSS styles for the current page.</dd>
  <dt><a href="/en-US/docs/Tools/Shader_Editor">Shader Editor</a></dt>
