@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 779883
+revision_id: 1226069
 locale: ca
 slug: Web/JavaScript
 tags: "TopicStub" "JavaScript" "References" "NeedsTranslation"
@@ -8,7 +8,7 @@ title: JavaScript
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
@@ -16,7 +16,7 @@ based_on: None
 <div>{{JsSidebar()}}</div>
 
 <div class="summary">
-<p><strong>JavaScript</strong><sup>®</sup> (tot sovint abreujat com a <strong>JS</strong>) és un llenguatge orientat a objectes, lleuger i interpretat, amb <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">funcions de primera classe</a>, més conecgut per ser el llenguatge d'scripting per a pàgines Web, però també <a class="external" href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">utilitzat en molts àmbits fora d'un navegador web</a> com ara <a class="external" href="http://nodejs.org/">node.js</a> o <a href="http://couchdb.apache.org">Apache CouchDB</a>. Es tracta d'un llenguatge d'scripting multi-paradigma, <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based" title="Prototype-based">basat en prototipus</a>, que és dinamic i suporta estils de programació funcional, imperativa i orientada a objectes. Llegiu més <a href="/ca/docs/Web/JavaScript/About_JavaScript">sobre JavaScript</a>.</p>
+<p><strong>JavaScript</strong><sup>®</sup> (tot sovint abreujat com a <strong>JS</strong>) és un llenguatge orientat a objectes, lleuger i interpretat, amb <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">funcions de primera classe</a>, més conegut per ser el llenguatge d'scripting per a pàgines Web, però també <a class="external" href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">utilitzat en molts àmbits fora d'un navegador web</a> com ara <a class="external" href="http://nodejs.org/">node.js</a> o <a href="http://couchdb.apache.org">Apache CouchDB</a>. Es tracta d'un llenguatge d'scripting multi-paradigma, <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based" title="Prototype-based">basat en prototipus</a>, que és dinamic i suporta estils de programació funcional, imperativa i orientada a objectes. Llegiu més <a href="/ca/docs/Web/JavaScript/About_JavaScript">sobre JavaScript</a>.</p>
 </div>
 
 <p>El standard JavaScript és <a href="/ca/docs/JavaScript/Language_Resources">ECMAScript</a>. A l'any 2012, tots els navegadors moderns suporten plenament l'ECMAScript 5.1. Navegadors més vells suporten com a mínim l'ECMAScript 3. Una sisena gran revisió del standard està en procés i s'espera que estigui enllestida al voltant de mitjans de 2015.</p>
@@ -56,7 +56,7 @@ based_on: None
  <dd>JavaScript proporciona dos operacions diferents per a comparar valors: l'igualtat estricta mitjançant <code>===</code> i l'igualtat relaxada mitjançant <code>==.</code></dd>
 </dl>
 
-<h3 id="Nivell_avan.C3.A7at">Nivell avançat</h3>
+<h3 id="Nivell_avançat">Nivell avançat</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/ca/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain">Herència i la cadena de prototipus</a></dt>
@@ -71,7 +71,7 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h2 id="Refer.C3.A8ncia">Referència</h2>
+<h2 id="Referència">Referència</h2>
 
 <p>Navegue per la documentació de <a href="/ca/docs/Web/JavaScript/Reference">referència de JS</a> complerta.</p>
 
