@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1204907
+revision_id: 1226037
 locale: ru
 slug: MDN/Getting_started
 tags: 
@@ -13,23 +13,125 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>SERVER INGMASTER</title>
-<meta name="generator" content="WYSIWYG Web Builder 11 - http://www.wysiwygwebbuilder.com">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="Untitled2.css" rel="stylesheet">
-<link href="index.css" rel="stylesheet">
-<script src="jquery-1.12.4.min.js"></script>
-<script src="wwb11.min.js"></script>
-</head>
-<body>
-<div id="wb_Text1">
-<span style="color:#0000CD;font-family:Arial;font-size:27px;"> </span><span style="color:#000000;font-family:Arial;font-size:27px;"><strong>MMC CONSOL MICROSOFT©</strong></span><span style="color:#0000CD;font-family:Arial;font-size:27px;"><strong> </strong></span><span style="color:#A52A2A;font-family:Arial;font-size:27px;"><strong>ING</strong></span><span style="color:#006400;font-family:Arial;font-size:27px;"><strong>MASTER<sup>&#0169;</sup></strong></span><span style="color:#0000CD;font-family:Arial;font-size:27px;"><br></span><span style="color:#2F4F4F;font-family:Tahoma;font-size:27px;"><strong><sup>&nbsp; </sup></strong></span><span style="color:#2F4F4F;font-family:Tahoma;font-size:27px;letter-spacing:4.07px;"><strong><sup>Edit by:BEKOV TEMBOT</sup></strong></span><span style="color:#2F4F4F;font-family:Tahoma;font-size:27px;"><strong><sup>&nbsp; </sup></strong></span><span style="color:#2F4F4F;font-family:Tahoma;font-size:27px;letter-spacing:0.07px;"><strong><sup>IMS™</sup></strong></span><span style="color:#000000;font-family:Arial;font-size:27px;"><br></span></div>
-<div id="wb_Image1">
-<a href="#" onclick="ShowObject('wb_Text1', 1);return false;"><img src="images/img0001.png" id="Image1" alt=""></a></div>
-</body>
-</html>
+<div>{{IncludeSubnav("/ru/docs/MDN")}}</div>
+
+<p>Мы открытое сообщество разработчиков, создающих ресурсы для лучшего Веба, независимо от бренда, браузера или платформы. Каждый может внести свой вклад и каждый, кто делает это, делает сильнее всех нас. Вместе мы можем продолжать стимулировать развитие инноваций в Вебе ради всеобщего блага. И это начинается здесь, с вами.</p>
+
+<p><span>Каждая часть MDN (начиная с кода, который делает возможным работу этого сайта с документацией, и заканчивая, примерами кода и демо)&nbsp;создана открытым сообществом помощников и разработчиков. Присоединяйтесь к нам!</span></p>
+
+<h2 id="3_простых_шага_в_MDN"><span>3 простых шага в&nbsp;MDN</span></h2>
+
+<p><span class="seoSummary">MDN построена по принципу вики, где <strong>каждый</strong> может добавлять и редактировать контент. Вам не обязательно быть программистом или много знать о технологиях. Здесь много задач, которые необходимо сделать: от простых (<span>корректура</span> <span>и</span> <span>исправление опечаток</span>) до сложных (написание документации для API).</span></p>
+
+<p>Сделать вклад в развитие MDN легко и безопасно. Даже если Вы допустили ошибку, её легко можно исправить. Даже если Вы не знаете точно, как что-то должно выглядеть, или Ваша грамматика недостаточно хороша, не беспокойтесь об этом! У нас есть команда людей, работа которых состоит в том, чтобы на MDN был максимально хороший контент. Кто-то будет рядом, чтобы убедиться, что Ваши работы аккуратны и хорошо написаны.</p>
+
+<h3 id="Шаг_1_Создайте_аккаунт_MDN">Шаг 1: Создайте аккаунт MDN</h3>
+
+<p>Чтобы участвовать в развитии MDN, необходимо<a href="/ru/docs/MDN/Contribute/Howto/Create_an_MDN_account"> зарегистрировать аккаунт</a>.</p>
+
+<p>Если ваши задачи включают в себя создание новых страниц, пожалуйста, посмотрите&nbsp;{{SectionOnPage("/ru/docs/MDN/Contribute/Creating_and_editing_pages", "Получение прав на создание страницы")}} для важной информации о том, как получить разрешение на добавление новых страниц; из-за соображений безопасности, у новых аккаунтов эта возможность отключена по умолчанию.</p>
+
+<h3 id="Шаг_2_Выберите_задачу_для_выполнения">Шаг 2: Выберите задачу для выполнения</h3>
+
+<p>Теперь, когда у Вас есть аккаунт в MDN, прочтите описание различных типов задач в {{anch("Возможные типы задач", "списке ниже")}}, и решите, какая из них наиболее Вам подходит. Вы можете выбрать любую задачу, которая понравится, и начать делать вклад.</p>
+
+<h3 id="Шаг_3_Выполните_задачу">Шаг 3: Выполните задачу</h3>
+
+<p>Как только вы решили, какого рода задачей вы хотите заняться, найдите&nbsp;подходящую страницу, пример кода и так далее - и вперёд!</p>
+
+<p>Не беспокойтесь о том, что можете допустить ошибки; другие участники MDN здесь, чтобы помочь&nbsp;исправить мелкие недочеты, которые Вы могли пропустить.&nbsp;Если появятся вопросы в процессе работы, загляните на страницу <a href="/ru/docs/MDN/Community">Сообщества</a> для получения информации или в списки рассылок и чаты, где можно получить ответы.</p>
+
+<div class="note">
+<p><strong>Внимание: </strong>Если Вы хотите поэкспериментировать с редактированием MDN перед тем, как сделать что-то «по-настоящему», можете потренироваться на странице в <strong><a href="/ru/docs/Sandbox">Песочнице</a></strong>. Пожалуйста, экспериментируйте только там. Пожалуйста, не делайте ненужных изменений на обычных страницах с содержимым, только чтобы посмотреть, что случится; это добавляет работы другим.</p>
+</div>
+
+<p>Когда закончите, смело приступайте к следующей задаче или посмотрите чуть ниже, <a href="#Другие_вещи_которые_вы_можете_делать_на_MDN">какие еще вещи можно сделать на MDN</a>.</p>
+
+<h2 id="Возможные_типы_задач">Возможные типы задач</h2>
+
+<p>Есть несколько направлений, которые Вы можете выбрать, чтобы внести свой вклад в развитие MDN, в зависимости от квалификации и интересов. Даже если некоторые задачи могут быть сложными, у нас есть много простых и доступных. На решение многих из этих задач уйдет не более пяти минут (а то и меньше!). Рядом с задачей и ее кратким описанием Вы найдете приблизительное время, за которое обычно решаются задачи данного типа.</p>
+
+<h3 id="Вариант_1_Мне_нравятся_слова">Вариант 1: Мне нравятся слова</h3>
+
+<p>Вы можете помочь нам пересмотреть или отредактировать существующие документы, указать правильные тэги или поправить их.</p>
+
+<ul>
+ <li><a href="/ru/docs/MDN/Contribute/Howto/Set_the_summary_for_a_page"><font><font>Напишите описание страницы</font></font></a><font><font> (5-15 минут)</font></font></li>
+ <li><a href="/ru/docs/MDN/Contribute/Howto/Do_an_editorial_review">Редакционная проверка</a> (5–30 минут)</li>
+ <li><a href="/ru/docs/MDN/Contribute/Howto/Write_a_new_entry_in_the_Glossary"><font><font>Добавьте&nbsp;новую запись в словарь</font></font></a><font><font>&nbsp;(15 минут - 1 час)</font></font></li>
+ <li><font><font><a href="https://developer.mozilla.org/ru/docs/Project:MDN/Contributing/How_to/Write_an_article_to_help_learning_the_web">Напишите&nbsp;статью, чтобы помочь людям узнать о Вебе</a></font></font><font><font>&nbsp;(1-3 часа)</font></font></li>
+</ul>
+
+<div class="note"><strong>Примечание:</strong> Если Вы рецензируете статьи или пишете новые, мы просим ознакомиться с&nbsp;<a href="/ru/docs/Project:MDN/Style_guide">Инструкцией по оформлению</a>. Это поможет статьям соответствовать правилам MDN.</div>
+
+<h3 id="Вариант_2_Мне_нравится_писать_код">Вариант 2: Мне нравится писать код</h3>
+
+<p>Нам нужно больше примеров кода! Вы также можете помочь нам в разработке движка для нашей платформы, <a href="https://developer.mozilla.org/ru/docs/Project:MDN/Kuma">Kuma</a>!</p>
+
+<ul>
+ <li><a href="/ru/docs/Project:MDN/Contributing/How_to/Convert_code_samples_to_be_live_"><font><font>Преобразование примеров кода в&nbsp;"живые"</font></font></a><font><font> (30 минут)</font></font></li>
+ <li><a href="https://kuma.readthedocs.org/en/latest/installation-vagrant.html"><font><font>Настройка среды сборки Kuma</font></font></a><font><font> (1 час)</font></font></li>
+ <li><a href="https://github.com/mozilla/kuma#readme"><font><font>Отправьте ваш код патча в кодовую базу Kuma</font></font></a><font><font> (1 час)</font></font></li>
+</ul>
+
+<h3 id="Вариант_3_Мне_одинаково_нравится_писать_слова_и_код">Вариант 3: Мне одинаково нравится писать слова и код</h3>
+
+<p>У нас есть задачи, которые требуют технических навыков и языковых, такие как написание новых статей, технический обзор, а также адаптация документов.</p>
+
+<ul>
+ <li><font><font><a href="/ru/docs/Project:MDN/Contributing/How_to/Tag_JavaScript_pages">Поставить метки JavaScript страницам</a>&nbsp;</font></font><font><font>(5 минут)</font></font></li>
+ <li><a href="/ru/docs/MDN/Promote"><font><font>Содействие MDN на вашем собственном веб-сайте</font></font></a><font><font> (5 минут)</font></font></li>
+ <li><a href="/ru/docs/MDN/Contribute/Howto/Do_a_technical_review">Технические обзоры</a>&nbsp;(30 минут)</li>
+ <li><a href="/ru/docs/Contribute_to_docs_that_are_currently_needed">Напишите новую статью по теме, которая в настоящее время не освещена</a>&nbsp;(1 час или больше)</li>
+ <li><a href="/ru/docs/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web">Создайте интерактивное приложение, чтобы помочь людям узнать больше о Вебе</a>&nbsp;(1 час или больше)</li>
+ <li><a href="/ru/docs/MDN/Contribute/Howto/Resolve_a_mentored_developer_doc_request">Исправьте баги документации</a>&nbsp;из&nbsp;<a href="http://www.joshmatthews.net/bugsahoy/?mdn=1">MDN категории в Bugs Ahoy</a> (1 час или больше)</li>
+</ul>
+
+<h3 id="Вариант_4_Я_хочу_перевести_MDN_на_свой_язык">Вариант 4: Я хочу перевести MDN на свой язык</h3>
+
+<p>Вся работа по локализации и переводу MDN делается нашим замечательным сообществом добровольцев.</p>
+
+<ul>
+ <li><a href="/ru/docs/MDN/Contribute/Localize/Translating_pages"><font><font>Перевод страницы</font></font></a><font><font> (2 часа)</font></font></li>
+ <li><font><font>Связь с другими локализаторами, перечисленными в </font></font><a href="/ru/docs/Project:MDN/Localizing/Localization_projects"><font><font>локализации проектов</font></font></a><font><font> (30 минут)</font></font></li>
+</ul>
+
+<h3 id="Вариант_5_Я_нашел_ошибки_но_не_знаю_как_их_исправить">Вариант 5: Я нашел ошибки, но не знаю, как их исправить</h3>
+
+<p>Вы можете сообщить&nbsp;<a class="external" href="https://bugzilla.mozilla.org/enter_bug.cgi?product=Mozilla%20Developer%20Network">нам о найденых ошибках</a>. (5 минут)</p>
+
+<p>Используйте следующие данные при отправке:</p>
+
+<table class="standard-table">
+ <tbody>
+  <tr>
+   <td><strong>Поле в трекере Bugzilla</strong></td>
+   <td><strong>Значение</strong></td>
+  </tr>
+  <tr>
+   <td><code><font><font>продукт</font></font></code></td>
+   <td><a href="https://bugzilla.mozilla.org/enter_bug.cgi?product=Developer+Documentation">Документация для разработчиков</a></td>
+  </tr>
+  <tr>
+   <td><code><font><font>компонент</font></font></code></td>
+   <td>[укажите область подходящую по теме, или оставьте "General" (Общие) если не нашли подходящую]</td>
+  </tr>
+  <tr>
+   <td><code><font><font>URL</font></font></code></td>
+   <td>Страница, где была найдена ошибка</td>
+  </tr>
+  <tr>
+   <td><code><font><font>Описание</font></font></code></td>
+   <td><span id="result_box" lang="ru"><span class="hps">По возможности, напишите, что Вам известно о проблеме</span> <span class="hps">и</span> <span class="hps">где найти</span> корректную<span class="hps"> информацию</span><span>.</span> <span class="hps">Это может</span> быть человек или <span class="hps">ссылки</span><span> на веб-сайты с правильной информацией.</span></span></td>
+  </tr>
+ </tbody>
+</table>
+
+<h2 id="Другие_вещи_которые_вы_можете_делать_на_MDN">Другие вещи, которые вы можете делать на MDN</h2>
+
+<ul>
+ <li><a href="/ru/docs/MDN/Сообщество">Присоединиться к сообществу MDN</a>.</li>
+ <li><a href="/ru/profile">Заполните ваш профиль</a>, чтобы другие смогли узнать о вас больше.</li>
+ <li>Узнайте больше о <a href="/ru/docs/MDN/Contribute">вкладе в MDN</a>.</li>
+</ul>
 
