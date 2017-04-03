@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1145474
+revision_id: 1226385
 locale: en-US
 slug: Web/JavaScript
 tags: "Learn" "Landing" "JavaScript" "l10n:priority"
@@ -15,11 +15,11 @@ based_on: None
 ---
 <div>{{JsSidebar}}</div>
 
-<p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) is a lightweight, interpreted, programming language with {{Glossary("First-class Function", "first-class functions")}}. While it is most well-known as the scripting language for Web pages, <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">many non-browser environments</a> also use it, such as <a class="external" href="https://nodejs.org/">node.js</a> and <a href="https://couchdb.apache.org/">Apache CouchDB</a>. JS is a {{Glossary("Prototype-based programming", "prototype-based")}}, multi-paradigm, dynamic scripting language, supporting object-oriented,&nbsp;imperative, and&nbsp;declarative (e.g.&nbsp;functional programming) styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
+<p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) is a lightweight&nbsp;interpreted or JIT-compiled&nbsp;programming language with {{Glossary("First-class Function", "first-class functions")}}. While it is most well-known as the scripting language for Web pages, <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">many non-browser environments</a> also use it, such as <a class="external" href="https://nodejs.org/">node.js</a> and <a href="https://couchdb.apache.org/">Apache CouchDB</a>. JavaScript&nbsp;is a {{Glossary("Prototype-based programming", "prototype-based")}}, multi-paradigm, dynamic language, supporting object-oriented,&nbsp;imperative, and declarative (e.g.&nbsp;functional programming) styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
 
 <p>This section of the site is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments. For information about {{Glossary("API","APIs")}} specific to Web pages, please see <a href="/en-US/docs/Web/API">Web APIs</a> and <a href="/en-US/docs/Glossary/DOM">DOM</a>.</p>
 
-<p>The standard for JavaScript is <a href="/en-US/docs/Web/JavaScript/Language_Resources">ECMAScript</a>. As of 2012, all <a href="http://kangax.github.io/compat-table/es5/">modern browsers</a> fully support ECMAScript 5.1. Older browsers support at least ECMAScript 3. On June 17, 2015, <a href="http://www.ecma-international.org">ECMA International</a> published the sixth major version of ECMAScript, which is officially called ECMAScript 2015, and is more commonly referred to as ECMAScript 6 or ES6. Since then ECMAScript standards are on yearly release cycles. This documentation refers to the latest draft version, which is currently <a href="http://tc39.github.io/ecma262/">ECMAScript 2017</a>.</p>
+<p>The standard for JavaScript is <a href="/en-US/docs/Web/JavaScript/Language_Resources">ECMAScript</a>. As of 2012, all <a href="https://kangax.github.io/compat-table/es5/">modern browsers</a> fully support ECMAScript 5.1. Older browsers support at least ECMAScript 3. On June 17, 2015, <a href="https://www.ecma-international.org">ECMA International</a> published the sixth major version of ECMAScript, which is officially called ECMAScript 2015, and was initially referred to as ECMAScript 6 or ES6. Since then, ECMAScript standards are on yearly release cycles. This documentation refers to the latest draft version, which is currently <a href="https://tc39.github.io/ecma262/">ECMAScript 2018</a>.</p>
 
 <p>Do not confuse JavaScript with the <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java programming language</a>. Both "Java" and "JavaScript" are trademarks or registered trademarks of Oracle in the U.S. and other countries. However, the two programming languages have very different syntax, semantics, and uses.</p>
 
@@ -29,15 +29,24 @@ based_on: None
 
 <p>Learn how to program in JavaScript with guides and tutorials.</p>
 
-<h3 id="Introductory">Introductory</h3>
+<h3 id="For_complete_beginners">For complete beginners</h3>
+
+<p>Head over to our <a href="/en-US/docs/Learn/JavaScript">Learning Area JavaScript topic</a> if you want to learn JavaScript but have no previous experience of JavaScript or programming. The complete modules available there are as follows:</p>
+
+<dl>
+ <dt><a href="/en-US/docs/Learn/JavaScript/First_steps">JavaScript first steps</a></dt>
+ <dd>Answers some fundamental questions such as "what is JavaScript?", "what does it look like?", and "what can it do?", along with discussing key JavaScript features such as variables, strings, numbers and arrays.</dd>
+ <dt><a href="/en-US/docs/Learn/JavaScript/Building_blocks">JavaScript building blocks</a></dt>
+ <dd>Continues our coverage of JavaScript's key fundamental features, turning our attention to commonly-encountered types of code block such as conditional statements, loops, functions, and events.</dd>
+ <dt><a href="/en-US/docs/Learn/JavaScript/Objects">Introducing JavaScript objects</a></dt>
+ <dd>The object-oriented nature of JavaScript is important to understand if you want to go further with your knowledge of the language and write more efficient code, therefore we've provided this module to help you.</dd>
+</dl>
+
+<h3 id="JavaScript_guide">JavaScript guide</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">JavaScript Guide</a></dt>
- <dd>If you are new to JavaScript, this guide will walk you through the language.</dd>
- <dt><a href="/en-US/docs/Web/JavaScript/JavaScript_technologies_overview">JavaScript technologies overview</a></dt>
- <dd>Introduction to the web browser JavaScript landscape.</dd>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript">Introduction to Object Oriented JavaScript</a></dt>
- <dd>Introduction to the concepts of object oriented programming in JavaScript.</dd>
+ <dd>A much more detailed guide to the JavaScript language, aimed at those with previous programming experience either in JavaScript or another language.</dd>
 </dl>
 
 <h3 id="Intermediate">Intermediate</h3>
@@ -93,13 +102,12 @@ based_on: None
 <dl>
  <dt><a href="/en-US/docs/Tools">Firefox Developer Tools</a></dt>
  <dd><a href="/en-US/docs/Tools/Scratchpad">Scratchpad</a>, <a href="/en-US/docs/Tools/Web_Console">Web Console</a>, <a href="/en-US/docs/Tools/Profiler">JavaScript Profiler</a>, <a href="/en-US/docs/Tools/Debugger">Debugger</a>, and more.</dd>
- <dt><a class="external" href="http://www.getfirebug.com/">Firebug</a></dt>
  <dd>Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page.</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/Shells">JavaScript Shells</a></dt>
  <dd>A JavaScript shell allows you to quickly test snippets of JavaScript code.</dd>
  <dt><a href="https://togetherjs.com/">TogetherJS</a></dt>
- <dd>Collaboration made easy.</dd>
- <dt><a href="http://stackoverflow.com/questions/tagged/javascript">Stack Overflow</a></dt>
+ <dd>Collaboration made easy.&nbsp;By adding TogetherJS to your site, your users can help each other out on a website in real time!</dd>
+ <dt><a href="https://stackoverflow.com/questions/tagged/javascript">Stack Overflow</a></dt>
  <dd>Stack Overflow questions tagged with "JavaScript".</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/New_in_JavaScript">JavaScript versions and release notes</a></dt>
  <dd>Browse JavaScript's feature history and implementation status.</dd>
