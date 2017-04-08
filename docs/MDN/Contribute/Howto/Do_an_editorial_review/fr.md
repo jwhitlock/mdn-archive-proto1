@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1187629
+revision_id: 1228789
 locale: fr
 slug: MDN/Contribute/Howto/faire_relecture_redactionnelle
 tags: "MDN Meta" "Guide" "Documentation" "Revue éditoriale"
@@ -13,12 +13,12 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p class="summary"><strong>La relecture rédactionnelle consiste à corriger les erreurs de frappe, d'orthographe et de grammaire qui se sont glissées dans un article.</strong>&nbsp;Pas tous les rédacteurs ne sont&nbsp;des experts en Français (ou en Anglais), mais leurs connaissances techniques leur permettent d'écrire des articles très utiles, qui ont besoin d'être corrigés.</p>
+<p class="summary"><strong>La relecture rédactionnelle consiste à corriger les erreurs de frappe, d'orthographe et de grammaire qui se sont glissées dans un article.</strong> Tous les rédacteurs ne sont pas des experts en Français (ou en Anglais), mais leurs connaissances techniques leur permettent d'écrire des articles très utiles, qui ont besoin d'être corrigés.</p>
 
 <table class="fullwidth-table">
  <tbody>
   <tr>
-   <td><strong>Où cela doit être fait ?</strong></td>
+   <td><strong>Où cela doit-il être fait ?</strong></td>
    <td>Dans les articles qui sont marqués comme nécessitant une <a href="/fr/docs/needs-review/editorial">relecture rédactionnelle</a>.</td>
   </tr>
   <tr>
