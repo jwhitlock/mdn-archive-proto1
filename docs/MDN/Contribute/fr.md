@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1137233
+revision_id: 1228951
 locale: fr
 slug: MDN/Contribute
 tags: "MDN" "Guide" "Landing" "Documentation" "NeedsTranslation"
@@ -13,9 +13,8 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div>
-{{IncludeSubnav("/fr/docs/MDN/Contribute")}}
-</div>
+<div>{{IncludeSubnav("/fr/docs/MDN/Contribute")}}</div>
+
 <p>Bienvenue ! En visitant cette page, vous venez de faire votre premier pas pour devenir un contributeur à MDN. <span class="seoSummary">Vous trouverez ici des guides qui vous aideront à commencer, des informations sur la façon dont nos outils fonctionnent, et ainsi de suite…</span></p>
 
 <div class="row topicpage-table">
@@ -29,8 +28,6 @@ based_on: None
  <dd>Le guide du contenu et du style MDN fournit des détails sur le style d’écriture, la mise en forme des pages et le style du contenu, de sorte que ce que vous rédigez soit cohérent avec le reste du contenu de MDN.</dd>
  <dt><a href="/en-US/docs/MDN/Contribute/Editor">Guide de l’éditeur</a></dt>
  <dd>Un guide complet sur la façon d’utiliser l’éditeur de MDN.</dd>
- <dt><a href="https://developer.mozilla.org/fr/docs/MDN/Contribute/Relecture_articles">Relecture d’articles</a></dt>
- <dd>Un guide pour examiner la mise en page et les détails techniques des articles afin de nous assurer que tout le contenu sur MDN est aussi utile et lisible que possible!</dd>
  <dt><a href="/en-US/docs/MDN/Contribute/Conventions">Terminologie et conventions</a></dt>
  <dd>Notre guide sur la terminologie et les conventions fournit des informations afin de vous assurer que vous utilisez la bonne terminologie pour décrire les choses.</dd>
  <dt><a href="/en-US/docs/MDN/Contribute/Community">Travailler avec la communauté MDN</a></dt>
