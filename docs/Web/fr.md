@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1142201
+revision_id: 1229211
 locale: fr
 slug: Web
 tags: "Web" "Technologie"
@@ -23,23 +23,24 @@ based_on: None
 
 <dl>
  <dt><a href="/fr/docs/Web/HTML">HTML</a></dt>
- <dd>L'<em>HyperText Markup Language</em> (langage de balisage hypertexte) est le langage utilisé pour décrire et définir le contenu d'une page web.</dd>
+ <dd>L'<em>HyperText Markup Language</em> (langage de balisage hypertexte ou HTML) est le langage utilisé pour décrire et définir le contenu d'une page web.</dd>
  <dt><a href="/fr/docs/Web/CSS">CSS</a></dt>
- <dd>Les <em>Cascading Style Sheets</em> (feuilles de style en cascade) sont utilisées pour décrire l'apparence du contenu Web.</dd>
+ <dd>Les <em>Cascading Style Sheets</em> (feuilles de style en cascade ou CSS) sont utilisées pour décrire l'apparence du contenu Web.</dd>
  <dt><a href="/fr/docs/Web/HTTP">HTTP</a></dt>
- <dd><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong>&nbsp;est un protocole de la couche&nbsp;<a href="https://fr.wikipedia.org/wiki/Couche_application">application</a>&nbsp;orienté client-serveur permettant le transfert de documents&nbsp;hypermedia, comme l'HTML.</dd>
+ <dd><dfn><em>Hypertext Transfer Protocol (HTTP</em>)</dfn>&nbsp;est un protocole de la couche&nbsp;<a href="https://fr.wikipedia.org/wiki/Couche_application">application</a>&nbsp;orienté client-serveur permettant le transfert de documents&nbsp;hypermedia, comme l'HTML.</dd>
 </dl>
 
 <h3 id="Script">Script</h3>
 
 <dl>
  <dt><a href="/fr/docs/Web/JavaScript">JavaScript</a></dt>
- <dd>JavaScript est le langage de programmation utilisé pour construire des sites web évolués et des applications web.</dd>
+ <dd>JavaScript est le langage de programmation utilisé pour construire des sites web évolués et des applications web dynamiques.</dd>
  <dt><a href="/fr/docs/Web/API">Web API</a></dt>
  <dd>Contenu de référence pour chacune des interfaces qui composent les Web API ; incluant le <a href="/fr/docs/DOM">DOM</a>, toutes les API en relation, et les interfaces que vous pouvez utiliser pour construire du contenu Web et des applications.
  <ul>
   <li><a href="/fr/docs/Web/API" title="/en-US/docs/Web/API">Web API interface reference</a> : toutes les interfaces, triées par ordre alphabétique.</li>
   <li><a href="/fr/docs/WebAPI">WebAPI</a> : cette page liste les API d’accès aux composants des appareils, ainsi que d’autres API utiles pour les applications.</li>
+  <li><a href="/fr/docs/Web/Events">Event Reference</a> rassemble tous les évènements que vous pouvez utiliser pour lister et réagir aux évènements marquants qui se sont produits dans votre page Web ou votre application.</li>
  </ul>
  </dd>
 </dl>
@@ -48,9 +49,20 @@ based_on: None
 
 <dl>
  <dt><a href="/fr/docs/Web/SVG">SVG</a></dt>
- <dd>Les <em>Scalable Vector Graphics</em> permettent de décrire des images comme des ensembles de vecteurs et de formes afin de pouvoir changer leur taille librement sans pixellisation.</dd>
+ <dd>Les <em>Scalable Vector Graphics </em>(SVG) permettent de décrire des images comme des ensembles de vecteurs et de formes afin de pouvoir changer leur taille librement sans pixellisation. Un des avantages du format SVG est que vous pouvez redimensionner votre dessin à l'infini sans perdre aucun détail.</dd>
  <dt><a href="/fr/docs/Web/WebGL">WebGL</a></dt>
  <dd>WebGL apporte des graphismes en 3D au Web à travers une API se conformant à OpenGL ES 2.0, et pouvant être utilisée sur les éléments HTML {{HTMLElement("canvas")}}.</dd>
+</dl>
+
+<h3 id="Audio_video_multimedia">Audio, video, multimédia</h3>
+
+<dl>
+ <dt><a href="/fr/docs/Web/Media">Les technologies média Web</a></dt>
+ <dd>Une liste d'API avec des liens vers leurs documentations respectives.</dd>
+ <dt><a href="/fr/docs/Web/Media/Overview">Un apperçu des technologies multimédia sur le Web</a></dt>
+ <dd>Un tour d'horizon des technologies Web libres et des API qui permettent d'intégrer, de modifier et d'enregistrer des flux audios et vidéos. Si vous n'êtes pas sûrs de savoir quel API correspond le mieux à votre projet, vous pouvez y jeter un œil.</dd>
+ <dt><a href="/fr/docs/Web/API/Media_Streams_API">Les API de capture et dffusion multimédia</a></dt>
+ <dd>Une liste qui référence l'ensemble des API qui permettent de diffuser, enregistrer et modifier des flux médias, locallement et au travers d'un réseau. Elle comprend l'utilisation des caméras et micros afin d'enregistrer de la vidéo de l'audio et des images.</dd>
 </dl>
 
 <h3 id="Autre">Autre</h3>
@@ -77,7 +89,7 @@ based_on: None
 
 <dl>
  <dt><a href="/fr/docs/Applications">Développer des applications Web</a></dt>
- <dd>Documentation pour développeurs d'applications Web. Les applications Web sont écrites une fois et déployées partout : sur mobile, ordinateurs et Firefox OS.</dd>
+ <dd>Documentation pour développeurs d'applications Web. Les applications Web sont écrites une fois et déployées partout : sur mobile et ordinateurs.</dd>
  <dt><a href="/fr/docs/Accessibilité">Accessibilité</a></dt>
  <dd>L’accessibilité, en développement Web, signifie faire en sorte qu’un maximum de personnes, même celles présentant des handicaps, puissent visiter des sites Web. Cette section fournit des informations sur la manière de rendre le contenu accessible.</dd>
  <dt><a href="/fr/docs/Web/Security">Sécurité</a></dt>
