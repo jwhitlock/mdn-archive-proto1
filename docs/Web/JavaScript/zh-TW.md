@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1219935
+revision_id: 1229513
 locale: zh-TW
 slug: Web/JavaScript
 tags: "入口" "學習" "所有類別" "JavaScript"
@@ -16,15 +16,15 @@ based_on: None
 <p>{{JsSidebar}}</p>
 
 <div class="summary">
-<p><strong>JavaScript</strong> (簡稱 <strong>JS</strong>) 是具有一級函數&nbsp;({{Glossary("First-class Function", "First-class functions")}}) 的輕量級、直譯式或即時編譯&nbsp; (JIT-compiled) 的程式語言。它因為用作網頁的腳本語言而大為知名，但也用於<a class="external" href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">許多非瀏覽器的環境</a>，像是 <a class="external" href="http://nodejs.org/">node.js</a>、<a href="http://couchdb.apache.org">Apache CouchDB</a>。JS 是一個基於原型的 ({{Glossary("Prototype-based programming", "Prototype-based")}})、多典範的、動態語言，支援物件導向、指令式以及宣告式 (如函數式程式設計) 風格。 閱讀<a href="/zh-TW/docs/Web/JavaScript/About_JavaScript" title="關於 JavaScript">關於 JavaScript</a> 以取得更多資訊。</p>
+<p><strong>JavaScript</strong> (簡稱 <strong>JS</strong>) 是具有一級函數 ({{Glossary("First-class Function", "First-class functions")}}) 的輕量級、直譯式或即時編譯（JIT-compiled）的程式語言。它因為用作網頁的腳本語言而大為知名，但也用於<a class="external" href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">許多非瀏覽器的環境</a>，像是 <a class="external" href="http://nodejs.org/">node.js</a>、<a href="http://couchdb.apache.org">Apache CouchDB</a>。JavaScript 是一個基於原型的 ({{Glossary("Prototype-based programming", "Prototype-based")}})、多典範的、動態語言，支援物件導向、指令式以及宣告式 (如函數式程式設計) 風格。 閱讀<a href="/zh-TW/docs/Web/JavaScript/About_JavaScript" title="關於 JavaScript">關於 JavaScript</a> 以取得更多資訊。</p>
 </div>
 
 <div>
-<p>本章節主要說明&nbsp;JavaScript，不涉及網頁特有項目或主機環境。有關網頁特有的&nbsp;{{Glossary("API","APIs")}} ，請參考&nbsp;<a href="https://developer.mozilla.org/zh-TW/docs/Web/API">Web API</a>&nbsp;和&nbsp;<a href="https://developer.mozilla.org/zh-TW/docs/Glossary/DOM">DOM</a>。</p>
+<p>本章節主要說明&nbsp;JavaScript，不涉及網頁特有項目或主機環境。有關網頁特有的&nbsp;{{Glossary("API","APIs")}} ，請參考 <a href="https://developer.mozilla.org/zh-TW/docs/Web/API">Web API</a> 和 <a href="https://developer.mozilla.org/zh-TW/docs/Glossary/DOM">DOM</a>。</p>
 
 <p>JavaScript 所採用的標準是&nbsp;<a href="/docs/JavaScript/Language_Resources">ECMAScript</a>，自 2012 年起，所有<a href="http://kangax.github.io/compat-table/es5/">現代的瀏覽器</a>均已全面支援 ECMAScript 5.1。較老舊的瀏覽器最少也會支援 ECMAScript 3。<a href="http://www.ecma-international.org/">ECMA International</a>&nbsp;於 2015 年 6 月 17 日發布第六版的&nbsp;ECMAScript，其正式名稱是&nbsp;ECMAScript 2015，原先被稱作&nbsp;ECMAScript 6 或&nbsp;ES6。從那時起， ECMAScript 標準的發布週期是一年，本文件參考了最新的草稿版本，也就是目前的 <a href="http://tc39.github.io/ecma262/">ECMAScript 2017</a>。</p>
 
-<p>別搞混了 JavaScript 和&nbsp;<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java 程式語言</a>。雖然 "Java" 和 "JavaScript" 都是 Oracle 公司在美國和其他國家的商標或註冊商標，但兩個語言有著非常不同的語法、語意和用途。</p>
+<p>別搞混了 JavaScript 和 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java 程式語言</a>。雖然 "Java" 和 "JavaScript" 都是 Oracle 公司在美國和其他國家的商標或註冊商標，但兩個語言有著非常不同的語法、語意和用途。</p>
 </div>
 
 <div class="column-container">
@@ -109,9 +109,7 @@ based_on: None
 
 <dl>
  <dt><a href="/zh-TW/docs/Tools">Firefox 開發工具</a></dt>
- <dd><a href="/zh-TW/docs/Tools/Scratchpad">Scratchpad</a>、<a href="/zh-TW/docs/Tools/Web_Console">Web Console</a>、<a href="/zh-TW/docs/Tools/Profiler">JavaScript Profiler</a>、<a href="/zh-TW/docs/Tools/Debugger">Debugger</a>&nbsp;等等。</dd>
- <dt><a class="external" href="http://www.getfirebug.com/">Firebug</a></dt>
- <dd>編輯、偵錯和在任何網頁即時監視 CSS、HTML和 JavaScript。</dd>
+ <dd><a href="/zh-TW/docs/Tools/Scratchpad">Scratchpad</a>、<a href="/zh-TW/docs/Tools/Web_Console">Web Console</a>、<a href="/zh-TW/docs/Tools/Profiler">JavaScript Profiler</a>、<a href="/zh-TW/docs/Tools/Debugger">Debugger</a> 等等。</dd>
  <dt><a href="/zh-TW/docs/Web/JavaScript/Shells">JavaScript Shell</a></dt>
  <dd>JavaScript Shell&nbsp;讓你更快的測試片段的 JavaScript。</dd>
  <dt><a href="https://togetherjs.com/">TogetherJS</a></dt>
