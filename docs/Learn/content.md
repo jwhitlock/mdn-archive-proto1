@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1193013
+revision_id: 1230959
 locale: en-US
 slug: Learn
 tags: "Web" "Index" "Intro" "Learn" "Landing" "Beginner"
@@ -40,11 +40,37 @@ based_on: None
 <p><strong>Note</strong>: Our <a href="/en-US/docs/Glossary">Glossary</a> provides terminology definitions.</p>
 </div>
 
-<div class="note">
-<p><strong>Note</strong>: We'll publish more core learning material in the future. Our "Advanced learning material" menu on the left points to other learning material on MDN, which isn't necessarily part of the Learning Area, but is still useful.</p>
-</div>
-
 <p>{{LearnBox({"title":"Random glossary entry"})}}</p>
+
+<h2 id="Getting_our_code_examples">Getting our code examples</h2>
+
+<p>The code examples you'll encounter in the Learning Area are all <a href="https://github.com/mdn/learning-area/">available on GitHub</a>. If you want to copy them all to your computer, the easiest way is to:</p>
+
+<ol>
+ <li><a href="http://git-scm.com/downloads">Install Git</a> on your machine. This is the underlying version control system software that GitHub works on top of.</li>
+ <li><a href="https://github.com/join">Sign up for a GitHub account</a>. It's simple and easy.</li>
+ <li>Once you've signed up, log in to <a href="https://github.com">github.com</a> with your username and password.</li>
+ <li>Open your computer's <a href="https://www.lifewire.com/how-to-open-command-prompt-2618089">command prompt</a> (Windows) or terminal (<a href="https://help.ubuntu.com/community/UsingTheTerminal">Linux</a>, <a href="http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line">MacOSX</a>)</li>
+ <li>To copy the learning area repo to a folder called learning-area in the current location your command prompt/terminal is pointing to, use the following command:
+  <pre class="brush: bash">
+git clone https://github.com/mdn/learning-area</pre>
+ </li>
+ <li>You can now enter the directory and find the files you are after (either using your finder/file explorer, or the <a href="https://en.wikipedia.org/wiki/Cd_(command)">cd command</a>).</li>
+</ol>
+
+<p>You can update the <code>learning-area</code> repository with any changes made to the master version on GitHub with the following steps:</p>
+
+<ol>
+ <li>In your command prompt/terminal, go inside the <code>learning-area</code> directory using <code>cd</code>, for example if you were in the parent directory:
+
+  <pre class="brush: bash">
+cd learning-area</pre>
+ </li>
+ <li>Update the repository using the following command:
+  <pre class="brush: bash">
+git pull</pre>
+ </li>
+</ol>
 
 <h2 id="Contact_us">Contact us</h2>
 
