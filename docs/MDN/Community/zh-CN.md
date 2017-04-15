@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1153278
+revision_id: 1232075
 locale: zh-CN
 slug: MDN/Community
 tags: "引导" "社区" "MDN Meta"
