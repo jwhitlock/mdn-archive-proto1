@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 872113
+revision_id: 1235419
 locale: bn-BD
 slug: Tools
 tags: "NeedsReview"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -66,8 +66,8 @@ based_on: None
 <dl>
  <dt><a href="/en-US/docs/Tools/Web_Console">Web Console</a></dt>
  <dd>See messages logged a web page, and interact with the page using JavaScript.</dd>
- <dt><a href="/en-US/docs/Tools/Page_Inspector">Page Inspector</a></dt>
- <dd>View and modify the page HTML and CSS.</dd>
+ <dt>পেজ ইন্সপেক্টর</dt>
+ <dd>এইচটিএমএল ,&nbsp;সিএসএস দেখতে &nbsp;এবং সম্পাদন করতে সহায়তা করে</dd>
  <dt><a href="/en-US/docs/Tools/Debugger">JavaScript Debugger</a></dt>
  <dd>Stop, step through, examine and modify the JavaScript running in a page.</dd>
  <dt><a href="/en-US/docs/Tools/Network_Monitor">Network Monitor</a></dt>
