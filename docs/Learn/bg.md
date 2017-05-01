@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1233643
+revision_id: 1238775
 locale: bg
 slug: Learn
 tags: "уеб" "мрежа" "Обучение" "начинаещ" "указател" "ръководство" "начална страница"
@@ -8,7 +8,7 @@ title: Научете се да програмирате за уеб
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
@@ -51,7 +51,7 @@ based_on: None
  <li><a href="https://github.com/join">Създайте си сметка в GitHub</a>. Това е просто и лесно.</li>
  <li>След регистрацията влезте в <a href="https://github.com">github.com</a> като използвате потребителските си име и парола.</li>
  <li>Отворете <a href="https://www.lifewire.com/how-to-open-command-prompt-2618089">командния ред</a> (Windows) или терминал (<a href="https://help.ubuntu.com/community/UsingTheTerminal">Linux</a>, <a href="http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line">MacOSX</a>)</li>
- <li>За да копирате хранилището с примери в папка с име learning-area в папката в която се намирате, в терминала изпълнете следната команда:
+ <li>За да копирате хранилището с примери в папка с име learning-area в папката, в която се намирате, в терминала изпълнете следната команда:
   <pre class="brush: bash">
 git clone https://github.com/mdn/learning-area</pre>
  </li>
