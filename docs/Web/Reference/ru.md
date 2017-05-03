@@ -1,13 +1,13 @@
 ---
 version: prototype1
-revision_id: 975113
+revision_id: 1239175
 locale: ru
 slug: Web/Reference
 tags: "Русский"
 title: Справочник по веб-технологиям
 summary: 
 keywords: 
-needs_technical_review: False
+needs_technical_review: True
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
@@ -15,17 +15,17 @@ based_on: None
 ---
 <p>{{draft()}}</p>
 
-<p>The open Web is built using a number of technologies. Below you'll find links to our reference material for each of them.</p>
+<p><span id="result_box" lang="ru" tabindex="-1"><span>Открытая сеть построена с использованием ряда технологий.</span> <span>Ниже вы найдете ссылки на наши справочные материалы по каждому из них.</span></span></p>
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">Core Web technologies</h2>
+<h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers"><span class="short_text" id="result_box" lang="ru" tabindex="-1"><span>Основные веб-технологии</span></span></h2>
 
 <dl>
- <dt><a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">Web API interface reference</a></dt>
- <dd>Reference material for each of the interfaces that comprise the Web's APIs, including the DOM and all of the related APIs and interfaces you can use to build Web content and apps. This list covers all interfaces, arranged alphabetically.</dd>
+ <dt><a href="/en-US/docs/Web/API">Ссылка на веб-интерфейс API</a></dt>
+ <dd><span id="result_box" lang="ru" tabindex="-1"><span>Справочные материалы для каждого из интерфейсов, которые составляют API-интерфейсы Интернета, включая DOM и все связанные API и интерфейсы, которые вы можете использовать для создания веб-контента и приложений.</span> <span>Этот список охватывает все интерфейсы, расположенные в алфавитном порядке.</span></span></dd>
  <dt><a href="/en-US/docs/Web/Reference/API" title="/en-US/docs/Web/Reference/API">Web APIs</a></dt>
- <dd>Список различных интерфейсов и набора технологий,<br>
+ <dd>Список различных интерфейсов и набора технологий,<br />
  которые составляют общий Веб API.</dd>
  <dt><a href="/en-US/docs/Web/HTML" title="/en-US/docs/Web/HTML">HTML</a></dt>
  <dd>Язык гипертекстовой разметки — это язык, используемый для определения структуры и описания содержания веб-страницы в структурированной форме.</dd>
@@ -34,16 +34,16 @@ based_on: None
  <dt><a href="/en-US/docs/Web/SVG" title="/en-US/docs/Web/SVG">SVG</a></dt>
  <dd>Масштабируемая векторная графика позволяет вам описать изображение как набор векторов (линий) и фигур, что позволяет масштабировать такую графику плавно независимо от размеров, в которых она нарисована без потерь качества.</dd>
  <dt><a href="/en-US/docs/Web/MathML" title="/en-US/docs/Web/MathML">MathML</a></dt>
- <dd>The Mathematical Markup Language makes it possible to display complex mathematical equations and syntax.</dd>
+ <dd><span id="result_box" lang="ru" tabindex="-1"><span>Математический язык разметки позволяет отображать сложные математические уравнения и синтаксис.</span></span></dd>
 </dl>
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">Other technologies</h2>
+<h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers"><span class="short_text" id="result_box" lang="ru" tabindex="-1"><span>Другие технологии</span></span></h2>
 
-<p>To be completed soon...</p>
+<p><span class="short_text" id="result_box" lang="ru" tabindex="-1"><span>Скоро будет завершено...</span></span></p>
 </div>
 </div>
 
-<p> </p>
+<p>&nbsp;</p>
 
