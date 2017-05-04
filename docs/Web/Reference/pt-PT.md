@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 511351
+revision_id: 1240079
 locale: pt-PT
 slug: Web/Reference
 tags: "Web" "Referencia" "Referência(2)" "Tecnologias Web"
-title: Referências de tecnologias Web
+title: Referências de tecnologias da Web
 summary: 
 keywords: 
 needs_technical_review: False
@@ -14,43 +14,26 @@ table_of_contents_depth: 1
 based_on: None
 ---
 <p>{{draft()}}</p>
-<p>A Web open-source é construida recorrendo a diversas tecnologias. Em baixo, encontram-se links para o nosso material de referência para cada uma delas.&nbsp;</p>
+
+<p>A Web aberta é criada, utilizando um número de tecnologias que requerem um conhecimento adequado para poder utilizá-las. Em baixo, irá encontrar hiperligações para o nosso material de referência para cada uma delas.&nbsp;</p>
+
 <div class="row topicpage-table">
- <div class="section">
-  <h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">Principais Tecnologias Web</h2>
-  <dl>
-   <dt>
-    <a href="/pt-PT/docs/Web/API" title="/en-US/docs/Web/API">Referência de interfaces de Web APIs</a></dt>
-   <dd>
-    Material de referência para cada uma das interfaces compreendidas nas Web APIs, incluíndo o DOM e todas as suas APIs relacionadas e interfaces que podes usar para construir conteúdo Web e aplicações. Esta lista abrange todas as interfaces ordenadas alfabeticamente.</dd>
-   <dt>
-    &nbsp;</dt>
-   <dt>
-    <a href="/pt-PT/docs/Web/Reference/API" title="/en-US/docs/Web/Reference/API">Web APIs</a></dt>
-   <dd>
-    Uma lista com as diferentes APIs e <em>suites</em> tecnológicas que constituem a Web API global.</dd>
-   <dt>
-    <a href="/pt-PT/docs/Web/HTML" title="/en-US/docs/Web/HTML">HTML</a></dt>
-   <dd>
-    HyperText Markup Language é a linguagem utilizada para descrever e definir o conteúdo de uma página Web.</dd>
-   <dt>
-    <a href="/pt-PT/docs/Web/CSS" title="/en-US/docs/Web/CSS">CSS</a></dt>
-   <dd>
-    Cascading Style Sheets são utilizadas para descrever a aparência do conteúdo Web.</dd>
-   <dt>
-    <a href="/pt-PT/docs/Web/SVG" title="/en-US/docs/Web/SVG">SVG</a></dt>
-   <dd>
-    Scalable Vector Graphics permitem a descrição de imagens como conjuntos de vectores e formas para que possam ser apropriadamente escaladas independentemente do tamanho a que venham a ser desenhadas.</dd>
-   <dt>
-    <a href="/pt-PT/docs/Web/MathML" title="/en-US/docs/Web/MathML">MathML</a></dt>
-   <dd>
-    A Mathematical Markup Language torna possível a exibição de equações e síntaxe matemática complexas.</dd>
-  </dl>
- </div>
- <div class="section">
-  <h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">Outras tecnologias</h2>
-  <p>A ser concluída em breve...</p>
- </div>
+<div class="section">
+<h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">Tecnologias da Web</h2>
+
+<p>É recomendado que já tenha <a href="/pt-PT/docs/Learn/Comecar_com_a_Web">começado com a Web</a>, contudo não é absolutamente&nbsp;necessário.</p>
+
+<dl>
+ <dt><strong><a href="/pt-PT/docs/Gloss%C3%A1rio/HTML">HTML</a></strong> — estruturando a Web</dt>
+ <dd>The <strong>HyperText Markup Language</strong> is used to define and describe semantically the content (<a href="/en-US/docs/Glossary/markup">markup</a>) of a Web page in a well-structured format.<br />
+ HTML provides a means to create structured documents, made up of blocks called <a href="/en-US/docs/Web/HTML/Element">HTML elements</a> that are delineated by <em><a href="/en-US/docs/Glossary/Tag">tags</a></em>, written using angle brackets: some introduce content into the page directly, others provide information about document text and may include other tags as sub-elements. Obviously, browsers do not display them, since they are used to interpret the content of the page.<br />
+ <br />
+ <a href="/pt-PT/docs/Learn/HTML/Introducao_ao_HTML">Introdução ao HTML</a> | <a href="/pt-PT/docs/Learn/HTML">Aprender HTML</a> | <a href="/pt-PT/docs/Web/HTML/HTML5">HTML5</a> | <a href="/pt-PT/docs/Learn/HTML">Guia de Desenvolvimento </a>| <a href="/en-US/docs/Web/HTML/Element">Referência de elemento</a> | <strong><a href="/pt-PT/docs/Web/HTML/Referencia">Referência</a></strong></dd>
+ <dt><strong><a href="/en-US/docs/Glossary/CSS">CSS</a></strong> — styling the Web</dt>
+ <dd>The <strong>Cascading Style Sheets</strong> are used to describe the appearance of Web content.<br />
+ <br />
+ <a href="/pt-PT/docs/Learn/CSS/Introduction_to_CSS">Introdução ao CSS</a> | <a href="/pt-PT/docs/Learn/CSS">Aprender CSS</a> | <a href="/pt-PT/docs/Web/CSS/CSS3">CSS3 </a>| <a href="/pt-PT/docs/Learn/CSS">Guia de Programador</a> | <a href="/pt-PT/docs/Learn/CSS/Howto/FAQ_de_CSS">Perguntas comuns sobre CSS </a>| <strong><a href="/pt-PT/docs/Web/CSS/Refer%C3%AAncia_CSS">Referência</a></strong></dd>
+</dl>
 </div>
-<p>&nbsp;</p>
+</div>
 
