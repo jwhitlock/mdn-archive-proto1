@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1160322
+revision_id: 1243033
 locale: en-US
 slug: Games
 tags: "Web" "Apps" "Games" "HTML5 Games" "Gamedev" "JavaScript Games" "Game Development"
@@ -17,6 +17,8 @@ based_on: None
 <p><span class="seoSummary">Gaming is one of the most popular computer activities. New technologies are constantly arriving to make it possible to develop better and more powerful games that can be run in any standards-compliant web browser.</span></p>
 </div>
 
+<p>{{EmbedGHLiveSample("web-tech-games/index.html", '100%', 820)}}</p>
+
 <div class="column-container">
 <div class="column-half">
 <h2 id="Develop_web_games">Develop web games</h2>
@@ -26,11 +28,8 @@ based_on: None
 <p>We've also included a reference section so you can easily find information about all the most common APIs used in game development, plus useful lists of <a href="/en-US/docs/Games/Tools/Engines_and_tools">engines and tools</a>, and <a href="/en-US/docs/Games/Examples">game examples</a>.</p>
 
 <div class="note">
-<p><strong>Note</strong>: You should have mastered at least the basics of core web technologies — such as HTML, CSS and JavaScript — before attempting to create web games. The <a href="/en-US/docs/Learn">Learning Area</a> is a good place to go if you are a complete beginner.</p>
+<p><strong style="-webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; border:0px; color:#3b3c40; font-family:'open sans',arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-weight:700; letter-spacing:normal; margin:0px; orphans:auto; padding:0px; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px">Note</strong><span style="-webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; background-color:#fff5cc; color:#3b3c40; font-family:'open sans',arial,sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px">: Creating games on the web draws on a number of core web technologies such as HTML, CSS, and JavaScript. The&nbsp;</span><a href="/en-US/docs/Learn" style="font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; color: rgb(33, 122, 192); text-decoration: none; margin: 0px; padding: 0px; border: 0px; font-family: 'open sans', arial, sans-serif;">Learning Area</a><span style="-webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; background-color:#fff5cc; color:#3b3c40; font-family:'open sans',arial,sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px">&nbsp;is a good place to go to get started with the basics.</span></p>
 </div>
-
-<dl>
-</dl>
 </div>
 
 <div class="column-half">
@@ -145,8 +144,10 @@ based_on: None
     <ol>
      <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web">3D games on the Web overview</a></li>
      <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory">Explaining basic 3D theory</a></li>
-     <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Three.js">Building up a basic demo with Three.js</a></li>
+     <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_A-Frame">Building up a basic demo with A-Frame</a></li>
+     <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Babylon.js">Building up a basic demo with Babylon.js</a></li>
      <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas">Building up a basic demo with PlayCanvas</a></li>
+     <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Three.js">Building up a basic demo with Three.js</a></li>
      <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Whitestorm.js">Building up a basic demo with Whitestorm.js</a></li>
      <li>
       <p><a href="/en-US/docs/Games/Techniques/3D_on_the_web/WebVR">WebVR</a></p>
@@ -184,6 +185,7 @@ based_on: None
    <li><a href="/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript">2D breakout game using pure JavaScript</a></li>
    <li><a href="/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser">2D breakout game using Phaser</a></li>
    <li><a href="/en-US/docs/Games/Tutorials/HTML5_Gamedev_Phaser_Device_Orientation">2D maze game with device orientation</a></li>
+   <li><a href="https://mozdevs.github.io/html5-games-workshop/en/guides/platformer/start-here/">2D platform game using Phaser</a></li>
   </ol>
  </li>
  <li><a href="/en-US/docs/Games/Publishing_games">Publishing games</a>
