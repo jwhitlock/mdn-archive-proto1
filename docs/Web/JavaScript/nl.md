@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1143787
+revision_id: 1245747
 locale: nl
 slug: Web/JavaScript
 tags: "Leer" "Landing" "JavaScript"
@@ -8,8 +8,8 @@ title: JavaScript
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -19,7 +19,7 @@ based_on: None
 
 <p>Deze sectie van de site is toegewijd aan de JavaScript taal zelf, en niet de delen die specifiek zijn voor webpagina's&nbsp;of andere omgevingen. Voor informatie over {{Glossary("API","APIs")}} die specifiek zijn voor webpagina's, kijk alsjeblieft op <a href="/nl/docs/Web/Reference/API">Web APIs</a> en <a href="/nl/docs/DOM">DOM</a>.</p>
 
-<p>De standaard voor JavaScript is <a href="/en-US/docs/Web/JavaScript/Language_Resources">ECMAScript</a>. Met de ingang van 2012, ondersteunen alle moderne browsers volledig ECMAScript 5.1.&nbsp;Op 17 juni 2015, publiceerde <a href="http://www.ecma-international.org">ECMA International</a>&nbsp;de zesde hoofdversie (<em>major version</em>) van ECMAScript, dit heet officieel ECMAScript 2015, en wordt in het algemeen vaker aangeduid als ECMAScript 6 of ES6. Sindsdien worden de ECMAScript standaarden op jaarlijkse basis vrijgegeven. Deze documentatie verwijst naar de laatste ontwerpversie (<em>draft version</em>), dat momenteel ECMAScript 2017 is.</p>
+<p>De standaard voor JavaScript is <a href="/en-US/docs/Web/JavaScript/Language_Resources">ECMAScript</a>. Met de ingang van 2012, ondersteunen alle moderne browsers volledig ECMAScript 5.1.&nbsp;Op 17 juni 2015, publiceerde <a href="http://www.ecma-international.org">ECMA International</a>&nbsp;de zesde hoofdversie (<em>major version</em>) van ECMAScript, dit heet officieel ECMAScript 2015, en wordt in het algemeen vaker aangeduid als ECMAScript 2015 of ES2015. Sindsdien worden de ECMAScript standaarden op jaarlijkse basis vrijgegeven. Deze documentatie verwijst naar de laatste ontwerpversie (<em>draft version</em>), dat momenteel ECMAScript 2018&nbsp;is.</p>
 
 <p>Verwar JavaScript niet met de <a href="https://nl.wikipedia.org/wiki/Java_(programmeertaal)">Java programmertaal</a>. Beiden "Java" and "JavaScript" zijn handelsmerken of geregistreerde handelsmerken van Oracle in de VS en andere landen. Daarentegen hebben de twee programmeertalen hele verschillende syntaxis, semantiek en toepassingen.</p>
 
