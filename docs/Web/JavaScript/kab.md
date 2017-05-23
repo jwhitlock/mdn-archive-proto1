@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1247643
+revision_id: 1247651
 locale: kab
 slug: Web/JavaScript
 tags: 
@@ -9,13 +9,13 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <div>{{JsSidebar}}</div>
 
-<p class="summary">JavaScript (js) tutlayt n usihel fessusen naɣ yesuɣelen sɣuṛ JIT akked&nbsp; {{Glossary("first-class functions", "first-class functions")}}. ɣas ma yella yettwasen s yisem n ascript i y-isebtar n web, <a charset="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">aṭas n tiwenaḍin wer-iminigen</a> sqedcit daɣen <a class="external external-icon" href="https://nodejs.org/">node.js</a> d <a href="https://couchdb.apache.org/">Apache CouchDB</a>. JS d tutlayt {{Glossary("Prototype-based programming", "prototype-based")}}, taget-tamudemt, tutlayt tasmussant, irefden iɣunab iwelhen taɣawsa,amerwas d asalɣu (amedya,asihel amesɣan).ɣaṛ ugar&nbsp;<a charset="https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript"> ɣef JavaScript</a>.</p>
+<p class="summary">JavaScript (js) tutlayt n usihel fessusen naɣ yesuɣelen sɣuṛ JIT akked&nbsp; {{Glossary("first-class&nbsp; functions", "first-class functions")}}. ɣas ma yella yettwasen s yisem n ascript i y-isebtar n web, <a charset="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">aṭas n tiwenaḍin wer-iminigen</a> sqedcit daɣen <a class="external external-icon" href="https://nodejs.org/">node.js</a> d <a href="https://couchdb.apache.org/">Apache CouchDB</a>. JS d tutlayt {{Glossary("Prototype-based programming", "prototype-based")}}, taget-tamudemt, tutlayt tasmussant, irefden iɣunab iwelhen taɣawsa,amerwas d asalɣu (amedya,asihel amesɣan).ɣaṛ ugar&nbsp;<a charset="https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript"> ɣef JavaScript</a>.</p>
 
 <p>Tigezmi-agi n usmel tettmeslay-d ɣef tutlayt JavaScript, mačči ɣef yeḥricen ittekkan deg isebtar web neɣ tiwennaḍin tisenneftaɣin. Ugar n telɣut ɣef {{Glossary("API","APIs")}} n isebtar Web, wali ma ulac aɣilif <a href="/en-US/docs/Web/API">Web APIs</a> akked<a href="/en-US/docs/Glossary/DOM">DOM</a>.</p>
 
@@ -113,7 +113,7 @@ based_on: None
 
 <article class="localized">
 <header>
-<h3>Tasuqilt Taqbaylit:</h3>
+<h3 id="Tasuqilt_Taqbaylit">Tasuqilt Taqbaylit:</h3>
 </header>
 
 <div class="guide-links"><a href="https://developer.mozilla.org/kab/docs/MDN/Community" target="_blank">Tesriḍ tallalt?</a> • <a href="https://developer.mozilla.org/kab/docs/MDN/Contribute/Editor" target="_blank">Amnir n umaẓrag</a> • <a href="https://developer.mozilla.org/kab/docs/MDN/Contribute/Content/Style_guide" target="_blank">Amnir n uɣanib</a></div>
