@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1194053
+revision_id: 1247647
 locale: kab
 slug: Web/HTML
 tags: 
@@ -77,7 +77,7 @@ based_on: None
 
 <dl>
  <dt><a href="/en-US/docs/Web/Guide/HTML">Amnir n tneflit HTML</a></dt>
- <dd>Imagraden MDN skanayend titiknikitin&nbsp; tulmisin i tzemrem a tesqedcem mara tesalim agbur Web s HTML,akked daɣen ilmedẓanen ed kra n titeggarin ara tafem degs talilt.amnir d win ara wen id yefkken timsirin n tira,iseqquma ed isalen ɣef tneflit n HTML.</dd>
+ <dd>Imagraden MDN skanayend titiknikitin&nbsp; tulmisin i tzemrem a tesqedcem mara tesalim agbur Web s HTML,akked daɣen ilmedẓanen d kra n titeggarin ara tafem degs talilt.amnir d win ara wen id yefkken timsirin n tira,iseqquma d isalen ɣef tneflit n HTML.</dd>
 </dl>
 </div>
 </div>
