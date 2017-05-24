@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 973375
+revision_id: 1248177
 locale: hu
 slug: MDN/Getting_started
 tags: 
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
 
-<p>Mi egy nyílt, fejlesztőkből és szerkesztőkből álló csoport vagyunk, akik egy jobb Webet tűztek ki maguk elé célul, márka-, böngésző-, és platformfüggetlenül.&nbsp;Bárki módosíthat az oldalon, és mindenki, aki megteszi, segít nekünk erősebbé válni. Együtt folytathatjuk a fejlesztést jobb, újabb ötletekkel, hogy még többet nyújthassunk. Itt kezdődik, veled.</p>
+<p>Mi egy nyílt, fejlesztőkből és szerkesztőkből álló csoport vagyunk, akik egy jobb webet tűztek ki maguk elé célul, márka-, böngésző-, és platformfüggetlenül.&nbsp;Bárki módosíthat az oldalon, és mindenki, aki megteszi, segít nekünk erősebbé válni. Együtt folytathatjuk a fejlesztést jobb, újabb ötletekkel, hogy még többet nyújthassunk. Itt kezdődik, veled.</p>
 
 <p><span>Az MDN minden része (a weboldal felépítésétől a dokumentációkon keresztül a bemutatókig, szemléltetésekig) fejlesztők és szerkesztők, írók által lett létrehozva. Minenki hozzá tud adni, és reméljük, Te is így teszel, tehát csatlakozol hozzánk!</span></p>
 
@@ -23,7 +23,7 @@ based_on: None
 
 <p><span class="seoSummary">Az MDN egy wiki, ahol <strong>bárki </strong>tud szerkeszteni és megjegyzést fűzni. Nem kell sem programozónak, sem tudósnak&nbsp;lenned. Rengeteg tennivaló van még, egyszerű feladatoktól a korrektúrázáson keresztül a komplex feladatokig (ide tartozik az API dokumentációk írása is)</span></p>
 
-<p>A szerkesztés egyszerű és biztonságos. Ha hibázol, egyszerű javítani; ha egyszerűen nem vagy tisztában mindennek, vagy nem tökéletes a helyesírásod, ne aggódj! Van egy egész csoportunk, aki arra figyel, hogy ez az oldal minnél hitelesebb és minnél jobb legyen. Mindig lesz valaki, aki kijavítja az esetleges hibáidat, és kiszépíti a művedet. Oszdd meg mindenkivel, amit tudsz, és bízz a tudásodban és a többiekben, akik segítenek, hogy jobban végezhesd a munkádat.</p>
+<p>A szerkesztés egyszerű és biztonságos. Ha hibázol, egyszerű javítani; ha egyszerűen nem vagy tisztában mindennek, vagy nem tökéletes a helyesírásod, ne aggódj! Van egy egész csoportunk, aki arra figyel, hogy ez az oldal minnél hitelesebb és minnél jobb legyen. Mindig lesz valaki, aki kijavítja az esetleges hibáidat, és kiszépíti a művedet. Oszd meg mindenkivel, amit tudsz, és bízz a tudásodban és a többiekben, akik segítenek, hogy jobban végezhesd a munkádat.</p>
 
 <h3 id="Első_lépés_Regisztrálj_az_MDN-re">Első lépés: Regisztrálj az MDN-re</h3>
 
@@ -51,7 +51,7 @@ based_on: None
 
 <h3 id="1._A_szavak_kedvelője_vagyok!">1.: A szavak kedvelője vagyok!</h3>
 
-<p>Ha az írás iránt érdeklődnél, segíthetsz átnézni és szerkeszteni a meglévő dokumentumainka, és ki tudod javítani a hibákat benne</p>
+<p>Ha az írás iránt érdeklődnél, segíthetsz átnézni és szerkeszteni a meglévő dokumentumainkat, és ki tudod javítani a hibákat benne</p>
 
 <ul>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Set_the_summary_for_a_page">Oldalak leírása</a>&nbsp;(5-15 perc)</li>
@@ -62,7 +62,7 @@ based_on: None
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Write_an_article_to_help_learn_about_the_Web">Új cikk a könnyeb tanulás céljára</a>&nbsp;(1-3 óra)</li>
 </ul>
 
-<div class="note"><strong>Megjegyzés:</strong> Ha átnézel/véleményezek egy cikket, vagy esetleg újat írsz, kérünk, hogy kukkants bele a&nbsp;stilizálással kapcsolatos&nbsp;<a href="/en-US/docs/MDN/Contribute/Guidelines/Style_guide">segédlet</a>be. Segíteni fog, hogy minnél következetesebb cikkeket írj.</div>
+<div class="note"><strong>Megjegyzés:</strong> Ha átnézel/véleményezek egy cikket, vagy esetleg újat írsz, kérjük, hogy kukkants bele a&nbsp;stilizálással kapcsolatos&nbsp;<a href="/en-US/docs/MDN/Contribute/Guidelines/Style_guide">segédlet</a>be. Segíteni fog, hogy minél következetesebb cikkeket írj.</div>
 
 <h3 id="2._A_kódért_élek-halok">2.: A kódért élek-halok</h3>
 
@@ -77,7 +77,7 @@ based_on: None
 
 <h3 id="3._Szöveg_is_-_kód_is">3.: Szöveg is - kód is</h3>
 
-<p>Vannak feladataink, melyeknél mindkét képessége szükség van, pl. új cikkek írása, technikai megjegyzések, vélemények, új dokumentációk.</p>
+<p>Vannak feladataink, melyeknél mindkét képességre szükség van, pl. új cikkek írása, technikai megjegyzések, vélemények, új dokumentációk.</p>
 
 <ul>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Tag_JavaScript_pages">JavaScript oldalak megjelölése</a>&nbsp;(5 perc)</li>
@@ -88,20 +88,20 @@ based_on: None
  <li>Nézd meg az&nbsp;<a href="http://www.joshmatthews.net/bugsahoy/?mdn=1">MDN hibalistáját</a>&nbsp;hogy láthasd az éppen mentorálásra váró, hibás részeket.</li>
 </ul>
 
-<h3 id="Option_4_I_want_MDN_in_my_language">4.: Szeretném a saját nyelvemen olvasni az MDN-t</h3>
+<h3 id="4._Szeretném_a_saját_nyelvemen_olvasni_az_MDN-t">4.: Szeretném a saját nyelvemen olvasni az MDN-t</h3>
 
 <p>Minden fordítás önkéntesek által történik!</p>
 
 <ul>
  <li><a href="/en-US/docs/MDN/Contribute/Localize/Translating_pages">Oldalak fordítása</a>&nbsp;(2 óra)</li>
- <li>CCsatlakozz a többiekhez a <a href="/en-US/docs/MDN/Contribute/Localize/Localization_projects">fordítási feladatok</a>ban&nbsp;(30 perc)</li>
+ <li>Csatlakozz a többiekhez a <a href="/en-US/docs/MDN/Contribute/Localize/Localization_projects">fordítási feladatok</a>ban&nbsp;(30 perc)</li>
 </ul>
 
-<h3 id="Option_5_I_found_some_wrong_information_but_I_don't_know_how_to_fix_it">5.: Hibát találtam, de nem tudom hogyan javítsam</h3>
+<h3 id="5._Hibát_találtam_de_nem_tudom_hogyan_javítsam">5.: Hibát találtam, de nem tudom hogyan javítsam</h3>
 
 <p>Bejelentheted a hibát egy&nbsp;<a class="external" href="https://bugzilla.mozilla.org/form.doc">hibabejelentő űrlap</a>&nbsp;segítségével. (5 perc)</p>
 
-<h2 id="Other_things_you_can_do_on_MDN">Egyéb teendők az MDN-en</h2>
+<h2 id="Egyéb_teendők_az_MDN-en">Egyéb teendők az MDN-en</h2>
 
 <ul>
  <li><a href="/en-US/docs/MDN/Community">Lépj be az MDN közösségbe</a>.</li>
