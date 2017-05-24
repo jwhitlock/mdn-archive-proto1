@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1243551
+revision_id: 1247935
 locale: zh-CN
 slug: Web/HTTP
 tags: "HTTP" "参考" "Web"
@@ -30,7 +30,7 @@ based_on: None
  <dd>缓存对高速 Web 站点来说是非常之重要的。这篇文章阐述了不同种类的缓存以及如何配置 HTTP 首部来控制它们。</dd>
  <dt><a href="/zh-CN/docs/Web/HTTP/Cookies">HTTP Cookie</a></dt>
  <dd><a class="external" href="http://tools.ietf.org/html/rfc6265">RFC 6265</a>&nbsp;定义了 cookies 是怎样工作的。&nbsp;当接收到一个 HTTP请求时，服务器可以在响应中发送一个 Set-Cookie 首部字段。接着，对于同一台服务器发起的每一个请求，客户端都会在 HTTP 请求头中以字段 Cookie 的形式将 cookie 的值发送过去。&nbsp;此外，还可以指定一个过期时间，也可以指定一个特定的域名和路径中使用。</dd>
- <dt><a href="/zh-CN/docs/HTTP/Access_control_CORS">HTTP 访问控制（CORS） </a></dt>
+ <dt><a href="/zh-CN/docs/Web/HTTP/Access_control_CORS">HTTP 访问控制（CORS） </a></dt>
  <dd><strong>跨站&nbsp;HTTP 请求</strong>就是从<strong>另一个域名</strong>，而不是资源所在的域名发起的 HTTP 请求。举例来说，在域名&nbsp;A&nbsp;(<code>http://domaina.example/</code>) 的 HTML 页面上使用 <code>img</code>&nbsp;元素 (&lt;img src="<code>http://domainb.foo/image.jpg"&gt;</code>) 来请求域名 B&nbsp;(http://domainb.foo/) 上的图片资源。这在当前的 web 页面上很常见 —— 页面通过跨域规则加载 CSS 样式表，图片，脚本以及其他资源。</dd>
  <dt><a href="/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP">HTTP 的演变</a></dt>
  <dd>简单描述了从早期版本的 HTTP 到现在的 HTTP/2 以及未来的 HTTP 这个过程中发生的变更。</dd>
