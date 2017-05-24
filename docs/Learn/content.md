@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1230959
+revision_id: 1248043
 locale: en-US
 slug: Learn
 tags: "Web" "Index" "Intro" "Learn" "Landing" "Beginner"
@@ -19,7 +19,7 @@ based_on: None
 <p class="summary">Welcome to the MDN Learning Area. This set of articles aims to provide complete beginners to web development with all they need to start coding simple websites.</p>
 </div>
 
-<p>The aim of this area of MDN is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable". From there you should be able to start making your way, learning from <a href="https://developer.mozilla.org/en-US/">the rest of MDN</a>, and other intermediate to advanced resources that assume a lot of previous knowledge.</p>
+<p>The aim of this area of MDN is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable". From there you should be able to start making your own way, learning from <a href="https://developer.mozilla.org/en-US/">the rest of MDN</a>, and other intermediate to advanced resources that assume a lot of previous knowledge.</p>
 
 <p>If you are a complete beginner, web development can be challenging — we will hold your hand&nbsp;and provide enough detail for you to feel comfortable and learn the topics properly. You should feel at home whether you are a student learning web development (on your own or as part of a class), a teacher looking for class materials, a hobbyist, or someone who just wants to understand more about how web technologies work.</p>
 
@@ -83,11 +83,16 @@ git pull</pre>
 <h2 id="See_also">See also</h2>
 
 <dl>
+ <dt><a href="https://www.mozilla.org/en-US/newsletter/developer/">Mozilla Developer Newsletter</a></dt>
+ <dd>Our newsletter for web developers, which is great resource for all levels of developer.</dd>
+</dl>
+
+<dl>
  <dt><a href="https://www.codecademy.com/">Codecademy</a></dt>
  <dd>A great interactive site for learning programming languages from scratch.</dd>
  <dt><a href="https://code.org/">Code.org</a></dt>
  <dd>Basic coding theory and practice, mainly aimed at children/complete beginners.</dd>
- <dt><a href="https://www.freecodecamp.com/">FreeCodeCamp.com</a></dt>
+ <dt><a href="https://www.freecodecamp.com/">freeCodeCamp.com</a></dt>
  <dd>Interactive site with tutorials and projects to learn Web Development.</dd>
 </dl>
 
