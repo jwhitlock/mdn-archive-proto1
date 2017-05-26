@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1060208
+revision_id: 1249561
 locale: pt-BR
 slug: Tools
 tags: "Tools" "TopicStub" "NeedsMarkupWork" "Web Development" "NeedsTranslation" "Developing Mozilla" "Web Development:Tools" "NeedsTechnicalReview"
@@ -145,9 +145,9 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h2 id="Extending_the_devtools" name="Extending_the_devtools">Extendendo o devtools</h2>
+<h2 id="Extending_the_devtools" name="Extending_the_devtools">Estendendo o devtools</h2>
 
-<p>As ferramentas de desenvolvimentos são desenhadas para serem extensíveis. Add-ons do Firefox podem acessar as ferramentas de desenvolvimento e os componentes que eles usam para extender ferramentas existentes e adicionar novas. Com o protocolo remoto de debugging você pode implementar seu próprio cliente de debugging e servidores, permitindo a você o debug de websites usando suas próprias ferramentas ou debuggando diferentes alvos usando as ferramentas do Firefox.</p>
+<p>As ferramentas de desenvolvimentos são desenhadas para serem extensíveis. Add-ons do Firefox podem acessar as ferramentas de desenvolvimento e os componentes que eles usam para estender ferramentas existentes e adicionar novas. Com o protocolo remoto de debugging você pode implementar seu próprio cliente de debugging e servidores, permitindo a você o debug de websites usando suas próprias ferramentas ou debuggando diferentes alvos usando as ferramentas do Firefox.</p>
 
 <dl>
  <dt><a href="https://wiki.mozilla.org/Remote_Debugging_Protocol">Remote Debugging Protocol</a></dt>
@@ -157,7 +157,7 @@ based_on: None
  <dt><a href="/pt-BR/docs/Tools/Debugger-API">A interface do&nbsp;<code>Debugger</code></a></dt>
  <dd>Uma API que permite que o código JavaScript observe a execução de outro código JavaScript.&nbsp;O Firefox Developer Tools usa essa API para implementar o debugger&nbsp;JavaScript.</dd>
  <dt><a href="/pt-BR/docs/Tools/Web_Console/Custom_output">Output do&nbsp;Web Console personalizado</a></dt>
- <dd>Como extender e customizar o output do&nbsp;<a href="/en-US/docs/Tools/Web_Console">Web Console</a>&nbsp; e o&nbsp;<a href="/en-US/docs/Tools/Browser_Console">Browser Console</a>.</dd>
+ <dd>Como estender e customizar o output do&nbsp;<a href="/en-US/docs/Tools/Web_Console">Web Console</a>&nbsp; e o&nbsp;<a href="/en-US/docs/Tools/Browser_Console">Browser Console</a>.</dd>
 </dl>
 </div>
 </div>
@@ -243,7 +243,7 @@ based_on: None
    <li><a href="/pt-BR/docs/Tools/Browser_Toolbox">Browser Toolbox</a></li>
   </ol>
  </li>
- <li><a href="#">Extendendo o devtools</a>
+ <li><a href="#">Estendendo o devtools</a>
   <ol>
    <li><a href="https://wiki.mozilla.org/Remote_Debugging_Protocol">Remote Debugging Protocol</a></li>
    <li><a href="https://wiki.mozilla.org/Remote_Debugging_Protocol_Stream_Transport">Stream Transport</a></li>
