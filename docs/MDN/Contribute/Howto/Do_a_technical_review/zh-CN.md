@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1132967
+revision_id: 1250537
 locale: zh-CN
 slug: MDN/Contribute/Howto/Do_a_technical_review
 tags: "复核" "如何做" "指南" "文档" "MDN Meta"
@@ -43,7 +43,7 @@ based_on: None
   </ol>
  </li>
  <li>在阅读这篇文章的时候注意文章里的所有技术细节：这篇文章的内容正确吗？是否缺少了一些细节？如果你觉得这篇文章不适合你，那么请毫不犹豫地换一篇文章。</li>
- <li>如果没有错误，你不需要重新编辑来把这篇文章标识为”已复核“，你只需要找到左边导航栏最下方的”快速复核“框。黄色背景的框里列出了所有等待复核的请求，像这样：<img alt="" src="https://mdn.mozillademos.org/files/13016/SidebarTechReviewRequested.png" style="height:93px; width:321px" />。</li>
+ <li>如果没有错误，你不需要重新编辑来把这篇文章标识为”已复核“，你只需要找到左边导航栏最下方的”快速复核“框。黄色背景的框里列出了所有等待复核的请求，像这样：<img alt="" src="https://mdn.mozillademos.org/files/13016/SidebarTechReviewRequested.png" style="height:93px; width:321px" /></li>
  <li>去掉需要技术复核前面的勾，然后点保存。</li>
  <li>如果你发现了需要被修正的错误，你可以在编辑器里修改这篇文章的审核请求状态。以下是操作步骤：</li>
 </ol>
