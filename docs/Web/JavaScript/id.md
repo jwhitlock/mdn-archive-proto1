@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1250039
+revision_id: 1250891
 locale: id
 slug: Web/JavaScript
 tags: "belajar" "JavaScript"
@@ -19,7 +19,7 @@ based_on: None
 
 <p>Bagian situs ini didedikasikan untuk bahasa javascript dan bukan bagian yang spesifik dengan halaman web atau lingkungan host lain. Untuk informasi tentang {{Glossary("API","APIs")}} yang spesifik untuk halaman web, Lihat&nbsp;<a href="/id/docs/Web/API">Web APIs</a> dan&nbsp;<a href="/id/docs/Glossary/DOM">DOM</a>.</p>
 
-<p>Standar untuk&nbsp;JavaScript adalah&nbsp;<a href="/id/docs/Web/JavaScript/Language_Resources">ECMAScript</a>. Seperti pada 2012, semua&nbsp;<a href="http://kangax.github.io/compat-table/es5/">modern browsers</a> mendukung ECMAScript 5.1. Browser lama mendukung setidaknya &nbsp;ECMAScript 3. Juni 17, 2015, <a href="http://www.ecma-international.org">ECMA International</a>&nbsp;mempublikasikan versi major keenam&nbsp;dari&nbsp;ECMAScript, yang secara ofisial disebut&nbsp;ECMAScript 2015, dan umumnya dikaitkan sebagai&nbsp;ECMAScript 6 atau ES6. Sejak ketika&nbsp;standar&nbsp;ECMAScript pada siklus rilis tahunan. Dokumentasi ini mengacu pada draft versi terbaru, saat ini&nbsp;<a href="http://tc39.github.io/ecma262/">ECMAScript 2017</a>.</p>
+<p>Standar untuk&nbsp;JavaScript adalah&nbsp;<a href="/id/docs/Web/JavaScript/Language_Resources">ECMAScript</a>. Seperti pada 2012, semua&nbsp;<a href="http://kangax.github.io/compat-table/es5/">modern browsers</a> mendukung ECMAScript 5.1. Browser lama mendukung setidaknya &nbsp;ECMAScript 3. Juni 17, 2015, <a href="http://www.ecma-international.org">ECMA International</a>&nbsp;mempublikasikan versi major keenam&nbsp;dari&nbsp;ECMAScript, yang secara ofisial disebut&nbsp;ECMAScript 2015, dan umumnya dikaitkan sebagai&nbsp;ECMAScript 6 atau ES6. Sejak ketika&nbsp;standar&nbsp;ECMAScript pada siklus rilis tahunan. Dokumentasi ini mengacu pada draft versi terbaru, saat ini <a href="https://tc39.github.io/ecma262/">ECMAScript 2018</a>.</p>
 
 <p>Jangan keliru antara&nbsp;JavaScript dengan&nbsp;<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Bahasa pemrograman java</a>. Keduanya&nbsp;"Java" dan "JavaScript" adalah merek dagang dan merek ini terdaftar oleh Oracle di U.S. dan negara lainnya. Namun, kedua bahasa pemrograman tersebut memiliki sintaks, struktur, dan penggunaan yang berbeda.</p>
 
@@ -29,7 +29,7 @@ based_on: None
 
 <p>Belajar cara menulis program di javascript dengan paduan dan tutorial.</p>
 
-<h3>Untuk Pemula</h3>
+<h3 id="Untuk_Pemula">Untuk Pemula</h3>
 
 <p>Pergilah ke topik <a href="/id/docs/Learn/JavaScript">Area Pembelajaran JavaScript</a> kami jika Anda ingin belajar JavaScript dan belum memiliki pengalaman dari pemrograman JavaScript. Tersedia modul lengkap sebagai berikut:</p>
 
@@ -37,9 +37,9 @@ based_on: None
  &nbsp;&nbsp;&nbsp;&nbsp; Jawaban beberapa pertanyaan mendasar seperti "apa itu JavaScript?", "Seperti apa tampilannya?", Dan "apa yang bisa dilakukan?", Bersama mendiskusikan fitur utama JavaScript seperti variabel, string, angka dan array.</p>
 
 <p><strong><a href="/id/docs/Learn/JavaScript/Building_blocks">Bangunan Blok JavaScript</a></strong><br />
- &nbsp;&nbsp;&nbsp;&nbsp; Lanjutan jangkauan dari fitur dasar kunci JavaScript, arahkan perhatian pada jenis blok kode yang biasa ditemukan seperti statement kondisional, loop, fungsi, dan events.</p>
+ &nbsp;&nbsp;&nbsp;&nbsp;Lanjutan jangkauan dari fitur dasar kunci JavaScript, arahkan perhatian pada jenis blok kode yang biasa ditemukan seperti statement kondisional, loop, fungsi, dan events.</p>
 
-<p><strong><a href="/id/docs/Learn/JavaScript/Objects">Perkenalan objek JavaScript</a></strong><br />
+<p><strong><a href="/id/docs/Learn/JavaScript/Objects">Perkenalan Objek JavaScript</a></strong><br />
  &nbsp;&nbsp;&nbsp;&nbsp; Sifat JavaScript yang berorientasi objek penting untuk dipahami jika Anda ingin melangkah lebih jauh dengan pengetahuan Anda tentang bahasanya dan menulis kode yang lebih efisien, oleh karena itu kami menyediakan modul ini untuk membantu Anda.</p>
 
 <h3 id="Pengantar">Pengantar</h3>
@@ -49,7 +49,7 @@ based_on: None
  <dd>Jika anda baru mengenal javascript, paduan ini akan menuntun anda belajar.</dd>
  <dt><a href="https://developer.mozilla.org/id/docs/Web/JavaScript/sekilas_teknologi_JavaScript">Ikhtisar Teknologi JavaScript</a></dt>
  <dd>Pengantar javascript pada lingkungan&nbsp;web browser.</dd>
- <dt><a href="https://developer.mozilla.org/id/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript">Pengantar JavaScript&nbsp;Object Oriented</a></dt>
+ <dt><a href="/id/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript">Pengantar JavaScript Berbasis Objek</a></dt>
  <dd>Pengantar pada konsep dari bahasa berorientasi object&nbsp;di JavaScript.</dd>
 </dl>
 
@@ -70,16 +70,16 @@ based_on: None
 <h3 id="Lanjut">Lanjut</h3>
 
 <dl>
- <dt><a href="/id/docs/Web/JavaScript/Inheritance_and_the_prototype_chain">Inheritance dan prototype chain</a></dt>
- <dd>Penjelasan tentang kesalah fahaman dan penyepelekan yang umum pada&nbsp; inheritance berbasis&nbsp;prototype.</dd>
- <dt><a href="/id/docs/Web/JavaScript/Reference/Strict_mode">Strict mode</a></dt>
- <dd>Strict mode mendefinisikan bahwa anda tidak dapat menggunakan variabel sebelum menginisialisasinya. varian terbatas di ECMAScript&nbsp;5, untuk performa yang lebih cepat dan debuging yang lebih mudah.</dd>
- <dt><a href="https://developer.mozilla.org/id/docs/Web/JavaScript/Typed_arrays">JavaScript typed arrays</a></dt>
+ <dt><a href="/id/docs/Web/JavaScript/Inheritance_and_the_prototype_chain">Pewarisan dan rantai purwarupa</a></dt>
+ <dd>Menjelaskan tentang kesalah-pahaman dan meremehkan yang terjadi pada&nbsp; pewarisan berbasis&nbsp;purwarupa.</dd>
+ <dt><a href="/id/docs/Web/JavaScript/Reference/Strict_mode">Mode Strict</a></dt>
+ <dd>Mode strict mendefinisikan bahwa anda tidak dapat menggunakan variabel sebelum menginisialisasinya. Ini bentuk batasan dari varian ECMAScript&nbsp;5, berguna untuk performa yang lebih cepat dan debuging yang lebih mudah.</dd>
+ <dt><a href="/id/docs/Web/JavaScript/Typed_arrays">JavaScript typed arrays</a></dt>
  <dd>JavaScript typed arrays menyediakan mekanisme untuk mengakses data binari&nbsp;mentah(raw).</dd>
- <dt><a href="https://developer.mozilla.org/id/docs/Web/JavaScript/Memory_Management">Pengelolaan Memory</a></dt>
+ <dt><a href="/id/docs/Web/JavaScript/Memory_Management">Pengelolaan Memory</a></dt>
  <dd>Siklus memori dan&nbsp;garbage collection di&nbsp;JavaScript.</dd>
- <dt><a href="/id/docs/Web/JavaScript/EventLoop">Concurrency model and Event Loop</a></dt>
- <dd>JavaScript memiliki model concurrency berbasis pada&nbsp;"event loop".</dd>
+ <dt><a href="/id/docs/Web/JavaScript/EventLoop">Model konkurensi dan Event Loop</a></dt>
+ <dd>JavaScript memiliki model konkurensi berbasis pada&nbsp;"event loop".</dd>
 </dl>
 </div>
 
@@ -90,12 +90,12 @@ based_on: None
 
 <dl>
  <dt><a href="/id/docs/Web/JavaScript/Reference/Global_Objects">Standard objects</a></dt>
- <dd>Mencari tahu tentang standarbuilt-in objects {{jsxref("Array")}}, {{jsxref("Boolean")}}, {{jsxref("Date")}}, {{jsxref("Error")}}, {{jsxref("Function")}}, {{jsxref("JSON")}}, {{jsxref("Math")}}, {{jsxref("Number")}}, {{jsxref("Object")}}, {{jsxref("RegExp")}}, {{jsxref("String")}}, {{jsxref("Map")}}, {{jsxref("Set")}}, {{jsxref("WeakMap")}} , {{jsxref("WeakSet")}}, dan lainnya.</dd>
+ <dd>Mencari tahu tentang standarbuilt-in objects {{jsxref("Array")}}, {{jsxref("Boolean")}}, {{jsxref("Date")}}, {{jsxref("Error")}}, {{jsxref("Function")}}, {{jsxref("JSON")}}, {{jsxref("Math")}}, {{jsxref("Number")}}, {{jsxref("Object")}},{{jsxref("RegExp")}} , {{jsxref("String")}}, {{jsxref("Map")}}, {{jsxref("Set")}}, {{jsxref("WeakMap")}} , {{jsxref("WeakSet")}}, dan lainnya.</dd>
  <dt><a href="/id/docs/Web/JavaScript/Reference/Operators">Ekspresi dan&nbsp;operator</a></dt>
- <dd>Belajar tentang cara kerja operator&nbsp;{{jsxref("Operators/instanceof", "instanceof")}}, {{jsxref("Operators/typeof", "typeof")}}, {{jsxref("Operators/new", "new")}}, {{jsxref("Operators/this", "this")}}, &nbsp;<a href="/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence">operator precedence</a>, dan banyak lagi.</dd>
+ <dd>Belajar tentang cara kerja operator&nbsp;{{jsxref("Operators/instanceof", "instanceof")}},&nbsp; {{jsxref("Operators/typeof", "typeof")}}, {{jsxref("Operators/new", "new")}}, {{jsxref("Operators/this", "this")}}, &nbsp;<a href="/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence">operator precedence</a>, dan banyak lagi.</dd>
  <dt><a href="/id/docs/Web/JavaScript/Reference/Statements">Statemen&nbsp;dan pendeklarasian</a></dt>
  <dd>Belajar cara menggunakan {{jsxref("Statements/do...while", "do-while")}}, {{jsxref("Statements/for...in", "for-in")}}, {{jsxref("Statements/for...of", "for-of")}}, {{jsxref("Statements/try...catch", "try-catch")}}, {{jsxref("Statements/let", "let")}}, {{jsxref("Statements/var", "var")}}, {{jsxref("Statements/const", "const")}}, {{jsxref("Statements/if...else", "if-else")}}, {{jsxref("Statements/switch", "switch")}}, dan statement Javascript lain dan juga kerja&nbsp;keywords.</dd>
- <dt><a href="/id/docs/Web/JavaScript/Reference/Functions">Fungsi</a></dt>
+ <dt>&nbsp;<a href="/id/docs/Web/JavaScript/Reference/Functions">Fungsi</a></dt>
  <dd>Belajar bagaimana menggunakan fugsi untuk digunakan di aplikasi anda.</dd>
 </dl>
 
