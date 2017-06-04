@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1116543
+revision_id: 1252165
 locale: th
 slug: Web/JavaScript
 tags: "Landing" "TopicStub" "JavaScript" "NeedsTranslation"
@@ -86,7 +86,7 @@ based_on: None
 
 <h2 id="เครื่องมือและแหล่งที่มา">เครื่องมือและแหล่งที่มา</h2>
 
-<p>Helpful tools while writing and debugging your JavaScript code.</p>
+<p>เครื่องมือที่ช่วยในขณะการเขียน และดีบั๊กโค๊ด&nbsp;JavaScript.</p>
 
 <dl>
  <dt><a href="/en-US/docs/Tools">Firefox Developer Tools</a></dt>
