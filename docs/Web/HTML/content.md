@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 977185
+revision_id: 1252409
 locale: en-US
 slug: Web/HTML
 tags: "HTML" "HTML5" "Web" "Learn" "HTML Lesson" "What is HTML" "Landing" "HTML Tutorials" "Hyper text" "Hypertext" "Reference" "HTML Programming" "l10n:priority"
-title: HTML (HyperText Markup Language)
+title: HTML
 summary: 
 keywords: 
 needs_technical_review: False
@@ -13,79 +13,76 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div>{{HTMLSidebar()}}</div>
+<div>{{HTMLSidebar}}</div>
 
-<p><span class="seoSummary">HTML, which stands for HyperText Markup Language, is the most basic building block of a webpage and used for creating and visually representing a webpage. It determines the content of a webpage , but not its functionality.</span></p>
+<p><span class="seoSummary"><strong>HTML</strong> (HyperText Markup Language) is the most basic building block of the Web. It describes and defines the <em>content</em> of a webpage. Other technologies besides HTML are generally used to describe a webpage's appearance/presentation&nbsp;(<a href="/en-US/docs/Web/CSS">CSS</a>) or functionality (<a href="/en-US/docs/Web/JavaScript">JavaScript</a>).</span></p>
 
-<p>HTML adds "markup" to standard English text. "Hyper Text" refers to links that connect Web pages to one another, making the World Wide Web what it is today. By creating and uploading Web pages to the Internet, you become an active participant in the World Wide Web once your site&nbsp;is online. HTML supports visual images and other media as well. With the help of HTML everyone can make static as well as dynamic web sites.&nbsp;HTML is the language that describes the structure and the semantic content of a web document. Content within a web page is tagged with HTML elements such as {{HTMLElement("head")}}, {{HTMLElement("title")}}, {{HTMLElement("body")}}, {{HTMLElement("article")}}, {{HTMLElement("section")}},  {{HTMLElement("p")}}, {{HTMLElement("div")}}, {{HTMLElement("span")}}, {{HTMLElement("img")}}, {{HTMLElement("picture")}}, and so forth. These elements form the building blocks of a website.</p>
+<p>"HyperText" refers to links that connect webpages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.</p>
 
-<p>The articles here provide reference materials for web development.</p>
+<p>HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements"&nbsp;such as {{HTMLElement("head")}}, {{HTMLElement("title")}}, {{HTMLElement("body")}}, {{HTMLElement("header")}}, {{HTMLElement("footer")}}, {{HTMLElement("article")}}, {{HTMLElement("section")}}, {{HTMLElement("p")}}, {{HTMLElement("div")}}, {{HTMLElement("span")}}, {{HTMLElement("img")}}, and many others.</p>
+
+<p>The articles below will help you learn more about HTML.</p>
 
 <section class="cleared" id="sect1">
 <ul class="card-grid">
- <li><span>HTML reference</span>
+ <li><span>HTML Reference</span>
 
-  <p>In our <a href="/en-US/docs/Web/HTML/Reference">extensive reference</a>, you'll find the details on each element and attribute that makes up HTML.</p>
+  <p>In our extensive&nbsp;<a href="/en-US/docs/Web/HTML/Reference">HTML reference</a>&nbsp;section, you'll find the details about every element and attribute in HTML.</p>
  </li>
- <li><span>HTML guide</span>
-  <p>For articles about how to use HTML, as well as tutorials and complete examples, check out our <a href="/en-US/docs/Web/Guide/HTML">HTML developer guide</a>.</p>
+ <li><span>HTML Tutorials</span>
+  <p>For articles about how to use HTML, as well as tutorials and complete examples, check out our <a href="/en-US/docs/Learn/HTML">HTML Learning Area</a>.</p>
  </li>
- <li><span>HTML introduction</span>
-  <p>If you're new to Web development, be sure to read our <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction">introduction</a> to what HTML is and how to use it.</p>
+ <li><span>HTML Introduction</span>
+  <p>If you're new to Web development, be sure to read our <a href="/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML Basics</a> article to learn what HTML is and how to use it.</p>
  </li>
 </ul>
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="Documentation" name="Documentation">References</h2>
+<h2 class="Documentation" id="References">References</h2>
 
 <dl>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements">Block-level elements</a></dt>
- <dd class="landingPageList">HTML (Hypertext Markup Language) elements are usually "block-level" elements or <a href="https://developer.mozilla.org/en-US/docs/HTML/Inline_elements" title="/en-US/docs/HTML/inline_elements">"inline" elements</a>. A block-level element occupies the entire space of its parent element (container), thereby creating a "block." This article helps to explain what this means.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_enabled_image">CORS enabled image</a></dt>
- <dd class="landingPageList">The HTML specification introduces a <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-crossorigin">crossorigin</a></code> attribute for images that, in combination with an appropriate <a class="glossaryLink" href="https://developer.mozilla.org/en-US/docs/Glossary/CORS" title="CORS: It is insecure to allow a webpage to request any resources from any other domains without limitation. CORS (Cross-Origin Resource Sharing) is a system that determines whether to block or fulfill these requests.">CORS</a> header, allows images defined by the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img" title="The HTML Image Element (&lt;img&gt;) represents an image of the document."><code>&lt;img&gt;</code></a> element loaded from foreign origins to be used in canvas as if they were being loaded from the current origin.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_settings_attributes">CORS settings attributes</a></dt>
- <dd class="landingPageList">In HTML5, some HTML elements which provide support for <a href="https://developer.mozilla.org/en-US/docs/HTTP/Access_control_CORS">CORS</a>, such as <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img" title="The HTML Image Element (&lt;img&gt;) represents an image of the document."><code>&lt;img&gt;</code></a> or <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video" title="The HTML &lt;video&gt; element is used to embed video content. It may contain several video sources, represented using the src attribute or the &lt;source&gt; element; the browser will choose the most suitable one."><code>&lt;video&gt;</code></a>, have a <code>crossorigin</code> attribute (<code>crossOrigin</code> property), which lets you configure the CORS requests for the element's fetched data. These attributes are enumerated, and have the following possible values:</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Controlling_spell_checking_in_HTML_formsControlling_spell_checking_in_HTML_forms">Controlling spell checking in HTML forms</a></dt>
- <dd class="landingPageList">Firefox 2 introduces spell checking support to text areas and text fields in web forms. The user can specify using the about:config interface whether or not spellchecking is enabled and whether to check both text areas and text fields or only text areas.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/DASH_Adaptive_Streaming_for_HTML_5_Video">DASH Adaptive Streaming for HTML 5 Video</a></dt>
- <dd class="landingPageList">Dynamic Adaptive Streaming over HTTP (DASH) is an adaptive streaming protocol. This means that it allows for a video stream to switch between bit rates on the basis of network performance, in order to keep a video playing.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Focus_management_in_HTML">Focus management in HTML</a></dt>
- <dd class="landingPageList">In the HTML5 working draft, the <code><a href="https://developer.mozilla.org/en/DOM/document.activeElement" title="en/DOM/document.activeElement">activeElement</a></code> DOM attribute and the <code><a href="https://developer.mozilla.org/en/DOM/document.hasFocus" title="en/DOM/document.hasFocus">hasFocus()</a></code> DOM method give the programmer the ability to have better control of the interactivity of the page due to the user's actions. For example, both of them can be used for statistical usage purposes, tracking the number of clicks on certain links of a page, measuring the amount of time an element is focused, and so forth. In addition, when combined with AJAX technology, they help minimize the number of requests to the server, depending on the user activity and the page layout.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes">Global attributes</a></dt>
- <dd class="landingPageList">Global attributes may be specified on all <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML elements</a>, <em>even those not specified in the standard</em>. That means that any non-standard elements must still permit these attributes, even though using those elements means that the document is no longer HTML5-compliant. For example, HTML5-compliant browsers hide content marked as&nbsp;<code>&lt;foo hidden&gt;...&lt;foo&gt;</code><code>, </code>even though <code>&lt;foo&gt;</code> is not a valid HTML element.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes">HTML attribute reference</a></dt>
- <dd class="landingPageList">Elements in HTML have <strong>attributes</strong>; these are additional values that configure the elements or adjust their behavior in various ways to meet the criteria the users want.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML element reference</a></dt>
- <dd class="landingPageList">This page&nbsp;lists all the <a class="glossaryLink" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML" title="HTML: HTML (HyperText Markup Language) is a descriptive language that specifies webpage structure.">HTML</a> <a class="glossaryLink" href="https://developer.mozilla.org/en-US/docs/Glossary/Element" title="elements: An element is a part of a webpage. In XML and HTML, an element may contain a data item or a chunk of text or an image, or perhaps nothing. A typical element includes an opening tag, attributes, content, and a closing tag:">elements</a>.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference">HTML reference</a></dt>
- <dd class="landingPageList">HTML is the language that describes the structure and the semantic content of a Web document; it consists of <strong>elements</strong>, each of which may be modified by some number of <strong>attributes</strong>.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elemente">Inline elements</a></dt>
- <dd class="landingPageList">HTML (Hypertext Markup Language) elements are usually "inline" elements or <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements">"block-level" elements</a>. An inline element occupies only the space bounded by the tags that define the inline element. The following example demonstrates the inline element's influence:</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types">Link types</a></dt>
- <dd class="landingPageList">In HTML, the following link types indicate the relationship between two documents, in which one links to the other using an <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a" title="The HTML &lt;a&gt; Element (or the HTML Anchor Element) defines a hyperlink, the named target destination for a hyperlink, or both."><code>&lt;a&gt;</code></a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/area" title="The HTML &lt;area&gt; element defines a hot-spot region on an image, and optionally associates it with a hypertext link. This element is used only within a &lt;map&gt; element."><code>&lt;area&gt;</code></a>, or <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link" title="The HTML Link Element (&lt;link&gt;) specifies relationships between the current document and an external resource. Possible uses for this element include defining a relational framework for navigation. This Element is most used to link to style sheets."><code>&lt;link&gt;</code></a> element.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats">Media formats supported by the HTML audio and video elements</a></dt>
- <dd class="landingPageList">The <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio" title="The HTML &lt;audio&gt; element is used to embed sound content in documents. It may contain several audio sources, represented using the src attribute or the &lt;source&gt; element; the browser will choose the most suitable one."><code>&lt;audio&gt;</code></a> and <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video" title="The HTML &lt;video&gt; element is used to embed video content. It may contain several video sources, represented using the src attribute or the &lt;source&gt; element; the browser will choose the most suitable one."><code>&lt;video&gt;</code></a> elements provide support for playing audio and video media without requiring plug-ins.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/microformats">Microformats</a></dt>
- <dd class="landingPageList"><span class="p-summary"><a class="external external-icon" href="http://microformats.org"><dfn>Microformats</dfn></a> (sometimes abbreviated <strong>μF</strong>) are small patterns&nbsp;of HTML for marking up entities like people, organizations, events, locations, blog posts, products, reviews, resumes, recipes, etc.</span><br />
- They are simple conventions to embed semantics in HTML and&nbsp;quickly provide&nbsp;an API to be&nbsp;used by search engines, aggregators, and other tools.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Optimizing_your_pages_for_speculative_parsing">Optimizing your pages for speculative parsing</a></dt>
- <dd class="landingPageList">Traditionally in browsers the HTML&nbsp;parser has run on the main thread and has blocked after a <code>&lt;/script&gt;</code> tag until the script has been retrieved from the network and executed. The HTML parser in Firefox 4 and later supports speculative parsing off the main thread. It parses ahead while scripts are being downloaded and executed. As in Firefox 3.5 and 3.6, the HTML parser starts speculative loads for scripts, style sheets and images it finds ahead in the stream. However, in Firefox 4 and later the HTML parser also runs the HTML tree construction algorithm speculatively. The upside is that when a speculation succeeds, there's no need to reparse the part of the incoming file that was already scanned for scripts, style sheets and images. The downside is that there's more work lost when the speculation fails.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache">Using the application cache</a></dt>
- <dd class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/HTML/HTML5" title="HTML/HTML5">HTML5</a> provides an <em>application caching</em> mechanism that lets web-based applications run offline. Developers can use the <strong>Application Cache</strong> (<em>AppCache</em>) interface to specify resources that the browser should cache and make available to offline users. Applications that are cached load and work correctly even if users click the refresh button when they are offline.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Element">HTML element reference</a></dt>
+ <dd class="landingPageList">Browse a list of all <a class="glossaryLink" href="/en-US/docs/Glossary/HTML">HTML</a> <a class="glossaryLink" href="/en-US/docs/Glossary/Element">elements</a>.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Reference">HTML reference</a></dt>
+ <dd class="landingPageList">HTML consists of <strong>elements</strong>, each of which may be modified by some number of <strong>attributes</strong>. HTML documents are connected to each other with <a href="/en-US/docs/Web/HTML/Link_types">links</a>.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Inline_elements">Inline elements</a> and <a href="/en-US/docs/Web/HTML/Block-level_elements">block-level elements</a></dt>
+ <dd class="landingPageList">HTML elements are usually "inline" or "block-level" elements. An inline element occupies only the space bounded by the tags that define it. A block-level element occupies the entire space of its parent element (container), thereby creating a "block."</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/CORS_enabled_image">CORS enabled image</a></dt>
+ <dd class="landingPageList">The&nbsp;<code><a href="/en-US/docs/Web/HTML/Element/img#attr-crossorigin">crossorigin</a></code> attribute, in combination with an appropriate <a class="glossaryLink" href="/en-US/docs/Glossary/CORS">CORS</a> header, allows images defined by the {{HTMLElement("img")}} element to be loaded from foreign origins and used in a {{HTMLElement("canvas")}} element as if they were being loaded from the current origin.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/CORS_settings_attributes">CORS settings attributes</a></dt>
+ <dd class="landingPageList">Some HTML elements that provide support for <a href="/en-US/docs/HTTP/Access_control_CORS">CORS</a>, such as {{HTMLElement("img")}} or {{HTMLElement("video")}}, have a <code>crossorigin</code> attribute (<code>crossOrigin</code> property), which lets you configure the CORS requests for the element's fetched data.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Focus_management_in_HTML">Focus management in HTML</a></dt>
+ <dd class="landingPageList">The <code><a href="/en-US/docs/Web/API/Document/activeElement">activeElement</a></code> DOM attribute and the <code><a href="/en-US/docs/Web/API/Document/hasFocus">hasFocus()</a></code> DOM method help you track and control a user's interactions with elements on a web page.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Global_attributes">Global attributes</a></dt>
+ <dd class="landingPageList">Global attributes may be specified on all <a href="/en-US/docs/Web/HTML/Element">HTML elements</a>, <em>even those not specified in the standard</em>. This means that any non-standard elements must still permit these attributes, even though those elements make the&nbsp;document HTML5-noncompliant.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Attributes">HTML attribute reference</a></dt>
+ <dd class="landingPageList">Elements in HTML have <strong>attributes</strong>. These are additional values that configure the elements or adjust their behavior in various ways.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Link_types">Link types</a></dt>
+ <dd class="landingPageList">In HTML, various link types can be used to establish and define the relationship between two documents.&nbsp;Link types include&nbsp;<a href="/en-US/docs/Web/HTML/Element/a"><code>&lt;a&gt;</code></a>, <a href="/en-US/docs/Web/HTML/Element/area"><code>&lt;area&gt;</code></a>, and&nbsp;<a href="/en-US/docs/Web/HTML/Element/link"><code>&lt;link&gt;</code></a>.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Supported_media_formats">Media formats supported by the HTML audio and video elements</a></dt>
+ <dd class="landingPageList">The <a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> and <a href="/en-US/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a> elements allow you to play audio and video media. These elements provide a browser-native&nbsp;alternative to similar&nbsp;capabilities found in Adobe Flash and other plug-ins.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Using_the_application_cache">Using the application cache</a></dt>
+ <dd class="landingPageList">Application caching&nbsp;lets web-based applications run offline. You can use the <strong>Application Cache</strong> (<em>AppCache</em>) interface to specify resources that the browser should cache and make available to offline users. Applications that are cached load and work correctly even if users click the refresh button when they are offline.</dd>
 </dl>
 
-<p><span class="alllinks"><a href="/en-US/docs/tag/HTML" title="Article tagged: HTML">View All...</a></span></p>
+<p><span class="alllinks"><a href="/en-US/docs/tag/HTML">View All...</a></span></p>
 </div>
 
-<p>&nbsp;</p>
-
 <div class="section">
-<h2 class="Tools" id="Tools" name="Tools">Guides and tutorials</h2>
+<h2 class="Tools" id="Tools" name="Tools">Tutorials</h2>
+
+<p>Our <a href="/en-US/docs/Learn/HTML">HTML Learning Area</a> features multiple modules that teach HTML from the ground up — no previous knowledge required.</p>
 
 <dl>
- <dt><a href="/en-US/docs/Web/Guide/HTML">HTML developer guide</a></dt>
- <dd>MDN articles demonstrating specific techniques you can use when building Web content with HTML, as well as tutorials and other material you may find handy. The guide can provide editorial lessons, tips and information on HTML development.</dd>
+ <dt><a href="/en-US/docs/Learn/HTML/Introduction_to_HTML">Introduction to HTML</a></dt>
+ <dd>This module sets the stage, getting you used to important concepts and syntax such as looking at applying HTML to text, how&nbsp;to create hyperlinks, and how to use HTML to structure a web page.</dd>
+ <dt><a href="/en-US/docs/Learn/HTML/Multimedia_and_embedding">Multimedia and embedding</a></dt>
+ <dd>This module explores how to use HTML to include multimedia in your web pages, including the different ways that images can be included, and how to&nbsp;embed video, audio, and even entire other webpages.</dd>
+ <dt><a href="/en-US/docs/Learn/HTML/Forms">HTML forms</a></dt>
+ <dd>Forms are a very important part of the Web — these provide much of the functionality you need for interacting with websites, e.g. registering and logging in, sending feedback, buying products, and more. This module gets you started with creating the client-side parts of forms.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto">Use HTML to&nbsp;solve common problems</a></dt>
+ <dd>Provides links to sections of content explaining how to use HTML to solve very common problems when creating a web page: dealing with titles, adding images or videos, emphasizing content, creating a basic form, etc.</dd>
 </dl>
 </div>
 </div>
