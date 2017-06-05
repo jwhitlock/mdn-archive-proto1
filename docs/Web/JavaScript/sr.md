@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1251665
+revision_id: 1252567
 locale: sr
 slug: Web/JavaScript
 tags: 
@@ -28,16 +28,16 @@ based_on: None
 
 <div class="column-container">
 <div class="column-half">
-<h2 id="Tutorials">Туторијали</h2>
+<h2 id="Туторијали">Туторијали</h2>
 
 <p>Научите да програмирате у Јаваскрипту с нашим водичима и туторијалима.</p>
 
-<h3 id="For_complete_beginners">За комплетне почетнике</h3>
+<h3 id="За_комплетне_почетнике">За комплетне почетнике</h3>
 
 <p>Идите на нашу <a href="/sr/docs/Learn/JavaScript">Learning Area JavaScript topic</a> ако желите да учите Јаваскрипт а немате претходног искуства у Јаваскрипту или у програмирању. Комплетна поглавља доступна тамо су:</p>
 
 <dl>
- <dt><a href="/en-US/docs/Learn/JavaScript/First_steps">Први кораци у Јаваскрипту</a></dt>
+ <dt><a href="/sr/docs/Learn/JavaScript/First_steps">Први кораци у Јаваскрипту</a></dt>
  <dd>Одговора на нека основна питања као што су "шта је Јаваскрипт?", "како изгледа?" и "шта може да уради?". Такође, даје објашњења о кључним особинама Јаваскрипта као што су променљиве, стрингови, бројеви и низови.</dd>
  <dt><a href="/en-US/docs/Learn/JavaScript/Building_blocks">Структурни блокови Јаваскрипта</a></dt>
  <dd>Наставља наше изучавање кључних особина Јаваскрипта, скреће пажњу на најчешће коришћене типове блокова кода као што су условни изрази, петље, функције и догађаји.</dd>
@@ -45,14 +45,14 @@ based_on: None
  <dd>Објектно оријентисана природа јаваскрипта је важна за разумевање ако желите да проширите знање језика и да пишете ефикаснији код, зато имамо ово поглавље да вам помогне у том циљу.</dd>
 </dl>
 
-<h3 id="JavaScript_guide">Јаваскрипт водич</h3>
+<h3 id="Јаваскрипт_водич">Јаваскрипт водич</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">Јаваскрипт водич</a></dt>
  <dd>Детаљнији водич у Јаваскрипт, за оне који имају претходно програмерско искуство било у Јаваскрипту или неком другом језику.</dd>
 </dl>
 
-<h3 id="Intermediate">Средњи ниво</h3>
+<h3 id="Средњи_ниво">Средњи ниво</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript">Поновни увод у Јаваскрипт</a></dt>
@@ -66,7 +66,7 @@ based_on: None
  <dd>Јаваскрипт обезбеђује три различита оператора&nbsp; за поређење вредности: строга једнакост користи <code>===</code>, мање строга једнакост <code>==</code>, и {{jsxref("Global_Objects/Object/is", "Object.is()")}} method.</dd>
 </dl>
 
-<h3 id="Advanced">Напредно</h3>
+<h3 id="Напредно">Напредно</h3>
 
 <dl>
  <dt><a href="/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain">Наслеђивање и ланац прототипова</a></dt>
@@ -83,7 +83,7 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h2 id="Reference">Референца</h2>
+<h2 id="Референца">Референца</h2>
 
 <p>Претражите комплетну <a href="/en-US/docs/Web/JavaScript/Reference">JavaScript reference</a> документацију.</p>
 
@@ -98,7 +98,7 @@ based_on: None
  <dd>Научите како да радећи са функцијама у Јаваскрипту направите ваше апликације.</dd>
 </dl>
 
-<h2 id="Tools_resources">Алатке и ресурси</h2>
+<h2 id="Алатке_и_ресурси">Алатке и ресурси</h2>
 
 <p>Корисне алатке за писање и дебаговање вашег кода у Јаваскрипту.</p>
 
