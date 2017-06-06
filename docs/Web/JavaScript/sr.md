@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1252567
+revision_id: 1253401
 locale: sr
 slug: Web/JavaScript
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -19,7 +19,7 @@ based_on: None
 
 <p>&nbsp;</p>
 
-<p>Овај део је посвећена самом Јаваскрипту, као програмском језику, а не деловима који су специфични за веб странице или друга окружења.<br />
+<p>Овај део је посвећен&nbsp;самом Јаваскрипту, као програмском језику, а не деловима који су специфични за веб странице или друга окружења.<br />
  За информације о {{Glossary("API","APIs")}} које се тичу веб страница, посетите <a href="/en-US/docs/Web/API">Web APIs</a> и <a href="/en-US/docs/Glossary/DOM">DOM</a>.</p>
 
 <p>Јаваскрипт стандард је <a href="/en-US/docs/Web/JavaScript/Language_Resources">ECMAScript</a>. Почев од 2012, сви <a href="https://kangax.github.io/compat-table/es5/">модерни веб претраживачи</a> у потпуности подржавају ECMAScript 5.1. Старији претраживачи подржавају најмање ECMAScript 3. <a href="https://www.ecma-international.org">ECMA International</a> је 17. јуна 2015. је објавила шесту верзију&nbsp; ECMAScript-а која је званично названа ECMAScript 2015, и иницијално се говорило о њој као&nbsp; ECMAScript 6 или ES6. Од тада,&nbsp; ECMAScript стандарди се објављују једном годишње. Ова документација се односи на последњу верзију у припреми, што је тренутно <a href="https://tc39.github.io/ecma262/">ECMAScript 2018</a>.</p>
