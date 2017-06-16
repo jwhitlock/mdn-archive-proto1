@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1238611
+revision_id: 1260061
 locale: zh-TW
 slug: Learn
 tags: "Web" "Index" "Learn" "Landing" "Beginner" "TopicStub" "NeedsTranslation"
@@ -47,7 +47,7 @@ based_on: None
  <li>在電腦上<a href="http://git-scm.com/downloads">安裝 Git</a>。這個版本控制系統，是 GitHub 運作的基礎。</li>
  <li><a href="https://github.com/join">在 GitHub 註冊一個帳號</a>。很簡單的。</li>
  <li>註冊好後用自己的帳密登入 <a href="https://github.com">github.com</a>。</li>
- <li>開啟你的<a href="https://www.lifewire.com/how-to-open-command-prompt-2618089">命令提示字元</a>（Windows）（譯註：如果使用 Windows 7 以後，建議使用 <a href="https://www.microsoft.com/taiwan/technet/columns/profwin/28-monad.mspx">Powershell</a>）或是終端機（<a href="https://help.ubuntu.com/community/UsingTheTerminal">Linux</a>、<a href="http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line">MacOSX</a>）</li>
+ <li>開啟你的<a href="https://www.lifewire.com/how-to-open-command-prompt-2618089">命令提示字元</a>（Windows）（譯註：如果使用 Windows 7 以後，建議使用 <a href="https://msdn.microsoft.com/en-us/powershell">Powershell</a>）或是終端機（<a href="https://help.ubuntu.com/community/UsingTheTerminal">Linux</a>、<a href="http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line">MacOSX</a>）</li>
  <li>要把學習專區的 repo 透過命令提示字元/終端機複製到目錄裡面，稱作 learning-area 的資料夾，只要鍵入以下指令：
   <pre class="brush: bash">
 git clone https://github.com/mdn/learning-area</pre>
@@ -73,7 +73,7 @@ git pull</pre>
 
 <h2 id="聯絡我們">聯絡我們</h2>
 
-<p>如果你想向我們詢問任何事情，最快的方式就是透過<a href="https://developer.mozilla.org/zh-TW/docs/MDN/Community/Conversations#Asynchronous_discussions">郵件群組</a>或 <a href="https://developer.mozilla.org/zh-TW/docs/MDN/Community/Conversations#Chat_in_IRC">IRC 頻道</a>留下訊息。不論你覺得網站有哪個地方做錯或缺漏，想看到新的學習主題、對自己不了解的地方尋求協助，或其他疑難雜症，都歡迎你提供意見給我們。</p>
+<p>如果你想向我們詢問任何事情，最快的方式就是透過<a href="https://discourse.mozilla-community.org/t/learning-web-development-marking-guides-and-questions/16294">學習專區討論串</a>或 <a href="https://developer.mozilla.org/zh-TW/docs/MDN/Community/Conversations#Chat_in_IRC">IRC 頻道</a>留下訊息。不論你覺得網站有哪個地方做錯或缺漏，想看到新的學習主題、對自己不了解的地方尋求協助，或其他疑難雜症，都歡迎你提供意見給我們。</p>
 
 <p>如果你想幫我們添增＼改善內容，則請先了解<a href="https://developer.mozilla.org/zh-TW/Learn/How_to_contribute">該如何協助</a>並聯絡我們！不論你是學生、教師、Web 開發老手，或是想幫我們改善學習經驗，都歡迎和我們聯絡。</p>
 
@@ -91,6 +91,11 @@ git pull</pre>
  <dd>絕妙的互動式網站，可從頭開始學習程式設計語言。</dd>
  <dt><a href="https://code.org/">Code.org</a></dt>
  <dd>基本的編碼理論與實作，主要為孩童與初學者所設計。</dd>
+ <dt><a href="https://www.freecodecamp.com/">freeCodeCamp.com</a></dt>
+ <dd>富含教學與專案實做的互動式網路開發學習網站。</dd>
+</dl>
+
+<dl>
  <dt><a href="https://teach.mozilla.org/web-literacy/">Web Literacy Map</a></dt>
  <dd>Web 素養與 21 世紀常見技術的入門，亦已分門別類提供教學活動。</dd>
  <dt><a href="https://teach.mozilla.org/activities">Teaching activities</a></dt>
