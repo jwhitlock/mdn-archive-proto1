@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1070854
+revision_id: 1262427
 locale: it
 slug: Web/HTML
 tags: 
@@ -35,13 +35,13 @@ based_on: None
  <dt><a href="https://developer.mozilla.org/it/docs/HTML/Attributes" title="HTML/Attributes">Elenco degli attributi HTML</a></dt>
  <dd>Vedere tutti gli attributi e a quali elementi sono associati.</dd>
  <dt><a href="https://developer.mozilla.org/it/docs/HTML/HTML5" title="HTML/HTML5">HTML5</a></dt>
- <dd>Apprendere le nuove API e gli elementi di HTML5 insieme con al loro supporto.</dd>
+ <dd>Apprendere le nuove API e gli elementi di HTML5 insieme al loro supporto.</dd>
  <dt><a href="https://developer.mozilla.org/it/docs/HTML/Forms" title="HTML/Forms">Guida ai moduli HTML</a></dt>
  <dd>I moduli HTML sono una parte complessa di HTML. Questa guida aiuterà a padroneggiarli, dalla struttura allo stile, dal supporto del browser ai controlli personalizzati.</dd>
  <dt><a href="https://developer.mozilla.org/it/docs/Web_development/Historical_artifacts_to_avoid" title="HTML/Bad_copy_pasting_habits">Cattive abitudini da "copie e incolla"</a></dt>
- <dd>Le tecnologie web sono molto spesso apprese guardando i sorgenti di altre pagine e facendone il copia e incolla. D'altra parte, ciò significa spesso perpeturare cattive abitudini.</dd>
+ <dd>Le tecnologie web sono molto spesso apprese guardando i sorgenti di altre pagine e facendone il copia e incolla. D'altra parte, ciò significa spesso perpetuare cattive abitudini.</dd>
  <dt><a href="https://developer.mozilla.org/it/docs/HTML/Canvas/Drawing_Graphics_with_Canvas" title="Drawing_Graphics_with_Canvas">Fare Grafica con i Canvas</a></dt>
- <dd>Un nuovo elemento per la grafica programmabile. <code>&lt;canvas&gt;</code> può essere utilizzato per il disegno, elementi della UI, e altri elemetni grafici personalizzati sul client.</dd>
+ <dd>Un nuovo elemento per la grafica programmabile. <code>&lt;canvas&gt;</code> può essere utilizzato per il disegno, elementi della UI, e altri elementi grafici personalizzati sul client.</dd>
  <dt><a href="https://developer.mozilla.org/it/docs/HTML/Tips_for_authoring_fast-loading_HTML_pages" title="HTML/Tips for authoring fast-loading HTML pages">Suggerimenti per la Creazione di Pagine HTML dal Caricamento Rapido</a></dt>
  <dd>Una pagina web ottimizzata non significa solo una maggiore reattività del sito per i tuoi visitatori, ma riduce anche il carico sui server web e la connessione internet.</dd>
 </dl>
@@ -50,9 +50,9 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Community" id="Community" name="Community">Ottentere aiuto dalla comunità</h2>
+<h2 class="Community" id="Community" name="Community">Ottenere aiuto dalla comunità</h2>
 
-<p>Hai bisogno di aiuto su un problema legato ad HTML e non trovi la soluzione nella docuemntazione?</p>
+<p>Hai bisogno di aiuto su un problema legato ad HTML e non trovi la soluzione nella documentazione?</p>
 
 <ul>
  <li>Consulta il forum di Mozilla dedicato: {{DiscussionList("dev-tech-html", "mozilla.dev.tech.html")}}</li>
@@ -64,7 +64,7 @@ based_on: None
 <h2 class="Tools" id="Tools" name="Tools">Strumenti che semplificano lo sviluppo HTML</h2>
 
 <ul>
- <li><a class="link-https" href="https://addons.mozilla.org/en-US/firefox/addon/1843">Firebug extension</a><span class="external"> di FireFox, una popolare estensione che permette di modificare in temporeale il CSS applicato al sito visualizzato. Molto pratica per testare alcuni cambiamenti, sebbene possa fare molto di più</span>.</li>
+ <li><a class="link-https" href="https://addons.mozilla.org/en-US/firefox/addon/1843">Firebug extension</a><span class="external"> di FireFox, una popolare estensione che permette di modificare in tempo reale il CSS applicato al sito visualizzato. Molto pratica per testare alcuni cambiamenti, sebbene possa fare molto di più</span>.</li>
  <li><a class="external" href="http://validator.w3.org/">Validatore HTML</a></li>
  <li><a class="link-https" href="https://addons.mozilla.org/en-US/firefox/addon/web-developer/">Web Developer Extension</a></li>
  <li><a class="external" href="http://tidy.sourceforge.net/">HTML Tidy</a></li>
@@ -77,7 +77,7 @@ based_on: None
 
 <ul>
  <li>I <a href="https://developer.mozilla.org/it/docs/CSS" title="CSS">Cascading Style Sheets (CSS)</a> utilizzati per dare stile ad HTML.</li>
- <li>Il <a href="https://developer.mozilla.org/docs/Document_Object_Model_%28DOM%29" title="Document Object Model (DOM)">Document Object Model (DOM)</a> è la rappresentazioen di un documento HTML sotto forma di albero.</li>
+ <li>Il <a href="https://developer.mozilla.org/docs/Document_Object_Model_%28DOM%29" title="Document Object Model (DOM)">Document Object Model (DOM)</a> è la rappresentazione&nbsp;di un documento HTML sotto forma di albero.</li>
  <li><a href="https://developer.mozilla.org/it/docs/XHTML" title="XHTML">XHTML</a> è la versione <a href="https://developer.mozilla.org/docs/XML" title="XML">XML</a> del linguaggio.</li>
 </ul>
 </div>
