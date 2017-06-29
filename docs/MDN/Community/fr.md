@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1063892
+revision_id: 1266347
 locale: fr
 slug: MDN/Rejoindre_la_communauté
 tags: "MDN Meta" "Guide" "Communauté"
@@ -13,7 +13,9 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>MDN est plus qu'un wiki : c'est une communauté de développeurs travaillant ensemble à faire de MDN une ressource exceptionnelle pour les développeurs qui utilisent les technologies libres du Web.</p>
+<div class="summary">
+<p>MDN (accronyme anglais pour réseau de développeur Mozilla) est plus qu'un wiki : c'est une communauté de développeurs travaillant ensemble à faire de MDN une ressource exceptionnelle pour les développeurs qui utilisent les technologies libres du Web.</p>
+</div>
 
 <p>Nous aimerions que vous contribuiez à MDN, mais nous aimerions encore plus que vous participiez à la communauté MDN. Voici comment s'y connecter, en 3 petites étapes :</p>
 
