@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1134887
+revision_id: 1266701
 locale: en-US
 slug: Web/JavaScript/Reference/Operators/Comparison_Operators
 tags: "Operator" "JavaScript" "Reference"
@@ -45,16 +45,15 @@ x == y
 <h4 id="Examples">Examples</h4>
 
 <pre class="brush: js">
-  1   ==  1        // true
- "1"  ==  1        // true
-  1   == '1'       // true
-  0   == false     // true
-  0   == null      // false
-var object1 = {"value":"key"}, object2={"value":"key"}; 
+1    ==  1         // true
+'1'  ==  1         // true
+1    == '1'        // true
+0    == false      // true
+0    == null       // false
+var object1 = {'value': 'key'}, object2 = {'value': 'key'}; 
 object1 == object2 //false
-
-  0   == undefined // false
-null  == undefined // true
+0    == undefined  // false
+null == undefined  // true
 </pre>
 
 <h3 id="Inequality_(!)"><a name="Inequality">Inequality (!=)</a></h3>
@@ -70,8 +69,8 @@ x != y</pre>
 
 <pre class="brush: js">
 1 !=   2     // true
-1 !=  "1"    // false
 1 !=  '1'    // false
+1 !=  "1"    // false
 1 !=  true   // false
 0 !=  false  // false
 </pre>
@@ -90,7 +89,7 @@ x === y</pre>
 <pre class="brush: js ">
 3 === 3   // true
 3 === '3' // false
-var object1 = {"value":"key"}, object2={"value":"key"};
+var object1 = {'value': 'key'}, object2 = {'value': 'key'};
 object1 === object2 //false</pre>
 
 <p>&nbsp;</p>
@@ -259,6 +258,7 @@ a == 'foo'</pre>
   <tr>
    <th>Feature</th>
    <th>Chrome</th>
+   <th>Edge</th>
    <th>Firefox (Gecko)</th>
    <th>Internet Explorer</th>
    <th>Opera</th>
@@ -266,6 +266,7 @@ a == 'foo'</pre>
   </tr>
   <tr>
    <td>Basic support</td>
+   <td>{{CompatVersionUnknown}}</td>
    <td>{{CompatVersionUnknown}}</td>
    <td>{{CompatVersionUnknown}}</td>
    <td>{{CompatVersionUnknown}}</td>
@@ -283,6 +284,7 @@ a == 'foo'</pre>
    <th>Feature</th>
    <th>Android</th>
    <th>Chrome for Android</th>
+   <th>Edge</th>
    <th>Firefox Mobile (Gecko)</th>
    <th>IE Mobile</th>
    <th>Opera Mobile</th>
@@ -290,6 +292,7 @@ a == 'foo'</pre>
   </tr>
   <tr>
    <td>Basic support</td>
+   <td>{{CompatVersionUnknown}}</td>
    <td>{{CompatVersionUnknown}}</td>
    <td>{{CompatVersionUnknown}}</td>
    <td>{{CompatVersionUnknown}}</td>
