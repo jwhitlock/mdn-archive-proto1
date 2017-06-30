@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1257597
+revision_id: 1266563
 locale: fa
 slug: Learn
 tags: "آموزش" "ترجمه" "رایگان" "طبقه بندی" "مقدماتی" "وب" "Web" "Index" "Learn" "Landing" "Beginner" "TopicStub" "NeedsTranslation"
@@ -52,6 +52,27 @@ based_on: None
 </div>
 
 <p dir="rtl">{{LearnBox({"title":"Random glossary entry"})}}</p>
+
+<h2 dir="rtl" id="Topics_covered">مطالب ارائه شده</h2>
+
+<p dir="rtl">در زیر می تونانید لیست موضوعاتی که در MDN وجود دارد را ببینید.</p>
+
+<dl>
+ <dt dir="rtl"><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">شروع کار با وب</a></dt>
+ <dd dir="rtl">برای کسانی که در توسعه وب کاملاً مبتدی هستند، مقدمه ای را رائه می دهد.</dd>
+ <dt dir="rtl"><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">HTML — ساختار وب</a></dt>
+ <dd dir="rtl">HTML زبانی است که برای ساخت قسمت های مختلف محتوا وتعریف آنچه که معنی و هدف آنهاست، از آن استفاده می کنیم. در این قسمت HTML را با جزئیات کامل آموزش می دهیم.</dd>
+ <dt dir="rtl"><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">CSS — ظاهر وب</a></dt>
+ <dd>CSS is the language that we can use to style and lay out our web content, as well as adding behaviour like animation. This topic provides comprehensive coverage of CSS.</dd>
+ <dt dir="rtl"><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript">JavaScript — اسکریپت نویسی پویا سمت کاربر</a></dt>
+ <dd>JavaScript is the scripting language used to add dynamic functionality to web pages. This topic teaches all the essentials needed to become comfortable with writing and understanding JavaScript.</dd>
+ <dt dir="rtl"><a href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility">دسترسی — قابل استفاده ساختن برای همه</a></dt>
+ <dd>Accessibility is the practice of making web content available to as many people as possible regardless of disabilities, device, locale, or other differentiating factors relevant to them. This topic gives you all you need to know.</dd>
+ <dt dir="rtl"><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing">ابزارها و تست ها</a></dt>
+ <dd>This topic is a place to cover tools developers use to facilitate their work, for example cross browser testing tools.</dd>
+ <dt dir="rtl"><a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side">برنامه نویسی سمت سرور وب سایت</a></dt>
+ <dd>Even if you are concentrating on client-side web development, it is still useful to know about how servers and server-side code features work. This topic provides a general introduction to how the server-side works, and detailed tutorials detailing how to build up a server-side app using two popular frameworks — Django (Python) and Express (node.js).&nbsp;</dd>
+</dl>
 
 <h2 dir="rtl" id="دریافت_کد_مثال‌ها">دریافت کد مثال‌ها</h2>
 
