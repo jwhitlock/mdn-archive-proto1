@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1228895
+revision_id: 1268043
 locale: fr
 slug: Outils
 tags: "Guide" "Outils" "Firefox" "Développement Web" "Développement Web:Outils"
@@ -41,7 +41,7 @@ based_on: None
 <hr />
 <div class="column-container">
 <div class="column-half">
-<h3 id="Débogueur_Javascript">Débogueur Javascript</h3>
+<h3 id="Débogueur_Javascript">Débogueur JavaScript</h3>
 
 <p><a href="/fr/docs/Tools/Debugger"><img alt="" src="https://mdn.mozillademos.org/files/14542/debugger.png" style="display:block; height:1026px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
@@ -125,7 +125,7 @@ based_on: None
 </div>
 
 <hr />
-<h2 id="Deboguer_le_navigateur">Deboguer le navigateur</h2>
+<h2 id="Deboguer_le_navigateur">Déboguer le navigateur</h2>
 
 <p>Par défaut, les outils de développement sont attachés à une page web. Il est cependant possible de les connecter au navigateur en lui même. C'est utile lors de développements portant sur le navigateur ou sur un module complémentaire.</p>
 
@@ -167,7 +167,7 @@ based_on: None
 
 <div class="twocolumns">
 <dl>
- <dt><a href="https://wiki.mozilla.org/DevTools/GetInvolved">Get Involved</a></dt>
+ <dt><a href="https://devtools-html.github.io/#getting-in-touch">S'impliquer</a></dt>
  <dd>La page du wiki de Mozilla expliquant comment s'impliquer.</dd>
  <dt><a href="http://firefox-dev.tools/">firefox-dev.tools</a></dt>
  <dd>Un outil pour aider à trouver des bugs sur lesquels travailler.</dd>
