@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1128135
+revision_id: 1267729
 locale: zh-CN
 slug: Web/Guide/Graphics
 tags: "HTML5" "SVG" "WebGL" "css 3d" "Canvas" "css video"
