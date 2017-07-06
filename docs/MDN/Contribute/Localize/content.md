@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1118563
+revision_id: 1268629
 locale: en-US
 slug: MDN/Contribute/Localize
 tags: "l10n" "MDN Meta" "Landing" "Localization"
@@ -23,14 +23,14 @@ based_on: None
 
 <dl>
  <dt>MDN site user interface</dt>
- <dd>The strings that appear on every MDN page (or most pages) to frame the main article content and provide navigation and user controls. These strings are translated using Mozilla’s Pontoon system. To begin translating, a Pontoon administrator must enable your locale in the system.</dd>
+ <dd>The strings that appear on every MDN page (or most pages) to frame the main article content and provide navigation and user controls. These strings are translated using Mozilla’s <a href="/en-US/docs/Mozilla/Localization/Localizing_with_Pontoon">Pontoon</a> system, in the <a href="https://pontoon.mozilla.org/projects/mdn/">MDN project</a>. If your locale is not available for MDN, a administrator must enable it. See <a href="/en-US/docs/MDN/Contribute/Localize/Starting_a_localization">Starting a new MDN localization</a>.</dd>
  <dt>MDN content</dt>
- <dd>The main body of MDN pages, consisting of reference, guide, or tutorial articles. Articles can be translated using the built-in translation interface of MDN. To begin translating, your locale must be added to MDN’s platform, which requires a small amount of development to enable it.</dd>
+ <dd>The main body of MDN pages, consisting of reference, guide, or tutorial articles. Articles can be translated using the <a href="/en-US/docs/MDN/Contribute/Localize/Translating_pages">built-in translation interface of MDN</a>. If your locale is not available in the list of locales to translate into, see <a href="/en-US/docs/MDN/Contribute/Localize/Starting_a_localization">Starting a new MDN localization</a>.</dd>
 </dl>
 
 <dl>
  <dt>Macro strings</dt>
- <dd>These strings are output by <a href="/en-US/docs/MDN/Contribute/Structures/Macros">macro templates</a> that construct certain kinds of navigation, messages, or generated structures. Because templates can have pervasive and potentially destructive effects, editing templates requires <a href="/en-US/docs/MDN/Contribute/Tools/Template_editing">a special access privilege</a>. If you do not have that access privilege, you will need to provide translated macro strings to someone who does have that privilege.</dd>
+ <dd>These strings are output by <a href="/en-US/docs/MDN/Contribute/Structures/Macros">macro templates</a> that construct certain kinds of navigation, messages, or generated structures. Because templates can have pervasive and potentially destructive effects, changes go through <a href="/en-US/docs/MDN/Contribute/Tools/Template_editing">a pull request and review process</a>.</dd>
 </dl>
 
 <p>The following pages provide more details about localizing on MDN:</p>
@@ -54,7 +54,7 @@ based_on: None
  <dt><a href="/en-US/docs/Mozilla/Localization/Localizing_with_Pontoon" title="/en-US/docs/Mozilla/Localization/Localizing_with_Verbatim">Pontoon</a></dt>
  <dd>Used for translation of strings across multiple Mozilla projects, including the MDN user interface (as well as the Firefox user interface).</dd>
  <dt><a href="http://transvision.mozfr.org/" title="http://transvision.mozfr.org/">Transvision</a></dt>
- <dd>A utility provided by Mozilla France, which lets you search for occurrences of an English string, finding all the various translations into a target locale that are used throughout Mozilla code. Useful for finding the preferred translations for words or phrases.</dd>
+ <dd>A utility provided by the French Mozilla community, which lets you search for occurrences of an English string, finding all the various translations into a target locale that are used throughout Mozilla code. Useful for finding the preferred translations for words or phrases.</dd>
 </dl>
 
 <h2 id="See_also">See also</h2>
