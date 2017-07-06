@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1257169
+revision_id: 1268329
 locale: fa
 slug: Web/HTML
 tags: "HTML" "HTML5" "Web" "Landing" "TopicStub" "NeedsTranslation"
@@ -9,13 +9,19 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
-<p dir="rtl">زبان نشانه گذاری ابر متن<span class="seoSummary"> (HTML) تقریبا زبان اصلی همه محتویات وب است. بیشتر آن‌چه که شما <span class="seoSummary">در مرورگر خود</span>برروی صفحه نمایش مشاهده می‌کنید توصیف شده، و اساسا، از HTML استفاده می‌کند.</span>با کمی دقت‌تر بیشتر، HTML زبانی است که ساختار و معنای محتوی مستندات وب را شرح می‌دهد. محتوی درون صفخات وب با المان‌های HTML مانند {{HTMLElement("img")}}، {{HTMLElement("title")}}، {{HTMLElement("p")}}، {{HTMLElement("div")}}، و غیره برچسب خورده است.</p>
+<p dir="rtl">(زبان نشانه گذاری ابر متن)<span class="seoSummary"> HTML، ابتدایی ترین زبان ساخت بلوک وب است. این (زبان)، <em>محتوای&nbsp;</em> یک صفحه وب را تفسیر میکند.سایر فن آوری ها در کنار HTML عموما جهت توصیف ظاهر/نمایش یک صفحه وب (CSS) یا عملکرد آن (JavaScript) استفاده می شوند. </span></p>
 
-<p dir="rtl">مقالات اینجا موارد مرجعی که می توانید هنگام توسعه وب به آن‌ها رجوع کنید را ارایه می‌کند.</p>
+<p dir="rtl"><span class="seoSummary">ابر متن به پیوند هایی که متصل کننده صفحات وب، که در یک وب سایت مفرد نیستند، یا بین وب سایت ها اشاره دارد. پیوندها یک بعد اساسی وب هستند. بوسیله فرابارگذاری [آپلود] محتوا به اینترنت و پیوند دادن آن به صفحاتی که سایر مردم ایجاد کرده اند</span></p>
+
+<p dir="rtl"><span class="seoSummary">شما یک مشترک فعال وب گسترده جهان[www] می شوید.&nbsp;&nbsp; </span></p>
+
+<p dir="rtl"><span class="seoSummary">HTML «افزایش قیمت» را برای تفسیر متن، تصاویر،و سایر مطالب جهت نمایش در یک یابنده وب استفاده می‌کند. افزایش نرخ HTML </span>عناصر خاصی همچون {{HTMLElement("head")}}, {{HTMLElement("title")}}, {{HTMLElement("body")}}, {{HTMLElement("header")}}, {{HTMLElement("footer")}}, {{HTMLElement("article")}}, {{HTMLElement("section")}}, {{HTMLElement("p")}}, {{HTMLElement("div")}}, {{HTMLElement("span")}}, {{HTMLElement("img")}} و موارد بسیار دیگری را در بر می گیرد.</p>
+
+<p dir="rtl">مقالات زیر برای آموختن بیشتر در مورد HTML به شما کمک می کند.</p>
 
 <ul class="card-grid" dir="rtl">
  <li>معرفی HTML
