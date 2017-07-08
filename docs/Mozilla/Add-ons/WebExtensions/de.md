@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1221827
+revision_id: 1269333
 locale: de
 slug: Mozilla/Add-ons/WebExtensions
 tags: 
@@ -15,9 +15,9 @@ based_on: None
 ---
 <div>{{AddonSidebar}}</div>
 
-<p>WebExtensions sind ein Cross-Browser System zur Entwicklung von Browser Add-ons. Das System ist in weiten Teilen kompatibel mit der <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a>, welche von Google Chrome und Opera unterstützt wird. Erweiterungen, welche für diese Browser geschrieben wurden, werden in den meisten Fällen auch in Firefox oder <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a> mit Hilfe von <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">nur wenigen Anpassungen</a> lauffähig sein. Die API ist ausserdem vollständig kompatibel mit <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">multiprocess Firefox</a>.</p>
+<p>WebExtensions sind ein Cross-Browser-System zur Entwicklung von Browser-Add-ons. Das System ist in weiten Teilen kompatibel mit der <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a>, welche von Google Chrome und Opera unterstützt wird. Erweiterungen, welche für diese Browser geschrieben wurden, werden in den meisten Fällen mit <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">nur wenigen Anpassungen</a> auch in Firefox oder <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a> lauffähig sein. Die API ist außerdem vollständig kompatibel mit <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">Multiprozess-Firefox</a>.</p>
 
-<p>Wir beabsichtigen des weiteren die APIs zu erweitern um die Unterstützung für Add-on Entwickler zu verbessern, sollten Sie also Vorschläge haben würden wir uns freuen wenn Sie uns diese mitteilen. Sie können uns über die <a href="https://mail.mozilla.org/listinfo/dev-addons">dev-addons mailing list</a> oder&nbsp;<a href="irc://irc.mozilla.org/webextensions">#webextensions</a> auf <a href="https://wiki.mozilla.org/IRC">IRC</a> erreichen.</p>
+<p>Wir beabsichtigen auch, die APIs zu erweitern, um die Unterstützung für Add-on-Entwickler zu verbessern. Sollten Sie Vorschläge dazu haben, würden wir uns über Ihre Mitteilung freuen. Sie erreichen uns über die englischsprachige <a href="https://mail.mozilla.org/listinfo/dev-addons">Mailingliste für Add-on-Entwickler</a> oder auf <a href="irc://irc.mozilla.org/webextensions">#webextensions</a> im <a href="https://wiki.mozilla.org/IRC">IRC</a>.</p>
 
 <div class="row topicpage-table">
 <div class="section">
