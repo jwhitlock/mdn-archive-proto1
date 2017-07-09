@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1074542
+revision_id: 1269651
 locale: uk
 slug: Web/Посібники
 tags: "Код" "Основи" "Посібник" "вебдизайн" "Керівництво" "Початківець"
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 1064656
+based_on: None
 ---
 <p>Посилання з цієї сторінки ведуть до різноманітних посібників і навчальних матеріалів. &nbsp;Незважаючи, чи ви тільки починаєте або маєте достатньо досвіду в веб-розробці, ви знайдете безліч корисних ресурсів та найкращих&nbsp;практик. Ці матеріали були створенні далекоглядними компаніями та веб-розробниками котрі використовують відкриті стандарти та найкращі практики в веб-розроці, що дозволяє&nbsp;перекладати й розповсюджувати матеріали, через таку відкриту ліцензію як Creative Commons.</p>
 
@@ -19,7 +19,7 @@ based_on: 1064656
 <div class="section">
 <h2 class="Documentation" id="Documentation" name="Documentation">HTML Посібники</h2>
 
-<h3 id="Introductory_level">Вступний рівень</h3>
+<h3 id="Вступний_рівень">Вступний рівень</h3>
 
 <dl>
  <dt>
@@ -38,7 +38,7 @@ based_on: 1064656
  <dd>Use these challenges to hone your HTML skills (for example, "Should I use an &lt;h2&gt; element or a &lt;strong&gt; element?"), focusing on meaningful mark-up.</dd>
 </dl>
 
-<h3 id="Advanced_level">Професіональний рівень</h3>
+<h3 id="Професіональний_рівень">Професійний рівень</h3>
 
 <dl>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Tips_for_Authoring_Fast-loading_HTML_Pages">Tips for Authoring Fast-Loading HTML Pages</a></strong></dt>
@@ -50,25 +50,25 @@ based_on: 1064656
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Canvas_tutorial">Canvas Tutorial</a></strong></dt>
  <dd>Learn how to draw graphics using scripting using the canvas element.</dd>
  <dt><strong><a href="http://html5doctor.com/" rel="external">HTML5 Doctor</a></strong></dt>
- <dd>Articles about using HTML5 right now.</dd>
+ <dd>Статті про використання HTML5 "тут і зараз".</dd>
  <dt><strong><a href="http://www.elated.com/articles/html5-audio/" rel="external">The Joy of HTML5 Audio</a> (Elated)</strong></dt>
  <dd>Learn how to use the HTML audio element to embed sounds in your web pages easily. Lots of code examples are included in the tutorial.</dd>
 </dl>
 
 <h2 class="Documentation" id="Documentation" name="Documentation">Javascript Посібники</h2>
 
-<h3 id="Introductory_level_2">Вступний рівень</h3>
+<h3 id="Вступний_рівень_2">Вступний рівень</h3>
 
 <dl>
  <dt><strong><a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</strong></dt>
  <dd>Codecademy is a easy way to learn how to code JavaScript. It's interactive and you can do it with your friends.</dd>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Getting_Started">Getting Started with JavaScript</a></strong></dt>
- <dd>What is JavaScript and how can it help you?</dd>
+ <dd>Що таке JavaScript і як це може допомогти вам?</dd>
  <dt><strong><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" rel="external">JavaScript Best Practices</a><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" title="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices"> </a>(WebPlatform.org)</strong></dt>
  <dd>Learn about some of the obvious and (not so) obvious best practices when writing JavaScript.</dd>
 </dl>
 
-<h3 id="Intermediate_level">Середній рівень</h3>
+<h3 id="Середній_рівень">Середній рівень</h3>
 
 <dl>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/A_re-introduction_to_JavaScript">A Re-Introduction to JavaScript</a></strong></dt>
@@ -84,7 +84,7 @@ based_on: 1064656
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Introduction_to_Object-Oriented_JavaScript">Introduction to Object-Oriented JavaScript</a></strong></dt>
  <dd>Learn about the JavaScript object model.</dd>
  <dt>
- <h3>Extension Development</h3>
+ <h3 id="Extension_Development">Extension Development</h3>
  </dt>
  <dd>https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School - this gives a good introduction to some aspects of Firefox addons...</dd>
  <dt>.... There needs to be other links to other tutorials for development of extensions</dt>
@@ -92,7 +92,7 @@ based_on: 1064656
 </div>
 
 <div class="section">
-<h3 id="Advanced_level_2">Професіональний рівень</h3>
+<h3 id="Професіональний_рівень_2">Професійний рівень</h3>
 
 <dl>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Guide">JavaScript Guide</a></strong></dt>
@@ -121,45 +121,45 @@ based_on: 1064656
 
 <h2 class="Documentation" id="Documentation" name="Documentation">CSS Посібники</h2>
 
-<h3 id="Introductory_level_3">Вступний рівень</h3>
+<h3 id="Вступний_рівень_3">Вступний рівень</h3>
 
 <dl>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/CSS/Getting_Started">CSS Getting Started</a></strong></dt>
  <dd>This tutorial introduces you to Cascading Style Sheets (CSS). It guides you through the basic features of CSS with practical examples that you can try for yourself on your own computer.</dd>
  <dt><strong><a href="http://en.wikiversity.org/wiki/Web_Design/CSS_Classes" rel="external">CSS Selector Classes</a> (Wikiversity)</strong></dt>
- <dd>What are classes in CSS?</dd>
+ <dd>Що є класами в CSS?</dd>
  <dt><strong><a href="http://en.wikiversity.org/wiki/Web_Design/External_CSS" rel="external">External CSS</a> (Wikiversity)</strong></dt>
- <dd>Using CSS from an external style sheet.</dd>
+ <dd>Використання у CSS зовнішніньої таблиці стилів.</dd>
  <dt><strong><a href="http://www.w3.org/MarkUp/Guide/Style" rel="external">Adding a Touch of Style</a> (W3C)</strong></dt>
  <dd>A brief beginner's guide to styling web pages with CSS.</dd>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Common_CSS_Questions">Common CSS Questions</a></strong></dt>
- <dd>Common questions and answers for beginners.</dd>
+ <dd>Загальні запитання та відповіді для початківців.</dd>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors" title="http://codeavengers.com/">CSS Selectors</a></strong></dt>
- <dd>An introduction to CSS selectors</dd>
+ <dd>Знайомство з CSS селекторами</dd>
 </dl>
 
-<h3 id="Intermediate_level_2">Середній рівень</h3>
+<h3 id="Середній_рівень_2">Середній рівень</h3>
 
 <dl>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference">CSS Reference</a></strong></dt>
- <dd>Complete reference to CSS, with details on support by Firefox and other browsers.</dd>
+ <dd>Повний довідник з CSS, де є деталі про підтримку CSS у Firefox та інших броузерах.</dd>
  <dt><strong><a href="http://en.wikiversity.org/wiki/Web_Design/CSS_challenges" rel="external">CSS Challenges</a> (Wikiversity)</strong></dt>
  <dd>Flex your CSS skills, and see where you need more practice.</dd>
  <dt><strong><a href="http://www.html.net/tutorials/css/" rel="external">Intermediate CSS Concepts</a> (HTML.net)</strong></dt>
- <dd>Grouping, pseudo-classes, and more.</dd>
+ <dd>Групування, псевдокласи, та інше.</dd>
  <dt><strong><a href="http://www.alistapart.com/articles/css-positioning-101/" rel="external">CSS Positioning 101</a> (A List Apart)</strong></dt>
- <dd>Using positioning for standards-compliant, table-free layout.</dd>
+ <dd>Використовуйте позиціювання для стандартного, безтабличного макету.</dd>
  <dt><strong><a href="http://www.alistapart.com/articles/progressiveenhancementwithcss/" rel="external">Progressive Enhancement with CSS</a> (A List Apart)</strong></dt>
- <dd>Integrate progressive enhancement into your web pages with CSS.</dd>
+ <dd>Втілення прогресивного покращення у ваші web сторінки за допомогою CSS.</dd>
  <dt><strong><a href="http://www.alistapart.com/articles/fluidgrids/" rel="external">Fluid Grids</a> (A List Apart)</strong></dt>
  <dd>Design layouts that fluidly resize with the browser window, while still using a typographic grid.</dd>
 </dl>
 
-<h3 id="Advanced_level_3">Професіональний рівень</h3>
+<h3 id="Професіональний_рівень_3">Професійний рівень</h3>
 
 <dl>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/CSS/Using_CSS_transforms">Using CSS Transforms</a></strong></dt>
- <dd>Apply rotation, skewing, scaling, and translation using CSS.</dd>
+ <dd>Застосування обертання, перекошування, маштабування та транслявання у CSS.</dd>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_transitions">CSS Transitions</a></strong></dt>
  <dd>CSS transitions, part of the draft CSS3 specification, provide a way to animate changes to CSS properties, instead of having the changes take effect instantly.</dd>
  <dt><strong><a href="http://www.html5rocks.com/tutorials/webfonts/quick/" rel="external">Quick Guide to Implement Web Fonts with @font-face</a> (HTML5 Rocks)</strong></dt>
