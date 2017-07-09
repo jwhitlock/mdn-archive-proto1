@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1269651
+revision_id: 1269653
 locale: uk
 slug: Web/Посібники
 tags: "Код" "Основи" "Посібник" "вебдизайн" "Керівництво" "Початківець"
@@ -8,8 +8,8 @@ title: Посібники
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -33,16 +33,16 @@ based_on: None
  </dt>
  <dd>Дізнайтесь як HTML елементи доповнюють друг друга створюючи цілістну картину.</dd>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/HTML/Element">MDN HTML Element Reference</a></strong></dt>
- <dd>A comprehensive reference for HTML elements, and how the different browsers support them.</dd>
+ <dd>Повний довідник HTML елементів, та опси як вони підтримуються у різних броузерах.</dd>
  <dt><strong><a href="http://wikiversity.org/wiki/Web_Design/HTML_Challenges" rel="external">HTML Challenges</a> (Wikiversity)</strong></dt>
  <dd>Use these challenges to hone your HTML skills (for example, "Should I use an &lt;h2&gt; element or a &lt;strong&gt; element?"), focusing on meaningful mark-up.</dd>
 </dl>
 
-<h3 id="Професіональний_рівень">Професійний рівень</h3>
+<h3 id="Професійний_рівень">Професійний рівень</h3>
 
 <dl>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Tips_for_Authoring_Fast-loading_HTML_Pages">Tips for Authoring Fast-Loading HTML Pages</a></strong></dt>
- <dd>Optimize web pages to provide a more responsive site for visitors and reduce the load on your web server and Internet connection.</dd>
+ <dd>Оптимізуйте веб-сторінки, щоб забезпечити, більш зручний та швидко відповідаючий сайт для відвідувачів, зменшити навантаження на ваш веб-сервер і підключення до Інтернету.</dd>
  <dt><strong><a href="http://www.html5rocks.com/tutorials/" rel="external">HTML5 Tutorials</a> (HTML5 Rocks)</strong></dt>
  <dd>Take a guided tour through code that uses HTML5 features.</dd>
  <dt><strong><a href="http://www.alistapart.com/articles/semanticsinhtml5/" rel="external">Semantics in HTML5</a> (A List Apart)</strong></dt>
@@ -92,7 +92,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h3 id="Професіональний_рівень_2">Професійний рівень</h3>
+<h3 id="Професійний_рівень_2">Професійний рівень</h3>
 
 <dl>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Guide">JavaScript Guide</a></strong></dt>
@@ -155,7 +155,7 @@ based_on: None
  <dd>Design layouts that fluidly resize with the browser window, while still using a typographic grid.</dd>
 </dl>
 
-<h3 id="Професіональний_рівень_3">Професійний рівень</h3>
+<h3 id="Професійний_рівень_3">Професійний рівень</h3>
 
 <dl>
  <dt><strong><a href="https://developer.mozilla.org/en-US/docs/CSS/Using_CSS_transforms">Using CSS Transforms</a></strong></dt>
