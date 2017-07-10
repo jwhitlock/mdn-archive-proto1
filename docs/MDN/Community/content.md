@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1153110
+revision_id: 1270089
 locale: en-US
 slug: MDN/Community
 tags: "MDN Meta" "Guide" "Landing" "Community"
@@ -16,7 +16,7 @@ based_on: None
 <div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
 
 <div class="summary">
-<p>MDN (which is an abbreviation for Mozilla Developer Network) is more than a wiki: It's a community of developers working together to make MDN an outstanding resource for developers who use open Web technologies.</p>
+<p>MDN Web Docs is more than a wiki: It's a community of developers working together to make MDN an outstanding resource for developers who use open Web technologies.</p>
 </div>
 
 <p>We'd love it if you contribute to MDN, but we'd love it even more if you participate in the MDN community.&nbsp;Here's how to get connected, in three easy steps:</p>
