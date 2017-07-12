@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1227723
+revision_id: 1270603
 locale: fr
 slug: MDN/Feedback
 tags: "MDN" "MDN Meta" "Guide"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
 
-<p>Bienvenue sur Mozilla Developer Network.&nbsp; <span class="seoSummary">Si vous avez des suggestions ou avez des problèmes avec MDN, vous êtes au bon endroit. Nous vous remercions par avance de l'intérêt que vous nous portez.</span></p>
+<p>Bienvenue sur MDN.&nbsp; <span class="seoSummary">Si vous avez des suggestions ou avez des problèmes avec MDN, vous êtes au bon endroit. Nous vous remercions par avance de l'intérêt que vous nous portez.</span></p>
 
 <p><span class="seoSummary">Il y existe plusieurs façons de nous aider, cet article va vous guider.</span></p>
 
@@ -28,9 +28,9 @@ based_on: None
 <p>Pour plus d'information sur comment contribuer à la documentation :</p>
 
 <ul>
- <li><a href="/fr/docs/MDN/Débuter_sur_MDN" title="/en-US/docs/Project:Getting_started">Débuter sur MDN</a></li>
+ <li><a href="/fr/docs/MDN/Débuter_sur_MDN">Débuter sur MDN</a></li>
  <li><a href="/fr/docs/MDN/Contribute">Contribuer au MDN</a></li>
- <li><a href="/fr/docs/Project:Guide_du_rédacteur" title="/en-US/docs/Project:MDN_editing_interface">L’interface d’édition du MDN</a></li>
+ <li><a href="/fr/docs/Project:Guide_du_rédacteur">L’interface d’édition du MDN</a></li>
 </ul>
 
 <h2 id="Rejoignez_la_conversation">Rejoignez la conversation</h2>
@@ -39,20 +39,18 @@ based_on: None
 
 <h3 id="Chat">Chat</h3>
 
-<p>Nous utilisons Internet Relay Chat (<a href="https://wiki.mozilla.org/IRC" title="/en-US/docs/">IRC</a>) pour parler de MDN et de son contenu. Vous pouvez rejoindre la conversation ! Nous avons de nombreux canaux parmi lesquels choisir, en fonction de votre domaine d'intérêt spécifique:</p>
+<p>Nous utilisons Internet Relay Chat (<a href="https://wiki.mozilla.org/IRC">IRC</a>) pour parler de MDN et de son contenu. Vous pouvez rejoindre la conversation ! Nous avons de nombreux canaux parmi lesquels choisir, en fonction de votre domaine d'intérêt spécifique:</p>
 
 <dl>
- <dt><a href="irc://irc.mozilla.org/mdn" title="irc://irc.mozilla.org/mdn">Le site MDN (#mdn)</a></dt>
+ <dt><a href="irc://irc.mozilla.org/mdn">Le site MDN (#mdn)</a></dt>
  <dd>Ce canal est pour les discussions générales de MDN. Si vous n'êtes pas sûr de l'endroit où trouver de l'aide, ou de ce que votre problème implique, vous pouvez le demander ici ! Ce canal est utilisé pour discuter du contenu de la documentation. Si vous avez des questions ou des commentaires à propos du contenu d'un article, de nouveaux articles que vous voudriez voir ou créer, ou que vous voulez simplement parler à la rédaction, c'est l'endroit idéal.</dd>
- <dt><a href="irc://irc.mozilla.org/mdndev" title="irc://irc.mozilla.org/mdndev">Site de documentation du développement (#mdndev)</a></dt>
+ <dt><a href="irc://irc.mozilla.org/mdndev">Site de documentation du développement (#mdndev)</a></dt>
  <dd>Le canal&nbsp; {{IRCLink("mdndev")}}&nbsp; est l'endroit où nous discutons du travail de développement de la plateforme qui fait tourner le site MDN. Si vous avez des problèmes avec des fonctionnalités du site, ou des idées de fonctionnalités, vous pouvez nous contacter ici pour en parler.</dd>
 </dl>
 
-<h3 id="Courriel">Courriel</h3>
+<h3 id="Courriel">Discussions (asynchrones)</h3>
 
-<p>Il y a des discussions de long-terme sur notre liste de diffusion, <a href="https://lists.mozilla.org/listinfo/dev-mdc" title="https://lists.mozilla.org/listinfo/dev-mdc">dev-mdc@lists.mozilla.org</a>. Vous pouvez publier dans la liste, sans y souscrire, mais dans ce cas, votre publication devra être approuvée par un modérateur, ce qui signifie que ça prendra plus de temps pour être visible par les autres. Vous pouvez voir et poster sur dev-mdc via le format de votre choix :</p>
-
-<p>{{ DiscussionList("dev-mdc", "mozilla.dev.mdc") }}</p>
+<p>Les discussions plus importantes et qui ne nécessitent pas d'être connecté à tout moment se déroulent sur <a href="https://discourse.mozilla-community.org/c/mdn">le forum Discourse</a>. Vous pouvez envoyer des messages sur ce forum par e-mail en utilisant l'adresse <a href="mailto://mdn@mozilla-community.org">mdn@mozilla-community.org</a>. Si vous vous inscrivez sur le forum, vous pouvez également choisir de recevoir des notifications par e-mail à propos des discussions.</p>
 
 <h2 id="Rapporter_un_problème">Rapporter un problème</h2>
 
