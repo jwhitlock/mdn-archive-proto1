@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1223449
+revision_id: 1272087
 locale: pt-BR
 slug: Games
 tags: "Gamedev" "Jogos Web" "Jogos em HTML5" "Aplicativos" "Jogos em JavaScript" "Desenvolvimento de Jogos"
@@ -110,7 +110,7 @@ based_on: None
  <li><a href="#">Introdução</a>
 
   <ol>
-   <li><a href="/en-US/docs/Games/Introduction" title="An introduction to the technologies useful for game developers and how to get started developing games using Web technologies. This article also looks at the business case for why it makes sense to create games for the Web">Introdução&nbsp;ao desenvolvimento de jogo para a Web</a></li>
+   <li><a href="/pt-BR/docs/Games/Introduction" title="An introduction to the technologies useful for game developers and how to get started developing games using Web technologies. This article also looks at the business case for why it makes sense to create games for the Web">Introdução&nbsp;ao desenvolvimento de jogo para a Web</a></li>
    <li><a href="/en-US/docs/Games/Anatomy" title="What is a video game, really? There are certain parts that are common between games (even if it doesn't seem like it). This article looks to explain concepts like main loops in a completely general context. When it does focus, it does so toward web standards.">Anatomia de um&nbsp;video game</a></li>
    <li><a href="/en-US/docs/Games/Examples">Exemplos</a></li>
   </ol>
