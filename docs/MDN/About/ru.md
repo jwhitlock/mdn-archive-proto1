@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1267227
+revision_id: 1273561
 locale: ru
 slug: MDN/About
 tags: "Копирайт" "Лицензии" "Сообщество" "Руководство"
@@ -21,7 +21,6 @@ based_on: None
  <li>Веб стандарты, например <a href="/ru/docs/CSS" title="/ru/docs/CSS">CSS</a>, <a href="/ru/docs/HTML" title="/ru/docs/HTML">HTML</a>, и <a href="/ru/docs/JavaScript" title="/ru/docs/JavaScript">JavaScript</a></li>
  <li><a href="/ru/docs/Apps" title="/ru/docs/Apps">Разработку отрытых веб-приложений</a></li>
  <li><a href="/ru/docs/Add-ons" title="/ru/docs/Add-ons">Разработка дополнений Firefox</a></li>
- <li><a href="/ru/docs/Mozilla/Firefox_OS" title="/ru/docs/Mozilla/Firefox_OS">Firefox OS</a></li>
 </ul>
 
 <h2 id="Наша_миссия">Наша миссия</h2>
@@ -40,7 +39,7 @@ based_on: None
 
 <h2 id="MDN_сообщество">MDN сообщество</h2>
 
-<p>Наше сообщество глобально! В наших рядах замечательные волонтёры со всего мира, общающиеся на огромном количестве языков. При желании узнать&nbsp;больше, или получить любую помощь с MDN&nbsp;- пожалуйста, добавляйтесь к нам в рассылку или в IRC канал!</p>
+<p>Наше сообщество глобально! В наших рядах замечательные волонтёры со всего мира, общающиеся на огромном количестве языков. <span id="result_box" lang="ru"><span>Если вы хотите узнать больше или получить какую-либо помощь в MDN - присоединяйтесь к нам на дискуссионном форуме или в канале IRC!</span></span></p>
 
 <p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Встречи|https://wiki.mozilla.org/MDN/Community_meetings|Каждую среду в IRC||События|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|события сообщества MDN||Доска на Trello|https://trello.com/b/HAhl54zz/status|Доска управления проектом||Внести вклад|/ru/Inbox|Создать страницу", "MozDevNet")}}</p>
 
@@ -82,11 +81,11 @@ based_on: None
 
 <p>Вы можете скачать<a href="/media/developer.mozilla.org.tar.gz"> full tarball mirror of MDN</a>. (1.8GB as of 2016-05-22)</p>
 
-<h4 id="Single_Pages">Отдельные Страницы</h4>
+<h4 id="Отдельные_Страницы">Отдельные Страницы</h4>
 
 <p>Вы можете получить содержимое отдельной страницы на MDN, добавив <a href="/ru/docs/MDN/Kuma/API#Document_parameters">параметры документа</a> к её URL, чтобы указать, какой формат вам нужен.</p>
 
-<h4 id="Third-party_tools">Сторонние инструменты</h4>
+<h4 id="Сторонние_инструменты">Сторонние инструменты</h4>
 
 <p>Вы можете просматривать MDN контент с помощью сторонних инструментов, таких как&nbsp; <a href="http://kapeli.com/dash">Dash</a> (Mac OS) и <a href="http://zealdocs.org/">Zeal</a> (Linux and Windows).</p>
 
