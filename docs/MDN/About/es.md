@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1193277
+revision_id: 1273451
 locale: es
 slug: MDN/About
 tags: "Guía" "MDN Meta" "Comunidad" "Licencias" "Colaboración" "Documentación" "Derechos de Autor"
@@ -21,7 +21,6 @@ based_on: None
  <li>Estándares Web como&nbsp;<a href="/es/docs/CSS">CSS</a>, <a href="/es/docs/HTML">HTML</a>, y <a href="/es/docs/JavaScript">JavaScript</a></li>
  <li><a href="/es/docs/Apps">&nbsp;Desarrollo de aplicaciones para Web Abierta</a></li>
  <li><a href="/es/docs/Add-ons">Desarrollo de complementos para Firefox</a></li>
- <li><a href="/es/docs/Mozilla/Firefox_OS">Desarrollo de Firefox OS</a></li>
 </ul>
 
 <h2 id="Nuestra_Misión">Nuestra Misión</h2>
@@ -132,7 +131,7 @@ based_on: None
 
 <div dir="ltr" style="zoom:1">&nbsp;</div>
 
-<h4 dir="ltr" id="Páginas_Únicas" style="zoom:1"><span lang="es"><span>Páginas únicas</span></span></h4>
+<h4 dir="ltr" id="Páginas_únicas" style="zoom:1"><span lang="es"><span>Páginas únicas</span></span></h4>
 
 <p dir="ltr"><span id="result_box" lang="es"><span>Puede recuperar el contenido de una&nbsp; página&nbsp; única en MDN agregando <a href="/en-US/docs/MDN/Contribute/Tools/Document_parameters#Document_parameters">parámetros de documento</a> a la URL para especificar el formato que desea.</span></span></p>
 
