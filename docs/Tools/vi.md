@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 1085073
+revision_id: 1273263
 locale: vi
 slug: Tools
 tags: 
 title: Công cụ
 summary: 
 keywords: 
-needs_technical_review: False
+needs_technical_review: True
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -146,8 +146,6 @@ based_on: None
 <hr />
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <div class="column-container">
 <div class="column-half">
 <h2 id="Debugging_the_browser" name="Debugging_the_browser">Debugging trình duyệt</h2>
@@ -163,7 +161,7 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h2 id="Extending_the_devtools" name="Extending_the_devtools">Extending the devtools</h2>
+<h2 id="Extending_the_devtools" name="Extending_the_devtools">Mở rộng&nbsp;devtools</h2>
 
 <p>The developer tools are designed to be extensible. Firefox add-ons can access the developer tools and the components they use to extend existing tools and add new tools. With the remote debugging protocol you can implement your own debugging clients and servers, enabling you to debug websites using your own tools or to debug different targets using the Firefox tools.</p>
 
@@ -193,7 +191,7 @@ based_on: None
 <div class="column-half">
 <dl>
  <dt><a href="https://www.getfirebug.com/">Firebug</a></dt>
- <dd>A very popular and powerful web development tool, including a JavaScript debugger, HTML and CSS viewer and editor, and network monitor.</dd>
+ <dd>Công cụ phát triển web rất phổ biến và mạnh mẽ, bao gồm trình sửa lỗi JavaScript, trình xem và chỉnh sửa HTML và CSS, và trình giám sát mạng.</dd>
  <dt><a href="/en-US/docs/Tools/Add-ons/DOM_Inspector">DOM Inspector</a></dt>
  <dd>Inspect, browse, and edit the DOM of web pages or XUL windows.</dd>
  <dt><a href="https://addons.mozilla.org/en-US/firefox/addon/web-developer/">Web Developer</a></dt>
