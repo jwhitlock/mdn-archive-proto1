@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1229883
+revision_id: 1273563
 locale: ta
 slug: MDN/About
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -41,7 +41,7 @@ based_on: None
 
 <h2 id="The_MDN_community">The MDN community</h2>
 
-<p>Our community is a global one! We have amazing contributors all around the world, in a number of languages. If you'd like to learn more about us, or if you need help of any kind with MDN, feel free to check out our <a href="http://lists.mozilla.org/listinfo/dev-mdc">mailing list</a> or <a href="irc://irc.mozilla.org#mdn">IRC channel</a>! You can also keep up with what we're up to by following our Twitter account, <a href="http://twitter.com/MozDevNet">@MozDevNet</a>. You can also send tweets our way if you see something wrong or if you'd like to offer feedback (or great big thank yous) to our writers and contributors!</p>
+<p>Our community is a global one! We have amazing contributors all around the world, in a number of languages. If you'd like to learn more about us, or if you need help of any kind with MDN, feel free to check out our <a href="https://discourse.mozilla-community.org/c/mdn">discussion forum</a> or <a href="irc://irc.mozilla.org#mdn">IRC channel</a>! You can also keep up with what we're up to by following our Twitter account, <a href="http://twitter.com/MozDevNet">@MozDevNet</a>. You can also send tweets our way if you see something wrong or if you'd like to offer feedback (or great big thank yous) to our writers and contributors!</p>
 
 <p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC||Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events", "MozDevNet")}}</p>
 
