@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 949717
+revision_id: 1273553
 locale: pl
 slug: MDN/About
 tags: 
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 9c1919b2e3c60f3dae67ca59ca583d8c5323f3de
+based_on: None
 ---
 <div>{{IncludeSubNav("/en-US/docs/MDN")}}</div>
 
@@ -21,7 +21,6 @@ based_on: 9c1919b2e3c60f3dae67ca59ca583d8c5323f3de
  <li>Web standards such as <a href="/en-US/docs/CSS" title="/en-US/docs/CSS">CSS</a>, <a href="/en-US/docs/HTML" title="/en-US/docs/HTML">HTML</a>, and <a href="/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></li>
  <li><a href="/en-US/docs/Apps" title="/en-US/docs/Apps">Open Web app development</a></li>
  <li><a href="/en-US/docs/Add-ons" title="/en-US/docs/Add-ons">Firefox add-on development</a></li>
- <li><a href="/en-US/docs/Mozilla/Firefox_OS" title="/en-US/docs/Mozilla/Firefox_OS">Firefox OS development</a></li>
 </ul>
 
 <h2 id="Our_mission">Our mission</h2>
@@ -40,7 +39,7 @@ based_on: 9c1919b2e3c60f3dae67ca59ca583d8c5323f3de
 
 <h2 id="The_MDN_community">The MDN community</h2>
 
-<p>Our community is a global one! We have amazing contributors all around the world, in a number of languages. If you'd like to learn more about us, or if you need help of any kind with MDN, feel free to check out our mailing list or IRC channel !</p>
+<p>Our community is a global one! We have amazing contributors all around the world, in a number of languages. If you'd like to learn more about us, or if you need help of any kind with MDN, feel free to check out our discussion forum or IRC channel !</p>
 
 <p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC||Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events||Trello board|https://trello.com/b/HAhl54zz/status|Project management board||Contribute|/en-US/Inbox|Create a page", "MozDevNet")}}</p>
 
