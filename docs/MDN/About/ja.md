@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1192657
+revision_id: 1273501
 locale: ja
 slug: MDN/About
 tags: "要更新" "MDN Meta" "Guide" "Licenses" "Community" "Copyright"
@@ -21,10 +21,7 @@ based_on: None
  <li><a href="/ja/docs/CSS" title="/ja/docs/CSS">CSS</a>、<a href="/ja/docs/HTML" title="/ja/docs/HTML">HTML</a>、 <a href="/ja/docs/JavaScript" title="/ja/docs/JavaScript">JavaScript</a> などのウェブ標準</li>
  <li><a href="/ja/docs/Apps" title="/ja/docs/Apps">オープンなウェブアプリの開発</a></li>
  <li><a href="/ja/docs/Mozilla/Add-ons" title="/ja/docs/Add-ons">Firefox のアドオン開発</a></li>
- <li><a href="/ja/docs/Mozilla/Firefox_OS" title="/ja/docs/Mozilla/Firefox_OS">Firefox OS の開発</a></li>
 </ul>
-
-<h2 id="私たちのミッション">私たちのミッション</h2>
 
 <p>MDN のミッションは単純です。開発者が<a href="/ja/docs/Web">オープンなウェブ</a>上でプロジェクトを簡単に構築できるようにする情報を提供することです。ウェブ上で公開されているオープンなテクノロジーであれば、どんなものでも私たちは文書化したいと考えています。</p>
 
@@ -32,7 +29,7 @@ based_on: None
 
 <p>もしあるトピックを MDN に含めるべきか、自信を持って判断できないときは、<a href="/ja/docs/Project:MDN/Contributing/Does_this_belong">これは MDN に含まれますか？</a>&nbsp;のページを読んでみてください。</p>
 
-<h2 id="手助けするには">協力する方法</h2>
+<h2 id="協力する方法">協力する方法</h2>
 
 <p>MDN を手助けるには、必ずしもコードを書いたり、よいドキュメントを書かなければならないわけではありません！ 文書の意味が通るかを確認する編集レビュー、ちょっとした文章の寄稿、サンプルコードの追加など、いろいろな方法があります。実際にとても多くの方法があるため、私たちは&nbsp;<a href="https://developer.mozilla.org/ja/docs/MDN/Getting_started">MDNを始めよう</a> ページを用意しています。あなたがどんなことに興味があるか、またどれだけ使える時間があるのかによって、自分にピッタリのタスクを見つけて貢献してみてください。</p>
 
@@ -40,7 +37,7 @@ based_on: None
 
 <h2 id="MDN_コミュニティ">MDN コミュニティ</h2>
 
-<p>私たちのコミュニティはグローバルなコミュニティです！ 素晴らしい貢献者たちが全世界に存在し、数々の言語をカバーしています。私たちについてもっと知りたければ、あるいは MDN に関してなんらかの手助けが必要ならば、メーリングリストまたは IRC チャネルに参加してみてください。</p>
+<p>私たちのコミュニティはグローバルなコミュニティです！ 素晴らしい貢献者たちが全世界に存在し、数々の言語をカバーしています。<span id="result_box" lang="ja"><span>私たちについてもっと知りたい、あるいはMDNに関する助けが必要な場合は、ディスカッションフォーラムやIRCチャンネルに参加してください。</span></span></p>
 
 <p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "定例会|https://wiki.mozilla.org/MDN/Community_meetings|隔週水曜日に IRC で||イベント|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN コミュニティのイベントカレンダー||Trello 掲示板|https://trello.com/b/HAhl54zz/status|プロジェクト管理のための掲示板||貢献する|/ja/docs/Inbox|ページを作成する", "MozDevNet")}}</p>
 
@@ -85,15 +82,15 @@ based_on: None
 <hr />
 <p>Mozilla Foundation の商標、ロゴ、サービスマークの権利、およびこのウェブサイトの操作画面や{{訳語("操作感","look and feel")}}は、Creative Commons: Attribution-Sharealike license ライセンスに基づいて提供されるものではなく、それらが (ロゴや画像デザインといった) 著作物である限り、上記の条件に基づいて許諾される著作物には含まれません。あなたが文書のテキストを利用する場合、上述の権利を行使しようとする場合、またはこのサイトにおける私たちのライセンス条件について、その他の質問がある場合は、Mozilla Foundation の窓口 <a class="external text" href="mailto:licensing@mozilla.org" rel="nofollow" title="mailto:licensing@mozilla.org">licensing@mozilla.org</a> までご連絡ください。</p>
 
-<h3 id="内容をダウンロードするには">コンテンツをダウンロードするには</h3>
+<h3 id="コンテンツをダウンロードするには">コンテンツをダウンロードするには</h3>
 
 <p><a href="https://developer.mozilla.org/media/developer.mozilla.org.tar.gz">MDN のすべての内容の tarball ミラー</a>&nbsp;(2016年11月30日 現在、2.5 GB) がダウンロードできます。</p>
 
-<h4 id="1つのページ">単一ページのダウンロード</h4>
+<h4 id="単一ページのダウンロード">単一ページのダウンロード</h4>
 
 <p>単一ページのコンテンツについては、ダウンロードしたいフォーマットを URL の ​​​​​​<a href="https://developer.mozilla.org/ja/docs/MDN/Kuma/API#Document_parameters">文書パラメータ</a>&nbsp;に追加することで、取得することができます。</p>
 
-<h4 id="サードパーティ製のツール">サードパーティ製のツールを使ったダウンロード</h4>
+<h4 id="サードパーティ製のツールを使ったダウンロード">サードパーティ製のツールを使ったダウンロード</h4>
 
 <p>MDN のコンテンツは、<a href="http://kapeli.com/dash">Dash</a> (Mac OS 用) や <a href="http://zealdocs.org/">Zeal</a> (Linux および Windows用) などのサードパーティ製のツールを使っても読むことができます。</p>
 
