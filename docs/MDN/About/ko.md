@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1062940
+revision_id: 1273503
 locale: ko
 slug: MDN/About
 tags: "MDN" "가이드" "라이선스" "저작권" "커뮤니티" "협력"
@@ -19,7 +19,6 @@ based_on: None
  <li><a href="/en-US/docs/CSS" title="/en-US/docs/CSS">CSS</a>, <a href="/en-US/docs/HTML" title="/en-US/docs/HTML">HTML</a>, <a href="/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a>와 같은 웹 표준</li>
  <li><a href="/en-US/docs/Apps" title="/en-US/docs/Apps">열린 Web을 위한 애플리케이션 개발</a></li>
  <li><a href="/en-US/docs/Add-ons" title="/en-US/docs/Add-ons">Firefox 부가 기능 개발</a></li>
- <li><a href="/en-US/docs/Mozilla/Firefox_OS" title="/en-US/docs/Mozilla/Firefox_OS">Firefox OS 개발</a></li>
 </ul>
 
 <h2 id="우리들의_목표">우리들의 목표</h2>
@@ -36,7 +35,7 @@ based_on: None
 
 <h2 id="MDN_공동체">MDN 공동체</h2>
 
-<p>우리 공동체는 세계적입니다! 우리는 세계 이곳저곳에서 수많은 언어를 사용하고 있는 걸출한 공헌자분들과 함께하고 있습니다. 우리들에 대해서 더 알아보고 싶거나 MDN에 관한 어떠한 주제든 도움이 필요하다면, 주저하지 말고 우리 메일링 리스트와 IRC 채널로 가보세요!</p>
+<p>우리 공동체는 세계적입니다! 우리는 세계 이곳저곳에서 수많은 언어를 사용하고 있는 걸출한 공헌자분들과 함께하고 있습니다. 우리들에 대해서 더 알아보고 싶거나 <span id="result_box" lang="ko"><span>MDN에 관한 더 많은 것을 알고 싶거나 도움이 필요하시면 주저하지 말고 토론 포럼과 IRC 채널로 가십시오!</span></span></p>
 
 <p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "만남|https://wiki.mozilla.org/MDN/Community_meetings|IRC에서 매격주 수요일||이벤트|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN 커뮤니티 이벤트||Trello board|https://trello.com/b/HAhl54zz/status|프로젝트 관리 이력||기여|/ko/Inbox|페이지 만들기", "MozDevNet")}}</p>
 
