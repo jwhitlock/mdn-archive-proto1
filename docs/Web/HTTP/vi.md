@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1229829
+revision_id: 1274571
 locale: vi
 slug: Web/HTTP
 tags: "HTTP" "Web" "TopicStub" "Reference" "l10n:priority" "NeedsTranslation"
@@ -9,27 +9,27 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 1187173
+based_on: None
 ---
 <div>{{HTTPSidebar}}</div>
 
-<p class="summary"><span class="seoSummary"><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong> is an <a class="external" href="https://en.wikipedia.org/wiki/Application_Layer">application-layer</a> protocol for transmitting hypermedia documents, such as HTML.</span> It was designed for communication between web browsers and web servers, but it can also be used for other purposes. HTTP follows a classical <a class="external" href="https://en.wikipedia.org/wiki/Client%E2%80%93server_model">client-server model</a>, with a client opening a connection to make a request, then waiting until it receives a response. HTTP is a <a class="external" href="https://en.wikipedia.org/wiki/Stateless_protocol">stateless protocol</a>, meaning that the server does not keep any data (state) between two requests. Though often based on a TCP/IP layer, it can be used on any reliable <a class="external" href="http://en.wikipedia.org/wiki/Transport_Layer">transport layer</a>; that is, a protocol that doesn't lose messages silently, such as UDP.</p>
+<p class="summary"><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong>&nbsp;là một giao thức thuộc&nbsp;<a href="https://vi.wikipedia.org/wiki/T%E1%BA%A7ng_%E1%BB%A9ng_d%E1%BB%A5ng">tầng ứng dụng</a> được dùng để truyền tải các tài liệu đa phương tiện, ví dụ như HTML. Giao thức này được thiết kế để truyền thông giữa các trình duyệt web và máy chủ web, tuy nhiên nó cũng được dùng cho nhiều mục đích khác. HTTP tuân theo một&nbsp;<a href="https://vi.wikipedia.org/wiki/Client-server">mô hình client-server</a>&nbsp;truyền thống, với một client mở một kết nối (connection) để tạo ra một yêu cầu (request), sau đó chờ đợi cho đến khi nó nhận được phản một phản hồi (response). HTTP là một giao thức không lưu lại trạng thái (<a href="https://en.wikipedia.org/wiki/Stateless_protocol">stateless protocol</a>), có nghĩa là máy chủ không lưu giữ bất cữ dữ liệu (state) gì giữa các yêu cầu. Bởi thường được dựa trên một lớp TCP/IP, nó có thể được sử dụng trên bất cứ <a href="https://vi.wikipedia.org/wiki/T%E1%BA%A7ng_giao_v%E1%BA%ADn">tầng giao vận</a> đáng tin cậy nào&nbsp;(reliable transport layer)&nbsp;- những giao thức không bị mất dữ liệu, như là UDP.</p>
 
 <div class="column-container">
 <div class="column-half">
-<h2 id="Tutorials">Tutorials</h2>
+<h2 id="Tutorials">Hướng dẫn</h2>
 
 <p>Learn how to use HTTP with guides and tutorials.</p>
 
 <dl>
- <dt><a href="/en-US/docs/Web/HTTP/Overview">Overview of HTTP</a></dt>
- <dd>The basic features of the client-server protocol: what it can do and its intended uses.</dd>
+ <dt><a href="/en-US/docs/Web/HTTP/Overview">Tổng quan về HTTP</a></dt>
+ <dd>Các chức năng cơ bản của giao thức client-server: nó có thể làm gì và mục đích sử dụng của nó.</dd>
  <dt><a href="/en-US/docs/Web/HTTP/Caching">HTTP Cache</a></dt>
- <dd>Caching is very important for fast Web sites. This article describes different methods of caching and how to use HTTP Headers to control them.</dd>
+ <dd>Caching rất quan trọng với tốc độ của các trang web. Bài viết này mô tả các cách thức cache khác nhau cũng như cách sử dụng HTTP Headers để điều khiển chúng.</dd>
  <dt><a href="/en-US/docs/Web/HTTP/Cookies">HTTP Cookies</a></dt>
- <dd>How cookies work is defined by <a class="external" href="http://tools.ietf.org/html/rfc6265">RFC 6265</a>. When serving an HTTP request, a server can send a <code>Set-Cookie</code> HTTP header with the response. The client then returns the cookie's value with every request to the same server in the form of a <code>Cookie</code> request header. The cookie can also be set to expire on a certain date, or restricted to a specific domain and path.</dd>
+ <dd>Cookies hoạt động như thế nào được định nghĩa trong&nbsp;<a class="external" href="http://tools.ietf.org/html/rfc6265">RFC 6265</a>. Khi phục vụ một yêu cầu HTTP (HTTP request), một máy chủ (server) có thể gửi một&nbsp;<code>Set-Cookie</code> HTTP header đính kèm trong phản hồi (response). Máy khách (client) sau đó sẽ gửi trả&nbsp;giá trị của cookie trong mỗi yêu cầu đến máy chủ&nbsp;(server) đó trong Cookie header của yêu cầu (request). Cookie cũng có thể được quy định ngày hết hạn hoặc hạn chế với một tên miền và đường dẫn.</dd>
  <dt><a href="/en-US/docs/Web/HTTP/Access_control_CORS">HTTP Access Control (CORS)</a></dt>
  <dd><strong>Cross-site HTTP requests</strong> are HTTP requests for resources from a <strong>different domain</strong> than the domain of the resource making the request. For instance, an HTML page from Domain A (<code>http://domaina.example/</code>) makes a request for an image on Domain B (<code>http://domainb.foo/image.jpg</code>) via the <code>img</code> element. Web pages today very commonly load cross-site resources, including CSS stylesheets, images, scripts, and other resources. CORS allows web developers to control how their site reacts to cross-site requests.</dd>
 </dl>
