@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1105061
+revision_id: 1275029
 locale: pt-BR
 slug: Apps
 tags: "Mobile" "Aplicativos" "Desenvolvimento Web" "Aplicativos Modernos para a web"
@@ -8,7 +8,7 @@ title: Central de Aplicativos
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
