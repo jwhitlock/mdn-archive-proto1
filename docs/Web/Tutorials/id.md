@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1056258
+revision_id: 1275535
 locale: id
 slug: Web/Tutorials
 tags: 
@@ -34,7 +34,7 @@ based_on: None
  <dd>Code Avengers &nbsp;amat menyenangkan, cara efektif untuk belajar coding web apps, HTML, CSS, dan Javascript.</dd>
 </dl>
 
-<h3 id="Advanced_level">Level Lanjutan</h3>
+<h3 id="Level_Lanjutan">Level Lanjutan</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Tips_for_Authoring_Fast-loading_HTML_Pages">Tips untuk mempercepat halaman HTML</a></dt>
@@ -42,24 +42,24 @@ based_on: None
  <dt><a href="http://www.html5rocks.com/tutorials/" rel="external">Tutorial HTML5</a>&nbsp;(HTML5 Rocks)</dt>
  <dd>Menjelajah fitur terbaru di&nbsp;HTML5.</dd>
  <dt><a href="http://www.alistapart.com/articles/semanticsinhtml5/" rel="external">Semantics in HTML5</a> (A List Apart)</dt>
- <dd>Learn meaningful markup that is extensible and backwards- and forwards-compatible.</dd>
+ <dd>Pelajari markup berguna yang dapat diperluas dan mundur - dan ke depan - kompatibel.&nbsp;</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Canvas_tutorial">Canvas Tutorial</a></dt>
- <dd>Learn how to draw graphics using scripting using the canvas element.</dd>
+ <dd>Belajar cara menggambar grafis menggunakan script dengan elemen canvas.</dd>
  <dt><a href="http://html5doctor.com/" rel="external">HTML5 Doctor</a></dt>
- <dd>Articles about using HTML5 right now.</dd>
+ <dd>Artikel tentang menggunakan HTML5 saat ini.</dd>
  <dt><a href="http://www.elated.com/articles/html5-audio/" rel="external">The Joy of HTML5 Audio</a> (Elated)</dt>
- <dd>Learn how to use the HTML audio element to embed sounds in your web pages easily. Lots of code examples are included in the tutorial.</dd>
+ <dd>Belajar cara menggunakan elemen HTML audio untuk menambahkan suara di halaman web anda dengan mudah. Banyak contoh kode yang ada dalam tutorial.</dd>
 </dl>
 
 <h2 class="Documentation" id="Documentation" name="Documentation">Tutorial Javascript</h2>
 
-<h3 id="Introductory_level">Introductory level</h3>
+<h3 id="Introductory_level">Tingkat pengenalan</h3>
 
 <dl>
  <dt><a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</dt>
- <dd>Codecademy is a easy way to learn how to code JavaScript. It's interactive and you can do it with your friends.</dd>
+ <dd>Codecademy adalah tempat mudah untuk belajar cara coding javascript. Secara interaktif anda bisa melakukannya dengan teman anda.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Getting_Started">Memulai&nbsp;JavaScript</a></dt>
- <dd>What is JavaScript and how can it help you?</dd>
+ <dd>Apa itu javascript dan bagaimana ini bisa membantu anda?</dd>
  <dt><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" rel="external">JavaScript Best Practices</a><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" title="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices"> </a>(WebPlatform.org)</dt>
  <dd>Learn about some of the obvious and (not so) obvious best practices when writing JavaScript.</dd>
  <dt><a href="http://codeavengers.com/" title="http://codeavengers.com/">CodeAvengers</a> (CodeAvengers.com)</dt>
@@ -70,7 +70,7 @@ based_on: None
 
 <p>http://codecombat.com/#</p>
 
-<h3 id="Intermediate_level">Level Menengah</h3>
+<h3 id="Level_Menengah">Level Menengah</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/A_re-introduction_to_JavaScript">A Re-Introduction to JavaScript</a></dt>
@@ -87,7 +87,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h3 id="Advanced_level_2">Advanced level</h3>
+<h3 id="Advanced_level">Advanced level</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Guide">JavaScript Guide</a></dt>
@@ -129,7 +129,7 @@ based_on: None
  <dd>Code Avengers is the fun, effective way to learn to code web apps and games with HTML, CSS, and JavaScript.</dd>
 </dl>
 
-<h3 id="Intermediate_level_2">Intermediate level</h3>
+<h3 id="Intermediate_level">Intermediate level</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference">CSS Reference</a></dt>
@@ -146,7 +146,7 @@ based_on: None
  <dd>Design layouts that fluidly resize with the browser window, while still using a typographic grid.</dd>
 </dl>
 
-<h3 id="Advanced_level_3">Advanced level</h3>
+<h3 id="Advanced_level_2">Advanced level</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/Using_CSS_transforms">Using CSS Transforms</a></dt>
