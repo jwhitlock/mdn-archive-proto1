@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1277001
+revision_id: 1277003
 locale: ar
 slug: MDN/Getting_started
 tags: "الإرشادات" "البداية" "الدليل" "المبتدئين" "المقدمة" "تسجيل حساب" "دليل" "طريقة المساهمة" "وسم MDN"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -25,7 +25,7 @@ based_on: None
 
 <p>المساهمة هنا سهلة وآمنة. حتى لو قمت بخطأ ما، فيمكن إصلاحه&nbsp;بسهولة؛ إذا كنت لا تعلم كيف يفترض أن تبدو الصفحات, أو أن مهاراتك اللغوية ليست ممتازة, فلا تقلق حيال ذلك! فنحن لدينا فريق من الأشخاص الذين أوكلنا إليهم الحرص&nbsp;على جودة محتوى&nbsp;MDN وظهوره&nbsp;بأفضل شكل ممكن. سيتأكد شخص ما من أن ما قمت بكتابة يظهر بشكل أنيق ومكتوب بشكل صحيح. شارك معرفتك وابذكل جهد, وكن على ثقة بأن بقية أفراد المجتمع سيجعلون عملك يظهر بشكل أفضل مما تتصور.</p>
 
-<h3 id="الخطوة_الأولى_أنشئ_حساب_على_MDN">الخطوة الأولى: أنشئ حساب على MDN</h3>
+<h3 id="الخطوة_الأولى_أنشئ_حساب_على_MDN">الخطوة 1: أنشئ حساب على MDN</h3>
 
 <p>لتبدأ مساهتمك على MDN, يجب عليك امتلاك حساب في &nbsp;MDN. للمزيد من التفاصيل, رجاءً اقرأ&nbsp;<a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">كيف تقوم بإنشاء حساب</a>. لاحظ أنك<a href="https://github.com/join">&nbsp;ستحتاج إلى حساب GitHub</a>&nbsp;قبل أن تنشئ واحدًا على&nbsp;MDN،&nbsp;حيث أننا نقوم باستخدام خدمة GitHub من أجل التوثيق في الوقت الراهن.</p>
 
