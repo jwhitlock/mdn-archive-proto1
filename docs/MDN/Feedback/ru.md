@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1124899
+revision_id: 1277643
 locale: ru
 slug: MDN/Feedback
 tags: "Чат" "Сообщество" "Руководство"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{IncludeSubnav("/ru/docs/MDN")}}</div>
 
-<p>Добро пожаловать в Mozilla Developer Network! <span class="seoSummary">Если у вас есть предложения&nbsp;или проблемы с использованием MDN, то это нужное вам место. Тот факт, что у вас есть предложения сделать MDN лучше, делает вас частью большого&nbsp;сообщества MDN&nbsp;и мы благодарим вас за ваш интерес.</span></p>
+<p>Добро пожаловать в MDN! <span class="seoSummary">Если у вас есть предложения&nbsp;или проблемы с использованием MDN, то это нужное вам место. Тот факт, что у вас есть предложения сделать MDN лучше, делает вас частью большого&nbsp;сообщества MDN&nbsp;и мы благодарим вас за ваш интерес.</span></p>
 
 <p><span class="seoSummary">Есть несколько вариантов приложения ваших усилий и данная&nbsp;статья поможет вам в этом.</span></p>
 
@@ -48,9 +48,7 @@ based_on: None
 
 <h3 id="Email">Email</h3>
 
-<p>Долгосрочные дискуссии происходят на нашей рассылке, <a href="https://lists.mozilla.org/listinfo/dev-mdc" title="https://lists.mozilla.org/listinfo/dev-mdc">dev-mdc@lists.mozilla.org</a>. Вы можете отправлять сообщения не подписываясь на рассылку, но в этом случае&nbsp;ваше сообщение должно быть утверждено модератором, что займет больше времени до того, как&nbsp;другие увидят&nbsp;его. Вы можете посмотреть и опубликовать в dev-mdc через форматы выбранные вами:</p>
-
-<p>{{ DiscussionList("dev-mdc", "mozilla.dev.mdc") }}</p>
+<p><span id="result_box" lang="ru"><span>Более длительные обсуждения происходят на нашем <a href="https://discourse.mozilla-community.org/c/mdn">дискуссионном форуме MDN</a>.</span> <span>Вы можете отправить сообщение на форум по электронной почте на адрес <a href="mailto://mdn@mozilla-community.org">mdn@mozilla-community.org</a>.</span> <span>Если вы присоединитесь к форуму, вы можете также получать уведомления о дискуссиях, отправленных вам по электронной почте.</span></span></p>
 
 <h2 id="Сообщить_о_проблеме">Сообщить о проблеме</h2>
 
