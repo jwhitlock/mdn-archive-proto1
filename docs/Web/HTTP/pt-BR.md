@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1277107
+revision_id: 1277113
 locale: pt-BR
 slug: Web/HTTP
 tags: "HTTP" "Web" "Aula de HTTP" "Tutorial de HTTP"
@@ -24,23 +24,23 @@ based_on: None
 <p>Aprenda como usar HTTP com guias e tutoriais.</p>
 
 <dl>
- <dt><a href="/en-US/docs/Web/HTTP/Overview">Visão geral do HTTP</a></dt>
+ <dt><a href="/pt-BR/docs/Web/HTTP/Overview">Visão geral do HTTP</a></dt>
  <dd>Apresenta os recursos básicos do protocolo cliente-servidor: o que ele pode fazer e quais seus usos.</dd>
- <dt><a href="/en-US/docs/Mozilla/HTTP_cache">Cache HTTP</a></dt>
+ <dt><a href="/pt-BR/docs/Mozilla/HTTP_cache">Cache HTTP</a></dt>
  <dd>O Cache é muito importante para websites rápidos. Este artigo descreve diferentes métodos de cache e como utilizar os cabeçalhos HTTP para controlá-los.</dd>
- <dt><a href="/en-US/docs/Web/HTTP/Cookies">Cookies HTTP</a></dt>
+ <dt><a href="/pt-BR/docs/Web/HTTP/Cookies">Cookies HTTP</a></dt>
  <dd>O funcionamento dos cookies é definido pela <a class="external" href="http://tools.ietf.org/html/rfc6265">RFC 6265</a>. Ao receber uma requisição HTTP, o servidor pode enviar um cabeçalho <code>Set-Cookie</code>&nbsp;com a resposta. Depois, o cliente retorna o valor do cookie a&nbsp;cada requisição ao mesmo servidor na forma de um cabeçalho <code>Cookie</code> HTTP. O cookie também pode ser configurado para expirar em um determinado tempo, ou restrito a um domínio ou endereço específicos.</dd>
- <dt><a href="/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP">Evolução do HTTP</a></dt>
+ <dt><a href="/pt-BR/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP">Evolução do HTTP</a></dt>
  <dd>Uma breve descrição das mudanças que ocorreram no HTTP em versões mais antigas para o moderno HTTP/2 em diante.</dd>
- <dt><a href="/en-US/docs/Web/HTTP/Messages">Mensagens HTTP</a></dt>
+ <dt><a href="/pt-BR/docs/Web/HTTP/Messages">Mensagens HTTP</a></dt>
  <dd>Descreve os tipos e a estrutura das diferentes mensagens do HTTP/1.x e HTTP/2.</dd>
- <dt><a href="/en-US/docs/Web/HTTP/Session">Uma sessão típica em HTTP</a></dt>
+ <dt><a href="/pt-BR/docs/Web/HTTP/Session">Uma sessão típica em HTTP</a></dt>
  <dd>Demonstra e explica Shows and explains the flow of a usual HTTP session.</dd>
- <dt><a href="/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x">Gerenciamento de conexões em HTTP/1.x</a></dt>
+ <dt><a href="/pt-BR/docs/Web/HTTP/Connection_management_in_HTTP_1.x">Gerenciamento de conexões em HTTP/1.x</a></dt>
  <dd>Descreve os três modelos de conexão disponíveis no HTTP/1.x, seus pontos fortes e fraquezas.</dd>
  <dt><a href="/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS">Controle de Acesso HTTP (CORS)</a></dt>
  <dd><strong>As requisições CORS</strong>&nbsp;são requisições HTTP de recursos de domínios diferentes do domínio que está fazendo a requisição. um exemple é um site A (SiteA.com) realizando uma requisição de uma imagem por meio de um elemento <em>img&nbsp;</em>para um site B (SiteB.com/img.png). Hoje em dia encontramos o CORS em grande maioria das páginas webs, carregando scripts, imagens, folhas de estilos, etc.</dd>
- <dt><a href="/en-US/docs/Web/HTTP/Controlling_DNS_prefetching">Controlando a pré-busca de DNS</a></dt>
+ <dt><a href="/pt-BR/docs/Web/HTTP/Controlling_DNS_prefetching">Controlando a pré-busca de DNS</a></dt>
  <dd>Firefox e outros navegadores atuais utilizam a <strong>pré-busca de</strong>&nbsp;<strong>DNS</strong>. Isto é, o navegador faz a busca do nome do domínio nos links contidos numa página antes que o recurso seja requerido. Por exemplo imagens, scripts e folhas de estilo. Isto tudo ocorre em segundo plano, para que quando o recurso necessite ser carregado, o endereço DNS&nbsp;ja estará resolvido. Isto diminui a latência&nbsp;quando, por exemplo, um usuário clica em um link.&nbsp;</dd>
 </dl>
 </div>
@@ -51,11 +51,11 @@ based_on: None
 <p>Navegue por uma detalhada documentação de referências em HTTP</p>
 
 <dl>
- <dt><a href="/en-US/docs/Web/HTTP/Headers">Cabeçalhos HTTP</a></dt>
+ <dt><a href="/pt-BR/docs/Web/HTTP/Headers">Cabeçalhos HTTP</a></dt>
  <dd>As mensagens de cabeçalho HTTP são utilizadas para realizar a descrição de algum recurso ou comportamento do cliente ou servidor. Propriedades customizadas nos cabeçalhos utilizam o prefixo 'X-' ; Outras no <a href="/pt-BR/docs/">registro IANA</a>, de onde o conteúdo original foi definido na&nbsp;<a class="external" href="http://tools.ietf.org/html/rfc4229">RFC 4229</a>. IANA também mantém o&nbsp;<a class="external" href="http://www.iana.org/assignments/message-headers/prov-headers.html">registro de novas propostas para mensagens de cabeçalhos HTTP</a>.</dd>
- <dt><a href="/en-US/docs/Web/HTTP/Methods">Métodos de requisição HTTP</a></dt>
+ <dt><a href="/pt-BR/docs/Web/HTTP/Methods">Métodos de requisição HTTP</a></dt>
  <dd>As mais diferentes requisições podem ser utilizadas pelos métodos de requisições HTTP : {{HTTPMethod("GET")}}, {{HTTPMethod("POST")}}, mas também algumas requisições menos comuns pelos métodos&nbsp;{{HTTPMethod("OPTIONS")}}, {{HTTPMethod("DELETE")}} ou {{HTTPMethod("TRACE")}}.</dd>
- <dt><a href="/en-US/docs/Web/HTTP/Response_codes">Respostas de códigos de status em HTTP</a></dt>
+ <dt><a href="/pt-BR/docs/Web/HTTP/Response_codes">Respostas de códigos de status em HTTP</a></dt>
  <dd>Os códigos de status do HTTP indicam quando uma requisição foi completa. E estes caras estão agrupados em 5 classes : Informações, respostas, respostas de sucesso, redirecionamentos, erros de cliente, e erros de servidor.</dd>
 </dl>
 
@@ -64,8 +64,8 @@ based_on: None
 <p>Ferramentas que irão te ajudar a testar e debugar as suas requisições HTTP.</p>
 
 <dl>
- <dt><a href="/en-US/docs/Tools">Ferramentas de desenvolvedores Firefox</a></dt>
- <dd><a href="/en-US/docs/Tools/Network_Monitor">Network monitor</a></dd>
+ <dt><a href="/pt-BR/docs/Tools">Ferramentas de desenvolvedores Firefox</a></dt>
+ <dd><a href="/pt-BR/docs/Tools/Network_Monitor">Network monitor</a></dd>
  <dt><a href="https://redbot.org/">RedBot</a></dt>
  <dd>Uma ferramenta para ver seus Headers relacionados em cache.</dd>
  <dt><a href="http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/">Como os navegadores funcionam</a></dt>
