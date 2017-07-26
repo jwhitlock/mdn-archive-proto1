@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1204277
+revision_id: 1277351
 locale: en-US
 slug: MDN/Contribute/Howto/Do_an_editorial_review
 tags: "MDN Meta" "Guide" "Howto" "Documentation" "Editorial Review"
@@ -15,9 +15,9 @@ based_on: None
 ---
 <div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
 
-<p class="summary"><strong>Editorial reviews</strong> consist of fixing typos, spelling, grammar, usage, or textual errors in an article. Not all contributors are language experts, but regardless due to their knowledge will have contributed extremely useful articles, which need copy-editing and proof-reading. This is done in an editorial review.</p>
+<p class="summary"><strong>Editorial reviews</strong> consist of fixing typos, spelling, grammar, usage, or textual errors in an article. One does not have to be a writing expert to make valuable contributions to MDN's technical documentation, but articles still need copy-editing and proof-reading. This is done in an editorial review.</p>
 
-<p><span class="seoSummary">This article describes how to do an editorial review, thereby helping to ensure that MDN's content is accurate.</span></p>
+<p><span class="seoSummary">This article describes how to do an editorial review, which helps ensure that MDN's content is accurate and well-written.</span></p>
 
 <dl>
  <dt>What is the task?</dt>
