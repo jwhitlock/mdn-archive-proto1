@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1062922
+revision_id: 1277635
 locale: ko
 slug: MDN/피드백
 tags: "MDN" "가이드"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -48,9 +48,7 @@ based_on: None
 
 <h3 id="이메일">이메일</h3>
 
-<p>Longer-term discussions happen on our mailing list, <a href="https://lists.mozilla.org/listinfo/dev-mdc" title="https://lists.mozilla.org/listinfo/dev-mdc">dev-mdc@lists.mozilla.org</a>. You can post to the list without subscribing to it, but in that case, your post must be approved by a moderator, which means it will take longer for others to see it. You can view and post to dev-mdc via your choice of formats:</p>
-
-<p>{{ DiscussionList("dev-mdc", "mozilla.dev.mdc") }}</p>
+<p>Longer-term discussions happen on our <a href="https://discourse.mozilla-community.org/c/mdn">MDN discussion forum</a>. You can post to the forum via email to <a href="mailto://mdn@mozilla-community.org">mdn@mozilla-community.org</a>. If you join the forum, you can choose to have notifications about discussions sent to you via email as well.</p>
 
 <h2 id="문제_보고하기">문제 보고하기</h2>
 
