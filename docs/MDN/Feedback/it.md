@@ -1,19 +1,19 @@
 ---
 version: prototype1
-revision_id: 1116691
+revision_id: 1277605
 locale: it
 slug: MDN/Feedback
 tags: "MDN" "Guida" "Italiano" "Documentazione"
 title: Invia feedback su MDN
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
+needs_technical_review: True
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Benvenuto su Mozilla Developer Network! Se hai dei suggerimenti<span class="seoSummary">, o hai dei problemi&nbsp;nell'utilizzare&nbsp;MDN, questo è il luogo giusto. Il fatto stesso che tu sia interessato&nbsp;nell'offrire feedback&nbsp;ti rende ancora più importante&nbsp;nella community di Mozilla, e ti ringraziamo in anticipo per il tuo interesse.</span></p>
+<p>Benvenuto su MDN! Se hai dei suggerimenti<span class="seoSummary">, o hai dei problemi&nbsp;nell'utilizzare&nbsp;MDN, questo è il luogo giusto. Il fatto stesso che tu sia interessato&nbsp;nell'offrire feedback&nbsp;ti rende ancora più importante&nbsp;nella community di Mozilla, e ti ringraziamo in anticipo per il tuo interesse.</span></p>
 
 <p><span class="seoSummary">Hai diverse opzione per offrire la tua "saggezza"; questo articolo ti aiuterà in tal proposito.</span></p>
 
@@ -44,11 +44,9 @@ based_on: None
  <dd>Il canale {{IRCLink("mdndev")}} è dove parliamo del lavoro di sviluppo della piattaforma che gestisce il sito di MDN. Se hai dei problemi con la funzionalità del sito, o idee per il futuro, puoi unirti a noi e parlarne.</dd>
 </dl>
 
-<h3 id="Email">Email</h3>
+<h3 id="Email"><span class="short_text" id="result_box" lang="it"><span>Discussioni (Asincroni) </span></span></h3>
 
-<p>Le discussioni a lungo termine vengono effettuate sulla nostra mailing list, &nbsp;<a href="https://lists.mozilla.org/listinfo/dev-mdc" title="https://lists.mozilla.org/listinfo/dev-mdc">dev-mdc@lists.mozilla.org</a>. Puoi scrivere post nella lista senza iscriverti, ma in tal caso, il tuo post deve essere approvato da un moderatore, il che significa che servirà più tempo prima che altri lo possano vedere. Puoi vedere e scrivere su dev-mdc attraverso la tua scelta di formato.</p>
-
-<p>{{ DiscussionList("dev-mdc", "mozilla.dev.mdc") }}</p>
+<p><span id="result_box" lang="it"><span>Le discussioni a lungo termine si verificano sul nostro <a href="https://discourse.mozilla-community.org/c/mdn">forum di discussione MDN</a>.</span> <span>Puoi inviare al forum via e-mail a <a href="mailto://mdn@mozilla-community.org">mdn@mozilla-community.org</a>.</span> <span>Se si aggiunge al forum, puoi scegliere di avere notifiche sulle discussioni inviate anche via e-mail.</span></span></p>
 
 <h2 id="Segnala_un_problema">Segnala un problema</h2>
 
