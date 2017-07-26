@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1021040
+revision_id: 1277645
 locale: tr
 slug: MDN/Feedback
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -21,9 +21,9 @@ based_on: None
 
 <p><span class="seoSummary">You have several options for offering your insight; this article will help you do so.</span></p>
 
-<h2 id="Update_the_documentation">Dökümantasyon Güncelliği</h2>
+<h2 id="Dökümantasyon_Güncelliği">Dökümantasyon Güncelliği</h2>
 
-<h2>Herşeyden önce,dökümantasyon ile ilgili bir problem gördüğünüzde, hataları düzeltme özgürlüğünüz bulunmaktadır.Simply <a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">sign in</a> using <a href="https://www.persona.org/" title="/en-US/docs/">Persona</a> or <a href="https://github.com/">Github</a>, then click any blue <strong>Edit</strong> button to open the <a href="/en-US/docs/MDN/Contribute/Editor">editor</a> and enter the world of contributing to MDN documentation. The documentation here is in a wiki, and is curated by a team of volunteers and paid staff, so don't be shy — your grammar doesn't have to be perfect. We'll clean it up if you make a mistake; no harm done!</h2>
+<p id="Herşeyden_öncedökümantasyon_ile_ilgili_bir_problem_gördüğünüzde_hataları_düzeltme_özgürlüğünüz_bulunmaktadır.Simply_sign_in_using_Persona_or_Github_then_click_any_blue_Edit_button_to_open_the_editor_and_enter_the_world_of_contributing_to_MDN_documentation._The_documentation_here_is_in_a_wiki_and_is_curated_by_a_team_of_volunteers_and_paid_staff_so_don't_be_shy_—_your_grammar_doesn't_have_to_be_perfect._We'll_clean_it_up_if_you_make_a_mistake_no_harm_done!">Herşeyden önce,dökümantasyon ile ilgili bir problem gördüğünüzde, hataları düzeltme özgürlüğünüz bulunmaktadır. Simply <a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">sign in</a> using <a href="https://github.com/">Github</a>, then click any blue <strong>Edit</strong> button to open the <a href="/en-US/docs/MDN/Contribute/Editor">editor</a> and enter the world of contributing to MDN documentation. The documentation here is in a wiki, and is curated by a team of volunteers and paid staff, so don't be shy — your grammar doesn't have to be perfect. We'll clean it up if you make a mistake; no harm done!</p>
 
 <p>For more information about contributing to MDN documentation, see:</p>
 
@@ -37,7 +37,7 @@ based_on: None
 
 <p>Talk to us! There are a few ways to get in touch with other people who work on MDN content.</p>
 
-<h3 id="Chat">Chat</h3>
+<h3 id="Chat">(Synchronous) Chat</h3>
 
 <p>We use Internet Relay Chat (<a href="https://wiki.mozilla.org/IRC" title="/en-US/docs/">IRC</a>) to converse about MDN and its content. You can join in the conversation! We have several channels to choose from, depending on your specific area of interest:</p>
 
@@ -48,11 +48,9 @@ based_on: None
  <dd>The {{IRCLink("mdndev")}} channel is where we talk about the development work of the platform that runs the MDN site. If you have problems with the site's functionality, or ideas for features, you can join us here to talk about it.</dd>
 </dl>
 
-<h3 id="Email">Email</h3>
+<h3 id="Email">(Asynchronous) Discussions</h3>
 
-<p>Longer-term discussions happen on our mailing list, <a href="https://lists.mozilla.org/listinfo/dev-mdc" title="https://lists.mozilla.org/listinfo/dev-mdc">dev-mdc@lists.mozilla.org</a>. You can post to the list without subscribing to it, but in that case, your post must be approved by a moderator, which means it will take longer for others to see it. You can view and post to dev-mdc via your choice of formats:</p>
-
-<p>{{ DiscussionList("dev-mdc", "mozilla.dev.mdc") }}</p>
+<p>Longer-term discussions happen on our <a href="https://discourse.mozilla-community.org/c/mdn">MDN discussion forum</a>. You can post to the forum via email to <a href="mailto://mdn@mozilla-community.org">mdn@mozilla-community.org</a>. If you join the forum, you can choose to have notifications about discussions sent to you via email as well.</p>
 
 <h2 id="Report_an_issue">Report an issue</h2>
 
