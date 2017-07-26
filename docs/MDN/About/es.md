@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1273451
+revision_id: 1277583
 locale: es
 slug: MDN/About
 tags: "Guía" "MDN Meta" "Comunidad" "Licencias" "Colaboración" "Documentación" "Derechos de Autor"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{IncludeSubNav("/es/docs/MDN")}}</div>
 
-<p>La Red de Desarrolladores de Mozilla (MDN) es una plataforma de aprendizaje para las tecnologías Web y el software con el que funciona la Web, incluyendo:</p>
+<p>MDN Web Docs es una plataforma de aprendizaje para las tecnologías Web y el software con el que funciona la Web, incluyendo:</p>
 
 <ul>
  <li>Estándares Web como&nbsp;<a href="/es/docs/CSS">CSS</a>, <a href="/es/docs/HTML">HTML</a>, y <a href="/es/docs/JavaScript">JavaScript</a></li>
@@ -55,7 +55,7 @@ based_on: None
 
 <h2 id="La_Comunidad_MDN">La Comunidad MDN</h2>
 
-<p>¡Somos una comunidad global! Contamos con colaboradores increíbles de todo el mundo, en múltiples idiomas. Si desea aprender más sobre nosotros, o si necesita cualquier tipo de ayuda&nbsp; con MDN. ¡Tomesé la libertad de consultar nuestra<a href="http://lists.mozilla.org/listinfo/dev-mdc"> Lista de correo</a> o el <a href="irc://irc.mozilla.org#mdn">Canal IRC</a>!</p>
+<p>¡Somos una comunidad global! Contamos con colaboradores increíbles de todo el mundo, en múltiples idiomas. Si desea aprender más sobre nosotros, o si necesita cualquier tipo de ayuda&nbsp; con MDN. ¡Tomesé la libertad de consultar nuestra<a href="http://lists.mozilla.org/listinfo/dev-mdc">&nbsp;</a><a href="https://discourse.mozilla-community.org/c/mdn">foro de discusión</a> o el <a href="irc://irc.mozilla.org#mdn">Canal IRC</a>!</p>
 
 <div class="overheadIndicator communitybox" dir="ltr">
 <div class="column-container">
@@ -85,8 +85,8 @@ based_on: None
 <p>Consulta el foro de documentación para desarrolladores:</p>
 
 <ul>
- <li>Únete a la conversación de IRC en el canal <a href="irc://irc.mozilla.org/devmo" title="irc://irc.mozilla.org/devmo">#devmo</a></li>
- <li>Únete a nuestra <a href="https://wiki.mozilla.org/MDN/Community_meetings/" title="https://wiki.mozilla.org/MDN/Community_meetings/">reunión quincenal de la comunidad de documentación</a> para desarrolladores</li>
+ <li>Únete a la conversación de IRC en el canal <a href="irc://irc.mozilla.org/mdn" title="irc://irc.mozilla.org/devmo">#mdn</a></li>
+ <li>Únete a nuestras <a href="https://wiki.mozilla.org/MDN/Community_meetings/" title="https://wiki.mozilla.org/MDN/Community_meetings/">reuniónes</a><span class="short_text" id="result_box" lang="es"><span> de la comunidad pública</span></span><a href="https://wiki.mozilla.org/MDN/Community_meetings/" title="https://wiki.mozilla.org/MDN/Community_meetings/">n</a></li>
 </ul>
 
 <h2 id="Derechos_de_autor_y_Licencias">Derechos de autor y Licencias</h2>
