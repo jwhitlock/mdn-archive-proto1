@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1074126
+revision_id: 1277587
 locale: hi-IN
 slug: MDN/Feedback
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -19,7 +19,7 @@ based_on: None
 
 <p><span class="seoSummary">आपके पास आपके अनुभव देने हेतु कई विकल्प है; यह लेख आपको इसमें सहायता करेगा।</span></p>
 
-<h2 id="Update_the_documentation">दस्तावेज ताजा रखना</h2>
+<h2 id="दस्तावेज_ताजा_रखना">दस्तावेज ताजा रखना</h2>
 
 <p>सबसे पहले यदि आपको किसी भी पन्ने में कोई भी गलती दिख रही हो तो आप उसमें अपने से भी उस गलती को ठीक कर सकते हो। आपको बस <a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">sign in</a>&nbsp; में जाने के बाद <a href="https://www.persona.org/" title="/en-US/docs/">Persona</a> और <a href="https://github.com/">Github</a> में क्लिक कर के प्रवेश करना होगा और उसके बाद आप नीले रंग के Edit बटन पर क्लिक कर करना होगा। उसके बाद एक <a href="/en-US/docs/MDN/Contribute/Editor">editor</a> खुल जाएगा। इसी के साथ आप एमडीएन के पन्नों को लिखने वाले स्थान पर आ चुके होंगे। यह एक तरह का विकि है जिसे स्वयंसेवक और पैसे देकर नौकरी में रखे कुछ लोग इसमें लिखते हैं। लिखते समय व्याकरण की चिंता न करें। यदि कोई गलती भी हो जाती है तो हम उसे ठीक कर लेंगे। इससे कोई हानि नहीं होगी।</p>
 
@@ -31,7 +31,7 @@ based_on: None
  <li><a href="/en-US/docs/MDN/Contribute/Editor" title="/en-US/docs/Project:MDN_editing_interface">The MDN editing interface</a></li>
 </ul>
 
-<h2 id="Join_the_conversation">बातचीत में भाग लें</h2>
+<h2 id="बातचीत_में_भाग_लें">बातचीत में भाग लें</h2>
 
 <p>हमसे बात करें। इसके लिए कुछ विकल्प भी हैं, जिससे आप एमडीएन के अन्य लोगों से बात कर सकते हैं।</p>
 
@@ -48,9 +48,7 @@ based_on: None
 
 <h3 id="ईमेल">ईमेल</h3>
 
-<p>बहुत लंबी चर्चाएँ हमारे डाक सूची <a href="https://lists.mozilla.org/listinfo/dev-mdc" title="https://lists.mozilla.org/listinfo/dev-mdc">dev-mdc@lists.mozilla.org</a> में होती है। आप इस सूची में बिना सदस्यता लिए भी कुछ डाल सकते हैं। लेकिन इस स्थिति में यह जाँच करने वालों के पास से होते हुए जाएगा। इसका मतलब और अधिक समय लगेगा। आप इसे dev-mdc&nbsp; में अपने प्रारूप अनुसार देख सकते हैं या डाल सकते हैं:</p>
-
-<p>{{ DiscussionList("dev-mdc", "mozilla.dev.mdc") }}</p>
+<p><span id="result_box" lang="hi"><span>हमारे एमडीएन <a href="https://discourse.mozilla-community.org/c/mdn">चर्चा मंच</a> पर दीर्घकालिक चर्चाएं होती हैं।</span> <span>आप मंच के माध्यम से ईमेल के माध्यम से mdn@mozilla-community.org पर पोस्ट कर सकते हैं</span> <span>यदि आप फ़ोरम में शामिल हो जाते हैं, तो आप ईमेल के जरिए भेजे गए चर्चाओं के बारे में सूचनाएं भी चुन सकते हैं।</span></span></p>
 
 <h2 id="Report_an_issue">Report an issue</h2>
 
