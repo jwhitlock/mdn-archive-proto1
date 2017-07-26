@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1277113
+revision_id: 1277121
 locale: pt-BR
 slug: Web/HTTP
 tags: "HTTP" "Web" "Aula de HTTP" "Tutorial de HTTP"
@@ -8,7 +8,7 @@ title: HTTP
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
