@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 927923
+revision_id: 1277863
 locale: en-US
 slug: Web/Accessibility
 tags: "Landing" "Accessibility"
@@ -20,14 +20,39 @@ based_on: None
 <p>"<strong>The Web is fundamentally designed to work for all people</strong>, whatever their hardware, software, language, culture, location, or physical or mental ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability." {{ Ref(2) }}</p>
 
 <div class="cleared topicpage-table">
-<p>&nbsp;</p>
-
 <div class="section">
-<h2 class="Documentation" id="Documentation" name="Documentation">Documentation</h2>
+<h2 class="Key_accessibility_tutorials" id="Key_accessibility_tutorials" name="Key_accessibility_tutorials">Key tutorials</h2>
+
+<p>The MDN <a href="/en-US/docs/Learn/Accessibility">Accessibility Learning Area</a> contains modern, up-to-date tutorials covering accessibility essentials:</p>
 
 <dl>
- <dt><a href="/en-US/docs/Accessibility/Web_Development" title="Accessibility Web Development">Web development</a></dt>
- <dd>A collection of articles designated to highlight web development issues in the world of accessibility</dd>
+ <dt><a href="/en-US/docs/Learn/Accessibility/What_is_accessibility">What is accessibility?</a></dt>
+ <dd>This article starts the module off with a good look at what accessibility actually is — this includes what groups of people we need to consider and why, what tools different people use to interact with the Web, and how we can make accessibility part of our web development workflow.</dd>
+ <dt><a href="/en-US/docs/Learn/Accessibility/HTML">HTML: A good basis for accessibility</a></dt>
+ <dd>A great deal of web content can be made accessible just by making sure the correct HTML elements are used for the correct purpose at all times. This article looks in detail at how HTML can be used to ensure maximum accessibility.</dd>
+ <dt><a href="/en-US/docs/Learn/Accessibility/CSS_and_JavaScript">CSS and JavaScript accessibility best practices</a></dt>
+ <dd>CSS and JavaScript, when used properly, also have the potential to allow for accessible web experiences ... or they can significantly harm accessibility if misused. This article outlines some CSS and JavaScript best practices that should be considered to ensure even complex content is as accessible as possible.</dd>
+ <dt><a href="/en-US/docs/Learn/Accessibility/WAI-ARIA_basics">WAI-ARIA basics</a></dt>
+ <dd>Following on from the previous article, sometimes making complex UI controls that involve unsemantic HTML and dynamic JavaScript-updated content can be difficult. WAI-ARIA is a technology that can help with such problems by adding in further semantics that browsers and assistive technologies can recognize and use to let users know what is going on. Here we'll show how to use it at a basic level to improve accessiblity.</dd>
+ <dt><a href="/en-US/docs/Learn/Accessibility/Multimedia">Accessible multimedia</a></dt>
+ <dd>Another category of content that can create accessibility problems is multimedia — video, audio, and image content need to be given proper textual alternatives so they can be understood by assistive technologies and their users. This article shows how.</dd>
+ <dt><a href="/en-US/docs/Learn/Accessibility/Mobile">Mobile accessibility</a></dt>
+ <dd>With web access on mobile devices being so popular, and popular platforms such as iOS and Android having fully-fledged accessibility tools, it is important to consider the accessibility of your web content on these platforms. This article looks at mobile-specific accessibility considerations.</dd>
+</dl>
+
+<p>&nbsp;</p>
+</div>
+
+<div class="section">
+<h2 class="Other_documentation" id="Other_documentation" name="Other_documentation">Other documentation</h2>
+
+<dl>
+ <dt><a href="/en-US/docs/Web/Accessibility/Understanding_WCAG">Understanding the Web Content Accessibility Guidelines</a></dt>
+ <dd>
+ <p>This set of articles provides quick explanations to help you understand the steps that need to be taken to conform to the recommendations outlined in the W3C Web Content Accessibility Guidelines 2.0 (WCAG 2.0 or just WCAG, for the purposes of this writing).</p>
+ </dd>
+ <dt><a href="/en/Accessibility/Keyboard-navigable_JavaScript_widgets" title="en/Accessibility/Keyboard-navigable JavaScript widgets">Keyboard-navigable JavaScript widgets</a></dt>
+ <dd>Until now, web developers who want to make their styled &lt;div&gt; and &lt;span&gt; based widgets&nbsp; have lacked the proper techniques. <strong>Keyboard accessibility</strong> is part of the minimum accessibility requirements which a developer should be aware of.</dd>
  <dt><a href="/en-US/docs/Accessibility/ARIA" title="/en-US/docs/Accessibility/ARIA">ARIA</a></dt>
  <dd>A collection of articles to learn how to use ARIA to make your HTML documents more accessible.</dd>
  <dt><a href="/en-US/docs/Accessibility/AT_Development" title="AT Development">Assistive technology (AT) development</a></dt>
@@ -37,23 +62,6 @@ based_on: None
 </dl>
 
 <p><span class="alllinks"><a href="/en-US/docs/tag/Accessibility" title="/en-US/docs/tag/Accessibility">View all articles about Accessibility...</a></span></p>
-</div>
-
-<div class="section">
-<h2 class="Tools" id="Tools" name="Tools">Tools for web developers</h2>
-
-<ul>
- <li><a class="external" href="http://www.standards-schmandards.com/index.php?show/fangs">Fangs screen reader emulator</a></li>
- <li><a class="external" href="https://addons.mozilla.org/firefox/addon/claws/">Claws screen reader emulator</a></li>
-</ul>
-
-<p><span class="alllinks"><a href="/en-US/docs/tag/Accessibility:Tools" title="en-US/docs/tag/Accessibility:Tools">View All...</a></span></p>
-
-<h2 class="Tools" id="Tools" name="Tools">Other useful sites</h2>
-
-<ul>
- <li><a class="external" href="https://support.mozilla.org/kb/accessibility-features-firefox-make-firefox-and-we">Screen reader list</a></li>
-</ul>
 
 <p>&nbsp;</p>
 </div>
