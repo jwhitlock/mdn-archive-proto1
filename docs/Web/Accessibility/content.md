@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1277863
+revision_id: 1277865
 locale: en-US
 slug: Web/Accessibility
 tags: "Landing" "Accessibility"
@@ -21,7 +21,7 @@ based_on: None
 
 <div class="cleared topicpage-table">
 <div class="section">
-<h2 class="Key_accessibility_tutorials" id="Key_accessibility_tutorials" name="Key_accessibility_tutorials">Key tutorials</h2>
+<h2 class="Key_accessibility_tutorials" name="Key_accessibility_tutorials" id="Key_accessibility_tutorials">Key tutorials</h2>
 
 <p>The MDN <a href="/en-US/docs/Learn/Accessibility">Accessibility Learning Area</a> contains modern, up-to-date tutorials covering accessibility essentials:</p>
 
@@ -40,11 +40,11 @@ based_on: None
  <dd>With web access on mobile devices being so popular, and popular platforms such as iOS and Android having fully-fledged accessibility tools, it is important to consider the accessibility of your web content on these platforms. This article looks at mobile-specific accessibility considerations.</dd>
 </dl>
 
-<p>&nbsp;</p>
+<p> </p>
 </div>
 
 <div class="section">
-<h2 class="Other_documentation" id="Other_documentation" name="Other_documentation">Other documentation</h2>
+<h2 class="Other_documentation" name="Other_documentation" id="Other_documentation">Other documentation</h2>
 
 <dl>
  <dt><a href="/en-US/docs/Web/Accessibility/Understanding_WCAG">Understanding the Web Content Accessibility Guidelines</a></dt>
@@ -52,7 +52,7 @@ based_on: None
  <p>This set of articles provides quick explanations to help you understand the steps that need to be taken to conform to the recommendations outlined in the W3C Web Content Accessibility Guidelines 2.0 (WCAG 2.0 or just WCAG, for the purposes of this writing).</p>
  </dd>
  <dt><a href="/en/Accessibility/Keyboard-navigable_JavaScript_widgets" title="en/Accessibility/Keyboard-navigable JavaScript widgets">Keyboard-navigable JavaScript widgets</a></dt>
- <dd>Until now, web developers who want to make their styled &lt;div&gt; and &lt;span&gt; based widgets&nbsp; have lacked the proper techniques. <strong>Keyboard accessibility</strong> is part of the minimum accessibility requirements which a developer should be aware of.</dd>
+ <dd>Until now, web developers who want to make their styled &lt;div&gt; and &lt;span&gt; based widgets  have lacked the proper techniques. <strong>Keyboard accessibility</strong> is part of the minimum accessibility requirements which a developer should be aware of.</dd>
  <dt><a href="/en-US/docs/Accessibility/ARIA" title="/en-US/docs/Accessibility/ARIA">ARIA</a></dt>
  <dd>A collection of articles to learn how to use ARIA to make your HTML documents more accessible.</dd>
  <dt><a href="/en-US/docs/Accessibility/AT_Development" title="AT Development">Assistive technology (AT) development</a></dt>
@@ -63,15 +63,15 @@ based_on: None
 
 <p><span class="alllinks"><a href="/en-US/docs/tag/Accessibility" title="/en-US/docs/tag/Accessibility">View all articles about Accessibility...</a></span></p>
 
-<p>&nbsp;</p>
+<p> </p>
 </div>
-&nbsp;
+ 
 
-<p><br />
- &nbsp;</p>
+<p><br>
+  </p>
 </div>
 
-<p>{{ endnote(1) }} <a class="external" href="http://en.wikipedia.org/wiki/Accessibility">Wikipedia entry for Accessibility</a></p>
+<p>{{ endnote(1) }} <a href="http://en.wikipedia.org/wiki/Accessibility" class="external">Wikipedia entry for Accessibility</a></p>
 
 <p>{{ endnote(2) }} <a href="http://www.w3.org/standards/webdesign/accessibility" title="http://www.w3.org/standards/webdesign/accessibility">W3C - Accessibility</a></p>
 
