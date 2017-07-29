@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1278905
+revision_id: 1279091
 locale: de
 slug: Web/HTTP
 tags: "HTTP" "TopicStub" "NeedsTranslation"
@@ -13,9 +13,9 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Das Hypertext Transfer Protocol (HTTP) ist ein <a href="https://de.wikipedia.org/wiki/OSI-Modell#Schicht_7_.E2.80.93_Anwendungsschicht_.28Application_Layer.29">Anwendungsschicht</a>-Protokoll zum Transportieren von <a href="https://de.wikipedia.org/wiki/Hypermedia">Hypermedia</a> Dokumenten. Hauptsächlich wird es zur Kommunikation zwischen Webservern und Webbrowsern verwendet, jedoch könnte es theoretisch auch für andere Zwecke benutzt werden. Es folgt einem klassischen <a href="https://de.wikipedia.org/wiki/Client-Server-Modell">Client-Server-Modell</a>, mit einem Client der die Verbindung eröffnet, indem er eine Anfrage macht und dann wartet, bis es eine Antwort erhält. Außerdem ist es ein <a href="https://de.wikipedia.org/wiki/Zustandslosigkeit">zustandsloses</a> <a href="https://de.wikipedia.org/wiki/Netzwerkprotokoll">Protokoll</a>, was bedeutet, dass der Server keine Daten (Zustände) zwischen zwei Anfragen behält.<br />
+<p class="summary"><span class="seoSummary"><strong><dfn>Das Hypertext Transfer Protocol (HTTP)</dfn></strong> ist ein <a class="external" href="https://de.wikipedia.org/wiki/OSI-Modell#Schicht_7_.E2.80.93_Anwendungsschicht_.28Application_Layer.29">Anwendungsschicht</a>-Protokoll zum Transportieren von <a class="external" href="https://de.wikipedia.org/wiki/Hypermedia">Hypermedia</a> Dokumenten, wie zum Beispiel <a href="/de/docs/Web/HTML">HTML</a>.</span> Hauptsächlich wird es zur Kommunikation zwischen Webservern und Webbrowsern verwendet, jedoch könnte es theoretisch auch für andere Zwecke benutzt werden. Es folgt einem klassischen <a class="external" href="https://de.wikipedia.org/wiki/Client-Server-Modell">Client-Server-Modell</a>, mit einem Client der die Verbindung eröffnet, indem er eine Anfrage macht und dann wartet, bis es eine Antwort erhält. Außerdem ist es ein <a class="external" href="https://de.wikipedia.org/wiki/Zustandslosigkeit">zustandsloses</a> <a class="external" href="https://de.wikipedia.org/wiki/Netzwerkprotokoll">Protokoll</a>, was bedeutet, dass der Server keine Daten (Zustände) zwischen zwei Anfragen behält.<br />
  <br />
- Obwohl oft auf einer TCP/IP Schicht aufgebaut, könnte es auch auf jede andere verlässliche, verbindungsorientierte <a href="https://de.wikipedia.org/wiki/OSI-Modell#Schicht_4_.E2.80.93_Transportschicht">Transportschicht</a> aufbauen, sofern sie Nachrichten nicht leise verliert, wie es zum Beispiel bei <a href="https://de.wikipedia.org/wiki/User_Datagram_Protocol">UDP</a> der Fall ist.</p>
+ Obwohl oft auf einer TCP/IP Schicht aufgebaut, könnte es auch auf jede andere verlässliche, verbindungsorientierte <a class="external" href="https://de.wikipedia.org/wiki/OSI-Modell#Schicht_4_.E2.80.93_Transportschicht">Transportschicht</a> aufbauen, sofern sie Nachrichten nicht leise verliert, wie es zum Beispiel bei <a class="external" href="https://de.wikipedia.org/wiki/User_Datagram_Protocol">UDP</a> der Fall ist.</p>
 
 <h2 class="Documentation" id="Documentation" name="Documentation">Dokumentation</h2>
 
