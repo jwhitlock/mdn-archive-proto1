@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1239179
+revision_id: 1279289
 locale: ru
 slug: Games
 tags: 
-title: Game development
+title: Разработка игр
 summary: 
 keywords: 
 needs_technical_review: False
