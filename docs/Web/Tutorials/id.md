@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1275535
+revision_id: 1279565
 locale: id
 slug: Web/Tutorials
 tags: 
@@ -8,12 +8,19 @@ title: Tutorials
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
 <p>Link pada halaman ini melibatkan berbagai tutorial dan materi pelatihan. Baik bagi&nbsp; Anda yang baru memulai , mempelajari dasar-dasar , atau pun bagi Anda yang sudah mahir dengan pengembangan web, di sini Anda dapat menemukan sumber daya bermanfaat untuk praktik terbaik . Sumber daya ini dibuat oleh perusahaan-perusahaan yang berpikiran maju dan pengembang web yang telah memiliki standar terbuka dan praktik terbaik untuk pengembangan web dan yang memberikan atau mengizinkan terjemahan , melalui lisensi konten terbuka seperti Creative Commons .</p>
+
+<h2 id="For_complete_beginners_to_the_Web"><span class="short_text" id="result_box" lang="id" tabindex="-1"><span>Untuk pemula yang memulai belajar Web</span></span></h2>
+
+<dl>
+ <dt><a href="/id/docs/Learn/Getting_started_with_the_web">Memulai dengan Web </a></dt>
+ <dd><span id="result_box" lang="id" tabindex="-1"><span class="alt-edited"><em>Memulai dengan Web</em> adalah serangkaian singkat memperkenalkan Anda ke praktis pengembangan web.</span> <span>Anda akan menyiapkan alat yang anda butuhkan untuk membuat halaman web sederhana dan mempublikasikan kode sederhana anda sendiri.</span></span></dd>
+</dl>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -53,7 +60,7 @@ based_on: None
 
 <h2 class="Documentation" id="Documentation" name="Documentation">Tutorial Javascript</h2>
 
-<h3 id="Introductory_level">Tingkat pengenalan</h3>
+<h3 id="Tingkat_pengenalan">Tingkat pengenalan</h3>
 
 <dl>
  <dt><a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</dt>
@@ -61,11 +68,11 @@ based_on: None
  <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Getting_Started">Memulai&nbsp;JavaScript</a></dt>
  <dd>Apa itu javascript dan bagaimana ini bisa membantu anda?</dd>
  <dt><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" rel="external">JavaScript Best Practices</a><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" title="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices"> </a>(WebPlatform.org)</dt>
- <dd>Learn about some of the obvious and (not so) obvious best practices when writing JavaScript.</dd>
+ <dd><span id="result_box" lang="id" tabindex="-1"><span>Pelajari beberapa praktik terbaik yang jelas dan (tidak begitu)&nbsp;jelas</span></span><span lang="id" tabindex="-1"><span> saat menulis JavaScript.</span></span> .</dd>
  <dt><a href="http://codeavengers.com/" title="http://codeavengers.com/">CodeAvengers</a> (CodeAvengers.com)</dt>
- <dd>Code Avengers is the fun, effective way to learn to code web apps and games with HTML, CSS, and JavaScript.</dd>
+ <dd>Code Avengers sangat menyenangkan, cara efektif untuk menulis apliaksi web dan permainan menggunakan HTML, CSS, dan JavaScript.</dd>
  <dt><a href="http://codecombat.com/#">CodeCombat</a> (codecombat.com/#)</dt>
- <dd>CodeCompat are a game designd to teach you JavaScript, are Open Soruce.</dd>
+ <dd>CodeCompat merupakan permainan yang dirancang untuk mengajarkan anda JavaScript, Open Source.</dd>
 </dl>
 
 <p>http://codecombat.com/#</p>
@@ -112,7 +119,7 @@ based_on: None
 
 <h2 class="Documentation" id="Documentation" name="Documentation">CSS tutorials</h2>
 
-<h3 id="Introductory_level_2">Introductory level</h3>
+<h3 id="Introductory_level">Introductory level</h3>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/Getting_Started">CSS Getting Started</a></dt>
