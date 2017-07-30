@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1168165
+revision_id: 1279181
 locale: fa
 slug: MDN/Contribute
 tags: "ام‌دی‌ان" "راهنما" "صفحه فرود" "مستندات" "نیازمند ترجمه"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -25,11 +25,11 @@ based_on: None
 
 <dl>
  <dt dir="rtl"><a href="/en-US/docs/MDN/Getting_started">آغاز به کار</a></dt>
- <dd>A quick start guide to getting set up and making your first contribution.</dd>
+ <dd dir="rtl">یک راهنمای چابک برای آشنایی و ایجاد نخستین مشارکت‌های شما در ام‌دی‌ان.</dd>
  <dt dir="rtl"><a href="/en-US/docs/MDN/Contribute/Style_guide">راهنمای سیاق و محتوا</a></dt>
  <dd>The MDN content and style guide provides details about writing style, page layout, and content styles, so that the content you write fits in with the rest of MDN's content.</dd>
  <dt dir="rtl"><a href="/en-US/docs/MDN/Contribute/Editor">راهنمای ویرایشگر</a></dt>
- <dd>A complete guide to using MDN's editor.</dd>
+ <dd dir="rtl">یک راهنمای کامل در مورد ویرایشگر ام‌دی‌ان.</dd>
  <dt dir="rtl"><a href="/en-US/docs/MDN/Contribute/Reviewing_articles">بازنگری مقالات</a></dt>
  <dd>A guide to performing technical and editorial reviews of articles' content, to help us ensure that all content on MDN is as useful and readable as can be!</dd>
  <dt dir="rtl"><a href="/en-US/docs/MDN/Contribute/Conventions">واژگان و قراردادها</a></dt>
