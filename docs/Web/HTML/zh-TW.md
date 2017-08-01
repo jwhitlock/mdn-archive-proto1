@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1272649
+revision_id: 1280589
 locale: zh-TW
 slug: Web/HTML
 tags: "HTML" "HTML元素" "多媒體" "影像" "音樂"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -58,10 +58,10 @@ based_on: None
  <dd class="landingPageList">HTML的元素都具有屬性(attribute)，可以用來給予額外的值以調整元素或是行為來符合使用者的需求。</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML 元素參考</a></dt>
  <dd class="landingPageList">本頁列出所有的&nbsp;<a class="glossaryLink" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML" title="HTML: HTML (HyperText Markup Language) is a descriptive language that specifies webpage structure.">HTML</a> <a class="glossaryLink" href="https://developer.mozilla.org/en-US/docs/Glossary/Element" title="elements: An element is a part of a webpage. In XML and HTML, an element may contain a data item or a chunk of text or an image, or perhaps nothing. A typical element includes an opening tag, attributes, content, and a closing tag:">元素</a>。</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference">HTML reference</a></dt>
- <dd class="landingPageList">HTML is the language that describes the structure and the semantic content of a Web document; it consists of <strong>elements</strong>, each of which may be modified by some number of <strong>attributes</strong>.</dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference">HTML 參考</a></dt>
+ <dd class="landingPageList">HTML 是一種描述網頁文件內容結構跟語意的語言；它由<strong>元素</strong>組成，每個元素可能被數種<strong>屬性</strong>修改</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elemente">行內元素</a></dt>
- <dd class="landingPageList">HTML (Hypertext Markup Language) elements are usually "inline" elements or <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements">"block-level" elements</a>. An inline element occupies only the space bounded by the tags that define the inline element. The following example demonstrates the inline element's influence:</dd>
+ <dd class="landingPageList">HTML (Hypertext Markup Language) 元素通常是行內元素或者是區塊級元素。An inline element occupies only the space bounded by the tags that define the inline element. The following example demonstrates the inline element's influence:</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types">鏈結類型</a></dt>
  <dd class="landingPageList">In HTML, the following link types indicate the relationship between two documents, in which one links to the other using an , , or element.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats">HTML audio及video元素支援多媒體格式</a></dt>
