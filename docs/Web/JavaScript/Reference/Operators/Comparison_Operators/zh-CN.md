@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1282431
+revision_id: 1282437
 locale: zh-CN
 slug: Web/JavaScript/Reference/Operators/Comparison_Operators
 tags: "严格比较操作符" "比较操作符"
@@ -179,7 +179,7 @@ x &gt; y</pre>
 <ul>
  <li>当比较数字和字符串时，字符串会转换成数字值。&nbsp;JavaScript 尝试将数字字面量转换为数字类型的值。&nbsp;首先, 一个数学上的值会从数字字面量中衍生出来，然后得到被四舍五入后的数字类型的值。</li>
  <li>如果其中一个操作数为布尔类型，那么布尔操作数如果为true，那么会转换为1，如果为false，会转换为整数0，即0。</li>
- <li>如果是一个对象与数字或字符串向比较，JavaScript会尝试返回对象的默认值。操作符会尝试将对象转换为其原始值（一个字符串或数字值）通过方法valueOf和toString。如果尝试转换失败，会产生一个运行时错误。</li>
+ <li>如果一个对象与数字或字符串向比较，JavaScript会尝试返回对象的默认值。操作符会尝试通过方法valueOf和toString将对象转换为其原始值（一个字符串或数字类型的值）。如果尝试转换失败，会产生一个运行时错误。</li>
  <li>注意：当且仅当与原始值比较时，对象会被转换为原始值。当两个操作数均为对象时，它们作为对象进行比较，仅当它们引用相同对象时返回true。</li>
 </ul>
 
