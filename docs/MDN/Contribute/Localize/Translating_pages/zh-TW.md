@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1071266
+revision_id: 1282899
 locale: zh-TW
 slug: MDN/Contribute/Localize/Translating_pages
 tags: 
@@ -50,8 +50,8 @@ based_on: None
 
 <ul>
  <li>在 <a href="/zh-TW/docs/Glossary">Glossary</a> 的文章很適合新譯者翻譯，因為它們很簡短。</li>
- <li><a href="/en-US/docs/tag/l10n%3Apriority">被標示為 "l10n:priority" </a> 的文章被認定是高優先翻譯。</li>
+ <li><a href="/en-US/docs/tag/l10n%3Apriority">被標示為 "l10n:priority" </a> 的文章被認定是高優先翻譯。另外，教學與概念性文章的優先度，通常比參考頁面高，這是因為讀者在理解新觀念的時候，最需要翻譯的東西。</li>
  <li>如果你看到兩個大括號的文字，例如 <code>\{{some-text("more text")}}</code>，讓它在文章內保持原樣、不要改動標點符號。這是 <a href="/zh-TW/docs/MDN/Contribute/Structures/Macros">Macro</a>，它可能用於創建頁面的架構、或其他的用途。你可能看到一些由 macro 產生的原文，在你從 MDN 得到更多經驗以前，不用操心這個（改變那邊的文字需要<a href="/zh-TW/docs/MDN/Contribute/Tools/Template_editing">特殊權限</a>，這是因為 macro 有著十分強大的效果）如果你感到好奇，可以看看 <a href="/zh-TW/docs/MDN/Contribute/Structures/Macros/Commonly-used_macros">Commonly-used macros</a> 來了解各種 macro 如何做動。</li>
- <li>查看<a href="/zh-TW/docs/MDN/Contribute/Localize/Localization_projects">Localization projects page</a>以找出更多你語言的在地化。</li>
+ <li>查看 <a href="/zh-TW/docs/MDN/Contribute/Localize/Localization_projects">Localization projects page</a> 以找出更多你語言的在地化。</li>
 </ul>
 
