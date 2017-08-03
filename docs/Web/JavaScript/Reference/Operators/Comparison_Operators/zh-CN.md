@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1248073
+revision_id: 1282431
 locale: zh-CN
 slug: Web/JavaScript/Reference/Operators/Comparison_Operators
 tags: "严格比较操作符" "比较操作符"
@@ -174,7 +174,7 @@ x &gt; y</pre>
 
 <p>当需要明确操作数的类型和值的时候，或者操作数的确切类型非常重要时，应使用严格相等操作符。否则，当你允许操作数在比较前进行类型转换时，可以使用标准相等操作符来比较。</p>
 
-<p>当比较运算设计类型转换时&nbsp;(i.e., non–strict comparison), JavaScript 会按以下规则对字符串，数字，布尔或对象类型的操作数进行操作:</p>
+<p>当比较运算涉及类型转换时&nbsp;(i.e., non–strict comparison), JavaScript 会按以下规则对字符串，数字，布尔或对象类型的操作数进行操作:</p>
 
 <ul>
  <li>当比较数字和字符串时，字符串会转换成数字值。&nbsp;JavaScript 尝试将数字字面量转换为数字类型的值。&nbsp;首先, 一个数学上的值会从数字字面量中衍生出来，然后得到被四舍五入后的数字类型的值。</li>
