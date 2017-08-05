@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1273561
+revision_id: 1283769
 locale: ru
 slug: MDN/About
 tags: "Копирайт" "Лицензии" "Сообщество" "Руководство"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
