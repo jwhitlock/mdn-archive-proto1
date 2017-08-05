@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1247935
+revision_id: 1283625
 locale: zh-CN
 slug: Web/HTTP
 tags: "HTTP" "参考" "Web"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{ HTTPSidebar }}</div>
 
-<p class="summary"><strong><dfn>超文本传输协议&nbsp;(HTTP)</dfn></strong>&nbsp;是一种用于传输超媒体文档的<a href="https://en.wikipedia.org/wiki/Application_Layer">应用层协议</a>。起初设计它的目的主要用于 Web 浏览器与 Web 服务器之间的通信，而现在它还可以用做其它目的。该协议遵循<a href="https://en.wikipedia.org/wiki/Client%E2%80%93server_model">客户端-服务端模型</a>，客户端打开连接，发送一个请求，然后等待接收服务器端的响应。HTTP 协议也是一个<a href="http://en.wikipedia.org/wiki/Stateless_protocol">无状态协议</a>，这就意味着服务并不能保留两个请求之间的数据(状态)。尽管 HTTP 协议通常是基于 TCP/IP 的，但它实际上可以在任何可靠的<a href="https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E5%B1%82">传输层</a>协议上使用，所谓可靠的协议就是指那些不会隐式丢弃消息的协议，比如 UDP。</p>
+<p class="summary">超文本传输​​协议（HTTP）是用于传输诸如HTML的超媒体文档的<a href="https://en.wikipedia.org/wiki/Application_Layer">应用层协议</a>。它被设计用于Web浏览器和Web服务器之间的通信，但它也可以用于其他目的。 HTTP遵循经典的<a href="https://en.wikipedia.org/wiki/Client%E2%80%93server_model">客户端-服务端模型</a>，客户端打开一个连接以发出请求，然后等待它收到服务器端响应。 HTTP是<a href="http://en.wikipedia.org/wiki/Stateless_protocol">无状态协议</a>，意味着服务器不会在两个请求之间保留任何数据（状态）。虽然通常基于TCP / IP层，但可以在任何可靠的<a href="https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E5%B1%82">传输层</a>上使用;也就是说，一个不会静默丢失消息的协议，如UDP。</p>
 
 <div class="column-container">
 <div class="column-half">
