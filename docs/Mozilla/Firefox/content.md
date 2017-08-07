@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1284393
+revision_id: 1284867
 locale: en-US
 slug: Mozilla/Firefox
 tags: "Firefox" "Landing" "Mozilla"
@@ -50,7 +50,7 @@ based_on: None
 
 <p><a href="/en-US/Firefox/Developer_Edition">Learn more about Firefox Developer Edition</a>.</p>
 
-<p><a href="https://www.mozilla.org/firefox/developer/" style="width: 250px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox Developer Edition</a></p>
+<p><a href="https://www.mozilla.org/firefox/developer/" style="width: 280px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Download Firefox Developer Edition</a></p>
 
 <h3 id="Firefox_Beta">Firefox Beta</h3>
 
