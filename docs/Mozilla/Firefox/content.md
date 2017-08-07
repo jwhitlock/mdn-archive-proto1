@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1174407
+revision_id: 1284393
 locale: en-US
 slug: Mozilla/Firefox
 tags: "Firefox" "Landing" "Mozilla"
@@ -99,6 +99,7 @@ based_on: None
    <li>{{LinkItem("Firefox developer release notes", "/en-US/docs/Mozilla/Firefox/Releases")}}</li>
    <li>{{LinkItem("Mozilla project", "/en-US/docs/Mozilla")}}</li>
    <li>{{LinkItem("Gecko", "/en-US/docs/Mozilla/Gecko")}}</li>
+   <li>{{LinkItem("Headless mode", "/en-US/docs/Mozilla/Firefox/Headless_mode")}}</li>
    <li>{{LinkItem("JavaScript code modules", "/en-US/docs/Mozilla/JavaScript_code_modules")}}</li>
    <li>{{LinkItem("JS-ctypes", "/en-US/docs/Mozilla/js-ctypes")}}</li>
    <li>{{LinkItem("MathML project", "/en-US/docs/Mozilla/MathML_Project")}}</li>
