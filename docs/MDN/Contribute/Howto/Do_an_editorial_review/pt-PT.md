@@ -1,55 +1,39 @@
 ---
 version: prototype1
-revision_id: 1170347
+revision_id: 1286711
 locale: pt-PT
 slug: MDN/Contribute/Howto/fazer_revisão_editorial
 tags: "Como" "Guia(2)" "Metadados MDN" "Documentação" "Revisão Editorial"
-title: Como fazer uma revisão editorial
+title: Como efetuar uma revisão editorial
 summary: 
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 76c7be4e48b62f1af0e39d773d43390298d2c1e5
+based_on: None
 ---
-<div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
+<div>{{IncludeSubnav("/pt-PT/docs/MDN")}}</div>
 
-<pre data-fulltext="" data-placeholder="Tradução" dir="ltr" id="tw-target-text">
-Revisões editoriais consistem em corrigir erros ortográficos, ortografia, gramática, uso ou erros textuais em um artigo. Nem todos os contribuintes são especialistas em linguagem, mas independentemente, devido ao seu conhecimento terão contribuído com artigos extremamente úteis, que precisam de edição de cópia e leitura de provas. Isso é feito em uma revisão editorial.</pre>
+<p class="summary"><strong>As r</strong>evisões editoriais consistem em corrigir erros de digitação, ortografia, gramática, utilização ou erros textuais num artigo. Não é preciso ser um especialistas em linguagem para efetuar contribuições úteis para a documentação técnica da MDN, mas os artigos continuam a precisar de edição de cópia e revisão de provas. Isto é efetuado numa revisão editorial.</p>
 
-<p><span class="seoSummary">Este artigo descreve como fazer uma revisão editorial, </span></p>
-
-<pre data-fulltext="" data-placeholder="Tradução" dir="ltr" id="tw-target-text">
-contribuindo assim para garantir que o conteúdo da MDN seja preciso.</pre>
+<p><span class="seoSummary">Este artigo descreve como efetuar uma revisão editorial, que ajuda a assegurar que o conteúdo na MDN é preciso e bem escrito.</span></p>
 
 <dl>
- <dt>
- <pre data-fulltext="" data-placeholder="Tradução" dir="ltr" id="tw-target-text">
-Qual é a tarefa?
-Cópia e edição, leitura de provas de artigos que são marcados como pendentes de revisão editorial.</pre>
- </dt>
- <dt>
- <pre data-fulltext="" data-placeholder="Tradução" dir="ltr" id="tw-target-text">
-Onde precisam ser feitos?
-Dentro de artigos específicos que são marcados como pendentes de revisão editorial.</pre>
- </dt>
- <dt>
- <pre data-fulltext="" data-placeholder="Tradução" dir="ltr" id="tw-target-text">
-Quais são as etapas para fazê-lo?</pre>
-
- <pre data-fulltext="" data-placeholder="Tradução" dir="ltr" id="tw-target-text">
-1. Escolha um artigo para analisar:</pre>
- </dt>
- <dd><span style="background-color:#fafbfc; font-family:Consolas,Monaco,&quot;Andale Mono&quot;,monospace; font-size:1rem; white-space:pre; word-spacing:normal">Você precisa ter boas habilidades de gramática e ortografia em ingl</span>.&nbsp;<span style="background-color:#fafbfc; font-family:Consolas,Monaco,&quot;Andale Mono&quot;,monospace; font-size:1rem; white-space:pre; word-spacing:normal">Uma revisão editorial precisa assegurar que a gramática, ortografia e redação estão corretas e fazem sent</span>, e que o <a href="/en-US/docs/MDN/Contribute/Guidelines/Writing_style_guide">MDN writing style guide</a>&nbsp;é&nbsp;seguido.</dd>
- <dt>What are the steps to do it?</dt>
+ <dt>O que é a tarefa?</dt>
+ <dd>Copy-editing and proof-reading of articles that are marked as requiring an editorial review.</dd>
+ <dt>Onde é que esta tem de ser efetuada?</dt>
+ <dd>Within specific articles that are marked as requiring an editorial review.</dd>
+ <dt>O que precisa de saber para efetuar a tarefa?</dt>
+ <dd>You need to have good English grammar and spelling skills. An editorial review is about ensuring that the grammar, spelling, and wording are correct and make sense, and that the <a href="/en-US/docs/MDN/Contribute/Guidelines/Writing_style_guide">MDN writing style guide</a> is followed.</dd>
+ <dt>Quais os passos a seguir?</dt>
  <dd>
  <ol>
-  <li>Pick an article to review:
+  <li>Escolha um artigo para rever:
    <ol>
     <li>Go to the list of <a href="/en-US/docs/needs-review/editorial">articles needing editorial review</a>. This lists all the pages for which an editorial review has been requested.</li>
-    <li>Choose a page that has an English title and whose path doesn't start with <code>Template:</code> (<code>Template:</code> pages contain MDN macro code.)</li>
-    <li>Click on the article link to load the page.</li>
+    <li>Click on the article link to load the page.<br />
+     <strong>Nota: </strong>This listing is generated automatically but infrequently, so some articles appear on the list that no longer need editorial review. If the article you picked does <em>not</em> display a banner that says "This article needs an editorial review", skip that article and pick a different one.</li>
    </ol>
   </li>
   <li><a id="core-steps" name="core-steps"></a>Read the article, paying close attention for typos, spelling, grammar, or usage errors. Don't hesitate to switch to a different page if the first one you choose doesn't suit you.</li>
@@ -68,7 +52,7 @@ Quais são as etapas para fazê-lo?</pre>
  </ol>
 
  <div class="note">
- <p>Your changes may not be visible immediately after saving; there may be a delay while the page is processed and saved.</p>
+ <p>Depois de guardar, as suas alterações poderão não ser visíveis de imediato; existe um pequeno atraso enquanto a página é processada e guardada.</p>
  </div>
  </dd>
 </dl>
