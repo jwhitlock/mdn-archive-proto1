@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1252409
+revision_id: 1287251
 locale: en-US
 slug: Web/HTML
 tags: "HTML" "HTML5" "Web" "Learn" "HTML Lesson" "What is HTML" "Landing" "HTML Tutorials" "Hyper text" "Hypertext" "Reference" "HTML Programming" "l10n:priority"
@@ -25,52 +25,21 @@ based_on: None
 
 <section class="cleared" id="sect1">
 <ul class="card-grid">
- <li><span>HTML Reference</span>
+ <li><span>HTML Introduction</span>
 
-  <p>In our extensive&nbsp;<a href="/en-US/docs/Web/HTML/Reference">HTML reference</a>&nbsp;section, you'll find the details about every element and attribute in HTML.</p>
+  <p>If you're new to Web development, be sure to read our <a href="/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML Basics</a> article to learn what HTML is and how to use it.</p>
  </li>
  <li><span>HTML Tutorials</span>
   <p>For articles about how to use HTML, as well as tutorials and complete examples, check out our <a href="/en-US/docs/Learn/HTML">HTML Learning Area</a>.</p>
  </li>
- <li><span>HTML Introduction</span>
-  <p>If you're new to Web development, be sure to read our <a href="/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML Basics</a> article to learn what HTML is and how to use it.</p>
+ <li><span>HTML Reference</span>
+  <p>In our extensive&nbsp;<a href="/en-US/docs/Web/HTML/Reference">HTML reference</a>&nbsp;section, you'll find the details about every element and attribute in HTML.</p>
  </li>
 </ul>
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="References">References</h2>
-
-<dl>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Element">HTML element reference</a></dt>
- <dd class="landingPageList">Browse a list of all <a class="glossaryLink" href="/en-US/docs/Glossary/HTML">HTML</a> <a class="glossaryLink" href="/en-US/docs/Glossary/Element">elements</a>.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Reference">HTML reference</a></dt>
- <dd class="landingPageList">HTML consists of <strong>elements</strong>, each of which may be modified by some number of <strong>attributes</strong>. HTML documents are connected to each other with <a href="/en-US/docs/Web/HTML/Link_types">links</a>.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Inline_elements">Inline elements</a> and <a href="/en-US/docs/Web/HTML/Block-level_elements">block-level elements</a></dt>
- <dd class="landingPageList">HTML elements are usually "inline" or "block-level" elements. An inline element occupies only the space bounded by the tags that define it. A block-level element occupies the entire space of its parent element (container), thereby creating a "block."</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/CORS_enabled_image">CORS enabled image</a></dt>
- <dd class="landingPageList">The&nbsp;<code><a href="/en-US/docs/Web/HTML/Element/img#attr-crossorigin">crossorigin</a></code> attribute, in combination with an appropriate <a class="glossaryLink" href="/en-US/docs/Glossary/CORS">CORS</a> header, allows images defined by the {{HTMLElement("img")}} element to be loaded from foreign origins and used in a {{HTMLElement("canvas")}} element as if they were being loaded from the current origin.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/CORS_settings_attributes">CORS settings attributes</a></dt>
- <dd class="landingPageList">Some HTML elements that provide support for <a href="/en-US/docs/HTTP/Access_control_CORS">CORS</a>, such as {{HTMLElement("img")}} or {{HTMLElement("video")}}, have a <code>crossorigin</code> attribute (<code>crossOrigin</code> property), which lets you configure the CORS requests for the element's fetched data.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Focus_management_in_HTML">Focus management in HTML</a></dt>
- <dd class="landingPageList">The <code><a href="/en-US/docs/Web/API/Document/activeElement">activeElement</a></code> DOM attribute and the <code><a href="/en-US/docs/Web/API/Document/hasFocus">hasFocus()</a></code> DOM method help you track and control a user's interactions with elements on a web page.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Global_attributes">Global attributes</a></dt>
- <dd class="landingPageList">Global attributes may be specified on all <a href="/en-US/docs/Web/HTML/Element">HTML elements</a>, <em>even those not specified in the standard</em>. This means that any non-standard elements must still permit these attributes, even though those elements make the&nbsp;document HTML5-noncompliant.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Attributes">HTML attribute reference</a></dt>
- <dd class="landingPageList">Elements in HTML have <strong>attributes</strong>. These are additional values that configure the elements or adjust their behavior in various ways.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Link_types">Link types</a></dt>
- <dd class="landingPageList">In HTML, various link types can be used to establish and define the relationship between two documents.&nbsp;Link types include&nbsp;<a href="/en-US/docs/Web/HTML/Element/a"><code>&lt;a&gt;</code></a>, <a href="/en-US/docs/Web/HTML/Element/area"><code>&lt;area&gt;</code></a>, and&nbsp;<a href="/en-US/docs/Web/HTML/Element/link"><code>&lt;link&gt;</code></a>.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Supported_media_formats">Media formats supported by the HTML audio and video elements</a></dt>
- <dd class="landingPageList">The <a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> and <a href="/en-US/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a> elements allow you to play audio and video media. These elements provide a browser-native&nbsp;alternative to similar&nbsp;capabilities found in Adobe Flash and other plug-ins.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Using_the_application_cache">Using the application cache</a></dt>
- <dd class="landingPageList">Application caching&nbsp;lets web-based applications run offline. You can use the <strong>Application Cache</strong> (<em>AppCache</em>) interface to specify resources that the browser should cache and make available to offline users. Applications that are cached load and work correctly even if users click the refresh button when they are offline.</dd>
-</dl>
-
-<p><span class="alllinks"><a href="/en-US/docs/tag/HTML">View All...</a></span></p>
-</div>
-
-<div class="section">
-<h2 class="Tools" id="Tools" name="Tools">Tutorials</h2>
+<h2 class="Tools" id="Tools" name="Tools">Beginner's tutorials</h2>
 
 <p>Our <a href="/en-US/docs/Learn/HTML">HTML Learning Area</a> features multiple modules that teach HTML from the ground up — no previous knowledge required.</p>
 
@@ -85,7 +54,45 @@ based_on: None
  <dd>Provides links to sections of content explaining how to use HTML to solve very common problems when creating a web page: dealing with titles, adding images or videos, emphasizing content, creating a basic form, etc.</dd>
 </dl>
 </div>
+
+<div class="section">
+<h2 class="Documentation" id="References">References</h2>
+
+<dl>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Reference">HTML reference</a></dt>
+ <dd class="landingPageList">HTML consists of <strong>elements</strong>, each of which may be modified by some number of <strong>attributes</strong>. HTML documents are connected to each other with <a href="/en-US/docs/Web/HTML/Link_types">links</a>.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Element">HTML element reference</a></dt>
+ <dd class="landingPageList">Browse a list of all <a class="glossaryLink" href="/en-US/docs/Glossary/HTML">HTML</a> <a class="glossaryLink" href="/en-US/docs/Glossary/Element">elements</a>.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Attributes">HTML attribute reference</a></dt>
+ <dd class="landingPageList">Elements in HTML have <strong>attributes</strong>. These are additional values that configure the elements or adjust their behavior in various ways.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Global_attributes">Global attributes</a></dt>
+ <dd class="landingPageList">Global attributes may be specified on all <a href="/en-US/docs/Web/HTML/Element">HTML elements</a>, <em>even those not specified in the standard</em>. This means that any non-standard elements must still permit these attributes, even though those elements make the&nbsp;document HTML5-noncompliant.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Inline_elements">Inline elements</a> and <a href="/en-US/docs/Web/HTML/Block-level_elements">block-level elements</a></dt>
+ <dd class="landingPageList">HTML elements are usually "inline" or "block-level" elements. An inline element occupies only the space bounded by the tags that define it. A block-level element occupies the entire space of its parent element (container), thereby creating a "block."</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Link_types">Link types</a></dt>
+ <dd class="landingPageList">In HTML, various link types can be used to establish and define the relationship between two documents.&nbsp;Link elements that types can be set on include&nbsp;<a href="/en-US/docs/Web/HTML/Element/a"><code>&lt;a&gt;</code></a>, <a href="/en-US/docs/Web/HTML/Element/area"><code>&lt;area&gt;</code></a>, and&nbsp;<a href="/en-US/docs/Web/HTML/Element/link"><code>&lt;link&gt;</code></a>.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Supported_media_formats">Media formats supported by the HTML audio and video elements</a></dt>
+ <dd class="landingPageList">The <a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> and <a href="/en-US/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a> elements allow you to play audio and video media. These elements provide a browser-native&nbsp;alternative to similar&nbsp;capabilities found in Adobe Flash and other plug-ins.</dd>
+</dl>
 </div>
+</div>
+
+<h2 id="Other_guides">Other guides</h2>
+
+<dl>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/CORS_enabled_image">CORS enabled image</a></dt>
+ <dd class="landingPageList">The&nbsp;<code><a href="/en-US/docs/Web/HTML/Element/img#attr-crossorigin">crossorigin</a></code> attribute, in combination with an appropriate <a class="glossaryLink" href="/en-US/docs/Glossary/CORS">CORS</a> header, allows images defined by the {{HTMLElement("img")}} element to be loaded from foreign origins and used in a {{HTMLElement("canvas")}} element as if they were being loaded from the current origin.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/CORS_settings_attributes">CORS settings attributes</a></dt>
+ <dd class="landingPageList">Some HTML elements that provide support for <a href="/en-US/docs/HTTP/Access_control_CORS">CORS</a>, such as {{HTMLElement("img")}} or {{HTMLElement("video")}}, have a <code>crossorigin</code> attribute (<code>crossOrigin</code> property), which lets you configure the CORS requests for the element's fetched data.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Focus_management_in_HTML">Focus management in HTML</a></dt>
+ <dd class="landingPageList">The <code><a href="/en-US/docs/Web/API/Document/activeElement">activeElement</a></code> DOM attribute and the <code><a href="/en-US/docs/Web/API/Document/hasFocus">hasFocus()</a></code> DOM method help you track and control a user's interactions with elements on a web page.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Using_the_application_cache">Using the application cache</a></dt>
+ <dd class="landingPageList">Application caching&nbsp;lets web-based applications run offline. You can use the <strong>Application Cache</strong> (<em>AppCache</em>) interface to specify resources that the browser should cache and make available to offline users. Applications that are cached load and work correctly even if users click the refresh button when they are offline.</dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content">Preloading content with rel="preload"</a></dt>
+ <dd class="landingPageList">The <code>preload</code> value of the {{htmlelement("link")}} element's {{htmlattrxref("rel", "link")}} attribute allows you to write declarative fetch requests in your HTML {{htmlelement("head")}}, specifying resources that your pages will need very soon after loading, which you therefore want to start preloading early in the lifecycle of a page load, before the browser's main rendering machinery kicks in. This ensures that they are made available earlier and are less likely to block the page's first render, leading to performance improvements. This article provides a basic guide to how <code>preload</code> works.</dd>
+</dl>
+
+<p><span class="alllinks"><a href="/en-US/docs/tag/HTML">View All...</a></span></p>
 
 <p>{{CommunityBox("Web layout", "dev-tech-layout", "mozilla.dev.tech.layout", "", "Stack Overflow|http://stackoverflow.com/questions/tagged/html|HTML topics|Visit Stack Overflow, a collaboratively built and maintained Q&amp;A site. See if you can find an answer; if not, you can ask your question there.")}}</p>
 </section>
