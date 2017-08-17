@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1289091
+revision_id: 1289093
 locale: en-US
 slug: MDN/Contribute
 tags: "MDN Meta" "Guide" "Landing"
@@ -24,6 +24,4 @@ based_on: None
 <div class="row topicpage-table">&nbsp;</div>
 
 <p>{{LandingPageListSubPages()}}</p>
-
-<p>&nbsp;</p>
 
