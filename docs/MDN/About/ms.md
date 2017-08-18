@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1289381
+revision_id: 1289635
 locale: ms
 slug: MDN/About
 tags: 
-title: About MDN
+title: Perihal MDN
 summary: 
 keywords: 
 needs_technical_review: False
@@ -43,7 +43,7 @@ based_on: None
 
 <p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC||Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events||Trello board|https://trello.com/b/HAhl54zz/status|Project management board||Contribute|/en-US/Inbox|Create a page", "MozDevNet")}}</p>
 
-<h2 id="Menggunakan_kandungan_MDN">Penggunaan kandungan MDN</h2>
+<h2 id="Penggunaan_kandungan_MDN">Penggunaan kandungan MDN</h2>
 
 <h3 id="Hak_cipta_dan_lesen">Hak cipta dan lesen</h3>
 
@@ -76,35 +76,35 @@ based_on: None
 <hr />
 <p>Hak ke atas cap dagangan, logo, tanda perkhidmatan Yayasan Mozilla, serta penampilan dan rekaan laman web ini, tidak dilesenkan di bawah lesen Creative Commons , dan kandungan hasil kerja karangan (seperti logo dan reka bentuk grafik), tidak termasuk dalam kandungan yang dilesenkan di bawah terma tersebut. Jika anda menggunakan teks dokumen, dan mahu menggunakan mana-mana hak cipta, atau anda ada soalan perihal pematuhan kesemua terma perlesenan dalam koleksi kami ini, anda perlu hubungi Yayasan Mozilla di sini: <a class="external text" href="mailto:licensing@mozilla.org" rel="nofollow" title="mailto:licensing@mozilla.org">licensing@mozilla.org</a>.</p>
 
-<h3 id="Downloading_content">Memuat turun kandungan</h3>
+<h3 id="Memuat_turun_kandungan">Memuat turun kandungan</h3>
 
 <p>Anda boleh memuat turun dari<a href="/media/developer.mozilla.org.tar.gz"> bar tar cermin lengkap MDN</a>. (1.3GB pada 20-02-2016)</p>
 
-<h4 id="Single_Pages">Halaman Tunggal</h4>
+<h4 id="Halaman_Tunggal">Halaman Tunggal</h4>
 
 <p>Anda boleh dapatkan kandungan halaman tunggal dalam MDN dengan menambahkan <a href="/en-US/docs/MDN/Kuma/API#Document_parameters">parameter dokumen</a> ke URL untuk menentukan format yang anda mahu.</p>
 
-<h4 id="Third-party_tools">Alatan pihak ketiga</h4>
+<h4 id="Alatan_pihak_ketiga">Alatan pihak ketiga</h4>
 
 <p>Anda boleh papar kandungan MDN via alatan pihak ketiga seperti <a href="http://kapeli.com/dash">Dash</a> (untuk Mac OS) dan <a href="http://zealdocs.org/">Zeal</a> (untuk Linux dan Windows).</p>
 
 <p><a href="https://kapeli.com/">Kapeli</a> juga menerbitkan <a href="https://kapeli.com/mdn_offline">dokumen MDN luar talian</a> yang meliputi HTML, CSS, JavaScript, SVG, dan XSLT.</p>
 
-<h3 id="Linking_to_MDN">Memautkan ke MDN</h3>
+<h3 id="Memautkan_ke_MDN">Memautkan ke MDN</h3>
 
 <p>Lihat artikel ini sebagai panduan <a href="/en-US/docs/MDN/About/Linking_to_MDN">memautkan ke MDN</a> sebagai amalan terbaik apabila membuat pautan.</p>
 
-<h2 id="Reporting_problems_with_MDN">Melaporkan masalah berkaitan MDN</h2>
+<h2 id="Melaporkan_masalah_berkaitan_MDN">Melaporkan masalah berkaitan MDN</h2>
 
 <p>Lihat <a href="/en-US/docs/MDN/Contribute/Howto/Report_a_problem">Cara melaporkan masalah dalam MDN</a>.</p>
 
-<h2 id="History_of_MDN">Sejarah MDN</h2>
+<h2 id="Sejarah_MDN">Sejarah MDN</h2>
 
 <p>Projek Rangkaian Pembangun Mozilla (a.k.a. Mozilla Developer Center (MDC), a.k.a. <em>Devmo</em>) bermula pada awal 2005, apabila <a class="external" href="http://www.mozillafoundation.org">Yayasan Mozilla</a> mendapat lesen daripada AOL untuk menggunakan kandungan asal Netscape <a href="https://web.archive.org/web/*/devedge.netscape.com" title="Project:en/DevEdge">DevEdge</a>. Kandungan DevEdge digunakan semula sebagai bahan berguna yang kemudiannya dialihkan oleh sukarelawan ke dalam wiki ini supaya mudah dikemaskini dan diselenggara.</p>
 
 <p>Anda boleh ketahui lebih banyak sejarah MDN dalam halaman <a href="/en-US/docs/MDN_at_ten">sambutan ulang tahun ke-10</a> kami, termasuk sejarah lisan oleh beberapa indivudu yang terlibat.</p>
 
-<h2 id="About_Mozilla">Perihal Mozilla</h2>
+<h2 id="Perihal_Mozilla">Perihal Mozilla</h2>
 
 <p>Samada anda mahu mengetahui lebih lanjut perihal kami, cara untuk menjadi sebahagian anggota <em>Mozilla</em> atau hanya mahu menghubungi kami, anda berada di tempat yang betul. Untuk mengetahui apa yang mendorong dan menjadikan kami berbeza, layari halaman <a href="http://www.mozilla.org/en-US/mission/">misi</a> kami.</p>
 
