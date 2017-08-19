@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1288951
+revision_id: 1290227
 locale: tr
 slug: Web
 tags: "Web" "Landing" "TopicStub" "Web Geliştirme" "NeedsTranslation"
@@ -23,24 +23,24 @@ based_on: None
 
 <dl>
  <dt><a href="/en-US/docs/Web/HTML">HTML</a></dt>
- <dd><strong>HiperMetin Biçimlendirme Dili - HyperText Markup Language (HTML)</strong> bir web sayfasının içeriğinin tarifi ve tanımı için kullanılır.</dd>
+ <dd><strong>HiperMetin Biçimlendirme Dili - HyperText Markup Language&nbsp;(HTML)</strong>&nbsp;bir web sayfasının içeriğinin tarifi ve tanımı için kullanılır.</dd>
  <dt><a href="/en-US/docs/Web/CSS">CSS</a></dt>
- <dd><strong>Basamaklı Stil Şablonları - Cascading Style Sheets (CSS)</strong> bir web sayfasının görünüşünü ve sunuluşunu tanımlamak için kullanılır.</dd>
+ <dd><strong>Basamaklı Stil Şablonları - Cascading Style Sheets&nbsp;(CSS)</strong>&nbsp;bir web sayfasının görünüşünü ve sunuluşunu tanımlamak için kullanılır.</dd>
  <dt><a href="/en-US/docs/Web/HTTP">HTTP</a></dt>
- <dd><strong><dfn>HiperMetin Transfer Protokolü - HyperText Tranfer Protocol (HTTP)</dfn></strong><dfn>, Web'deki HTML ve diğer hiper medya dökümanlarının teslim edilişinde kullanılır</dfn>.</dd>
+ <dd><strong><dfn>HiperMetin Transfer Protokolü&nbsp;- HyperText Tranfer Protocol (HTTP)</dfn></strong><dfn>, Web'deki HTML ve diğer hiper medya dökümanlarının teslim edilişinde kullanılır</dfn>.</dd>
 </dl>
 
 <h3 id="Betik_Yazma">Betik Yazma</h3>
 
 <dl>
- <dt><a href="/en-US/docs/Web/JavaScript">JavaScript</a></dt>
+ <dt><a href="/tr/docs/Web/JavaScript">JavaScript</a></dt>
  <dd><strong>JavaScript</strong>, tarayıcınızda çalışan programlama dilidir. Websitenize ya da uygulamanıza etkileşim ve dinamik özellikler eklemek için kullanabilirsiniz.</dd>
  <dt><a href="/en-US/docs/Web/Reference/API">Web API'leri</a></dt>
- <dd><strong>Web Uygulama Geliştirme Arayüzleri (Web API'leri)</strong> <a href="/en-US/docs/DOM">DOM</a>'u manipüle etmek, ses ve görüntü oynatmak ya da 3D grafik oluşturmak gibi çeşitli işleri yerine getirmek için kullanılır.
+ <dd><strong>Web Uygulama Geliştirme Arayüzleri (Web API'leri)</strong>&nbsp;<a href="/en-US/docs/DOM">DOM</a>'u manipüle etmek, ses ve görüntü oynatmak ya da 3D grafik oluşturmak gibi çeşitli işleri yerine getirmek için kullanılır.
  <ul>
-  <li><a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">Web API arayüz referansı</a> Web için geliştirme yaparken, kullanabileceğiniz tüm nesne tiplerini listeler.</li>
-  <li><a href="/en-US/docs/WebAPI">Web API sayfası</a> Web uygulamalarınızda kullanabileceğiniz iletişim, donanım erişimi ve diğer tüm API'leri listeler.</li>
-  <li><a href="/en-US/docs/Web/Events">Olay referansı</a> web sayfanızda ya da uygulamanızdaki ilginç şeyleri kaydetmek ve tepki vermek için kullanabileceğiniz tüm olayları listeler.</li>
+  <li><a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">Web API arayüz referansı</a>&nbsp;Web için geliştirme yaparken, kullanabileceğiniz tüm nesne tiplerini listeler.</li>
+  <li><a href="/en-US/docs/WebAPI">Web API&nbsp;sayfası</a>&nbsp;Web uygulamalarınızda kullanabileceğiniz iletişim, donanım erişimi ve diğer tüm API'leri&nbsp;listeler.</li>
+  <li><a href="/en-US/docs/Web/Events">Olay referansı</a>&nbsp;web sayfanızda ya da uygulamanızdaki ilginç şeyleri kaydetmek ve tepki vermek için kullanabileceğiniz tüm olayları listeler.</li>
  </ul>
  </dd>
 </dl>
@@ -49,9 +49,9 @@ based_on: None
 
 <dl>
  <dt><a href="/en-US/docs/SVG">SVG</a></dt>
- <dd><strong>Ölçeklenebilir Vektör Grafikleri - Scalable Vector Graphics (SVG)</strong> imajları, bir dizi vektör ve şekil olarak ifade edebilmenizi sağlar. SVG'lerin bir avantajı da, boyutları ne olursa olsun kusursuz biçimde ölçeklenebilirler.</dd>
+ <dd><strong>Ölçeklenebilir Vektör Grafikleri - Scalable Vector Graphics&nbsp;(SVG)</strong> imajları, bir dizi vektör ve şekil olarak ifade edebilmenizi sağlar. SVG'lerin bir avantajı da, boyutları ne olursa olsun kusursuz biçimde ölçeklenebilirler.</dd>
  <dt><a href="/en-US/docs/Web/WebGL" title="/en-US/docs/Web/WebGL">WebGL</a></dt>
- <dd><strong>WebGL,</strong> {{HTMLElement("canvas")}} elementini kullanarak 3D ya da 2D grafikler çizebilmenizi sağlayan bir JavaScript API'sidir.</dd>
+ <dd><strong>WebGL,</strong>&nbsp;{{HTMLElement("canvas")}} elementini kullanarak 3D ya da 2D grafikler çizebilmenizi sağlayan bir JavaScript API'sidir.</dd>
 </dl>
 
 <h3 id="Diğer">Diğer</h3>
@@ -74,9 +74,9 @@ based_on: None
 
 <dl>
  <dt><a href="/en-US/docs/Web/Apps">Web Uygulamaları Geliştirmek</a></dt>
- <dd>Bu makaleler, mobil, masaüstü ve Firefox OS ortamları için uygulama geliştirme tekniklerini açıklar. </dd>
+ <dd>Bu makaleler, mobil, masaüstü ve Firefox OS ortamları için uygulama geliştirme tekniklerini açıklar.&nbsp;</dd>
  <dt><a href="/en-US/docs/Web/Accessibility">Erişilebilirlk</a></dt>
- <dd>Erişilebilirlik; herhangi bir şekilde görsel, işitsel ve diğer yetenekleri kısıtlanmış olan insanların websitelerini kullanabilmesini sağlar. Bu makaleler Erişilebilir Web Geliştirme hakkındadır.</dd>
+ <dd>Erişilebilirlik; herhangi bir şekilde&nbsp;görsel, işitsel ve diğer yetenekleri kısıtlanmış&nbsp;olan insanların websitelerini kullanabilmesini sağlar. Bu makaleler Erişilebilir Web Geliştirme hakkındadır.</dd>
  <dt><a href="/en-US/docs/Web/Security">Güvenlik</a></dt>
  <dd>Uygulamanızın, kötü adamlara veri sızdırmasına izin vermeyin. Bu makaleleri, web uygulamanızın güvenli olduğuna emin olmak için kullanın.</dd>
 </dl>
