@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1286157
+revision_id: 1291681
 locale: de
 slug: Web/JavaScript
 tags: "Learn" "Landing" "JavaScript"
@@ -8,7 +8,7 @@ title: JavaScript
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
