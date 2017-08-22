@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1291849
+revision_id: 1291851
 locale: pt-BR
 slug: Aprender
 tags: "Web" "Index" "Novato" "Aprender" "Iniciante"
@@ -76,7 +76,7 @@ based_on: None
    <li><a href="/en-US/Learn/HTML">HTML</a></li>
    <li><a href="/en-US/Learn/CSS">CSS</a></li>
    <li><a href="/en-US/Learn/JavaScript">JavaScript</a></li>
-   <li><a href="/pt-BR/Learn/Python">Python</a></li>
+   <li><a href="/pt-BR/docs/Learn/Drafts/Python">Python</a></li>
   </ol>
  </li>
  <li><a href="/en-US/Learn/tutorial">Tutoriais de aprendizagem</a>
