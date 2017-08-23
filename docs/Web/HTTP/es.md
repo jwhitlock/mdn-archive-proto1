@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1287789
+revision_id: 1292649
 locale: es
 slug: Web/HTTP
 tags: "HTTP" "Web" "TopicStub" "Referencia" "NeedsTranslation"
@@ -8,8 +8,8 @@ title: HTTP
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -41,22 +41,26 @@ based_on: None
  <dt><a href="/en-US/docs/HTTP/Access_control_CORS">Control de Acceso HTTP (CORS)</a></dt>
  <dd>Las <strong>Solicitudes Inter-Sitio HTTP </strong>(Cross-site HTTP requests en inglés), son peticiones HTTP por recursos pertenecientes a un dominio distinto al dominio del recurso que está haciendo la petición. Por ejemplo, una página HTML de un dominio A (http://dominioa.ejemplo/) hace una solicitud por una imagen en un dominio B (http://dominiob.foo/imagen.jpg) a través del elemento <code>img</code>. Hoy en día, las webs utilizan recursos de otros orígenes muy a menudo, incluyendo hojas de estilo CSS, imágenes, scripts y otros recursos. El Control de Acceso HTTP posibilita a los desarrolladores web a controlar cómo su sitio web responde a solicitudes de otros orígenes.</dd>
 </dl>
-</div>
 
-<p>&nbsp;</p>
+<dl>
+ <dt><a href="https://wiki.mozilla.org/Security/Guidelines/Web_Security">Consejos de Seguridad Web de Mozilla</a></dt>
+ <dd>Una colección de tips para ayudar a equipos de desarrollo con la creación de aplicaciones web seguras.</dd>
+</dl>
+</div>
 
 <div class="column-half">
 <h2 id="Referencias">Referencias</h2>
 
-<p>Documentación de referencia del protocolo HTTP:</p>
+<p>Navega la documentación detallada del protocolo HTTP.</p>
 
 <dl>
  <dt><a href="/en-US/docs/Web/HTTP/Headers">Cabeceras HTTP</a>&nbsp;</dt>
- <dd>Las cabeceras de los mensajes HTTP, se usan para describir el recurso o comportamiento del servidor o del cliente. Cabeceras modificadas pueden usarse usando el prefijo 'X-'; otros en un registro <a class="external" href="http://www.iana.org/assignments/message-headers/perm-headers.html">IANA registry</a>&nbsp;que inicialmente fueron definidos en <a class="external" href="http://tools.ietf.org/html/rfc4229">RFC 4229</a>&nbsp;también pueden utilizarse. IANA mantiene también una lista de nuevas cabeceras HTTP propuestas.</dd>
- <dt><a href="/en-US/docs/Web/HTTP/Methods">Peticiones HTTP</a></dt>
- <dd>Con HTTP, se pueden realizar distintas funciones, con los métodos GET o POST, aunque también hay peticiones de otros métodos como OPTIONS, DELETE, o TRACE..</dd>
- <dt><a href="/en-US/docs/Web/HTTP/Response_codes">Códigos de estado de respuesta HTTP</a></dt>
- <dd>Los códigos de estado de respuesta HTTP, indican si una determinada petición HTTP, se ha completado correctamente o no. Los estados de respuesta, se clasifican en cinco clases: respuestas informativas, respuestas de petición correcta, respuestas de redirección, respuestas de error en el cliente y respuestas de error en el servidor. .</dd>
+ <dd>Las cabeceras de mensaje HTTP se usan para describir un recurso, o el comportamiento del servidor o del cliente. Pueden agregarse cabeceras personalizadas usando el prefijo 'X-'; otras en un <a class="external" href="http://www.iana.org/assignments/message-headers/perm-headers.html">registro IANA</a>, cuyo contenido fue inicialmente definido en <a class="external" href="http://tools.ietf.org/html/rfc4229">RFC 4229</a>. IANA mantiene también un <a class="external external-icon" href="http://www.iana.org/assignments/message-headers/prov-headers.html">registro de nuevas cabeceras de mensaje HTTP propuestas</a>.</dd>
+ <dt><a href="/en-US/docs/Web/HTTP/Methods">Métodos de Petición HTTP</a></dt>
+ <dd>Las distintas operaciones que se pueden realizar con HTTP: {{HTTPMethod("GET")}}, {{HTTPMethod("POST")}}, y solicitudes menos comunes como {{HTTPMethod("OPTIONS")}}, {{HTTPMethod("DELETE")}}, o {{HTTPMethod("TRACE")}}.</dd>
+ <dt><a href="/en-US/docs/Web/HTTP/Response_codes">Códigos de Respuesta de Estado HTTP</a></dt>
+ <dd>Los códigos de respuesta HTTP indican si una determinada petición HTTP se ha completado correctamente o no. Las respuestas se clasifican en cinco clases: respuestas informativas, respuestas de petición correcta, redirecciones, error del cliente y error del servidor.</dd>
+ <dt>&nbsp;</dt>
 </dl>
 
 <h2 id="Herramientas_y_recursos">Herramientas y recursos</h2>
