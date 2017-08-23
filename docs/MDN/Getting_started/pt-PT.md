@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1286725
+revision_id: 1292269
 locale: pt-PT
 slug: MDN/Intrudução
 tags: "Como" "Guia(2)" "Metadados MDN" "Introdução" "Principiante"
@@ -43,24 +43,26 @@ based_on: None
 
 <h3 id="Passo_1_Criar_uma_conta_na_MDN">Passo 1: Criar uma conta na MDN</h3>
 
-<p>Para começar a contribuir na MDN, precisa de ter uma conta na MDN. Para mais detalhes, por favor, consulte <a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">como criar uma conta</a>. Note que irá precisar de uma conta GitHub antes de poder criar uma conta MDN, porque atualmente nós utilizamos o GitHub para autenticação.</p>
+<p>Para começar a contribuir na MDN precisa de ter uma conta na MDN. Para mais detalhes, por favor, consulte <a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">como criar uma conta</a>. Note que irá precisar de uma conta GitHub antes de poder criar uma conta MDN, porque atualmente nós utilizamos o GitHub para autenticação.</p>
+
+<p>Se a sua tarefa envolve a criação de novas páginas, por favor, consulte {{SectionOnPage("/en-US/docs/MDN/Contribute/Howto/Create_and_edit_pages", "Getting page creation permissions")}} for important information about how to get permission to add new pages; for security reasons, new accounts don't have this ability by default.</p>
 
 <h3 id="Passo_2_Escolher_uma_tarefa">Passo 2: Escolher uma tarefa</h3>
 
 <div class="pt" id="OutputArea" style="direction: ltr; text-align: left;">
 <div class="Wrap" id="OutputText" style="direction: ltr; text-align: left;" tabindex="99999">
-<div paragraphname="paragraph0"><span class="highlight" dstinfo="0:4" id="ouHighlight__0_2TO0_4" paragraphname="paragraph0" srcinfo="0:2">Agora</span><span id="noHighlight_0.11351261638682875"> </span><span dstinfo="6:8" id="ouHighlight__4_7TO6_8" paragraphname="paragraph0" srcinfo="4:7">que</span><span id="noHighlight_0.7397612230677483"> </span><span dstinfo="10:13" id="ouHighlight__9_11TO10_13" paragraphname="paragraph0" srcinfo="9:11">você</span><span id="noHighlight_0.8224719251874061"> iniciou sessão</span><span id="noHighlight_0.07721447543089255">,</span><span id="noHighlight_0.20180178040099794"> </span><span dstinfo="28:31" id="ouHighlight__28_31TO28_31" paragraphname="paragraph0" srcinfo="28:31">leia</span><span id="noHighlight_0.1347259088605407"> </span><span dstinfo="33:34" id="ouHighlight__33_35TO33_34" paragraphname="paragraph0" srcinfo="33:35">as</span><span id="noHighlight_0.1550906597924332"> </span><span dstinfo="36:45" id="ouHighlight__37_48TO36_45" paragraphname="paragraph0" srcinfo="37:48">descrições</span><span id="noHighlight_0.5936187806451623"> </span><span dstinfo="47:49" id="ouHighlight__50_51TO47_49" paragraphname="paragraph0" srcinfo="50:51">dos</span><span id="noHighlight_0.1548364293201867"> </span><span dstinfo="51:55" id="ouHighlight__68_72TO51_55" paragraphname="paragraph0" srcinfo="68:72">diferentes tipos de tarefas em</span><span id="noHighlight_0.9921036450111824"> </span>{{anch("Tipos de tarefas possíveis", "a lista abaixo")}},<span id="noHighlight_0.3056672720834265"> </span><span dstinfo="136:136" id="ouHighlight__128_130TO136_136" paragraphname="paragraph0" srcinfo="128:130">e</span><span id="noHighlight_0.644837387548433"> </span><span dstinfo="138:144" id="ouHighlight__132_137TO138_144" paragraphname="paragraph0" srcinfo="132:137">decid</span><span dstinfo="166:171" id="ouHighlight__154_160TO166_171" paragraphname="paragraph0" srcinfo="154:160">a qual é a mais apelativa para si</span><span id="noHighlight_0.34950865963617184">.</span><span id="noHighlight_0.23952518307785142"> </span><span dstinfo="174:177" id="ouHighlight__170_172TO174_177" paragraphname="paragraph0" srcinfo="170:172">Pode</span><span id="noHighlight_0.4532969186995154"> </span><span dstinfo="184:191" id="ouHighlight__178_181TO184_191" paragraphname="paragraph0" srcinfo="178:181">escolher</span><span id="noHighlight_0.31003284659874975"> </span><span dstinfo="193:200" id="ouHighlight__183_185TO193_200" paragraphname="paragraph0" srcinfo="183:185">qualquer</span><span id="noHighlight_0.17357587947915787"> </span><span dstinfo="202:207" id="ouHighlight__187_190TO202_207" paragraphname="paragraph0" srcinfo="187:190">tarefa que lhe agrade e começar a contribuir</span><span id="noHighlight_0.470803195280464">.</span></div>
+<div paragraphname="paragraph0"><span dstinfo="6:8" id="ouHighlight__4_7TO6_8" paragraphname="paragraph0" srcinfo="4:7">Agora que</span><span id="noHighlight_0.7397612230677483"> </span><span id="noHighlight_0.8224719251874061">iniciou a sessão</span><span id="noHighlight_0.07721447543089255">,</span><span id="noHighlight_0.20180178040099794"> </span><span dstinfo="28:31" id="ouHighlight__28_31TO28_31" paragraphname="paragraph0" srcinfo="28:31">leia</span><span id="noHighlight_0.1347259088605407"> </span><span dstinfo="33:34" id="ouHighlight__33_35TO33_34" paragraphname="paragraph0" srcinfo="33:35">as</span><span id="noHighlight_0.1550906597924332"> </span><span dstinfo="36:45" id="ouHighlight__37_48TO36_45" paragraphname="paragraph0" srcinfo="37:48">descrições</span><span id="noHighlight_0.5936187806451623"> </span><span dstinfo="47:49" id="ouHighlight__50_51TO47_49" paragraphname="paragraph0" srcinfo="50:51">dos</span><span id="noHighlight_0.1548364293201867"> </span><span dstinfo="51:55" id="ouHighlight__68_72TO51_55" paragraphname="paragraph0" srcinfo="68:72">tipos de tarefa diferentes </span><span dstinfo="51:55" paragraphname="paragraph0" srcinfo="68:72">em</span><span id="noHighlight_0.9921036450111824"> </span>{{anch("Tipos de tarefa possíveis", "a lista abaixo")}},<span id="noHighlight_0.3056672720834265"> </span><span dstinfo="136:136" id="ouHighlight__128_130TO136_136" paragraphname="paragraph0" srcinfo="128:130">e</span><span id="noHighlight_0.644837387548433"> </span><span dstinfo="138:144" id="ouHighlight__132_137TO138_144" paragraphname="paragraph0" srcinfo="132:137">decid</span><span dstinfo="166:171" id="ouHighlight__154_160TO166_171" paragraphname="paragraph0" srcinfo="154:160">a qual é a mais apelativa para si</span><span id="noHighlight_0.34950865963617184">.</span><span id="noHighlight_0.23952518307785142"> </span><span dstinfo="174:177" id="ouHighlight__170_172TO174_177" paragraphname="paragraph0" srcinfo="170:172">Pode</span><span id="noHighlight_0.4532969186995154"> </span><span dstinfo="184:191" id="ouHighlight__178_181TO184_191" paragraphname="paragraph0" srcinfo="178:181">escolher</span><span id="noHighlight_0.31003284659874975"> </span><span dstinfo="193:200" id="ouHighlight__183_185TO193_200" paragraphname="paragraph0" srcinfo="183:185">qualquer</span><span id="noHighlight_0.17357587947915787"> </span><span dstinfo="202:207" id="ouHighlight__187_190TO202_207" paragraphname="paragraph0" srcinfo="187:190">tarefa que lhe agrade e comece a contribuir</span><span id="noHighlight_0.470803195280464">.</span></div>
 </div>
 </div>
 
 <h3 id="Passo_3_Executar_a_tarefa">Passo 3: Executar a tarefa</h3>
 
-<p>Logo que decida que tipo de tarefa pretende fazer, procure uma página em específico, exemplo de código, etc. para trabalhar. É só começar!</p>
+<p>Assim que decidir que tipo de tarefa é que pretende fazer, procure uma página específica, exemplo de código, etc., para trabalhar, e comece!</p>
 
-<p>Não se preocupe em ser perfecionista, outros contribuidores da MDN estão aqui para o ajudar a corrigir eventuais erros. Se entretanto tiver dúvidas, veja a página da <a href="/en-US/docs/MDN/Community">Comunidade</a> para informações sobre contactos e canais de chat onde poderá obter as suas respostas.</p>
+<p>Não se preocupe em ser perfecionista; outros colaboradores da MDN estão aqui para ajudar a corrigir eventuais erros. Se entretanto tiver dúvidas, consulte a página da <a href="/en-US/docs/MDN/Community">Comunidade</a> para informação sobre contactos e canais de conversação onde poderá obter as suas respostas.</p>
 
 <div class="note">
-<p><strong>Nota: </strong>se quiser experimentar editar na MDN antes de fazer algo "a sério", nós temos a página <strong><a href="/en-US/docs/Sandbox">Sandbox</a></strong>, onde poderá efetuar testes livremente. Por favor, experimente apenas nesta página. Nós pedimos que não proceda a alterações desnecessárias ao conteúdo das páginas apenas para ver como irá ficar; isso é causar confusões que outros terão de resolver mais tarde.</p>
+<p><strong>Nota: </strong>se quiser experimentar com a edição na MDN antes de fazer algo "a sério", nós temos a página <em><strong><a href="/en-US/docs/Sandbox">Sandbox</a></strong></em> onde poderá testar livremente. Por favor, experimente apenas nesta página. Nós pedimos que não proceda a alterações desnecessárias ao conteúdo das páginas apenas para ver como irá ficar; isso é criar uma bagunça para os outros corrigirem ou, pior, confundir os leitores que estão apenas a tentar aprender alguma coisa ou a procurar alguma coisa.</p>
 </div>
 
 <p>Quando tiver terminado a tarefa escolhida, sinta-se livre para escolher outro item, ou consulte abaixo <a href="#Other_things_you_can_do_on_MDN">outras coisas que pode fazer na MDN.</a></p>
@@ -87,7 +89,7 @@ based_on: None
 <p>Nós precisamos de mais exemplos de código! Também pode ajudar a criar a plataforma do nosso site, <a href="/en-US/docs/MDN/Kuma">Kuma</a>!</p>
 
 <ul>
- <li><a href="/en-US/docs/MDN/Contribute/Howto/Convert_code_samples_to_be_live">Convert code samples to be "live"</a> (30 minutes)</li>
+ <li><a href="/pt-PT/docs/MDN/Contribute/Howto/Como_converter_exemplos_de_codigo_para_ficarem_live">Converter exemplos de código para ficarem <em>live</em></a> (30 minutos)</li>
  <li><a href="https://wiki.mozilla.org/Webdev/GetInvolved/developer.mozilla.org">Read the Getting Involved Guide</a> (30 minutes)</li>
  <li><a href="http://kuma.readthedocs.org/en/latest/installation.html">Set up a Kuma build environment</a> (1 hour)</li>
  <li><a href="https://github.com/mozilla/kuma#readme">Send your code patch to the Kuma codebase</a> (1 hour)</li>
@@ -115,7 +117,7 @@ based_on: None
  <li>Interligar com outros localizadores listados nos&nbsp;<a href="/pt-PT/docs/MDN/Contribute/Localize/Projetos_localização">Projetos de Localização</a> (30 minutos)</li>
 </ul>
 
-<h3 id="Opção_5_Eu_encontrei_alguma_informação_errada_mas_não_sei_como_corrigi-las">Opção 5: Eu encontrei alguma informação errada, mas não sei como corrigi-la</h3>
+<h3 id="Opção_5_Eu_encontrei_alguma_informação_errada_mas_não_sei_como_corrigi-la">Opção 5: Eu encontrei alguma informação errada, mas não sei como corrigi-la</h3>
 
 <p>Pode comunicar problemas, <a class="external" href="https://bugzilla.mozilla.org/form.doc">preenchendo um formulário de erro na documentação</a> (EN) (5 minutos)</p>
 
