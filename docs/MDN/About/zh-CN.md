@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1277789
+revision_id: 1292187
 locale: zh-CN
 slug: MDN/About
 tags: "MDN" "合作伙伴" "指南" "文档" "版权" "社区" "许可"
@@ -16,9 +16,9 @@ based_on: None
 <p>Mozilla 开发者网络（MDN）是一个完整的学习平台，你可以在这里深入学习网络技术以及能够驱动网络的软件，包括：</p>
 
 <ul>
- <li>网络标准（例如：<a href="/zh-CN/docs/CSS" title="/en-US/docs/CSS">CSS</a>、<a href="/zh-CN/docs/HTML" title="/en-US/docs/HTML">HTML</a> 和 <a href="/zh-CN/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a>）</li>
- <li><a href="/zh-CN/docs/Apps" title="/en-US/docs/Apps">开发开放网络应用</a></li>
- <li><a href="/zh-CN/docs/Add-ons" title="/en-US/docs/Add-ons">开发 Firefox 附加组件</a></li>
+	<li>网络标准（例如：<a href="/zh-CN/docs/CSS" title="/en-US/docs/CSS">CSS</a>、<a href="/zh-CN/docs/HTML" title="/en-US/docs/HTML">HTML</a> 和 <a href="/zh-CN/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a>）</li>
+	<li><a href="/zh-CN/docs/Apps" title="/en-US/docs/Apps">开发开放网络应用</a></li>
+	<li><a href="/zh-CN/docs/Add-ons" title="/en-US/docs/Add-ons">开发 Firefox 附加组件</a></li>
 </ul>
 
 <h2 id="我们的使命">我们的使命</h2>
@@ -29,13 +29,13 @@ based_on: None
 
 <p>如果你不确定一个某个话题应不应该被发布在MDN上，请阅读： <a href="https://developer.mozilla.org/en-US/docs/Project:MDN/Contributing/Does_this_belong">Does this belong on MDN?</a></p>
 
-<h2 id="你如何帮助我们">你如何帮助我们</h2>
+<h2 id="你如何帮助我们">如何帮助我们</h2>
 
-<p>你想要帮助MDN并不需要编写代码的能力！你还可以通过很多其他的途径帮助我们，包括复查文章来保证文章的可读性，添加示例代码等。实际上，帮助我们的方法是如此至多，我们还专门建立了一个<a href="https://developer.mozilla.org/zh-CN/docs/MDN/Getting_started">工具</a>来帮助你起步，它可以根据你的兴趣与可分享的时间推荐合适的任务！</p>
+<p>想要帮助MDN，并不需要编写代码的能力！你可以通过很多其他的途径帮助我们，包括复查文章来保证文章的可读性，添加示例代码等。实际上，帮助我们的方法有很多，我们还专门建立了一个<a href="https://developer.mozilla.org/zh-CN/docs/MDN/Getting_started">入门指南</a>来帮助你上手，它可以根据你的兴趣和你的空闲时间推荐合适的任务！</p>
 
 <h2 id="MDN_社区">MDN&nbsp;社区</h2>
 
-<p>我们的社区遍及全球！我们拥有来自世界各地、使用不同语言的了不起的贡献者。<span class="short_text" id="result_box" lang="zh-CN"><span>如果您想了解更多关于我们，或者如果您想以任何方式帮助MDN，请查看我们的邮件列表或IRC聊天频道！</span></span></p>
+<p>我们的社区遍及全球！我们拥有来自世界各地、使用不同语言的了不起的贡献者。<span class="short_text" id="result_box" lang="zh-CN"><span>如果您想了解更多我们的信息，或者想以任何方式帮助MDN，请查看我们的邮件列表或IRC聊天频道！</span></span></p>
 
 <p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC||Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events||Trello board|https://trello.com/b/HAhl54zz/status|Project management board||Contribute|/en-US/Inbox|Create a page", "NewOnMDN")}}</p>
 
