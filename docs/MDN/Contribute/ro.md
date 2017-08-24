@@ -1,19 +1,19 @@
 ---
 version: prototype1
-revision_id: 976497
+revision_id: 1293447
 locale: ro
 slug: MDN/Contribute
 tags: "MDN" "Ghid" "Proiect MDC" "TopicStub" "Aterizare" "Documentație"
 title: Contributing to MDN
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Bine ai venit! Vizitând această pagină ai făcut primul pas spre a deveni un contribuitor MDN. Ghidurile vor acoperii toate aspectele contribuirii la MDN, incluzând ghidurile de stiluri, ghiduri spre a folosi editorul și uneltele și alte lucruri.{{MDNButton("Visit the MDN inbox", "/en-US/Inbox", "Add a new article")}}</p>
+<p>Bine ai venit! Vizitând această pagină ai făcut primul pas spre a deveni un contribuitor MDN. Ghidurile vor acoperi&nbsp;toate aspectele contribuirii la MDN, incluzând ghidurile de stiluri, ghiduri spre a folosi editorul și uneltele și alte lucruri.{{MDNButton("Visit the MDN inbox", "/en-US/Inbox", "Add a new article")}}</p>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -38,7 +38,7 @@ based_on: None
 
 <dl>
  <dt><a href="/en-US/docs/MDN/Kuma/Contributing">Contribuirea la Kuma</a></dt>
- <dd>Un ghid pentru a contribui la priectul Kuma. Kuma este platforma care stă la baza sit-ului web MDN.</dd>
+ <dd>Un ghid pentru a contribui la proiectul Kuma. Kuma este platforma care stă la baza site-ului&nbsp;MDN.</dd>
 </dl>
 </div>
 
