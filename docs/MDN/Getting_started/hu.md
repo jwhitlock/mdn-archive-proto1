@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1248177
+revision_id: 1293991
 locale: hu
 slug: MDN/Getting_started
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -17,7 +17,7 @@ based_on: None
 
 <p>Mi egy nyílt, fejlesztőkből és szerkesztőkből álló csoport vagyunk, akik egy jobb webet tűztek ki maguk elé célul, márka-, böngésző-, és platformfüggetlenül.&nbsp;Bárki módosíthat az oldalon, és mindenki, aki megteszi, segít nekünk erősebbé válni. Együtt folytathatjuk a fejlesztést jobb, újabb ötletekkel, hogy még többet nyújthassunk. Itt kezdődik, veled.</p>
 
-<p><span>Az MDN minden része (a weboldal felépítésétől a dokumentációkon keresztül a bemutatókig, szemléltetésekig) fejlesztők és szerkesztők, írók által lett létrehozva. Minenki hozzá tud adni, és reméljük, Te is így teszel, tehát csatlakozol hozzánk!</span></p>
+<p><span>Az MDN minden része (a weboldal felépítésétől a dokumentációkon keresztül a bemutatókig, szemléltetésekig) fejlesztők és szerkesztők, írók által lett létrehozva. Mindenki hozzá tud adni, és reméljük, Te is így teszel, tehát csatlakozol hozzánk!</span></p>
 
 <h2 id="Három_egyszerű_lépés_az_MDN_használatához"><span>Három egyszerű lépés az MDN használatához</span></h2>
 
