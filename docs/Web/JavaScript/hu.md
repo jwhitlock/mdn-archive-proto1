@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1235625
+revision_id: 1294481
 locale: hu
 slug: Web/JavaScript
 tags: "Főoldal" "Tanulás" "JavaScript" "l10n:priority"
@@ -17,7 +17,7 @@ based_on: None
 
 <p>Az oldal ezen része magáról, a JavaScript nyelvről szól, mintsem azokról a részekről, amik különböző weboldalaktól és környezetektől függnek. A weboldalaktól függő {{Glossary("API","API")}}-król lásd <a href="https://developer.mozilla.org/en-US/docs/Web/API">Web API-k</a> és a <a href="https://developer.mozilla.org/en-US/docs/Glossary/DOM">DOM</a>.</p>
 
-<p>A JavaScript szabványa az <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources">ECMAScript</a>. 2012-től kezdődően, mindegyik <a href="https://kangax.github.io/compat-table/es5/">modern böngésző</a> támogatja az ECMAScript 5.1.-et. Régebbi böngészők legalább az ECMAScript 3-at támogatják. 2015. június 17-én az <a href="https://www.ecma-international.org">ECMA International</a> kiadta az&nbsp;ECMAScript hatodik jelentősebb verzióját, amit hivatalosan ECMAScript 2015-nek neveznek, de eleinte az ECMAScript 6 és az ES6 nevekkel illették. Azóta az ECMAScript szabványokat éves ciclusokban adják ki. Ez a dokumentáció a legújabb tervezetre vonatkozik, ami jelenleg az <a href="https://tc39.github.io/ecma262/">ECMAScript 2018</a>.</p>
+<p>A JavaScript szabványa az <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources">ECMAScript</a>. 2012-től kezdődően, mindegyik <a href="https://kangax.github.io/compat-table/es5/">modern böngésző</a> támogatja az ECMAScript 5.1.-et. Régebbi böngészők legalább az ECMAScript 3-at támogatják. 2015. június 17-én az <a href="https://www.ecma-international.org">ECMA International</a> kiadta az&nbsp;ECMAScript hatodik jelentősebb verzióját, amit hivatalosan ECMAScript 2015-nek neveznek, de eleinte az ECMAScript 6 és az ES6 nevekkel illették. Azóta az ECMAScript szabványokat éves ciklusokban adják ki. Ez a dokumentáció a legújabb tervezetre vonatkozik, ami jelenleg az <a href="https://tc39.github.io/ecma262/">ECMAScript 2018</a>.</p>
 
 <p>A JavaScript nem összetévesztendő a&nbsp;<a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29"> Java programozási nyev</a>vel. A "Java" és a "JavaScript" is az Oracle USA-ban és sok más országban regisztrált védjegye. Ettől függetlenül a két programozási nyelv szintaktikája, szematikája és alkalmazása jelentős mértékben eltér.</p>
 
