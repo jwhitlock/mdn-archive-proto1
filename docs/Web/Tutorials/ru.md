@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1193709
+revision_id: 1296041
 locale: ru
 slug: Web/Tutorials
 tags: "Код" "Веб-дизайн" "Руководство"
@@ -8,7 +8,7 @@ title: Учебники
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
@@ -62,7 +62,7 @@ based_on: None
 <dl>
  <dt><a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</dt>
  <dd>Codecademy это простой способ изучить JavaScript. Он интерактивный, и вы можете делать это вместе с друзьями</dd>
- <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Getting_Started">Getting Started with JavaScript</a></dt>
+ <dt><a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/JavaScript_basics">Getting Started with JavaScript</a></dt>
  <dd>Что такое JavaScript и как он может пригодиться вам?</dd>
  <dt><a href="http://dev.opera.com/articles/view/javascript-best-practices/" rel="external">JavaScript Best Practices</a><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" title="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices"> </a>(WebPlatform.org)</dt>
  <dd>Узнайте о некоторых из очевидных (и не очень&nbsp;очевидных) лучших практиках для написания&nbsp;кода на &nbsp;JavaScript.</dd>
