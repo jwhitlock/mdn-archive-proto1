@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1265147
+revision_id: 1295553
 locale: ko
 slug: Web/HTML
 tags: "HTML" "HTML 강의" "HTML 강좌" "HTML 튜토리얼" "HTML 프로그래밍" "HTML5" "웹" "하이퍼텍스트"
-title: HTML (하이퍼텍스트 마크업 언어)
+title: HTML
 summary: 
 keywords: 
 needs_technical_review: False
