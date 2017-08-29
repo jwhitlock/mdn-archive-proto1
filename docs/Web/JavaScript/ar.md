@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1120755
+revision_id: 1296021
 locale: ar
 slug: Web/JavaScript
 tags: "جافا سكريبت" "Landing" "TopicStub" "JavaScript" "NeedsTranslation"
@@ -17,7 +17,7 @@ based_on: None
 
 <p class="summary" dir="rtl"><strong>جافا سكريبت (JavaScript</strong><sup>®</sup>) (أو كما يشيع اختصارها <strong>JS</strong>) هي لغة برمجة خفيفة ومفسرة وكائنية التوجه ذات <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">دوال من الدرجة الأولى</a>، وهي مشهورة خصوصا بكونها لغة البرمجة النصية لصفحات الوب، لكنها <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">تستعمل في بيئات أخرى غير&nbsp;المتصفحات</a> مثل <a class="external" href="https://nodejs.org/">node.js</a> أو <a href="https://couchdb.apache.org/">Apache CouchDB</a>. إنها لغة برمجة نصية ديناميكية <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based_programming" title="Prototype-based">مبنية عل النماذج</a> و متعددة النماذج، وهي تدعم نمطي البرمجة الحتمي والوظيفي. اقرأ المزيد <a href="/en-US/docs/Web/JavaScript/About_JavaScript">عن جافا سكريبت</a>.</p>
 
-<p>The JavaScript standard is called <a href="/en-US/docs/JavaScript/Language_Resources">ECMAScript</a>. As of 2012, all modern browsers fully support ECMAScript 5.1. Older browsers support at least ECMAScript 3. On June 17, 2015, the sixth major version of ECMAScript was published. This version is officially called ECMAScript 2015, but is commonly referred to as ECMAScript 6 or ES6. The documentation we present covers ECMAScript 6 and we've already begun to cover the early bits of ECMAScript 7.</p>
+<p>ويسمى معيار جافا سكريبت <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources">إكماسكريبت</a>. اعتبارا من عام 2012، جميع المتصفحات الحديثة تدعم بشكل كامل إكماسكريبت 5.1. المتصفحات القديمة تدعم على الأقل إكماسكريبت 3. في 17 يونيو 2015، تم نشر النسخة الرئيسية السادسة من إكماسكريبت. ويسمى هذا الإصدار رسميا إكماسكريبت 2015، ولكن يشار إليها عادة باسم إكماسكريبت 6 أو ES6. الوثائق التي نقدمها تغطي إكماسكريبت 6 وبدأنا بالفعل لتغطية البتات في وقت مبكر من إكماسكريبت 7.</p>
 
 <p>This section of the site is dedicated to the JavaScript language itself, the parts that are not specific to Web pages, or other host environments. For information about {{Glossary("API","APIs")}} specific to Web pages, please see <a href="/en-US/docs/Web/API">Web APIs</a> and <a href="/en-US/docs/Glossary/DOM">DOM</a>.</p>
 
@@ -25,7 +25,7 @@ based_on: None
 
 <div class="column-container">
 <div class="column-half">
-<h2 dir="rtl" id="Tutorials">الشروحات</h2>
+<h2 dir="rtl" id="الشروحات">الشروحات</h2>
 
 <p dir="rtl">تعلم كيف تبرمج باستخدام جافاسكربت من خلال &nbsp;الشروحات والدروس الإرشادية الموجودة هنا.</p>
 
