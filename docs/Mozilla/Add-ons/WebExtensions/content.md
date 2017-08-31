@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1283455
+revision_id: 1297205
 locale: en-US
 slug: Mozilla/Add-ons/WebExtensions
 tags: "add-on" "Landing" "Extensions" "WebExtensions"
@@ -77,6 +77,7 @@ based_on: None
 <ul>
  <li><a href="/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">Porting a Google Chrome extension</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on">Porting a legacy Firefox extension</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Developing_WebExtensions_for_Firefox_for_Android">Developing for Firefox for Android</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Embedded_WebExtensions">Embedded WebExtensions</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Comparison_with_the_Add-on_SDK">Comparison with the Add-on SDK</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Comparison_with_XUL_XPCOM_extensions">Comparison with XUL/XPCOM extensions</a></li>
@@ -87,9 +88,9 @@ based_on: None
 <h2 id="Firefox_workflow">Firefox workflow</h2>
 
 <ul>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/User_experience_best_practices">User experience</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/Temporary_Installation_in_Firefox">Installation</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/Debugging">Debugging</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Developing_WebExtensions_for_Firefox_for_Android">Developing for Firefox for Android</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Getting_started_with_web-ext">Getting started with web-ext</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/web-ext_command_reference">web-ext command reference</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/WebExtensions_and_the_Add-on_ID">Extensions and the Add-on ID</a></li>
