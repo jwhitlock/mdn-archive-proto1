@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1297047
+revision_id: 1297741
 locale: zh-TW
 slug: Mozilla/Add-ons/WebExtensions
 tags: "TopicStub" "NeedsTranslation"
@@ -26,7 +26,7 @@ based_on: None
 <ul>
  <li><a href="/zh-TW/Add-ons/WebExtensions/What_are_WebExtensions">何謂擴充功能？</a></li>
  <li><a href="/zh-TW/Add-ons/WebExtensions/Your_first_WebExtension">你的第一個 WebExtension</a></li>
- <li><a href="/zh-TW/Add-ons/WebExtensions/Your_second_WebExtension">你的第二個 WebExtensionn</a></li>
+ <li><a href="/zh-TW/Add-ons/WebExtensions/Your_second_WebExtension">你的第二個 WebExtension</a></li>
  <li><a href="/zh-TW/Add-ons/WebExtensions/Anatomy_of_a_WebExtension">解析 WebExtension</a></li>
  <li><a href="/zh-TW/Add-ons/WebExtensions/Examples">WebExtension 範例</a></li>
 </ul>
