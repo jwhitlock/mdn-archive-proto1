@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1210631
+revision_id: 1298083
 locale: ja
 slug: Tools
 tags: "Guide" "Tools" "l10n:priority" "Web Development" "Developing Mozilla" "Web Development:Tools"
@@ -14,6 +14,8 @@ table_of_contents_depth: 1
 based_on: None
 ---
 <p>デスクトップとモバイルで、HTML・CSS・JavaScript を調査、編集、デバッグします。最新の開発ツールのアップデートについては、<a href="https://www.mozilla.org/ja/firefox/developer/">Firefox Developer Edition</a> をダウンロードします。</p>
+
+<p>{{ SauceLabsPromo("a") }}</p>
 
 <h2 id="The_Core_Tools" name="The_Core_Tools">主要ツール</h2>
 
@@ -99,7 +101,7 @@ based_on: None
  <dd><a href="/ja/docs/Web/WebGL">WebGL</a> で使用する頂点シェーダーとフラグメントシェーダーの閲覧や編集を行います。</dd>
  <dt><a href="/ja/docs/Tools/Web_Audio_Editor">Web Audio エディター</a></dt>
  <dd>オーディオコンテキストでオーディオノードのグラフの調査や、それらのパラメーターの変更を行います。</dd>
- <dt><a href="/ja/docs/Tools/Screenshot_tool">スクリーンショットを撮影</a></dt>
+ <dt><a href="/ja/docs/Tools/Taking_screenshots">スクリーンショットを撮影</a></dt>
  <dd>ページ全体またはひとつの要素のスクリーンショットを撮影します。</dd>
 </dl>
 </div>
@@ -165,7 +167,7 @@ based_on: None
 
 <div class="twocolumns">
 <dl>
- <dt><a href="https://wiki.mozilla.org/DevTools/GetInvolved">Get Involved</a></dt>
+ <dt><a href="https://devtools-html.github.io/#getting-in-to">Get Involved</a></dt>
  <dd>始め方を解説した Mozilla wiki ページです。</dd>
  <dt><a href="http://firefox-dev.tools/">firefox-dev.tools</a></dt>
  <dd>作業中のバグを探せるツールです。</dd>
