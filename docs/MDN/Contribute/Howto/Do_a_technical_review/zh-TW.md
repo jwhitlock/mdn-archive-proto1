@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1069340
+revision_id: 1298889
 locale: zh-TW
 slug: MDN/Contribute/Howto/Do_a_technical_review
 tags: 
@@ -13,7 +13,9 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p class="summary">技術審查<strong>包含檢查文章的正確與完整性，並在需要時進行</strong>修正<strong>。若文章作者需要其他人來檢查文章的技術性內容，可以在編輯時勾選</strong>「技術審查」（Technical review）。通常由作者連絡特定工程師來進行技術審查，但具備該主題技術專長者亦可參與。</p>
+<div>{{IncludeSubnav("/zh-TW/docs/MDN")}}</div>
+
+<p class="summary"><strong>技術審查</strong>包含檢查文章的正確與完整性，並在需要時進行修正。若文章作者需要其他人來檢查文章的技術性內容，可以在編輯時勾選「技術審查」（Technical review）。通常由作者連絡特定工程師來進行技術審查，但具備該主題技術專長者亦可參與。</p>
 
 <p><span class="seoSummary">本文描述如何執行技術審查，以協助確保 MDN 的內容是正確的。</span></p>
 
@@ -21,11 +23,11 @@ based_on: None
  <dt>要做什麼？</dt>
  <dd>審查並修正文章在技術上的正確與完整性。</dd>
  <dt>要審查的文章在哪？</dt>
- <dd>找被標記為「技術審查」（<a href="/en-US/docs/needs-review/technical">technical review</a>）的特定文章。</dd>
+ <dd>找被標記為「<a href="/zh-TW/docs/needs-review/technical">技術審查</a>」（technical review）的特定文章。</dd>
  <dt>要知道些什麼？</dt>
  <dd>
  <ul>
-  <li>針對文章主題的專業知識。若閱讀該文章並沒有傳授予你非常新的東西，那麼視你自己為專家。</li>
+  <li>針對文章主題的專業知識。若閱讀該文章並沒有對你傳授非常新的東西，那就視你自己為專家。</li>
   <li>編輯 MDN 上維基文章的方法。</li>
  </ul>
  </dd>
@@ -34,7 +36,7 @@ based_on: None
  <ol>
   <li>選擇要審查的文章
    <ol>
-    <li>前往技術審查（<a href="/en-US/docs/needs-review/technical">technical reviews</a>）清單頁面。這裡列出所有請求技術審查的頁面。</li>
+    <li>前往<a href="/zh-TW/docs/needs-review/technical">技術審查</a>（technical reviews）清單頁面。這裡列出所有請求技術審查的頁面。</li>
     <li>選擇一個頁面，而你對該主題非常熟練。</li>
     <li>點擊文章連結以載入頁面。</li>
    </ol>
@@ -53,7 +55,6 @@ based_on: None
    </ol>
   </li>
  </ol>
-
  <p>恭喜！你已經完成你的第一份技術審查！感謝你的幫助！</p>
  </dd>
 </dl>
