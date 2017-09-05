@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 947799
+revision_id: 1299131
 locale: tr
 slug: MDN/Getting_started
 tags: "Rehber" "Yeni başlayanlar"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <p id="What_is_MDN.3F">Biz geliştiricilerden oluşan, marka, tarayıcı veya platform gözetmeden,&nbsp;daha iyi bir internet için kaynaklar inşa eden özgür&nbsp;bir topluluğuz. Herkes katkıda bulunabilir ve katkıda bulunan herkes bizi daha güçlü yapar. Beraber İnternetteki inovasyonlarımıza devam edip çoğunluğun iyiliği için&nbsp;hizmet edebiliriz.</p>
 
-<p>MDN'nin her parçası (dökümanlar, demolar ve sitenin kendisi) &nbsp;geliştiricilerin özgür topluluğu tarafından oluşturulmuştur, ama sizin&nbsp;katkılarınız olmadanda yapılamazdı!</p>
+<p>MDN'nin her parçası (dökümanlar, demolar ve sitenin kendisi) &nbsp;geliştiricilerin özgür topluluğu tarafından oluşturulmuştur, ama sizin&nbsp;katkılarınız olmadan da yapılamazdı!</p>
 
 <p><strong style="font-size:2.142857142857143rem; font-weight:700; letter-spacing:-1px; line-height:30px">3 Basit&nbsp;Adımda&nbsp;MDN</strong></p>
 
@@ -27,7 +27,7 @@ based_on: None
 
 <p>MDN'e katkıda bulunmaya başlamak için, bir MDN hesabına ihtiyacınız var. Ayrıntılar için&nbsp;<a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">how to create an account</a>&nbsp;sayfasına bakın.</p>
 
-<h3 id="Adım_2_Yapacağınız_iyi_seçin">Adım 2: Yapacağınız işi&nbsp;seçin</h3>
+<h3 id="Adım_2_Yapacağınız_işi_seçin">Adım 2: Yapacağınız işi&nbsp;seçin</h3>
 
 <p>Şu an üye girişi yapmış bulunmaktasınız, aşağıdaki farklı iş&nbsp;türlerinin açıklamalarını okuyun ve size en uygun olanı seçin.&nbsp;İstediğiniz işi seçebilir ve katkıda bulunmaya başlayabilirsiniz.</p>
 
@@ -73,9 +73,9 @@ based_on: None
  <li><a href="https://developer.mozilla.org/en-US/demos/submit">Submit a new demo </a>(1 saat)</li>
 </ul>
 
-<h3 id="Seçenek_3_Hem_kodlamayı_hemde_kelimeleri_seviyorum">Seçenek 3: Hem kodlamayı hemde kelimeleri seviyorum</h3>
+<h3 id="Seçenek_3_Hem_kodlamayı_hemde_kelimeleri_seviyorum">Seçenek 3: Hem kodlamayı hem de kelimeleri seviyorum</h3>
 
-<p>Elimizde hem teknik hemde dil becerileri gerektiren işler var, yeni makaleler yazmak, teknik doğruluk için döküman incelemek veya dökümanları sahiplenmek gibi.</p>
+<p>Elimizde hem teknik hem de dil becerileri gerektiren işler var, yeni makaleler yazmak, teknik doğruluk için döküman incelemek veya dökümanları sahiplenmek gibi.</p>
 
 <ul>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Tag_JavaScript_pages">Tag JavaScript pages</a> (5 dakika)</li>
