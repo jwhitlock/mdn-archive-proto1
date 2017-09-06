@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1291471
+revision_id: 1300099
 locale: uk
 slug: Web/JavaScript
 tags: "Мова" "Вчити" "Посібник" "JavaScript"
@@ -98,7 +98,7 @@ based_on: None
 
 <h2 id="Інструменти_та_ресурси">Інструменти та ресурси</h2>
 
-<p>Корисні інструменти для створення та зневадження (дослідженння) вашого коду JavaScript.</p>
+<p>Корисні інструменти для створення та зневадження (дослідження) вашого коду JavaScript.</p>
 
 <dl>
  <dt><a href="/uk/docs/Tools">Інструменти розробника у&nbsp;Firefox</a></dt>
