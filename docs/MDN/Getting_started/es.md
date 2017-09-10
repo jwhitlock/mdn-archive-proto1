@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1144039
+revision_id: 1302111
 locale: es
 slug: MDN/Comenzando
 tags: "Guia(2)" "Guía" "Guide" "Comenzando" "Getting Started" "New Contributors" "Nuevos Colaboradores"
@@ -58,18 +58,18 @@ based_on: None
 
 <div class="note"><strong>Note:</strong> Si revisas articulos ya existentes o creas nuevos, deberías revisar la <a href="/es/docs/Project:Guía_de_estilo">Guía de Estilos</a>. Esto asegura que todos los articulos son consistentes entre sí.</div>
 
-<h3 id="Option_2_Me_gusta_el_código">Opción 2: Me gusta el código</h3>
+<h3 id="Opción_2_Me_gusta_el_código">Opción 2: Me gusta el código</h3>
 
 <p>¡Necesitamos más ejemplos de código! ¡También puedes ayudar a construir nuestra plataforma, <a href="https://developer.mozilla.org/en-US/docs/Project:MDN/Kuma">Kuma</a>!</p>
 
 <ul>
  <li><a href="https://developer.mozilla.org/es/docs/MDN/Contribute/Howto/Convert_code_samples_to_be_live">Convierte ejemplos de código, para que puedan ser ejecutados</a> (30 minutos)</li>
- <li><a href="https://kuma.readthedocs.org/en/latest/installation-vagrant.html">Configurar el ambiente Kuma</a> (1 hora)</li>
+ <li><a href="https://kuma.readthedocs.io/en/latest/installation.html">Configurar el ambiente Kuma</a> (1 hora)</li>
  <li><a href="https://github.com/mozilla/kuma#readme">Enviar tu codigo a la base de datos de codigos de Kuma</a> (1 hora)</li>
  <li><a href="https://developer.mozilla.org/es/demos/submit#">Entregar una demo </a>(1 hora)</li>
 </ul>
 
-<h3 id="Opcion_3_Me_gustan_las_palabras_y_el_código">Opción 3: Me gustan las palabras y el código</h3>
+<h3 id="Opción_3_Me_gustan_las_palabras_y_el_código">Opción 3: Me gustan las palabras y el código</h3>
 
 <p>Tenemos tareas que requieren conocimientos técnicos y manejo del lenguaje, como escribir nuevos articulos, revisando que estos sean precisos, o adaptando documentos.</p>
 
@@ -78,7 +78,8 @@ based_on: None
  <li><a href="/en-US/docs/MDN/Promote">Promociona MDN en tu propia página web</a> (5 minutos)</li>
  <li><a href="/es/docs/MDN/Contribute/Howto/revision_tecnica">Revisiones a articulos</a> (30 minutos)</li>
  <li><a href="/en-US/docs/Project:MDN/Contributing/How_to/Update_API_page_layout">Actualizar la disposición de la página de una API</a> (30 minutos)</li>
- <li><a href="/en-US/docs/MDN/Contribute/Creating_and_editing_pages#Creating_a_new_page">Escribir un nuevo articulo sobre un tema que te sea familiar</a> (1 hora o mas)</li>
+ <li><a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web">Crear un ejercicio interactivo para ayudar a otras personas a que aprendan sobre la web</a> (1 hora o más)</li>
+ <li><a href="/en-US/docs/MDN/Contribute/Creating_and_editing_pages#Creating_a_new_page">Escribir un nuevo articulo sobre un tema que te sea familiar</a> (1 hora o más)</li>
 </ul>
 
 <h3 id="Opción_4_Quiero_a_MDN_en_mi_idioma">Opción 4: Quiero a MDN en mi idioma</h3>
