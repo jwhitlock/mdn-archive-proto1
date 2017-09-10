@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1273291
+revision_id: 1301655
 locale: ja
 slug: MDN/Feedback
 tags: "MDN" "MDN Meta" "Guide" "Documentation"
