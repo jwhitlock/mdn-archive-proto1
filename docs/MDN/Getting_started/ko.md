@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 988749
+revision_id: 1302205
 locale: ko
 slug: MDN/Getting_started
 tags: "가이드" "공헌하기" "기여하기" "도움말" "문서" "시작하기"
@@ -47,7 +47,7 @@ based_on: None
 
 <p>당신의 능력과 관심에 따라 MDN에 기여할 수 있는 다양한 방법들이 있습니다. 일부 작업들은 어렵게 느껴질 수도 있지만, 5분도 안되는 작은 시간으로 간단히 끝낼 수 있는 작업들이 많이 있습니다! 작업에 대한 간단한 설명을 통해 작업 유형 별로 대략적인 소요 시간을 알 수 있을 것입니다.</p>
 
-<h3 id="1번_나는_글_쓰는게_좋아요">1번: 글 쓰는게 좋아요</h3>
+<h3 id="1번_글_쓰는게_좋아요">1번: 글 쓰는게 좋아요</h3>
 
 <p>문서를 검토하거나 수정하고 올바른 태그를 적용할 수 있습니다.</p>
 
@@ -62,7 +62,7 @@ based_on: None
 
 <div class="note"><strong>참고:</strong>&nbsp;기존 글을 수정하거나 새로운 내용을 작성하고 있다면&nbsp;<a href="/ko/docs/Project:MDN/Style_guide">스타일 가이드</a>를 준수하고 있는지 확인하세요. 문서들의 일관성을 유지하기 위함입니다.</div>
 
-<h3 id="2번_나는_코드_쓰는게_좋아요">2번: 코드 쓰는게 좋아요</h3>
+<h3 id="2번_코드_쓰는게_좋아요">2번: 코드 쓰는게 좋아요</h3>
 
 <p>더 많은 코드 샘플은 우리의&nbsp;<a href="https://developer.mozilla.org/ko/docs/Project:MDN/Kuma">Kuma</a>&nbsp;사이트 플랫폼을&nbsp;구축하는 데 도움이 됩니다!</p>
 
@@ -73,7 +73,7 @@ based_on: None
  <li><a href="https://developer.mozilla.org/ko/demos/submit">새 데모 올리기&nbsp;</a>(1시간)</li>
 </ul>
 
-<h3 id="3번_나는_글도_코드도_쓰는거라면_뭐든_좋아요">3번: 글도 코드도 쓰는거라면 뭐든 좋아요</h3>
+<h3 id="3번_글도_코드도_쓰는거라면_뭐든_좋아요">3번: 글도 코드도 쓰는거라면 뭐든 좋아요</h3>
 
 <p>새로운 글을 작성하거나, 기술적 정확성을 검토하기 또는 문서를 각색하기와 같은 기술적이고 언어적 스킬이 모두 요구되는 작업들이 있습니다.</p>
 
@@ -85,13 +85,13 @@ based_on: None
  <li><a href="/ko/docs/MDN/Contribute/Creating_and_editing_pages#Creating_a_new_page">내가 잘 아는 주제에 대한 글쓰기</a>&nbsp;(1시간 이상)</li>
 </ul>
 
-<h3 id="4번_저는_우리말로_MDN을_보고_싶어요">4번: 우리말로 MDN을 보고 싶어요</h3>
+<h3 id="4번_우리말로_MDN을_보고_싶어요">4번: 우리말로 MDN을 보고 싶어요</h3>
 
 <p>MDN의 모든 현지화 및 번역 작업들은 우리의 멋진 자원 커뮤니티가 수고해 주셨습니다.</p>
 
 <ul>
  <li><a href="/ko/docs/MDN/Contribute/Localize/Translating_pages">페이지 번역하기</a> (2시간)</li>
- <li><a href="/ko/docs/Project:MDN/Localizing/Localization_projects">현지화 프로젝트</a>에 올라온 다른 참여자들과 소통하기 (30분)</li>
+ <li><a href="/ko/docs/Project:MDN/Localizing/Localization_projects">지역화 프로젝트</a>에 올라온 다른 참여자들과 소통하기 (30분)</li>
 </ul>
 
 <h3 id="5번_잘못된_점은_찾았는데_어떻게_고쳐야_할_지_모르겠어요">5번: 잘못된 점은 찾았는데, 어떻게 고쳐야 할 지 모르겠어요</h3>
