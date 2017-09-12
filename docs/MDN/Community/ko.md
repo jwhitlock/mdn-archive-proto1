@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1142157
+revision_id: 1302761
 locale: ko
 slug: MDN/커뮤니티
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -37,16 +37,16 @@ based_on: None
 
 <dl>
  <dt><a href="https://lists.mozilla.org/listinfo/dev-mdc">dev-mdc</a> a.k.a. <a href="https://groups.google.com/forum/#!forum/mozilla.dev.mdc">mozilla.dev.mdc</a></dt>
- <dd><font color="#4D4E53" face="Open Sans, Arial, sans-serif">이 리스트는 저희가 MDN 문서에 대한 토론을 진행하는 곳입니다. 저희는 저희가 만든 절차의 변화, 향상에 대해 논의하고, 누가 어떤 내용에 작업할지를 가려냅니다. 당신이 만약 진지하게 MDN 문서에 뛰어드는것에 관심이 있다면 <strong>매우 추천됩니다</strong>.(왜 "dev-mdc"? 과거에, 이 사이트는 "Mozila Developer Center", or MDC로 알려졌습니다. 이 mailing list는 이 시절에 시작되었기 때문에, dev-mdc입니다.)</font></dd>
+ <dd><font color="#4D4E53" face="Open Sans, Arial, sans-serif">이 리스트는 저희가 MDN 문서에 대한 토론을 진행하는 곳입니다. 저희는 저희가 만든 절차의 변화, 향상에 대해 논의하고, 누가 어떤 내용에 작업할지를 가려냅니다. 당신이 만약 진지하게 MDN 문서에 뛰어드는것에 관심이 있다면 <strong>강력히 추천드립니다</strong>.(왜 "dev-mdc"? 과거에, 이 사이트는 "Mozila Developer Center", 또는&nbsp;MDC로 알려졌습니다. 이 mailing list는 이 시절에 시작되었기 때문에, dev-mdc입니다.)</font></dd>
  <dt><a href="https://lists.mozilla.org/listinfo/dev-mdn">dev-mdn</a> a.k.a. <a href="https://groups.google.com/forum/#!forum/mozilla.dev.mdn">mozilla.dev.mdn</a></dt>
- <dd>이 포럼은 저희가 MDN의 <a href="https://developer.mozilla.org/en-US/docs/MDN/Kuma">Kuma </a>플래폼에 기반하는 개발 작업에 대한 토론을 여는 곳입니다. 만약 당신이 이 무대의 뒤에서 진행되는 작업에 호기심이 있거나, 그 플래폼에 대한 결정 과정에 참여하고 싶거나, 혹은 이 플래폼을 향상시키위 위해 작업을 하고있다면, 당신은 반드시 이 리스트에 참여해야합니다.</dd>
+ <dd>이 포럼은 저희가 MDN의 <a href="https://developer.mozilla.org/en-US/docs/MDN/Kuma">Kuma </a>플래폼에 기반하는 개발 작업에 대한 토론을 여는 곳입니다. 만약 당신이 이 무대의 뒤에서 진행되는 작업에 호기심이 있거나, 그 플래폼에 대한 결정 과정에 참여하고 싶거나, 혹은 이 플래폼을 향상시키기&nbsp;위해 작업을 하고있다면, 당신은 반드시 이 리스트에 참여해야합니다.</dd>
  <dt><a href="https://lists.mozilla.org/listinfo/mdn">mdn</a> a.k.a. <a href="https://groups.google.com/forum/#!forum/mozilla.mdn">mozilla.mdn</a></dt>
- <dd><font color="#4D4E53" face="Open Sans, Arial, sans-serif">이 포럼은 MDN 웹사이트와 이와 관련된 새로운 결정에 대한 높은 수준의 계획과 우선순위에 대한 토론을 위한것입니다.</font></dd>
+ <dd><font color="#4D4E53" face="Open Sans, Arial, sans-serif">이 포럼은 MDN 웹사이트와 이와 관련된 새로운 결정에 대한 높은 수준의 계획과 우선순위에 대한 토론을 위한 것입니다.</font></dd>
 </dl>
 
-<p>또한 몇 개의 MDN 지역화 커뮤니티들에 관한 특수한 포럼들도 있습니다. 만약 당신의 커뮤니티가 매우 크고 활발하다면, 당신은 아마도 당신의 커뮤니티를 위해 포럼을 생성시킬수있을겁니다.; 그저 저희에게 요청하세요 그리고 저희가 고려하겠습니다. 현재 이러한 언어들이 포럼을 가지고 있습니다: <a href="https://lists.mozilla.org/listinfo/dev-mdc-es">스페인어</a>, <a href="https://groups.google.com/forum/#!forum/mozilla-translations-ja">일본어</a>, <a href="https://lists.mozilla.org/listinfo/dev-mdc-pt">포르투칼어</a></p>
+<p>또한 몇 개의 MDN 지역화 커뮤니티들에 관한 특수한 포럼들도 있습니다. 만약 당신의 커뮤니티가 매우 크고 활발하다면, 당신은 아마도 당신의 커뮤니티를 위해 포럼을 생성시킬 수 있을 겁니다.;&nbsp;그저 저희에게 요청하세요.&nbsp;그러면&nbsp;저희가 고려하겠습니다. 현재 다음과 같은&nbsp;언어들이 포럼을 가지고 있습니다: <a href="https://lists.mozilla.org/listinfo/dev-mdc-es">스페인어</a>, <a href="https://groups.google.com/forum/#!forum/mozilla-translations-ja">일본어</a>, <a href="https://lists.mozilla.org/listinfo/dev-mdc-pt">포르투갈어</a></p>
 
-<p id="fn1">[1] Yes, we know these names are overlapping and confusing. Historical accident. Sorry about that.</p>
+<p id="fn1">[1] 포럼들의 이름들이 중복되어서 헷갈릴지도 모릅니다. 포럼들이 따로따로 만들어지면서 생기게 된 문제입니다. 죄송합니다.</p>
 
 <h2 id="IRC_채팅하기">IRC 채팅하기</h2>
 
@@ -65,7 +65,7 @@ based_on: None
 
 <h2 id="격주_미팅에_(그리고_다른_이벤트에도)_참여하기">격주 미팅에 (그리고 다른 이벤트에도) 참여하기</h2>
 
-<p>격주로, MDN 커뮤니티는 노트를 교환하고, 저희가 한 것들에 대해 토론하고, 그리고 우리가 다음 2주동안 무엇을 하고 싶은지 가려내기 위해 &nbsp;위해 IRC기반 미팅을 개최합니다. 또한 저희는 MDN 플래폼 자체의 개발 계획에 관해 회의하고, 종종 새롭고 곧 다가올 사이트의 기능들에 대한 정보를 얻어오기도 합니다. 이들은 평범하고 재밌는 미팅이면서, 참여하는 모든 이들을 환영합니다.</p>
+<p>격주로, MDN 커뮤니티는 노트를 교환하고, 저희가 한 것들에 대해 토론하고, 그리고 우리가 다음 2주동안 무엇을 하고 싶은지 가려내기 위해 &nbsp;위해 IRC기반 미팅을 개최합니다. 또한 저희는 MDN 플랫폼 자체의 개발 계획에 관해 회의하고, 종종 새롭고 곧 다가올 사이트의 기능들에 대한 정보를 얻어오기도 합니다. 이들은 평범하고 재밌는 미팅이면서, 참여하는 모든 이들을 환영합니다.</p>
 
 <p>일정에 관한 디테일뿐만 아니라 이전 혹은 이번의 미팅에 관한 문서, 주제를 알고싶다면, Mozilla wiki에 있는 <a href="https://wiki.mozilla.org/MDN/Meetings/Community">MDN 커뮤니티 미팅 </a>페이지를 보세요.</p>
 
@@ -79,7 +79,7 @@ based_on: None
 
 <ul>
  <li><a href="/en-US/docs/MDN/Getting_Started">MDN 시작하기</a>: 선택할 쉬운 첫 번째 작업들</li>
- <li><a href="/en-US/docs/MDN/Contribute" title="/en-US/docs/Project:MDN/Contributing">MDN 에 기여하기</a>: 여기서 MDN 에서 작업하기 위한 가이드, 그리고 작업할 것들에대한 제안들을 확인하세요.</li>
- <li><a href="/en-US/docs/Project:MDN/Contributing/Follow_what_s_happening" title="/en-US/docs/Project:MDN/Contributing/Follow_what_s_happening">Follow what's happening</a>: More ways to keep up with MDN, and Mozilla Developer Relations in general.</li>
+ <li><a href="/en-US/docs/MDN/Contribute" title="/en-US/docs/Project:MDN/Contributing">MDN에 기여하기</a>: 여기서 MDN 에서 작업하기 위한 가이드, 그리고 작업할 것들에대한 제안들을 확인하세요.</li>
+ <li><a href="/en-US/docs/Project:MDN/Contributing/Follow_what_s_happening" title="/en-US/docs/Project:MDN/Contributing/Follow_what_s_happening">Follow what's happening</a>: MDN과 계속 함께하고, 모질라 개발자들과&nbsp;소통하세요.</li>
 </ul>
 
