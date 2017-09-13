@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1297205
+revision_id: 1303465
 locale: en-US
 slug: Mozilla/Add-ons/WebExtensions
 tags: "add-on" "Landing" "Extensions" "WebExtensions"
