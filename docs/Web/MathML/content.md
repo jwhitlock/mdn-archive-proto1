@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1069986
+revision_id: 1303613
 locale: en-US
 slug: Web/MathML
 tags: "XML" "Web" "MathML" "Landing" "Reference"
@@ -13,7 +13,9 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p><strong>Mathematical Markup Language (MathML)</strong> is a&nbsp;dialect of <a href="/en-US/docs/XML">XML</a> for describing mathematical notation and capturing both its structure and content. Here you'll find links to documentation, examples, and tools to help you work with this powerful technology. For a quick overview, see the <a href="http://fred-wang.github.io/MozSummitMathML/index.html">slides for the innovation fairs at Mozilla Summit 2013</a>.</p>
+<p class="summary"><strong>Mathematical Markup Language (MathML)</strong> is a&nbsp;dialect of <a href="/en-US/docs/XML">XML</a> for describing mathematical notation and capturing both its structure and content.</p>
+
+<p>Here you'll find links to documentation, examples, and tools to help you work with this powerful technology. For a quick overview, see the <a href="http://fred-wang.github.io/MozSummitMathML/index.html">slides for the innovation fairs at Mozilla Summit 2013</a>.</p>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -86,8 +88,8 @@ based_on: None
    <td>Basic support</td>
    <td>{{CompatNo}} [1]</td>
    <td>{{CompatGeckoDesktop("1.8")}}</td>
-   <td>{{CompatNo}} [1]</td>
-   <td>{{CompatNo}} [1]</td>
+   <td>{{CompatNo}} [2]</td>
+   <td>{{CompatNo}} [3]</td>
    <td>{{CompatSafari(5.1)}}</td>
   </tr>
  </tbody>
@@ -117,5 +119,9 @@ based_on: None
 </table>
 </div>
 
-<p>[1] Available with plug-in(s).</p>
+<p>[1] Available with <a href="https://chrome.google.com/webstore/detail/fmath-html-%2B-mathml-solut/emdjdpchbjipnjhkfljbcapgfecmnglm">plug-in</a>(s).</p>
+
+<p>[2] Available with plug-in(s).</p>
+
+<p>[3] Available with plug-in(s).</p>
 
