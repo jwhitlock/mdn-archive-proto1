@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1077966
+revision_id: 1304217
 locale: tr
 slug: Web/Tutorials
 tags: 
@@ -8,7 +8,7 @@ title: Tutorials
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
@@ -109,16 +109,16 @@ based_on: None
  <dd>fonksiyon şablonları,jQuery şablonları, jQuery eklenti şablonları, dizayn şablonları, genel şablonlar, sabit ve etkin&nbsp;şablonlar, Nesne oluşturma şablonları, yeniden kodlama şablonları ve DOM şablonlarını içeren şablon kolleksiyonudur.</dd>
 </dl>
 
-<h2 class="Documentation" id="Documentation" name="Documentation">CSS Desrleri</h2>
+<h2 class="Documentation" id="Documentation" name="Documentation">CSS Dersleri</h2>
 
 <h3 id="Giriş_düzeyi">Giriş düzeyi</h3>
 
 <dl>
- <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/Getting_Started">CSS ye başlarken</a></dt>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/CSS/Getting_Started">CSS'ye başlarken</a></dt>
  <dd>Bu dersler CSS (Cascading Style Sheets) bir tanıtımıdır&nbsp;. Rehberde basit materyallerle pratik örneklerle CSS' yi kendi bilgisayarınızda nasıl tasarlayacağınıza değinilir.</dd>
  <dt><a href="http://en.wikiversity.org/wiki/Web_Design/CSS_Classes" rel="external">CSS Sınıf (Class) Seçiciler</a>&nbsp;(Wikiversity)</dt>
  <dd>Css Classlar Nedir?</dd>
- <dt><a href="http://en.wikiversity.org/wiki/Web_Design/External_CSS" rel="external">Dışardan Bağlantı Veilen&nbsp;CSS</a> (Wikiversity)</dt>
+ <dt><a href="http://en.wikiversity.org/wiki/Web_Design/External_CSS" rel="external">Dışardan Bağlantı Verilen&nbsp;CSS</a> (Wikiversity)</dt>
  <dd>CSS'nin dışardan dosya uzantısı verilerek kodlamaya nasıl dahil edileceğini anlatır.</dd>
  <dt><a href="http://www.w3.org/MarkUp/Guide/Style" rel="external">CSS'ye Bir Değiniş&nbsp;</a>&nbsp;(W3C)</dt>
  <dd>Web sayfalarını CSS ile kodlamayı açıklayan kısa bir rehber.</dd>
@@ -139,7 +139,7 @@ based_on: None
  <dd>CSS becerilerinizi geliştirip nasıl daha çok pratiğe ihtiyaç duyduğunuzu anlayın.</dd>
  <dt><a href="http://www.html.net/tutorials/css/" rel="external">Ortadüzey CSS Kavramları</a>&nbsp;(HTML.net)</dt>
  <dd>Guruplama ve sınıf kullanımı ve dahası,</dd>
- <dt><a href="http://www.alistapart.com/articles/css-positioning-101/" rel="external">CSS Positioning 101</a> (Ayrı Bir&nbsp;Liste)</dt>
+ <dt><a href="http://www.alistapart.com/articles/css-positioning-101/" rel="external">CSS Konumlandırma&nbsp;101</a> (Ayrı Bir&nbsp;Liste)</dt>
  <dd>Tablolar ve Şemalarda standart uyum için konumlandırmanın kullanılması</dd>
  <dt><a href="http://www.alistapart.com/articles/progressiveenhancementwithcss/" rel="external">CSS ile ileri düzeylere taşıma</a>&nbsp;(Ayrı Bir&nbsp;Liste)</dt>
  <dd>Web sayfanızı CSS kodlamayla daha iyi seviyelere getirme</dd>
