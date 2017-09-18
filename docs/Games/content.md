@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1243033
+revision_id: 1304893
 locale: en-US
 slug: Games
 tags: "Web" "Apps" "Games" "HTML5 Games" "Gamedev" "JavaScript Games" "Game Development"
@@ -17,7 +17,7 @@ based_on: None
 <p><span class="seoSummary">Gaming is one of the most popular computer activities. New technologies are constantly arriving to make it possible to develop better and more powerful games that can be run in any standards-compliant web browser.</span></p>
 </div>
 
-<p>{{EmbedGHLiveSample("web-tech-games/index.html", '100%', 820)}}</p>
+<div>{{EmbedGHLiveSample("web-tech-games/index.html", '100%', 820)}}</div>
 
 <div class="column-container">
 <div class="column-half">
@@ -25,7 +25,7 @@ based_on: None
 
 <p>Welcome to the MDN game development center! In this area of the site we provide resources for web developers wanting to develop games. You'll find many useful tutorials and technique articles in the main menu on the left, so feel free to explore.</p>
 
-<p>We've also included a reference section so you can easily find information about all the most common APIs used in game development, plus useful lists of <a href="/en-US/docs/Games/Tools/Engines_and_tools">engines and tools</a>, and <a href="/en-US/docs/Games/Examples">game examples</a>.</p>
+<p>We've also included a reference section so you can easily find information about all the most common APIs used in game development.</p>
 
 <div class="note">
 <p><strong style="-webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; border:0px; color:#3b3c40; font-family:'open sans',arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-weight:700; letter-spacing:normal; margin:0px; orphans:auto; padding:0px; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px">Note</strong><span style="-webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; background-color:#fff5cc; color:#3b3c40; font-family:'open sans',arial,sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px">: Creating games on the web draws on a number of core web technologies such as HTML, CSS, and JavaScript. The&nbsp;</span><a href="/en-US/docs/Learn" style="font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; color: rgb(33, 122, 192); text-decoration: none; margin: 0px; padding: 0px; border: 0px; font-family: 'open sans', arial, sans-serif;">Learning Area</a><span style="-webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; background-color:#fff5cc; color:#3b3c40; font-family:'open sans',arial,sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px">&nbsp;is a good place to go to get started with the basics.</span></p>
@@ -68,10 +68,6 @@ based_on: None
  <dd>A collection of impressive JavaScript techniques and experiments, not specific to games, but helpful nonetheless. Hasn't been very active recently, but still holds some nice resources.</dd>
  <dt><a href="http://gameprogrammingpatterns.com/">Game programming patterns</a></dt>
  <dd>An online book, written by Bob Nystrom, which discusses programming patterns in the context of game development with the aim of helping game developers produce more effective, efficient code.</dd>
- <dt><a href="http://blog.artillery.com/">Artillery blog</a></dt>
- <dd>HTML5 games company Artillery have some useful articles on their blog.</dd>
- <dt><a href="https://leanpub.com/buildinggamesforfirefoxos/">Building games for Firefox OS</a></dt>
- <dd>A quick guide to creating 2D games with HTML5, for distribution on Firefox OS and other mobile platforms.</dd>
  <dt><a href="http://gamedevjsweekly.com/">Gamedev.js Weekly</a></dt>
  <dd>Weekly newsletter about HTML5 game development, sent every Friday. Contains the latest articles, tutorials, tools, and resources.</dd>
  <dt><a href="http://www.html5gamedevs.com/">HTML5 Game Devs Forum</a></dt>
@@ -87,16 +83,13 @@ based_on: None
  <dd>Compare JavaScript Breakout clones in different frameworks to help you choose the right one for you.</dd>
  <dt><a href="http://gamedevelopment.tutsplus.com/">Tuts+ Game Development</a></dt>
  <dd>Tutorials and articles about game development in general.</dd>
- <dt><a href="http://webchat.freenode.net/?channels=bbg">#BBG IRC chat</a></dt>
- <dd>Talk with the developers directly in real time.</dd>
  <dt><a href="http://html5devstarter.enclavegames.com/">HTML5 Gamedev Starter</a></dt>
  <dd>Starter for the new game developers, a curated list of links to various, useful resources around the web.</dd>
  <dt><a href="http://js13kgames.com/">js13kGames</a></dt>
  <dd>JavaScript coding competition for HTML5 game developers with the file size limit set to 13 kilobytes. All the submitted games are available in a readable form on GitHub.</dd>
  <dt><a href="https://hacks.mozilla.org/category/games/">Mozilla Hacks blog</a></dt>
  <dd>Games category on the Mozilla Hacks blog containing interesting gamedev related articles.</dd>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Games/Visual-js_game_engine">Visual-js game engine</a></dt>
- <dd>2d/3d/webSocket orientend game engine. Comes with tools for windows only. Hosted on bitbucket&nbsp;projects site. &nbsp;&nbsp;</dd>
+ <dd>&nbsp;</dd>
 </dl>
 </div>
 </div>
@@ -148,7 +141,6 @@ based_on: None
      <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Babylon.js">Building up a basic demo with Babylon.js</a></li>
      <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas">Building up a basic demo with PlayCanvas</a></li>
      <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Three.js">Building up a basic demo with Three.js</a></li>
-     <li><a href="/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Whitestorm.js">Building up a basic demo with Whitestorm.js</a></li>
      <li>
       <p><a href="/en-US/docs/Games/Techniques/3D_on_the_web/WebVR">WebVR</a></p>
      </li>
