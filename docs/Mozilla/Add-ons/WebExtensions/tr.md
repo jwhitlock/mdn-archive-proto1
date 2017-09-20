@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1306683
+revision_id: 1306689
 locale: tr
 slug: Mozilla/Eklentiler/WebExtensions
 tags: 
@@ -9,19 +9,19 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 1303465
+based_on: None
 ---
 <div>{{AddonSidebar}}</div>
 
-<p>Extensions can extend and modify the capability of a browser. Extensions for Firefox are built using WebExtension APIs, a cross-browser system for developing extensions. To a large extent the system is compatible with the <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a> supported by Google Chrome and Opera and the <a href="https://browserext.github.io/browserext/">W3C Draft Community Group</a>. Extensions written for these browsers will in most cases run in Firefox or <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a> with <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">just a few changes</a>. The API is also fully compatible with <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">multiprocess Firefox</a>.</p>
+<p><span id="result_box" lang="tr"><span>Uzantılar, bir tarayıcının yeteneğini genişletebilir ve değiştirebilir.</span></span> Extensions for Firefox are built using WebExtension APIs, a cross-browser system for developing extensions. To a large extent the system is compatible with the <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a> supported by Google Chrome and Opera and the <a href="https://browserext.github.io/browserext/">W3C Draft Community Group</a>. Extensions written for these browsers will in most cases run in Firefox or <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a> with <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">just a few changes</a>. The API is also fully compatible with <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">multiprocess Firefox</a>.</p>
 
 <p>If you have ideas or questions, or need help migrating a legacy add-on to use WebExtension APIs, you can reach us on the <a href="https://mail.mozilla.org/listinfo/dev-addons">dev-addons mailing list</a> or <a href="irc://irc.mozilla.org/extdev">#extdev</a> on <a href="https://wiki.mozilla.org/IRC">IRC</a>.</p>
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 id="Getting_started">Getting started</h2>
+<h2 id="Getting_started">Başlarken</h2>
 
 <ul>
  <li><a href="/en-US/Add-ons/WebExtensions/What_are_WebExtensions">What are extensions?</a></li>
@@ -31,7 +31,7 @@ based_on: 1303465
  <li><a href="/en-US/Add-ons/WebExtensions/Examples">Example extensions</a></li>
 </ul>
 
-<h2 id="How_to">How to</h2>
+<h2 id="How_to">Nasıl</h2>
 
 <ul>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests">Intercept HTTP requests</a></li>
@@ -41,7 +41,7 @@ based_on: 1303465
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard">Interact with the clipboard</a></li>
 </ul>
 
-<h2 id="User_interface">User interface</h2>
+<h2 id="User_interface">Kullanıcı arayüzü</h2>
 
 <ul>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface">Introduction</a></li>
@@ -58,7 +58,7 @@ based_on: 1303465
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/devtools_panels">Developer tools panels</a></li>
 </ul>
 
-<h2 id="Concepts">Concepts</h2>
+<h2 id="Concepts"><span class="short_text" id="result_box" lang="tr"><span>Kavramlar</span></span></h2>
 
 <ul>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/API">JavaScript API overview</a></li>
@@ -72,7 +72,7 @@ based_on: 1303465
  <li><a href="/en-US/Add-ons/WebExtensions/User_experience_best_practices">User experience best practices</a></li>
 </ul>
 
-<h2 id="Porting">Porting</h2>
+<h2 id="Porting">Uyarlama</h2>
 
 <ul>
  <li><a href="/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">Porting a Google Chrome extension</a></li>
