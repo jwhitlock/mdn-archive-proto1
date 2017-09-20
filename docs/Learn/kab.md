@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1304727
+revision_id: 1306469
 locale: kab
 slug: Lmed
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -21,7 +21,7 @@ based_on: None
 
 <p>Iswi n taɣult agi n MDN mačči iw akken aktawi seg «mezwar» ɣer «amazzay»,maca akyawi seg «mezwar» ɣer «amagraz» syina,tzemreḍ a ttedduḍ,a ttlemdeḍ ayen d<a charset="https://developer.mozilla.org/en-US/" href="https://developer.mozilla.org/en-US/"> yeggran deg MDN </a>d iɣbula isuḍafen nniḍen iw akken ad aẓent deg tmusniwin tuzwirin.</p>
 
-<p>Ma telliḍ d amezwar amatu,taneflit n web tezmer ak tiwɛiṛ-ur ttagwad aqlaɣ yid-ek deg surif agi ak-id nefk tallat d aṭas nniḍen iw akken attilliḍ tggarzeḍ deg leqdic-ik,am-akken deg waxxam-ik i telliḍ,ɣas d anelmad i telliḍ ig lemden taneflit n web(iman-ik naɣ tarbaɛt),d aselmad ig ttnadin afecku n tadala,d amaswaḍ naɣ d winniḍen ig bɣan kkan agzu n wamek i teddunt titiknulujitin n web.</p>
+<p>Ma telliḍ d amezwar amatu,taneflit n web tezmer ak tiwɛiṛ-ur ttagwad aqlaɣ yid-ek deg surif agi ak-id nefk tallat d aṭas nniḍen iw akken attilliḍ tggarzeḍ deg leqdic-ik,am-akken deg waxxam-ik i telliḍ,ɣas d anelmad i telliḍ ig lemden taneflit n web (iman-ik naɣ tarbaɛt),d aselmad ig ttnadin afecku n tadala,d amaswaḍ naɣ d winniḍen ig bɣan kkan agzu n wamek i teddunt titiknulujitin n web.</p>
 
 <div class="warning">
 <p><strong>Axatar</strong>:Agbur n taɣzut ulmad tella tmerrniwt ɣers yal ass..ma ɣuṛwen tuttriwin ɣef imaggayen i tebɣam attwalim yers naɣ ig xuṣen,sesten tigezmi sdaw-a&nbsp; {{anch("Contact us")}} iw ugar isallen ɣef wamek ara kwen nermes.</p>
@@ -30,7 +30,7 @@ based_on: None
 <h2 id="Ansi_ara_nezwir">Ansi ara nezwir</h2>
 
 <ul class="card-grid">
- <li><span>Amezwar ummid:</span> Ma telliḍ d amezwar ummid iw snefli n web,nesmagel-ak a tezewer-eḍ deg leqdic n<a charset="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web"> asekkar s uzegrir web</a>,id yettakken tazwart tallilt iw snefli n web.</li>
+ <li><span>Amezwar ummid:</span> Ma telliḍ d amezwar ummid iw snefli n web,nesmagel-ak a tezewreḍ deg leqdic n<a charset="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web"> asekkar s uzegrir web</a>,id yettakken tazwart tallilt iw snefli n web.</li>
  <li><span>Tuttriwin tulmisin:</span> Ma ɣuṛ-wen tuttra tulmist ɣef t'neflit n web,tigezmi nneɣ n <a charset="https://developer.mozilla.org/en-US/docs/Learn/Common_questions" href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions">tuttriwin </a>tezmer a wen-id yefk tallalt.</li>
  <li><span>Akkin i taffiwin:</span> Ma ɣuṛ-wen ciṭ n tmusni,amecwaṛ id i teddun , iw lmad deg alulleḍ n {{glossary("HTML")}} d {{glossary("CSS")}} : bdut s uzegrir nneɣ n<a charset="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML" href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"> tazwart ɣer HTML</a> u attdduḍ ɣer <a charset="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS" href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS">tazwart n uzegrir CSS</a>.</li>
  <li><span>Zeggret ar Script</span>Ma leqdic-ik ithedden deg HTML ed CSS daɣen,naɣ ahat tebɣiḍ&nbsp; asettengel,tebɣiḍ attzegger-eḍ ɣer {{glossary ("JavaScript")}} naɣ taneflit ɣer yidis uqeddac.bdut s tazwara n JaγaScript d izegrar imezwura n yidis n uqeddac.</li>
@@ -67,7 +67,7 @@ based_on: None
 
 <dl>
  <dt><a href="https://learning.mozilla.org/web-literacy/">Takarḍa n asgemmay</a></dt>
- <dd>Iw asgemmay ɣef amessakwel ed timusniwin 21tasut,iɣ yettaǧǧan daɣen anzgger ɣer leqdic uselmed yettwafernen s taggayt.</dd>
+ <dd>Iw asgemmay ɣef amessakwel d timusniwin 21tasut,iɣ yettaǧǧan daɣen anzgger ɣer leqdic uselmed yettwafernen s taggayt.</dd>
  <dt><a href="https://learning.mozilla.org/activities">Armud usegmisen</a></dt>
  <dd>Amazrar n tirmudin iw selmed (d ulmad) id yesnulfa lsas Mozilla,ig sdukklen meṛṛa,seg asgemmay n web uzdir d tudert tabeḍnit ɣer JaγaScript ed usɣendef Minecraft.</dd>
 </dl>
