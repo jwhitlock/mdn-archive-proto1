@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1170943
+revision_id: 1307545
 locale: en-US
 slug: Web/Guide
 tags: "Web" "Guide" "Landing"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p><span class="seoSummary"><strong>These articles provide how-to information to help you make use of specific technologies and APIs.</strong></span></p>
+<p><strong>This article provides how-to information to help make use of specific technologies &amp; APIs.</strong></p>
 
 <div class="row topicpage-table">
 <div class="section">
