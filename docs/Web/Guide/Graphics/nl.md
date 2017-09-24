@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 913973
+revision_id: 1308255
 locale: nl
 slug: Web/Guide/Graphics
 tags: "2D" "3D" "HTML5" "SVG" "Web" "WebGL" "Canvas" "Graphics"
@@ -8,12 +8,12 @@ title: Graphics op het Web
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 31f4c8abb7d705210315178074df3aca431c2b2b
+based_on: None
 ---
-<p><span class="seoSummary">Moderne websites en applicaties moeten vaak afbeeldingen presenteren.</span> Statige afbeeldingen tonen kan gemakkelijk worden gedaan door het {{HTMLElement("img")}} element, of door het instellen van de achtergrond van de HTML elementen met behulp van de {{cssxref("background-image")}} eigenschap.Vaak wilt u direct graphics implementeren, of ze wijzigen. Deze artikellen geven inzicht in hoe u dit kunt bereiken.</p>
+<p><span class="seoSummary">Moderne websites en applicaties moeten vaak afbeeldingen presenteren.</span> Statische afbeeldingen kunnen gemakkelijk worden getoond met behulp van het {{HTMLElement("img")}}-element of door het instellen van de achtergrond van de HTML-elementen met behulp van de {{cssxref("background-image")}}-eigenschap. U kunt afbeeldingen ook direct samenstellen, of ze later bewerken. Deze artikelen geven inzicht in hoe u dit kunt bereiken.</p>
 
 <div class="row topicpage-table">
 <div class="section">
