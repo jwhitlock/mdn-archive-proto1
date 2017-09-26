@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1121901
+revision_id: 1309127
 locale: bn-BD
 slug: Web/JavaScript
 tags: "জাভা স্ক্রিপ্ট" "জাভাস্ক্রিপ্ট"
@@ -9,23 +9,25 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <div>{{JsSidebar}}</div>
 
-     <p class="summary"><strong>জাভাস্ক্রিপ্ট</strong> (সংক্ষেপে <strong>JS</strong>) {{Glossary("First-class Function", "first-class functions")}} সহযোগে গঠিত একটি হালকা, ইন্টারপ্রেটেড (কম্পাইল করার প্রয়োজন নেই)এমন একটি প্রোগ্রামিং ভাষা। এটি ওয়েব পেজের স্ক্রিপ্টিং ভাষা হিসেবে বেশি পরিচিত, কিন্তু <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">ব্রাউজার ছাড়াও অন্যান্য জায়গায়</a>  ব্যবহার করা হয়, যেমন <a class="external" href="https://nodejs.org/">node.js</a> and <a href="https://couchdb.apache.org/">Apache CouchDB</a>. JS হল {{Glossary("Prototype-based programming", "prototype-based")}}, multi-paradigm, dynamic scripting language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.আরো পড়ুন <a href="/en-US/docs/Web/JavaScript/About_JavaScript">JavaScript সম্পর্কে</a>.</p>
+<p class="summary"><strong>JavaScript</strong>&nbsp;(সংক্ষেপে <strong>JS</strong>) একটি lightweight ইন্টারপ্রেটেড বা JIT কম্পাইল করা&nbsp;প্রোগ্রামিং ভাষা যাতে রয়েছে&nbsp;{{Glossary("First-class Function", "first-class functions")}}। এটি ওয়েব পেজের স্ক্রিপ্টিং ভাষা হিসেবে বেশি পরিচিত, এছাড়া&nbsp;<a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">ব্রাউজার ছাড়াও অন্যান্য জায়গায়</a> ব্যবহার করা হয়, যেমন <a class="external" href="https://nodejs.org/">node.js</a> and <a href="https://couchdb.apache.org/">Apache CouchDB</a>. JavaScript&nbsp;হল {{Glossary("Prototype-based programming", "prototype-based")}}, multi-paradigm, dynamic scripting language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. <a href="/en-US/docs/Web/JavaScript/About_JavaScript">JavaScript সম্পর্কে</a>&nbsp;আরো পড়ুন.</p>
 
-<p>জাভাস্ক্রিপ্ট স্ট্যান্ডার্ড এর নাম <a href="/bn-BD/docs/JavaScript/%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%B0_%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8" title="ECMAScript">ECMAScript</a>। ২০১২ সাল পর্যন্ত পাওয়া তথ্য অনুযায়ী সব নতুন ব্রাউজার ECMAScript 5.1 সমর্থন করে। পুরোনো ব্রাউজারগুলো অন্তত ECMAScript 3 সমর্থন করে। ২০১৫ সালের ১৭ জুন <a href="http://www.ecma-international.org">ECMA International</a> তার ষষ্ঠ প্রধান সংস্করণ প্রকাশ করে, আনুষ্ঠানিক ভাবে যা ECMAScript 2015 নামে অভিহিত, এবং সাধারন ভাবে এটি ECMAScript 6 বা ES6 নামে পরিচিত। তখন থেকেই বাৎসরিক প্রকাশ চক্র অনুযায়ী ECMAScript -এর মান প্রকাশিত হচ্ছে। এই ডকুমেন্টেশনটি সর্বশেষ খসড়া সংস্করণ, যা দ্বারা ECMAScript 2017 এর মান কে বোঝায়।</p>
+<p>সাইটের এই সেকশনটি JavaScript ভাষার জন্য&nbsp;নিবেদিত, এবং ওয়েব পেইজ অথবা হোস্ট এনভাইরনমেন্টের সাথে সম্পৃক্ত নয়।&nbsp;{{Glossary("API","APIs")}} সম্পর্কে জানতে&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/API">Web APIs</a>&nbsp;এবং&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/DOM">DOM</a>&nbsp;দেখুন।</p>
 
-<p>&nbsp;JavaScript এর সাথে&nbsp; <a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29">Java programming language</a> কে এক ভাবা ঠিক হবে না। "Java" এবং "JavaScript" উভয় প্রোগ্রামিং ভাষাই Oracle কোম্পানির ট্রেডমার্ক বা ট্রেডমার্ক হিসেবে নিবন্ধিত যুক্তরাষ্ট্র বা অন্যান্য দেশে। যাইহোক, এই দুই প্রোগ্রামিং ভাষার বাক্য গঠন প্রণালী (syntax)শব্দার্থবিদ্যা(semantics),এবং ব্যবহার একেবারেই আলাদা।</p>
+<p>JavaScript&nbsp; স্ট্যান্ডার্ড এর নাম <a href="/bn-BD/docs/JavaScript/%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%B0_%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8" title="ECMAScript">ECMAScript</a>। ২০১২ সাল পর্যন্ত পাওয়া তথ্য অনুযায়ী সব <a href="https://kangax.github.io/compat-table/es5/">নতুন ব্রাউজার</a> ECMAScript 5.1 সমর্থন করে। পুরোনো ব্রাউজারগুলো অন্তত ECMAScript 3 সমর্থন করে। ২০১৫ সালের ১৭ জুন <a href="http://www.ecma-international.org">ECMA International</a> তার ষষ্ঠ প্রধান সংস্করণ প্রকাশ করে, আনুষ্ঠানিক ভাবে যা ECMAScript 2015 নামে অভিহিত, এবং সাধারন ভাবে এটি ECMAScript 6 বা ES6 নামে পরিচিত। তখন থেকেই বাৎসরিক প্রকাশ চক্র অনুযায়ী ECMAScript -এর মান প্রকাশিত হচ্ছে। এই ডকুমেন্টেশনটি সর্বশেষ খসড়া সংস্করণ, যা <a href="https://tc39.github.io/ecma262/">ECMAScript 2018</a> কে বোঝায়।</p>
+
+<p>&nbsp;JavaScript এর সাথে&nbsp; <a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29">Java programming language</a> কে গুলিয়ে ফেলবেন&nbsp;না। "Java" এবং "JavaScript" উভয় প্রোগ্রামিং ভাষাই Oracle কোম্পানির ট্রেডমার্ক বা ট্রেডমার্ক হিসেবে নিবন্ধিত যুক্তরাষ্ট্র এবং&nbsp;অন্যান্য দেশে। যাইহোক, এই দুই প্রোগ্রামিং ভাষার বাক্য গঠন প্রণালী (syntax), শব্দার্থবিদ্যা(semantics), এবং ব্যবহার একেবারেই আলাদা।</p>
 
 <div class="column-container">
 <div class="column-half">
 <h2 id="টিউটোরিয়াল">টিউটোরিয়াল</h2>
 
-<p>শিখুন জাভাস্ক্রিপ্ট দিয়ে কিভাবে&nbsp;প্রোগ্রাম করে।</p>
+<p>শিখুন কিভাবে জাভাস্ক্রিপ্ট দিয়ে &nbsp;প্রোগ্রাম করে।</p>
 
 <h3 id="প্রারম্ভিক">প্রারম্ভিক</h3>
 
