@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1309093
+revision_id: 1309101
 locale: zh-CN
 slug: Web/HTML
 tags: "HTML" "HTML5" "HTML教程" "元素" "参考" "超文本" "Web"
@@ -56,7 +56,7 @@ based_on: None
  <dd>该部分提供了一些链接，这些链接指向那些在你构建Web页面的过程中最常遇到的问题的解决方法：如何处理网页标题、添加图片和视频、强调某些内容、建立基本的表单等。</dd>
 </dl>
 
-<h2 id="Advanced_topics">高级主题</h2>
+<h2 id="高级主题">高级主题</h2>
 
 <dl>
  <dt class="landingPageList"><a href="/zh-CN/docs/Web/HTML/CORS_enabled_image">CORS 处理跨域图片</a></dt>
@@ -64,7 +64,7 @@ based_on: None
  <dt class="landingPageList"><a href="/zh-CN/docs/Web/HTML/CORS_settings_attributes">CORS设置属性</a></dt>
  <dd class="landingPageList">一些HTML元素提供了对<a href="/zh-CN/docs/HTTP/Access_control_CORS">CORS</a>的支持，比如{{HTMLElement("img")}}或{{HTMLElement("video")}}，它们提供了<code>crossorigin</code>元素属性／attribute （<code>crossOrigin</code>对象属性／property），该属性使你能够对元素跨域获取资源的行为进行配置。</dd>
  <dt class="landingPageList"><a href="/zh-CN/docs/Web/HTML/Focus_management_in_HTML">HTML中的焦点管理</a></dt>
- <dd class="landingPageList">DOM元素的<code><a href="/zh-CN/docs/Web/API/Document/activeElement">activeElement</a></code>属性以及<code><a href="/zh-CN/docs/Web/API/Document/hasFocus">hasFocus()</a></code>方法可以帮助你跟踪并控制用户在网页中与各种远俗的交互行为。</dd>
+ <dd class="landingPageList">DOM元素的<code><a href="/zh-CN/docs/Web/API/Document/activeElement">activeElement</a></code>属性以及<code><a href="/zh-CN/docs/Web/API/Document/hasFocus">hasFocus()</a></code>方法可以帮助你跟踪并控制用户在网页中与各种元素的交互行为。</dd>
  <dt class="landingPageList"><a href="/zh-CN/docs/Web/HTML/Using_the_application_cache">使用应用缓存</a></dt>
  <dd class="landingPageList">应用程序缓存使得以网页为基础的程序可以离线运行。你可以使用<strong>Application Cache</strong>（<em>AppCache</em>）接口指定相应的资源令浏览器进行缓存，以使得用户可以离线使用该程序。缓存后的应用程序将能够被正确的加载并运行，即使用户在离线的状态下点击了刷新按钮也是如此。</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Preloading_content">使用rel="preload"预加载页面内容</a></dt>
@@ -74,11 +74,12 @@ based_on: None
 
 <div class="section">
 <h2 class="Documentation" id="Documentation" name="Documentation">参考</h2>
+
 <dl>
  <dt class="landingPageList"><a href="/zh-CN/docs/Web/HTML/Reference">HTML参考</a></dt>
  <dd class="landingPageList">HTML由<strong>元素</strong>组成，每个元素都可以被多个<strong>属性</strong>修饰。HTML文档通过<a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Link_types">链接</a>相互连接。</dd>
  <dt class="landingPageList"><a href="/zh-CN/docs/Web/HTML/Element">HTML元素参考</a></dt>
- <dd class="landingPageList">浏览一个完整的<a href="/zh-CN/docs/Glossary/HTML" class="glossaryLink">HTML</a><a href="/zh-CN/docs/Glossary/Element" class="glossaryLink">元素</a>列表。</dd>
+ <dd class="landingPageList">浏览一个完整的<a class="glossaryLink" href="/zh-CN/docs/Glossary/HTML">HTML</a><a class="glossaryLink" href="/zh-CN/docs/Glossary/Element">元素</a>列表。</dd>
  <dt class="landingPageList"><a href="/zh-CN/docs/Web/HTML/Attributes">HTML属性参考</a></dt>
  <dd class="landingPageList">HTML元素都含有<strong>元素属性</strong>。这些额外的属性值可以通过多种途径对元素进行配置或调整其行为。</dd>
  <dt class="landingPageList"><a href="/zh-CN/docs/Web/HTML/Global_attributes">全局属性</a></dt>
@@ -92,7 +93,8 @@ based_on: None
  <dt class="landingPageList"><a href="/zh-CN/docs/Web/HTML/Kinds_of_HTML_content">其他HTML内容</a>（高级）</dt>
  <dd class="landingPageList">HTML包含了大量的不同类型的内容，每种内容在特定的情景上下文中有效，而在其他上下文中无效。类似地，每种内容也包含了一组关于其他类型内容的配置，包括哪些内容类型和元素可以或不可以被包含包含并使用。这里提供了一个关于这些分类的说明。</dd>
 </dl>
-<h2 class="landingPageList" id="Related_topics">相关主题</h2>
+
+<h2 class="landingPageList" id="相关主题">相关主题</h2>
 
 <dl>
  <dt><a href="/zh-CN/docs/Web/HTML/Applying_color">使用CSS为HTML元素添颜色</a></dt>
@@ -103,6 +105,7 @@ based_on: None
 <span class="alllinks"><a href="/zh-CN/docs/tag/HTML">查看所有...</a></span>
 
 <p>{{CommunityBox("Web layout", "dev-tech-layout", "mozilla.dev.tech.layout", "", "Stack Overflow|http://stackoverflow.com/questions/tagged/html|HTML topics|Visit Stack Overflow, a collaboratively built and maintained Q&amp;A site. See if you can find an answer; if not, you can ask your question there.")}}</p>
-</section></p>
 </section>
+
+<p>&nbsp;</p>
 
