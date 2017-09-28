@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1267819
+revision_id: 1311135
 locale: fr
 slug: Web/JavaScript/Reference/Opérateurs/Opérateurs_de_comparaison
 tags: "JavaScript" "Opérateur" "Référence(2)"
@@ -23,7 +23,7 @@ based_on: None
 
 <ul>
  <li>Deux chaînes de caractères sont strictement égales lorsqu'elles ont la même séquence de caractères, la même longueur et les mêmes caractères aux mêmes positions.</li>
- <li>Deux nombres sont strictement égaux lorsqu'ils ont la même valeur. {{jsxref("Objets_globaux/NaN","NaN")}} n'est égal à rien, y compis lui-même. Le zéro positif et le zéro négatif sont considérés égaux.</li>
+ <li>Deux nombres sont strictement égaux lorsqu'ils ont la même valeur. {{jsxref("Objets_globaux/NaN","NaN")}} n'est égal à rien, y compris lui-même. Le zéro positif et le zéro négatif sont considérés égaux.</li>
  <li>Deux booléens sont strictement égaux s'ils valent tous les deux <code>true</code> ou tous les deux <code>false</code>.</li>
  <li>Deux objets distincts ne sont jamais égaux l'un à l'autre (pour l'égalité faible et stricte).</li>
  <li>Deux objets sont égaux si les deux opérandes sont des références au même objet.</li>
