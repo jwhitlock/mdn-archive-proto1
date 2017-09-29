@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1305227
+revision_id: 1311651
 locale: fr
 slug: MDN/Débuter_sur_MDN
 tags: "MDN" "MDN Meta" "Guide" "Débutant" "Introduction"
@@ -21,7 +21,7 @@ based_on: None
 
 <h2 id="3_étapes_pour_contribuer_à_MDN">3 étapes pour contribuer à MDN</h2>
 
-<p>MDN est un wiki :&nbsp;<strong>n'importe qui</strong> peut ajouter et éditer du contenu. Il n'est pas nécessaire d'être développeur ou de s'y connaître beaucoup en technologie, il y a tellement des choses à faire ! Des choses simples — <em>comme la relecture ou la correction typographique</em> —&nbsp; ou des choses plus complexes — <em>comme la rédaction de la documentation d'une API</em>.</p>
+<p>MDN est un wiki :&nbsp;<strong>n'importe qui</strong> peut ajouter et éditer du contenu. Il n'est pas nécessaire d'être développeur ou de s'y connaître beaucoup en technologie, il y a tellement de choses à faire ! Des choses simples — <em>comme la relecture ou la correction typographique</em> —&nbsp; ou des choses plus complexes — <em>comme la rédaction de la documentation d'une API</em>.</p>
 
 <p>Contribuer est facile et sans risque. Si vous faites une erreur, il sera facile de la corriger. Si vous n'êtes pas certain de ce à quoi doivent ressembler les choses&nbsp;ou que votre grammaire n'est pas parfaite, ne vous inquiétez pas&nbsp;! Il existe d'autres personnes ici dont la tâche est de garantir la qualité du contenu de MDN. Il y aura donc toujours quelqu'un pour s'assurer que votre travail est valide. Partagez juste vos connaissances et suivez vos points forts : faites confiance au reste de la communauté pour améliorer encore votre travail.</p>
 
