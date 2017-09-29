@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1279055
+revision_id: 1312163
 locale: vi
 slug: Web/JavaScript
 tags: "Landing" "JavaScript" "Học javascript"
@@ -86,7 +86,7 @@ based_on: None
  <dd>Học cách làm việc với các hàm trong JS để phát triển các&nbsp;ứng dụng của bạn.</dd>
 </dl>
 
-<h2 id="Công_cụ_tài_nguyên">Công cụ&nbsp;&amp; tài nguyên</h2>
+<h2 id="Công_cụ_tài_nguyên">Công cụ &amp; tài nguyên</h2>
 
 <p>Các công cụ hữu dụng để viết mã và &nbsp;gỡ lỗi&nbsp;với JavaScript.</p>
 
