@@ -1,34 +1,34 @@
 ---
 version: prototype1
-revision_id: 1078386
+revision_id: 1312081
 locale: th
 slug: Web
 tags: "Landing" "TopicStub" "Technology" "NeedsTranslation"
-title: Web Technologies
+title: เทคโนโลยี เว็บ สำหรับ นักพัฒนา
 summary: 
 keywords: 
-needs_technical_review: False
+needs_technical_review: True
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
 <blockquote>
-<h2>รน</h2>
+<h2 id="รน">รน</h2>
 
-<h2 name="สวัสดีครับ">สวัสดีครับ</h2>
+<h2 id="สวัสดีครับ" name="สวัสดีครับ">สวัสดีครับ</h2>
 
-<h3>HTML Content</h3>
+<h3 id="HTML_Content">HTML Content</h3>
 
 <pre class="brush: html">
 Sample HTML Content</pre>
 
-<h3>CSS Content</h3>
+<h3 id="CSS_Content">CSS Content</h3>
 
 <pre class="brush: css">
 Sample CSS Content</pre>
 
-<h3>JavaScript Content</h3>
+<h3 id="JavaScript_Content">JavaScript Content</h3>
 
 <pre class="brush: js">
 Sample JavaScript Content</pre>
@@ -40,7 +40,7 @@ Sample JavaScript Content</pre>
 <dl>
 </dl>
 
-<h2>Web technologies</h2>
+<h2 id="Web_technologies">Web technologies</h2>
 </blockquote>
 
 <div class="row topicpage-table">
