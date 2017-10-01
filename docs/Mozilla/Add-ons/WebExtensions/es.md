@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1311047
+revision_id: 1312409
 locale: es
 slug: Mozilla/Add-ons/WebExtensions
 tags: "Complementos" "Dónde empezar" "WebExtensions" "extensiones"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -108,11 +108,11 @@ based_on: None
 
 <h4 id="APIs_de_JavaScript">APIs de JavaScript</h4>
 
-<div class="twocolumns">{{ ListSubpages ("/es/Add-ons/WebExtensions/API") }}</div>
+<div class="twocolumns">{{ ListSubpages ("/en-US/Add-ons/WebExtensions/API") }}</div>
 
 <h4 id="Manifest_keys">Manifest keys</h4>
 
-<div class="twocolumns">{{ ListSubpages ("/es/Add-ons/WebExtensions/manifest.json") }}</div>
+<div class="twocolumns">{{ ListSubpages ("/en-US/Add-ons/WebExtensions/manifest.json") }}</div>
 </div>
 </div>
 
