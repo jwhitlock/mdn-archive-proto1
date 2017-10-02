@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1290591
+revision_id: 1312845
 locale: ru
 slug: Web/CSS
 tags: "CSS" "Стиль" "Layout" "Дизайн" "Landing" "Верстка" "Главная" "Справка" "Learning" "Reference" "Référence(2)"
@@ -24,7 +24,7 @@ based_on: None
   <p><a href="/ru/docs/Web/CSS/Reference" title="ru/docs/CSS/CSS_Reference">Исчерпывающий справочник</a> для опытных веб-разработчиков, описывающий каждое свойство и понятие CSS.</p>
  </li>
  <li><span>Самоучитель по CSS</span>
-  <p><a href="/ru/docs/CSS/Getting_Started" title="ru/docs/CSS/Getting_Started">Пошаговое руководство</a> для помощи начинающим программистам CSS. Содержит все необходимые основы.</p>
+  <p><a href="/Learn/CSS/Introduction_to_CSS" title="ru/docs/CSS/Getting_Started">Пошаговое руководство</a> для помощи начинающим программистам CSS. Содержит все необходимые основы.</p>
  </li>
  <li><span>Примеры&nbsp;CSS3</span>
   <p><a href="/ru/demos/tag/tech:css3" title="https://developer.mozilla.org/ru/demos/tag/tech:css3">Набор&nbsp;примеров</a>&nbsp;представляющий новейшие технологии CSS в действии: толчок к креативности.</p>
