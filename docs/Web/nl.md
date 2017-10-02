@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1080852
+revision_id: 1312825
 locale: nl
 slug: Web
 tags: "Web" "Landing"
@@ -17,27 +17,30 @@ based_on: None
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="Web_technologieën">Webtechnologieën</h2>
+<h2 class="Documentation" id="Webtechnologieën">Webtechnologieën</h2>
 
 <h3 id="Basis">Basis</h3>
 
 <dl>
  <dt><a href="/docs/Web/HTML">HTML</a></dt>
- <dd>HyperText Markup Language is de opmaaktaal die wordt gebruikt om de inhoud van een webpagina in een goed gestructureerde opmaak te definiëren.</dd>
+ <dd><strong>HyperText Markup Language (HTML)</strong> is de opmaaktaal die wordt gebruikt om de inhoud van een webpagina in een goed gestructureerde opmaak te definiëren.</dd>
  <dt><a href="/docs/Web/CSS">CSS</a></dt>
- <dd>Cascading Style Sheets worden gebruikt om de vormgeving van webinhoud te beschrijven.</dd>
+ <dd><strong>Cascading Style Sheets (CSS)</strong> worden gebruikt om de vormgeving van webinhoud te beschrijven.</dd>
+ <dt><a href="/docs/Web/HTTP">HTTP</a></dt>
+ <dd><strong>Hypertext Transfer Protocol (HTTP)</strong> wordt gebruikt om HTML- en andere hypermediadocumenten op het web af te leveren.</dd>
 </dl>
 
 <h3 id="Programmeren">Programmeren</h3>
 
 <dl>
  <dt><a href="/docs/Web/JavaScript">JavaScript</a></dt>
- <dd>JavaScript is de programmeertaal die in de browser wordt uitgevoerd en wordt gebruikt om geavanceerde interactieve websites en -applicaties voor veilig browsergedrag te bouwen.</dd>
- <dt><a href="/docs/Web/Reference/API">Web-APIs</a></dt>
- <dd>Referentiemateriaal voor elk van de individuele API’s die de krachtige scriptbaarheid van het web omvatten, waaronder de <a href="/docs/DOM">DOM</a> en alle gerelateerde API’s en interfaces die u kunt gebruiken om webinhoud en -apps te bouwen.
+ <dd><strong>JavaScript</strong> is de programmeertaal die in de browser wordt uitgevoerd en wordt gebruikt om geavanceerde interactieve websites en -applicaties voor veilig browsergedrag te bouwen.</dd>
+ <dt><a href="/docs/Web/Reference/API">Web-API’s</a></dt>
+ <dd>Web Application Programming Interfaces (Web-API’s) worden gebruikt om verschillende taken uit te voeren, zoals het manipuleren van de <a href="/docs/DOM">DOM</a>, het afspelen van audio of video of het genereren van 3D-graphics.
  <ul>
-  <li><a href="/docs/Web/API" title="/docs/Web/API">Web-API-interfacereferentie</a> - alle interfaces, alfabetisch gerangschikt.</li>
-  <li>De <a href="/docs/WebAPI">WebAPI</a>-pagina vermeldt alle API’s voor apparaattoegang en andere API’s die nuttig zijn voor applicaties.</li>
+  <li><a href="/docs/Web/API" title="/docs/Web/API">Web-API-interfacereferentie</a> geeft een overzicht van alle objecttypen die u kunt gebruiken als u voor het web ontwikkelt.</li>
+  <li>De <a href="/docs/WebAPI">WebAPI</a>-pagina geeft een overzicht van alle API’s voor communicatie, hardwaretoegang en andere API’s die nuttig zijn voor applicaties.</li>
+  <li>De <a href="/docs/Web/Events">Event-referentie</a> geeft een overzicht van alle gebeurtenissen die u kunt gebruiken om interessante dingen die in uw webpagina of applicatie hebben plaatsgevonden, te volgen en er op te reageren.</li>
  </ul>
  </dd>
 </dl>
@@ -50,6 +53,8 @@ based_on: None
  <dt><a href="/docs/Web/WebGL" title="/docs/Web/WebGL">WebGL</a></dt>
  <dd>WebGL brengt 3D-graphics naar het Web door een API die nauw samenwerkt met OpenGL ES 2.0, dat in HTML {{HTMLElement("canvas")}}-elementen kan worden gebruikt.</dd>
 </dl>
+
+<h3 id="Audio_video_and_multimedia">Audio, viedo en multiemedia</h3>
 
 <h3 id="Overige">Overige</h3>
 
