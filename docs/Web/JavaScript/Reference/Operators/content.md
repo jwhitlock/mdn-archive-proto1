@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1178909
+revision_id: 1314025
 locale: en-US
 slug: Web/JavaScript/Reference/Operators
 tags: "JavaScript" "Operators"
@@ -67,7 +67,7 @@ based_on: None
  <dt>{{jsxref("Operators/super", "super")}}</dt>
  <dd>The <code>super</code> keyword calls the parent constructor.</dd>
  <dt>{{jsxref("Operators/Spread_operator", "...obj")}}</dt>
- <dd>The spread operator allows an expression to be expanded in places where multiple arguments (for function calls) or multiple elements (for array literals) are expected.</dd>
+ <dd>Spread syntax allows an expression to be expanded in places where multiple arguments (for function calls) or multiple elements (for array literals) are expected.</dd>
 </dl>
 
 <h3 id="Increment_and_decrement">Increment and decrement</h3>
@@ -137,13 +137,13 @@ based_on: None
  <dd>The <code>in</code> operator determines whether an object has a given property.</dd>
  <dt>{{jsxref("Operators/instanceof", "instanceof")}}</dt>
  <dd>The <code>instanceof</code> operator determines whether an object is an instance of another object.</dd>
- <dt>{{jsxref("Operators/Comparison_Operators", "<", "#Less_than_operator")}}</dt>
+ <dt>{{jsxref("Operators/Comparison_Operators", "&lt;", "#Less_than_operator")}}</dt>
  <dd>Less than operator.</dd>
- <dt>{{jsxref("Operators/Comparison_Operators", ">", "#Greater_than_operator")}}</dt>
+ <dt>{{jsxref("Operators/Comparison_Operators", "&gt;", "#Greater_than_operator")}}</dt>
  <dd>Greater than operator.</dd>
- <dt>{{jsxref("Operators/Comparison_Operators", "<=", "#Less_than_or_equal_operator")}}</dt>
+ <dt>{{jsxref("Operators/Comparison_Operators", "&lt;=", "#Less_than_or_equal_operator")}}</dt>
  <dd>Less than or equal operator.</dd>
- <dt>{{jsxref("Operators/Comparison_Operators", ">=", "#Greater_than_or_equal_operator")}}</dt>
+ <dt>{{jsxref("Operators/Comparison_Operators", "&gt;=", "#Greater_than_or_equal_operator")}}</dt>
  <dd>Greater than or equal operator.</dd>
 </dl>
 
@@ -171,11 +171,11 @@ based_on: None
 <p>Operations to shift all bits of the operand.</p>
 
 <dl>
- <dt>{{jsxref("Operators/Bitwise_Operators", "<<", "#Left_shift")}}</dt>
+ <dt>{{jsxref("Operators/Bitwise_Operators", "&lt;&lt;", "#Left_shift")}}</dt>
  <dd>Bitwise left shift operator.</dd>
- <dt>{{jsxref("Operators/Bitwise_Operators", ">>", "#Right_shift")}}</dt>
+ <dt>{{jsxref("Operators/Bitwise_Operators", "&gt;&gt;", "#Right_shift")}}</dt>
  <dd>Bitwise right shift operator.</dd>
- <dt>{{jsxref("Operators/Bitwise_Operators", ">>>", "#Unsigned_right_shift")}}</dt>
+ <dt>{{jsxref("Operators/Bitwise_Operators", "&gt;&gt;&gt;", "#Unsigned_right_shift")}}</dt>
  <dd>Bitwise unsigned right shift operator.</dd>
 </dl>
 
@@ -184,7 +184,7 @@ based_on: None
 <p>Bitwise operators treat their operands as a set of 32 bits (zeros and ones) and return standard JavaScript numerical values.</p>
 
 <dl>
- <dt>{{jsxref("Operators/Bitwise_Operators", "&", "#Bitwise_AND")}}</dt>
+ <dt>{{jsxref("Operators/Bitwise_Operators", "&amp;", "#Bitwise_AND")}}</dt>
  <dd>Bitwise AND.</dd>
  <dt>{{jsxref("Operators/Bitwise_Operators", "|", "#Bitwise_OR")}}</dt>
  <dd>Bitwise OR.</dd>
@@ -197,7 +197,7 @@ based_on: None
 <p>Logical operators are typically used with boolean (logical) values, and when they are, they return a boolean value.</p>
 
 <dl>
- <dt>{{jsxref("Operators/Logical_Operators", "&&", "#Logical_AND")}}</dt>
+ <dt>{{jsxref("Operators/Logical_Operators", "&amp;&amp;", "#Logical_AND")}}</dt>
  <dd>Logical AND.</dd>
  <dt>{{jsxref("Operators/Logical_Operators", "||", "#Logical_OR")}}</dt>
  <dd>Logical OR.</dd>
@@ -229,13 +229,13 @@ based_on: None
  <dd>Addition assignment.</dd>
  <dt>{{jsxref("Operators/Assignment_Operators", "-=", "#Subtraction_assignment")}}</dt>
  <dd>Subtraction assignment</dd>
- <dt>{{jsxref("Operators/Assignment_Operators", "<<=", "#Left_shift_assignment")}}</dt>
+ <dt>{{jsxref("Operators/Assignment_Operators", "&lt;&lt;=", "#Left_shift_assignment")}}</dt>
  <dd>Left shift assignment.</dd>
- <dt>{{jsxref("Operators/Assignment_Operators", ">>=", "#Right_shift_assignment")}}</dt>
+ <dt>{{jsxref("Operators/Assignment_Operators", "&gt;&gt;=", "#Right_shift_assignment")}}</dt>
  <dd>Right shift assignment.</dd>
- <dt>{{jsxref("Operators/Assignment_Operators", ">>>=", "#Unsigned_right_shift_assignment")}}</dt>
+ <dt>{{jsxref("Operators/Assignment_Operators", "&gt;&gt;&gt;=", "#Unsigned_right_shift_assignment")}}</dt>
  <dd>Unsigned right shift assignment.</dd>
- <dt>{{jsxref("Operators/Assignment_Operators", "&=", "#Bitwise_AND_assignment")}}</dt>
+ <dt>{{jsxref("Operators/Assignment_Operators", "&amp;=", "#Bitwise_AND_assignment")}}</dt>
  <dd>Bitwise AND assignment.</dd>
  <dt>{{jsxref("Operators/Assignment_Operators", "^=", "#Bitwise_XOR_assignment")}}</dt>
  <dd>Bitwise XOR assignment.</dd>
@@ -299,6 +299,12 @@ based_on: None
   </tr>
  </tbody>
 </table>
+
+<h2>Browser compatibility</h2>
+
+<div class="hidden">The compatibility table on this page is generated from structured data. If you'd like to contribute to the data, please check out <a href="https://github.com/mdn/browser-compat-data">https://github.com/mdn/browser-compat-data</a> and send us a pull request.</div>
+
+<p>{{Compat("javascript.operators")}}</p>
 
 <h2 id="See_also">See also</h2>
 
