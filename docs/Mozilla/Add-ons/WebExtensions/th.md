@@ -1,19 +1,19 @@
 ---
 version: prototype1
-revision_id: 1173301
+revision_id: 1314461
 locale: th
 slug: Mozilla/Add-ons/WebExtensions
 tags: 
 title: WebExtensions
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 1143511
+based_on: None
 ---
-<div>{{EmbedYouTube("zYNsQ6ibdZs")}}{{AddonSidebar}}</div>
+<div>{{AddonSidebar}}</div>
 
 <p>WebExtensions are a cross-browser system for developing browser add-ons. To a large extent the system is compatible with the <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a> supported by Google Chrome and Opera. Extensions written for these browsers will in most cases run in Firefox or <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a> with <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">just a few changes</a>. The API is also fully compatible with <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">multiprocess Firefox</a>.</p>
 
