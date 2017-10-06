@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1282615
+revision_id: 1314953
 locale: pt-BR
 slug: Web/Guide/Gráficos
 tags: "2D" "3D" "HTML5" "SVG" "Web" "WebGL" "WebRTC" "Canvas" "Gráficos(2)"
@@ -20,7 +20,7 @@ based_on: None
 <h2 class="Documentation" id="Gráficos_2D">Gráficos 2D</h2>
 
 <dl>
- <dt><a href="/pt-BR/docs/Web/Guide/Graphics/Drawing_graphics_with_canvas">Canvas</a></dt>
+ <dt><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Canvas">Canvas</a></dt>
  <dd>Uma guia introdutória do uso do elemento {{HTMLElement("canvas")}} para desenhar gráficos 2D usando JavaScript.</dd>
  <dt><a href="/pt-BR/docs/SVG">SVG</a></dt>
  <dd><em>Scalable Vector Graphics</em> (SVG) ou Gráficos de Vetor Escalável permite que você use linhas, curvas e outras formas geométricas para render gráficos. Com vetores, você pode criar imagens que escalam de modo limpo para qualquer tamanho.</dd>
