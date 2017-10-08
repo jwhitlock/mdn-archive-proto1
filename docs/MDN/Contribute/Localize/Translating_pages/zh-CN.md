@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1279765
+revision_id: 1316491
 locale: zh-CN
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "MDC项目" "MDN" "本地化"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p> </p>
+<p>&nbsp;</p>
 
 <p>这篇文章是翻译MDN上的内容的基本指南，指南内容包括翻译工作的机制以及适当地处理不同类型内容的小贴士。</p>
 
@@ -30,7 +30,7 @@ based_on: None
  <li>当您完成时点击<strong>保存更改。</strong></li>
 </ol>
 
-<div class="note"><strong>注意：</strong> 翻译中的文章的用户界面初始化是英语的。如果MDN的本地化中您的目标语言存在的话，那么在接下来的访问翻译特定文章时，用户界面以恰当的语言显示。MDN用户界面能使用<a href="https://localize.mozilla.org/projects/mdn/" title="https://localize.mozilla.org/projects/mdn/">Verbatim</a>来本地化。如何使用这个工具的细节参阅 <a href="/zh-CN/docs/Mozilla/Localization/Localizing_with_Verbatim" title="/zh-CN/docs/Mozilla/Localization/Localizing_with_Verbatim">Localizing with Verbatim</a>。</div>
+<div class="note"><strong>注意：</strong>&nbsp;翻译中的文章用户初始界面为英文版。如果MDN的本地化中您的目标语言存在的话，那么在接下来的访问翻译特定文章时，用户界面将以目标语言显示。MDN用户界面能使用<a href="https://localize.mozilla.org/projects/mdn/" title="https://localize.mozilla.org/projects/mdn/">Verbatim</a>来本地化。如何使用这个工具的细节参阅&nbsp;<a href="/zh-CN/docs/Mozilla/Localization/Localizing_with_Verbatim" title="/zh-CN/docs/Mozilla/Localization/Localizing_with_Verbatim">Localizing with Verbatim</a>。</div>
 
 <h2 id="编辑已翻译的页面">编辑已翻译的页面</h2>
 
@@ -38,11 +38,11 @@ based_on: None
  <li>在一已翻译的网页上，点击<strong>编辑</strong>按键（有的时候标记为目标语言）。翻译中的文章视图展开。</li>
 </ul>
 
-<p><span style="display: none;" id="cke_bm_86C"> </span>如果英语版本已经被更改而翻译副本还是上次更新状态，翻译中的文章视图在英语版面中显示一个源级别的不同更改。帮助您看到翻译副本中什么需要更新。</p>
+<p><span id="cke_bm_86C" style="display:none">&nbsp;</span>如果英语版本已经被更改而翻译副本还是上次更新状态，翻译中的文章视图在英语版面中显示一个源级别的不同更改。帮助您看到翻译副本中什么需要更新。</p>
 
 <h2 id="翻译标签">翻译标签</h2>
 
 <p>确保页面至少有一个标签，即使是翻译的页面。</p>
 
-<p>一些标签用于搜索筛选，或者作为贡献者之间的约定。这些标签无需翻译。如果需要了解这些标签，请参看<a href="/zh-CN/docs/Project:MDN/Contributing/Tagging_standards">标签标准</a>。 如果标签标准里面没有您想用的标签，您可以新建翻译了的标签来分类内容。</p>
+<p>一些标签用于搜索筛选，或者作为贡献者之间的约定。这些标签无需翻译。如果需要了解这些标签，请参看<a href="/zh-CN/docs/Project:MDN/Contributing/Tagging_standards">标签标准</a>。&nbsp;如果标签标准里面没有您想用的标签，您可以新建翻译了的标签来分类内容。</p>
 
