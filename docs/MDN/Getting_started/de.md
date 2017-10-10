@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1317486
+revision_id: 1317487
 locale: de
 slug: MDN/Erste_Schritte
 tags: "MDN" "Guide" "MDN Project" "Documentation" "Getting Started" "New Contributors"
@@ -102,7 +102,7 @@ based_on: None
   </tr>
   <tr>
    <td><code>product</code></td>
-   <td><a href="https://bugzilla.mozilla.org/enter_bug.cgi?product=Developer+Documentation">Entwicklerdokumenation</a></td>
+   <td><a href="https://bugzilla.mozilla.org/enter_bug.cgi?product=Developer+Documentation">Entwicklerdokumentation</a></td>
   </tr>
   <tr>
    <td><code>component</code></td>
