@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1291851
+revision_id: 1317723
 locale: pt-BR
 slug: Aprender
 tags: "Web" "Index" "Novato" "Aprender" "Iniciante"
@@ -32,7 +32,7 @@ based_on: None
   <p>Muito bom! Nesse caso, sugerimos cavar mais profundo nas tecnologias no coração da Web: <a href="/pt-BR/docs/Aprender/HTML">HTML</a>, <a href="/pt-BR/docs/Aprender/css">CSS</a> e <a href="/pt-BR/docs/Aprender/javascript">JavaScript</a></p>
  </li>
  <li><span>Eu domino a web</span>
-  <p>Fantástico! Nesse caso, você pode se interessar em explorar nossos <a href="/en-US/docs/Web/Guide">Guias</a> e <a href="/en-US/docs/Web/Tutorials">Tutoriais</a> avançados. Você também deve considerar <a href="/en-US/Learn/How_to_contribute">contribuir para a Área de Aprendizado</a>. ;)</p>
+  <p>Fantástico! Nesse caso, você pode se interessar em explorar nossos <a href="/pt-BR/docs/Web/Guide">Guias</a> e <a href="/en-US/docs/Web/Tutorials">Tutoriais</a> avançados. Você também deve considerar <a href="/en-US/Learn/How_to_contribute">contribuir para a Área de Aprendizado</a>. ;)</p>
  </li>
 </ul>
 
