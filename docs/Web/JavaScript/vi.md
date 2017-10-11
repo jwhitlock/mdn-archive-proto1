@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 1312163
+revision_id: 1317622
 locale: vi
 slug: Web/JavaScript
 tags: "Landing" "JavaScript" "Học javascript"
 title: JavaScript
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
