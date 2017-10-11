@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1214363
+revision_id: 1317724
 locale: en-US
 slug: MDN/About
 tags: "MDN Meta" "Guide" "Licenses" "Community" "Copyright" "Collaborating" "Documentation"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{IncludeSubNav("/en-US/docs/MDN")}}</div>
 
-<p>The Mozilla Developer Network (MDN) is an evolving learning platform for Web technologies and the software that powers the Web, including:</p>
+<p>MDN Web Docs is an evolving learning platform for Web technologies and the software that powers the Web, including:</p>
 
 <ul>
  <li>Web standards such as <a href="/en-US/docs/CSS" title="/en-US/docs/CSS">CSS</a>, <a href="/en-US/docs/HTML" title="/en-US/docs/HTML">HTML</a>, and <a href="/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></li>
@@ -27,7 +27,7 @@ based_on: None
 
 <p>MDN's mission is simple: to provide developers with the information they need to easily build projects on the <a href="/en-US/docs/Web">open Web</a>. If it's an open technology exposed to the Web, we want to document it.</p>
 
-<p>In addition, we provide documentation about <a href="/en-US/docs/Mozilla">Mozilla products</a> and how to <a href="/en-US/docs/Mozilla">build and contribute to Mozilla projects</a>. We also cover the <a href="/en-US/docs/Mozilla/B2G_OS">B2G OS</a> (formerly Firefox OS).</p>
+<p>In addition, we provide documentation about <a href="/en-US/docs/Mozilla">Mozilla products</a> and how to <a href="/en-US/docs/Mozilla">build and contribute to Mozilla projects</a>.</p>
 
 <p>If you're not sure whether a particular topic should be covered on MDN, read: <a href="/en-US/docs/Project:MDN/Contributing/Does_this_belong">Does this belong on MDN?</a></p>
 
@@ -39,11 +39,11 @@ based_on: None
 
 <h2 id="The_MDN_community">The MDN community</h2>
 
-<p>Our community is a global one! We have amazing contributors all around the world, in a number of languages. If you'd like to learn more about us, or if you need help of any kind with MDN, feel free to check out our <a href="http://lists.mozilla.org/listinfo/dev-mdc">mailing list</a> or <a href="irc://irc.mozilla.org#mdn">IRC channel</a>! You can also keep up with what we're up to by following our Twitter account, <a href="http://twitter.com/MozDevNet">@MozDevNet</a>. You can also send tweets our way if you see something wrong or if you'd like to offer feedback (or great big thank yous) to our writers and contributors!</p>
+<p>Our community is a global one! We have amazing contributors all around the world, in a number of languages. If you'd like to learn more about us, or if you need help of any kind with MDN, feel free to check out our <a href="https://discourse.mozilla-community.org/c/mdn">discussion forum</a> or <a href="irc://irc.mozilla.org#mdn">IRC channel</a>! You can also keep up with what we're up to by following our Twitter account, <a href="http://twitter.com/MozDevNet">@MozDevNet</a>. You can also send tweets our way if you see something wrong or if you'd like to offer feedback (or great big thank yous) to our writers and contributors!</p>
 
-<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC||Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events", "MozDevNet")}}</p>
+<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events", "MozDevNet")}}</p>
 
-<h2 id="Using_MDN_content">Using MDN content</h2>
+<h2 id="Using_MDN_Web_Docs_content">Using MDN Web Docs content</h2>
 
 <h3 id="Copyrights_and_licenses">Copyrights and licenses</h3>
 
@@ -94,13 +94,13 @@ based_on: None
 
 <p>See this article for guidance on <a href="/en-US/docs/MDN/About/Linking_to_MDN">linking to MDN</a> for best practices when linking.</p>
 
-<h2 id="Reporting_problems_with_MDN">Reporting problems with MDN</h2>
+<h2 id="Reporting_problems_with_MDN_Web_Docs">Reporting problems with MDN Web Docs</h2>
 
 <p>See <a href="/en-US/docs/MDN/Contribute/Howto/Report_a_problem">How to report a problem on MDN</a>.</p>
 
-<h2 id="History_of_MDN">History of MDN</h2>
+<h2 id="History_of_MDN_Web_Docs">History of MDN Web Docs</h2>
 
-<p>The Mozilla Developer Network (a.k.a. Mozilla Developer Center (MDC), a.k.a. <em>Devmo</em>) project started in early 2005, when the <a class="external" href="http://www.mozillafoundation.org">Mozilla Foundation</a> obtained a license from AOL to use the original Netscape <a href="https://web.archive.org/web/*/devedge.netscape.com" title="Project:en/DevEdge">DevEdge</a> content. The DevEdge content was mined for still-useful material, which was then migrated by volunteers into this wiki so it would be easier to update and maintain.</p>
+<p>The MDN Web Docs (previously <em>Mozilla Developer Network (MDN)</em>, previously <em>Mozilla Developer Center (MDC)</em>, a.k.a. <em>Devmo</em>) project started in early 2005, when the <a class="external" href="http://www.mozillafoundation.org">Mozilla Foundation</a> obtained a license from AOL to use the original Netscape <a href="https://web.archive.org/web/*/devedge.netscape.com" title="Project:en/DevEdge">DevEdge</a> content. The DevEdge content was mined for still-useful material, which was then migrated by volunteers into this wiki so it would be easier to update and maintain.</p>
 
 <p>You can find more history of MDN on our <a href="/en-US/docs/MDN_at_ten">10th anniversary celebration</a> page, including an oral history by some of the people who were involved.</p>
 
