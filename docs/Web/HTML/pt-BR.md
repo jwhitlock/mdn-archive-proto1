@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1295525
+revision_id: 1317490
 locale: pt-BR
 slug: Web/HTML
 tags: "HTML" "HTML5" "O que é HTML" "Aula de HTML" "Hiper texto" "Tutorial de HTML" "Referencias(2)" "Programação em HTML"
@@ -30,10 +30,10 @@ based_on: None
   <p>Se você é novo no desenvolvimento web, leia o artigo <a href="/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">O Básico do HTML </a>para aprender o que é HTML e como usá-lo.</p>
  </li>
  <li><span>Tutoriais HTML </span>
-  <p>Veja artigos sobre como usar o HTML, e também tutoriais e exemplos completos, cheque nossa <a href="/pt-BR/docs/Aprender/HTML">Área de Aprendizado do HTML</a>.</p>
+  <p>Para artigos sobre como usar o HTML, assim como tutoriais e exemplos completos, cheque nossa <a href="/pt-BR/docs/Aprender/HTML">Área de Aprendizado do HTML</a>.</p>
  </li>
  <li><span>Referência do HTML </span>
-  <p>Em nossa extensiva <a href="/pt-BR/docs/Web/HTML/ReferenciaHTML">Referência do HTML</a>, você encontrará detalhes sobre todos elementos e atributos do HTML.</p>
+  <p>Em nossa extensa seção&nbsp;de <a href="/pt-BR/docs/Web/HTML/ReferenciaHTML">Referência do HTML</a>, você encontrará detalhes sobre todos elementos e atributos do HTML.</p>
  </li>
 </ul>
 
@@ -42,10 +42,20 @@ based_on: None
 <h2 class="Documentation" id="Referências">Referências</h2>
 
 <dl>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Element">Referência dos Elementos HTML</a></dt>
- <dd class="landingPageList">Navegue em uma lista com todos os elementos <a class="glossaryLink" href="/en-US/docs/Glossary/HTML">HTML</a></dd>
  <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Reference">Referência do HTML </a></dt>
  <dd class="landingPageList">HTML é formado de <strong>elementos</strong>, cada um desses pode ser modificado por alguns <strong>atributos</strong>. Documentos HTML estão interconectados através de&nbsp;<a href="/en-US/docs/Web/HTML/Link_types">links</a>.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Element">Referência dos Elementos HTML</a></dt>
+ <dd class="landingPageList">Navegue em uma lista com todos os elementos <a class="glossaryLink" href="/en-US/docs/Glossary/HTML">HTML</a></dd>
+</dl>
+
+<dl>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Attributes">Referência de atributos em HTML</a></dt>
+ <dd class="landingPageList">Elementos em HTML possuem atributos. Estes irão configurar ou ajustar o&nbsp;funcionamento e comportamento do seu elemento de muitas maneiras.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Global_attributes">Atributos Globais</a></dt>
+ <dd class="landingPageList">Os atributos globais podem ser utilizados em todos os <a href="/en-US/docs/Web/HTML/Element">elementos HTML</a>, <em>mesmo aqueles que não são especificados como padrão</em>. Isso significa que qualquer elemento não padrão vai permitir estes atributos, mesmo que este retorne um documento HTML5 incompatível</dd>
+</dl>
+
+<dl>
  <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Inline_elements">Elementos em linha</a> e <a href="/en-US/docs/Web/HTML/Block-level_elements">Elementos em nível de bloco</a></dt>
  <dd class="landingPageList">Elementos HTML são normalmente elementos "inline"(em linha) ou "block-level" (nível de bloco). Um elemento em linha ocupa somente o espaço limitado pelos tags que o definem. Um elemento a nível de bloco ocupa o espaço inteiro do elemento pai (container), asssim criando um "bloco".</dd>
  <dt class="landingPageList">&nbsp;</dt>
@@ -60,10 +70,6 @@ based_on: None
  <dd class="landingPageList">Alguns elementos em HTML trazem suporte para <a href="/en-US/docs/HTTP/Access_control_CORS">CORS</a>, como, por exemplo o {{HTMLElement("img")}} ou {{HTMLElement("video")}}, tem o atributo<code> crossorigin</code> (<code>Propriedade crossOrigin</code>), que permite configurar as suas CORS requests para os dados absorvidos do elemento.</dd>
  <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Focus_management_in_HTML">Gerenciamento de foco em HTML</a></dt>
  <dd class="landingPageList">O atributo DOM <code><a href="/en-US/docs/Web/API/Document/activeElement">activeElement</a></code> e o método DOM <code><a href="/en-US/docs/Web/API/Document/hasFocus">hasFocus()</a>&nbsp;</code>te ajudam a melhorar a interação entre o usuário e os elementos da página.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Global_attributes">Atributos Globais</a></dt>
- <dd class="landingPageList">Os atributos globais podem ser utilizados em <a href="/en-US/docs/Web/HTML/Element">todos os elementos HTML</a>, <em>mesmo aqueles que não são especificados como padrão</em>. Isso significa que qualquer elemento não padrão vai permitir estes atributos, mesmo que este retorne um documento HTML5 incompatível.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Attributes">Referência de atributos em HTML</a></dt>
- <dd class="landingPageList">Nos elementos, em HTML, existem os atributos. Estes irão configurar ou ajustar o&nbsp;funcionamento e comportamento do seu elemento de muitas maneiras.</dd>
  <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Link_types">Tipos de conexões</a></dt>
  <dd class="landingPageList">Em HTML, vários tipos de links podem ser utilizados para realizar conexões entre dois documentos, por exemplo: <a href="/en-US/docs/Web/HTML/Element/a"><code>&lt;a&gt;</code></a>, <a href="/en-US/docs/Web/HTML/Element/area"><code>&lt;area&gt;</code></a>, e <a href="/en-US/docs/Web/HTML/Element/link"><code>&lt;link&gt;</code></a>.</dd>
  <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Supported_media_formats">Formatos de arquivos suportados pelos elementos de áudio e vídeo em HTML</a></dt>
