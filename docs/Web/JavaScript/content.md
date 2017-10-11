@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1226385
+revision_id: 1317520
 locale: en-US
 slug: Web/JavaScript
 tags: "Learn" "Landing" "JavaScript" "l10n:priority"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{JsSidebar}}</div>
 
-<p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) is a lightweight&nbsp;interpreted or JIT-compiled&nbsp;programming language with {{Glossary("First-class Function", "first-class functions")}}. While it is most well-known as the scripting language for Web pages, <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">many non-browser environments</a> also use it, such as <a class="external" href="https://nodejs.org/">node.js</a> and <a href="https://couchdb.apache.org/">Apache CouchDB</a>. JavaScript&nbsp;is a {{Glossary("Prototype-based programming", "prototype-based")}}, multi-paradigm, dynamic language, supporting object-oriented,&nbsp;imperative, and declarative (e.g.&nbsp;functional programming) styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
+<p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) is a lightweight&nbsp;interpreted or JIT-compiled&nbsp;programming language with {{Glossary("First-class Function", "first-class functions")}}. While it is most well-known as the scripting language for Web pages, <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">many non-browser environments</a> also use it, such as <a class="external" href="https://nodejs.org/">node.js</a>, <a href="https://couchdb.apache.org/">Apache CouchDB</a> and <a href="http://www.adobe.com/devnet/acrobat/javascript.html">Adobe Acrobat</a>. JavaScript&nbsp;is a {{Glossary("Prototype-based programming", "prototype-based")}}, multi-paradigm, dynamic language, supporting object-oriented,&nbsp;imperative, and declarative (e.g.&nbsp;functional programming) styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
 
 <p>This section of the site is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments. For information about {{Glossary("API","APIs")}} specific to Web pages, please see <a href="/en-US/docs/Web/API">Web APIs</a> and <a href="/en-US/docs/Glossary/DOM">DOM</a>.</p>
 
@@ -35,11 +35,9 @@ based_on: None
 
 <dl>
  <dt><a href="/en-US/docs/Learn/JavaScript/First_steps">JavaScript first steps</a></dt>
- <dd>Answers some fundamental questions such as "what is JavaScript?", "what does it look like?", and "what can it do?", along with discussing key JavaScript features such as variables, strings, numbers and arrays.</dd>
+ <dd>Answers some fundamental questions such as "what is JavaScript?", "what does it look like?", and "what can it do?", along with discussing key JavaScript features such as variables, strings, numbers, and arrays.</dd>
  <dt><a href="/en-US/docs/Learn/JavaScript/Building_blocks">JavaScript building blocks</a></dt>
  <dd>Continues our coverage of JavaScript's key fundamental features, turning our attention to commonly-encountered types of code block such as conditional statements, loops, functions, and events.</dd>
- <dt><a href="/en-US/docs/Learn/JavaScript/Objects">Introducing JavaScript objects</a></dt>
- <dd>The object-oriented nature of JavaScript is important to understand if you want to go further with your knowledge of the language and write more efficient code, therefore we've provided this module to help you.</dd>
 </dl>
 
 <h3 id="JavaScript_guide">JavaScript guide</h3>
@@ -50,6 +48,13 @@ based_on: None
 </dl>
 
 <h3 id="Intermediate">Intermediate</h3>
+
+<dl>
+ <dt><a href="/en-US/docs/Learn/JavaScript/Objects">Introducing JavaScript objects</a></dt>
+ <dd>The object-oriented nature of JavaScript is important to understand if you want to go further with your knowledge of the language and write more efficient code, therefore we've provided this module to help you.</dd>
+ <dt><a href="/en-US/docs/Learn/JavaScript/Client-side_web_APIs">Client-side web APIs</a></dt>
+ <dd>When writing client-side JavaScript for web sites or applications, you won't go very far before you start to use APIs — interfaces for manipulating different aspects of the browser and operating system the site is running on, or even data from other web sites or services. In this module we will explore what APIs are, and how to use some of the most common APIs you'll come across often in your development work.&nbsp;</dd>
+</dl>
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript">A re-introduction to JavaScript</a></dt>
@@ -102,7 +107,6 @@ based_on: None
 <dl>
  <dt><a href="/en-US/docs/Tools">Firefox Developer Tools</a></dt>
  <dd><a href="/en-US/docs/Tools/Scratchpad">Scratchpad</a>, <a href="/en-US/docs/Tools/Web_Console">Web Console</a>, <a href="/en-US/docs/Tools/Profiler">JavaScript Profiler</a>, <a href="/en-US/docs/Tools/Debugger">Debugger</a>, and more.</dd>
- <dd>Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page.</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/Shells">JavaScript Shells</a></dt>
  <dd>A JavaScript shell allows you to quickly test snippets of JavaScript code.</dd>
  <dt><a href="https://togetherjs.com/">TogetherJS</a></dt>
@@ -113,9 +117,11 @@ based_on: None
  <dd>Browse JavaScript's feature history and implementation status.</dd>
  <dt><a href="https://jsfiddle.net/">JSFiddle</a></dt>
  <dd>Edit JavaScript, CSS, HTML and get live results. Use external resources and collaborate with your team online.</dd>
+ <dt><a href="https://plnkr.co/">Plunker</a></dt>
+ <dd>Plunker is an online community for creating, collaborating on and sharing your web development ideas. Edit your JavaScript, CSS, HTML files and get live results and file structure.</dd>
 </dl>
 </div>
 </div>
 
-<p>{{CommunityBox("JavaScript", "js-engine.internals", "mozilla.dev.tech.js-engine.internals", "js", "ES discuss|https://esdiscuss.org/|esdiscuss.org|ECMAScript standard discussion mailing list||SpiderMonkey|https://wiki.mozilla.org/JavaScript|Project page|Contribute to the JavaScript Engine||Twitter|https://twitter.com/SpiderMonkeyJS|@SpiderMonkeyJS|SpiderMonkey updates on Twitter")}}</p>
+<p>{{CommunityBox("JavaScript", "dev-tech-js-engine-internals", "mozilla.dev.tech.js-engine.internals", "js", "ES discuss|https://esdiscuss.org/|esdiscuss.org|ECMAScript standard discussion mailing list||SpiderMonkey|https://wiki.mozilla.org/JavaScript|Project page|Contribute to the JavaScript Engine||Twitter|https://twitter.com/SpiderMonkeyJS|@SpiderMonkeyJS|SpiderMonkey updates on Twitter")}}</p>
 
