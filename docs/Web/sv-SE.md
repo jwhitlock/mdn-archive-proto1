@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1299007
+revision_id: 1318188
 locale: sv-SE
 slug: Web
 tags: "Web" "Landing" "TopicStub" "NeedsTranslation"
@@ -9,35 +9,38 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>The open Web presents incredible opportunities for developers. To take full advantage of these technologies, you need to know how to use them. Below you'll find the links to MDN's documentation on Web technologies.</p>
+<p>Öppenheten på Webben ger fantastiska möjligheter för utvecklare. För att kunna använda dessa teknologier till fullo så behöver du förstå hur du kan använda dem.&nbsp;Här nedan hittar du länkar till MDNs dokumentation om Webbteknologier.</p>
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="Web_technologies">Web technologies</h2>
+<h2 class="Documentation" id="Web_technologies">Webbteknologier</h2>
 
-<h3 id="Basics">Basics</h3>
+<h3 id="Basics">Grunden</h3>
 
 <dl>
  <dt><a href="/en-US/docs/Web/HTML">HTML</a></dt>
- <dd>HyperText Markup Language is the language used to describe and define the content of a Web page in a structured format.</dd>
+ <dd><strong>HyperText Markup Language</strong> är språket som beskriver och definierar innehållet i en webbsida på ett strukturerat sätt.</dd>
  <dt><a href="/en-US/docs/Web/CSS">CSS</a></dt>
- <dd>Cascading Style Sheets are used to describe the appearance of Web content.</dd>
+ <dd><strong>Cascading Style Sheets</strong> används för att beskriva utseendet för innehållet i webben.</dd>
+ <dt><a href="/en-US/docs/Web/HTTP">HTTP</a></dt>
+ <dd><strong>Hypertext Transfer Protocol</strong>&nbsp;används för att hämta och ändra HTML och andra entiteter och dokument som finns tillgänliga på webben.</dd>
 </dl>
 
 <h3 id="Scripting">Scripting</h3>
 
 <dl>
  <dt><a href="/en-US/docs/Web/JavaScript">JavaScript</a></dt>
- <dd>JavaScript is the programming language that runs in the browser, which is used to build advanced user interactive Web sites and applications.</dd>
+ <dd><strong>JavaScript</strong> är ett programmspråk som kör i en webbläsare. Språket används för att bland annat bygga avancerade interaktiva webbsidor och applikationer.</dd>
  <dt><a href="/en-US/docs/Web/Reference/API">Web APIs</a></dt>
- <dd>Reference material for each of the individual APIs that comprise the Web's powerful scriptability, including the <a href="/en-US/docs/DOM">DOM</a> and all of the related APIs and interfaces you can use to build Web content and apps.
+ <dd><strong>Web Application Programming Interfaces</strong>&nbsp;används till allehanda uppgifter, till exempelvis ändra <a href="/en-US/docs/DOM">DOM</a>&nbsp;strukturen för ett dokument, spela ljud, video eller generera grafik i 3D.&nbsp;De består av individuella API:er som tillsammans bygger upp den kraftfulla scriptbarheten på webben, inkluderat <a href="/en-US/docs/DOM">DOM</a>&nbsp;och de relaterade API och interface som kan användas för att bygga webbsidor och applikationer.
  <ul>
-  <li><a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">Web API interface reference</a> - all interfaces, arranged alphabetically.</li>
-  <li><a href="/en-US/docs/WebAPI">WebAPI</a> page lists device access APIs and other APIs useful for applications.</li>
+  <li><a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">Web API interface reference</a> - beskriver&nbsp;alla interface som är tillgängliga för att utveckla applikationer för webben.</li>
+  <li><a href="/en-US/docs/WebAPI">WebAPI</a> beskriver kommunikation, hur tillgång ges till hårdvaran, samt de andra API:erna som är tillgängliga för webbaplikationer.</li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/Events">Event reference</a>&nbsp;listar alla events som finns tillgängliga för att lyssna till, eller reagera på händelser som sker på en webbsida eller aplikation.</li>
  </ul>
  </dd>
 </dl>
