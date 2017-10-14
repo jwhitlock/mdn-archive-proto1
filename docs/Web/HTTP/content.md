@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1304635
+revision_id: 1318385
 locale: en-US
 slug: Web/HTTP
 tags: "HTTP" "Web" "Reference" "l10n:priority"
@@ -30,7 +30,7 @@ based_on: None
  <dd>Caching is very important for fast Web sites. This article describes different methods of caching and how to use HTTP Headers to control them.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies">HTTP Cookies</a></dt>
  <dd>How cookies work is defined by&nbsp;<a href="http://tools.ietf.org/html/rfc6265">RFC 6265</a>. When serving an HTTP request, a server can send a&nbsp;<code>Set-Cookie</code>&nbsp;HTTP header with the response. The client then returns the cookie's value with every request to the same server in the form of a&nbsp;<code>Cookie</code>&nbsp;request header. The cookie can also be set to expire on a certain date, or restricted to a specific domain and path.</dd>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS">HTTP Access Control (CORS)</a></dt>
+ <dt><a href="/en-US/docs/Web/HTTP/CORS">Cross-Origin Resource Sharing (CORS)</a></dt>
  <dd><strong>Cross-site HTTP requests</strong>&nbsp;are HTTP requests for resources from a <strong>different domain</strong> than the domain of the resource making the request. For instance, an HTML page from Domain A (<code>http://domaina.example/</code>) makes a request for an image on Domain B (<code>http://domainb.foo/image.jpg</code>) via the&nbsp;<code>img</code>&nbsp;element. Web pages today very commonly load cross-site resources, including CSS stylesheets, images, scripts, and other resources. CORS allows web developers to control how their site reacts to cross-site requests.</dd>
 </dl>
 
