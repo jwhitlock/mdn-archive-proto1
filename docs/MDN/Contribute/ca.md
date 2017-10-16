@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1169089
+revision_id: 1318828
 locale: ca
 slug: MDN/Contribute
 tags: "MDN" "MDN Meta" "Guide" "Landing" "TopicStub" "Documentation" "NeedsTranslation"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Benvingut! En visitar aquesta pàgina, heu fet el primer pas per esdevenir en un colaborador a MDN. Les guies enumerades a continuació cobreixen tots els aspectes de com contribuir al MDN, incloent guies d'estil, guies per a l'ús del nostre editor i eines, i molt més. Si us plau assegureu-vos que heu llegit (i és compatible amb) les <a href="https://www.mozilla.org/en-US/about/legal/terms/mozilla/">condicions de Mozilla</a> abans d'editar o crear cap pàgina. {{MDNButton("<span id="result_box" lang="ca"><span>Visita</span> <span>la safata</span> <span>d'entrada de</span> <span>MDN</span></span>", "/en-US/Inbox", "<span id="result_box" lang="ca"><span>Afegir un</span> <span>nou article</span></span>")}}</p>
+<p>Benvingut! En visitar aquesta pàgina, heu fet el primer pas per esdevenir en un colaborador a MDN. Les guies enumerades a continuació cobreixen tots els aspectes de com contribuir al MDN, incloent guies d'estil, guies per a l'ús del nostre editor i eines, i molt més. Si us plau assegureu-vos que heu llegit (i és compatible amb) les <a href="https://www.mozilla.org/en-US/about/legal/terms/mozilla/">condicions de Mozilla</a> abans d'editar o crear cap pàgina. {{MDNButton("Visita la safata d'entrada de MDN", "/en-US/Inbox", "Afegir un nou article")}}</p>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -25,7 +25,7 @@ based_on: None
  <dt><a href="/en-US/docs/MDN/Contribute/Style_guide">Guia de contingut i estil</a></dt>
  <dd>El contingut i l'estil de la guia MDN proporciona detalls sobre l'estil d'escriptura, disseny de pàgina, i estils de contingut, de manera que el contingut escrit encaixi amb la resta del contingut del MDN.</dd>
  <dt><a href="/en-US/docs/MDN/Contribute/Editor">Guia d'editor</a></dt>
- <dd><span class="short_text" id="result_box" lang="ca"><span>Una guia</span> <span>completa</span> <span>sobre l'ús</span> <span>de l'editor</span> <span>de</span> <span>MDN</span><span>.</span></span></dd>
+ <dd>Una guia completa sobre l'ús de l'editor de MDN.</dd>
  <dt><a href="/en-US/docs/MDN/Contribute/Reviewing_articles">Revisió dels articles</a></dt>
  <dd>
  <p>Una guia per realitzar revisions tècniques i editorials del contingut dels articles, per ajudar a garantir que tot el contingut de MDN sigui útil i fàcil de llegir com sigui possible!</p>
