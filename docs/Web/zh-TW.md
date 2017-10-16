@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1288179
+revision_id: 1318746
 locale: zh-TW
 slug: Web
 tags: "Web" "Landing"
@@ -27,7 +27,7 @@ based_on: None
  <dt><a href="/zh-TW/docs/Web/CSS">CSS</a></dt>
  <dd>階層式樣式表（Cascading Style Sheets）可用來描述網頁內容的外觀。</dd>
  <dt><a href="/zh-TW/docs/Web/HTTP">HTTP</a></dt>
- <dd><strong><dfn>超文字傳輸協議（ypertext Transfer Protocol）</dfn></strong>用於傳送網路的 HTML 及其他 hypermedia 文件。</dd>
+ <dd><strong><dfn>超文字傳輸協議（Hypertext Transfer Protocol）</dfn></strong>用於傳送網路的 HTML 及其他 hypermedia 文件。</dd>
 </dl>
 
 <h3 id="腳本語言">腳本語言</h3>
@@ -74,7 +74,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="Learning_area">學習區</h2>
+<h2 class="Documentation" id="學習區">學習區</h2>
 
 <dl>
  <dt><a href="/zh-TW/docs/Learn">學習網路開發</a></dt>
