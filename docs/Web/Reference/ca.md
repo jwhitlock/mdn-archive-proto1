@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1150792
+revision_id: 1318888
 locale: ca
 slug: Web/Reference
 tags: "Web" "Landing" "Reference"
-title: Web technology reference
+title: Referència de tecnologies web
 summary: 
 keywords: 
 needs_technical_review: False
@@ -16,7 +16,7 @@ based_on: None
 <p>{{draft()}}<br />
  El Web oberta es construeix a partir d'una sèrie de tecnologies que requereixen un coneixement adequat per tal d'utilitzar-los. A continuació trobareu els enllaços al nostre material de referència per a cada un d'ells.</p>
 
-<h2 class="Documentation" id="Web_technologies"><span class="short_text" id="result_box" lang="ca"><span>Tecnologies Web</span></span></h2>
+<h2 class="Documentation" id="Tecnologies_Web"><span class="short_text" id="result_box" lang="ca"><span>Tecnologies Web</span></span></h2>
 
 <p>És recomanable que ja t'iniciïs a la web, però, no és absolutament necessari.</p>
 
