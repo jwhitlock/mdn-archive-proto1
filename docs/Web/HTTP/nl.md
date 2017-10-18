@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1319568
+revision_id: 1319577
 locale: nl
 slug: Web/HTTP
 tags: "HTTP" "Web" "TopicStub" "Reference" "l10n:priority" "NeedsTranslation"
@@ -9,27 +9,30 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 1318384
+based_on: None
 ---
 <div>{{HTTPSidebar}}</div>
 
-<p class="summary"><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong>&nbsp;is an&nbsp;<a href="https://en.wikipedia.org/wiki/Application_Layer">application-layer</a>&nbsp;protocol for transmitting hypermedia documents, such as HTML.&nbsp;It was designed for communication between web browsers and web servers, but it can also be used for other purposes. HTTP follows a classical&nbsp;<a href="https://en.wikipedia.org/wiki/Client%E2%80%93server_model">client-server model</a>, with a client opening a connection to make a request, then waiting until it receives a response. HTTP is a&nbsp;<a href="https://en.wikipedia.org/wiki/Stateless_protocol">stateless protocol</a>, meaning that the server does not keep any data (state) between two requests. Though often based on a TCP/IP layer, it can be used on any reliable&nbsp;<a href="http://en.wikipedia.org/wiki/Transport_Layer">transport layer</a>; that is, a protocol that doesn't lose messages silently, such as UDP.</p>
+<p class="summary"><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong>&nbsp;is een&nbsp;<a href="https://en.wikipedia.org/wiki/Application_Layer">applicatie-laag</a>&nbsp;protocol voor het versturen van hypermedia documenten, zoals HTML.&nbsp;Het was ontworpen voor
+communicatie tussen web browsers en web servers, maar het kan ook worden gebruikt voor andere doeleinden. HTTP volgt een klassiek&nbsp;<a href="https://en.wikipedia.org/wiki/Client%E2%80%93server_model">client-server model</a>, waarbij een client een verbinding opent om een aanvraag te doen en vervolgens wacht op een reactie. HTTP is een <a href="https://en.wikipedia.org/wiki/Stateless_protocol">stateless protocol</a>, Dit betekend dat de server geen data (state) bewaard tussen twee aanvragen. 
+
+Hoewel het meestal gebaseerd is op een TCP/IP laag, kan het ook worden gebruikt op elk andere betrouwbare&nbsp;<a href="http://en.wikipedia.org/wiki/Transport_Layer">transport laag</a>; dat houd in, een protocol dat niet ongezien berichten verliest zoals UDP.</p>
 
 <div class="column-container">
 <div class="column-half">
 <h2 id="Tutorials">Tutorials</h2>
 
-<p>Learn how to use HTTP with guides and tutorials.</p>
+<p>Leer hoe je HTTP moet gebruiken met handleidingen en tutorials.</p>
 
 <dl>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview">Overview of HTTP</a></dt>
- <dd>The basic features of the client-server protocol: what it can do and its intended uses.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview">Overzicht van HTTP</a></dt>
+ <dd>De basis functies van het client-server protocol: wat het kan doen en het beoogde gebruik.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching">HTTP Cache</a></dt>
- <dd>Caching is very important for fast Web sites. This article describes different methods of caching and how to use HTTP Headers to control them.</dd>
+ <dd>Caching is erg belangrijk voor snelle websites. Dit artikel beschrijft de verschillende methodes van caching en hoe HTTP Headers gebruikt worden om het te gebruiken.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies">HTTP Cookies</a></dt>
- <dd>How cookies work is defined by&nbsp;<a href="http://tools.ietf.org/html/rfc6265">RFC 6265</a>. When serving an HTTP request, a server can send a&nbsp;<code>Set-Cookie</code>&nbsp;HTTP header with the response. The client then returns the cookie's value with every request to the same server in the form of a&nbsp;<code>Cookie</code>&nbsp;request header. The cookie can also be set to expire on a certain date, or restricted to a specific domain and path.</dd>
+ <dd>Hoe cookies werken is gedefinieerd door&nbsp;<a href="http://tools.ietf.org/html/rfc6265">RFC 6265</a>. When serving an HTTP request, a server can send a&nbsp;<code>Set-Cookie</code>&nbsp;HTTP header with the response. The client then returns the cookie's value with every request to the same server in the form of a&nbsp;<code>Cookie</code>&nbsp;request header. The cookie can also be set to expire on a certain date, or restricted to a specific domain and path.</dd>
  <dt><a href="/en-US/docs/Web/HTTP/CORS">Cross-Origin Resource Sharing (CORS)</a></dt>
  <dd><strong>Cross-site HTTP requests</strong>&nbsp;are HTTP requests for resources from a <strong>different domain</strong> than the domain of the resource making the request. For instance, an HTML page from Domain A (<code>http://domaina.example/</code>) makes a request for an image on Domain B (<code>http://domainb.foo/image.jpg</code>) via the&nbsp;<code>img</code>&nbsp;element. Web pages today very commonly load cross-site resources, including CSS stylesheets, images, scripts, and other resources. CORS allows web developers to control how their site reacts to cross-site requests.</dd>
 </dl>
