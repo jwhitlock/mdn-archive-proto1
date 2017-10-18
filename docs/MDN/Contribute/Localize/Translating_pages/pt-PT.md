@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1169541
+revision_id: 1319549
 locale: pt-PT
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "Tradução" "Localização" "Tradução de Página"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -53,7 +53,7 @@ Veja <a href="/pt-PT/docs/Mozilla/Localization/Localização_com_Pontoon" title=
 <ul>
  <li>Os artigos no <a href="/pt-PT/docs/Glossário">Glossário</a> são excelentes serem traduzidos por principiantes, porque estes são curtos e simples.</li>
  <li>Os&nbsp;artigos que estão etiquetados <a href="/en-US/docs/tag/l10n%3Apriority">"l10n:priority"</a>&nbsp;são considerados de alta prioridade para tradução.</li>
- <li>Se ver um texto entre chavetas duplas, como por exemplo \<code>{{texto("outro&nbsp;texto")}}</code>, &nbsp;não deve traduzi-lo, e não modifique&nbsp;os caracteres de&nbsp;pontuação. Isto é um&nbsp;<a href="/en-US/docs/MDN/Contribute/Structures/Macros">macro</a>, que provavelmente cria uma estructura na página, ou tem qualquer outra função útil. É provável que veja textos não traduzidos producidos por um macro; não se preocupe com isso até que adquira mais experiência&nbsp;com a&nbsp;MDN. (Mudar este texto requere <a href="/en-US/docs/MDN/Contribute/Tools/Template_editing">privilégios</a>&nbsp;<a href="/en-US/docs/MDN/Contribute/Tools/Template_editing">especiais</a>&nbsp;porque os macros podem ser muito poderosos.)&nbsp;Se estiver curioso, dê uma olhada aos&nbsp;<a href="/en-US/docs/MDN/Contribute/Structures/Macros/Commonly-used_macros">macros&nbsp;mais utilizados</a>&nbsp;e verifique os que os macros são capazes de fazer.</li>
+ <li>Se ver um texto entre chaves duplas, como por exemplo <code>\{{some-text("more text")}}</code>,&nbsp; deixe-o não traduzido, e não modifique&nbsp;os caracteres de&nbsp;pontuação. Isto é um&nbsp;<a href="/en-US/docs/MDN/Contribute/Structures/Macros">macro</a>, que provavelmente cria uma estructura na página, ou tem qualquer outra função útil. É provável que veja textos não traduzidos producidos por um macro; não se preocupe com isso até que adquira mais experiência&nbsp;com a&nbsp;MDN. (Mudar este texto requere <a href="/en-US/docs/MDN/Contribute/Tools/Template_editing">privilégios</a>&nbsp;<a href="/en-US/docs/MDN/Contribute/Tools/Template_editing">especiais</a>&nbsp;porque os macros podem ser muito poderosos.)&nbsp;Se estiver curioso, dê uma olhada aos&nbsp;<a href="/en-US/docs/MDN/Contribute/Structures/Macros/Commonly-used_macros">macros&nbsp;mais utilizados</a>&nbsp;e verifique os que os macros são capazes de fazer.</li>
  <li>Consulte a página de <a href="/pt-PT/docs/MDN/Contribute/Localize/Projetos_localização">Projetos de Localização</a> para saber mais sobre a localização para o seu idioma.</li>
 </ul>
 
