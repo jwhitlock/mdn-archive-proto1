@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1222059
+revision_id: 1319533
 locale: hu
 slug: Learn
 tags: "Web" "Index" "Learn" "Landing" "Beginner" "TopicStub" "NeedsTranslation"
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 86c47078710820a888fbeb999ddceab2e284b786
+based_on: None
 ---
 <div>{{LearnSidebar}}</div>
 
@@ -27,7 +27,7 @@ based_on: 86c47078710820a888fbeb999ddceab2e284b786
 <p><strong>Fontos</strong>: A tartalmat rendszeren adjuk a témakörökhöz. Ha bármilyen kérdésed merülne fel, vagy ha hiányosságot vettél észre, akkor a &nbsp;{{anch("Contact us")}} résznél megtalálhatod az elérhetőségünket.</p>
 </div>
 
-<h2 id="Where_to_start">Hol kezdjük?</h2>
+<h2 id="Hol_kezdjük">Hol kezdjük?</h2>
 
 <ul class="card-grid">
  <li><span>Teljesen kezdő:<br />
@@ -50,7 +50,28 @@ based_on: 86c47078710820a888fbeb999ddceab2e284b786
 
 <p>{{LearnBox({"title":"Random glossary entry"})}}</p>
 
-<h2 id="Contact_us">Lépj kapcsolatba velünk</h2>
+<h2 id="Topics_covered">Lefedett témakörök</h2>
+
+<p>Itt egy lista az MDN tanuló oldal által lefedett témakörökről.</p>
+
+<dl>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">Ismerkedés a webfejlesztéssel</a></dt>
+ <dd>Gyakorlati bevezető a webfejlesztésbe teljesen kezdőknek.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">HTML — a web szerkezetének kialakítása</a></dt>
+ <dd>A HTML nyelv segítségével alakítjuk ki oldalaink szerkezetét és adunk jelentést, illetve célt a tartalmunknak. Ez a témakör&nbsp;részletesen bemutatja a HTML nyelvet.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">CSS — A web dizájnolása</a></dt>
+ <dd>A CSS nyelv segítségével tudjuk a weboldalaink stílusát, elrendezését megadni, valamint viselkedést rendelhetünk oldalunkhoz, például animációkkal. Ez a témakör átfogó képet nyújt a CSS-ről.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript">JavaScript — Dinamikus kliens oldali programozás</a></dt>
+ <dd>A Javascript szkript nyelv&nbsp;dinamikus funkcionalitást ad a weboldalakhoz. Ez a témakör megtanítja azokat az alapvető dolgokat, amelyek ahhoz szükségesek, hogy magabiztosan megértsük és írjunk Javascript kódot.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility">Hozzáférhetőség — tegyük elérhetővé a webet mindenkinek</a></dt>
+ <dd>Az akadálymentesítés az a gyakorlat, amellyel a webes tartalmakat minél szélesebb rétegek számára elérhetővé tesszük&nbsp;fogyatékosság, használt eszköz, földrajzi elhelyezkedés vagy egyéb megkülönböztető tényezőktől függetlenül. Itt mindent megtanulhatsz, amit tudnod kell erről a témáról.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing">Eszközök és tesztelés</a></dt>
+ <dd>Ebben a témakörben megismerheted a fejlesztők mindennapi munkája során használt eszközöket, mint például a különböző böngészők tesztelésére használt eszközök.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side">Szerver oldali webfejlesztés</a></dt>
+ <dd>Még ha a kliens oldali fejlesztés&nbsp;is a fő fókuszod, akkor is érdemes tudnod&nbsp;róla hogyan működnek a szerverek, illetve a szerver oldali kódok. Ez a témakör általános leírást ad a szerver oldal működéséről, és részletes bemutatót találhatsz arról, hogyan kell felépíteni egy szerver oldali alkalmazást két népszerű keretrendszer segítsével, mint a&nbsp;Django (Python) és az&nbsp;Express (node.js).&nbsp;</dd>
+</dl>
+
+<h2 id="Lépj_kapcsolatba_velünk">Lépj kapcsolatba velünk</h2>
 
 <p>Ha szeretnél kapcsolatba lépni velünk bármivel is kapcsolatban, a legjobb módszer arra ha dobsz egy üzenetet a <a href="/en-US/docs/MDN/Community/Conversations#Asynchronous_discussions">levelező listánkra</a>&nbsp;vagy az&nbsp;<a href="https://developer.mozilla.org/en-US/docs/MDN/Community/Conversations#Chat_in_IRC">IRC csatornánkra</a>. Ha bármi észrevételed lenne, hiányzik valami az oldalról, valami nem állja meg a helyét, szeretnél egy új topikot, ha nem értesz valamit, vagy bármi, nyugodtan írj nekünk.</p>
 
@@ -58,9 +79,9 @@ based_on: 86c47078710820a888fbeb999ddceab2e284b786
 
 <p>{{CommunityBox("Learn", "dev-mdc", "mozilla.dev.mdc", "mdn")}}</p>
 
-<h2 id="See_also">Lásd még</h2>
+<h2 id="Lásd_még">Lásd még</h2>
 
-<h2><a href="https://www.codecademy.com/" style="font-size: 14px;">Codecademy</a></h2>
+<h2 id="Codecademy"><a href="https://www.codecademy.com/" style="font-size: 14px;">Codecademy</a></h2>
 
 <dl>
  <dd>Interaktív weboldal programozási nyelvek megismerésére kezdve az alapoktól.</dd>
