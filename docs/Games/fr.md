@@ -1,14 +1,14 @@
 ---
 version: prototype1
-revision_id: 1318416
+revision_id: 1319997
 locale: fr
 slug: Jeux
 tags: "Jeux" "Applications" "Développement"
 title: Développement de jeux vidéo
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
+needs_technical_review: True
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
@@ -17,8 +17,6 @@ based_on: None
 <p>Les jeux vidéo sont parmi les activités numériques les plus populaires. L'arrivée continue de nouvelles technologies permet de développer encore des jeux de meilleure qualité et plus performants qui peuvent fonctionner dans n'importe quel navigateur web respectant les standards.</p>
 </div>
 
-<div class="column-container">
-<div class="column-half">
 <p>{{EmbedGHLiveSample("web-tech-games/index.html", '100%', 820)}}</p>
 
 <div class="column-container">
@@ -93,8 +91,6 @@ based_on: None
 </dl>
 
 <p>Catégorie Jeux sur le blog "Hacks" de Mozilla contenant des articles connexes intéressants.</p>
-</div>
-</div>
 </div>
 </div>
 
