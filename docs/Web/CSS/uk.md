@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1185061
+revision_id: 1320355
 locale: uk
 slug: Web/CSS
 tags: "CSS" "CSS3" "ЦСС" "Веб" "Стиль" "Layout" "Дизайн" "сайтів" "таблиця" "Reference" "каскадна" "сторінок" "оформлення"
@@ -8,7 +8,7 @@ title: CSS
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
@@ -27,7 +27,7 @@ based_on: None
   <p>Наша&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">CSS сфера навчання</a>&nbsp;складається з безлічі посібників, щоб підняти ваш рівень з початкового, до такого, на якому ви будете себе комфортно почувати в CSS, охоплюючи всі основні принципи.</p>
  </li>
  <li><span>Знайомство з&nbsp;CSS</span>
-  <p>Якщо ви початківець у веб програмуванні&nbsp;переконайтеся, що ви прочитали нашу статтю <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS Основи</a>, щоб дізнатися що таке є CSS і як їх використовувати.</p>
+  <p>Якщо ви початківець у веб програмуванні, переконайтеся, що ви прочитали нашу статтю <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS Основи</a>, щоб дізнатися що таке є CSS і як їх використовувати.</p>
  </li>
 </ul>
 
@@ -39,13 +39,13 @@ based_on: None
 
 <dl>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS">Вступ в CSS</a></dt>
- <dd>Цей модуль дозволяє вам почати вивчення з базових понять як CSS працює, включаючи селектори і параметри, написання правил CSS, застосування CSS до&nbsp;HTML, як вказати довжину, колір, і інші одиниці виміру в CSS, каскади і успадкування, основи box model, і відлагоджування CSS.</dd>
+ <dd>Цей модуль дозволяє вам почати вивчення з базових понять як CSS працює, включаючи селектори і параметри, написання правил CSS, застосування CSS до&nbsp;HTML, як вказати довжину, колір та інші одиниці виміру в CSS, каскади і успадкування, основи блочної моделі та відлагоджування CSS.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text">Стилізація тексту</a></dt>
- <dd>В даному модулі ми розглянемо основи стилізації тексту, включаючи налаштування шрифтів, товщини, курсиву, відстань між рядками і буквами, а також застосування тіней і інших можливостей стилізації тексту. Ми розглянемо в даному&nbsp;модулі застосування власних шрифтів до вашої сторінки, і стилізацію списків і посилань.</dd>
+ <dd>В даному модулі ми розглянемо основи стилізації тексту, включаючи налаштування шрифтів, товщини, курсиву, відстані між рядками і буквами, а також застосування тіней та інших можливостей стилізації тексту. Ми розглянемо в даному&nbsp;модулі використання власних шрифтів на вашій веб-сторінці, і стилізацію списків і посилань.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes">Стилізація блоків</a></dt>
- <dd>Далі ми розглянемо стилізацію блоків, один з базових кроків у напрямку розбивання веб-сторінки на блоки. У данаму модулі ми підсумуємо блокову модель і тоді розглянемо методи контролю блоків застосовуючи внутрішні відступи (padding), рамки (borders) і зовнішні відступи, застосування власних заливок фону, картинок та інших можливостей, і такої можливості, як падіння тіней і фільтрів на блоки.</dd>
+ <dd>Далі ми розглянемо стилізацію блоків, один з базових кроків у напрямку розбивання веб-сторінки на блоки. У данаму модулі ми підсумуємо блокову модель і тоді розглянемо методи контролю блоків, застосовуючи внутрішні відступи (padding), рамки (borders) і зовнішні відступи, застосування власних заливок фону, картинок та інших можливостей, і такої можливості, як падіння тіней і фільтрів на блоках.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout">Макети CSS</a></dt>
- <dd>До цього моменту ми вже розглянули базові поняття CSS, як стилізувати текст, я як стилізувати і маніпулювати блоками, щоб ваш контент поміщався в середину даних блоків. Тепер час розглянути розташування ваших блоків у правильному місці, по відношенню до точки огляду, і відносно один одного. Ми покрили необхідні можливості, тому тепер ми можемо заглибитися в шаблони CSS детальніше, подивитися на налаштування для різних дисплеїв, традиційні методи шаблонів включаючи плавання елементів по сторінці (float) і позиціонування (positioning), і нові сучасні інструменти для шаблонів такі, як флексбокс (flexbox).</dd>
+ <dd>До цього моменту ми вже розглянули базові поняття CSS, як стилізувати текст, я як стилізувати і маніпулювати блоками, щоб ваш контент поміщався в середину даних блоків. Тепер час розглянути розташування ваших блоків у правильному місці, по відношенню до точки огляду, і відносно один одного. Ми розкрили необхідні передумови, тому тепер ми можемо заглибитися в шаблони CSS детальніше, подивитися на налаштування для різних дисплеїв, традиційні методи шаблонів, включаючи плавання елементів по сторінці (float) і позиціонування (positioning), і нові сучасні інструменти для шаблонів такі, як флексбокс (flexbox).</dd>
 </dl>
 </div>
 
@@ -53,12 +53,12 @@ based_on: None
 <h2 id="Посилання">Посилання</h2>
 
 <ul>
- <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS Посилання</a>: Вичерпний довідник для досвідчених веб-робробників, який описує кожний параметрт і кожне поняття CSS.</li>
+ <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS Посилання</a>: Вичерпний довідник для досвідчених веб-розробників, який описує кожний параметр і кожне поняття CSS.</li>
  <li>CSS ключові поняття:
   <ul>
    <li><a href="https://developer.mozilla.org/en-US/docs/CSS/Syntax">Синтаксис і форми даної мови</a></li>
    <li><a href="https://developer.mozilla.org/en-US/docs/CSS/Specificity">Особливість</a>&nbsp;і <a href="https://developer.mozilla.org/en-US/docs/CSS/inheritance">успадкування</a></li>
-   <li><a href="https://developer.mozilla.org/en-US/docs/CSS/box_model">Box model</a>&nbsp;і&nbsp;<a href="https://developer.mozilla.org/en-US/docs/CSS/margin_collapsing">margin collapse</a></li>
+   <li><a href="https://developer.mozilla.org/en-US/docs/CSS/box_model">Блочна модель</a> і&nbsp;<a href="https://developer.mozilla.org/en-US/docs/CSS/margin_collapsing">margin collapse</a></li>
    <li>Контексти&nbsp;<a href="https://developer.mozilla.org/en-US/docs/CSS/Understanding_z-index/The_stacking_context" title="The stacking context">stacking</a>&nbsp;і&nbsp;<a href="https://developer.mozilla.org/en-US/docs/CSS/block_formatting_context" title="block formatting context">форматування блоку</a></li>
    <li><a href="https://developer.mozilla.org/en-US/docs/CSS/initial_value">Початкові</a>,&nbsp;<a href="https://developer.mozilla.org/en-US/docs/CSS/computed_value">обчислені</a>,&nbsp;<a href="https://developer.mozilla.org/en-US/docs/CSS/actual_value">фактичні</a>&nbsp;і <a href="https://developer.mozilla.org/en-US/docs/CSS/used_value">ті, які використовуються</a>&nbsp;значення</li>
    <li><a href="https://developer.mozilla.org/en-US/docs/CSS/Shorthand_properties">CSS скорочені параметри</a></li>
