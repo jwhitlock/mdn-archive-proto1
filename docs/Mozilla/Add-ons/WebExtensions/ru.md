@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1306311
+revision_id: 1320282
 locale: ru
 slug: Mozilla/Add-ons/WebExtensions
 tags: "Landing" "Дополнения" "Расширения" "WebExtensions"
@@ -42,6 +42,22 @@ based_on: None
  <li>Работа с вкладками браузера</li>
  <li>Доступ и изменение закладок</li>
  <li>Доступ и изменение куки (cookies)</li>
+</ul>
+
+<h3>Интерфейс пользователя</h3>
+
+<ul>
+ <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface">Введение</a></li>
+ <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface/Browser_action">Кнопка на панели инструментов</a></li>
+ <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface/Page_actions">Кнопка в адресной строке</a></li>
+ <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface/Popups">Всплывающие окна</a></li>
+ <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface/Context_menu_items">Контекстное меню</a></li>
+ <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface/Sidebars">Боковые панели </a></li>
+ <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface/Options_page">Страница настройки дополнения</a></li>
+ <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface/Bundled_web_pages">Дополнительные web-страницы</a></li>
+ <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface/Notifications">Уведомления</a></li>
+ <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface/Omnibox">Угадывание адреса по мере ввода</a></li>
+ <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface/devtools_panels">Панели инструмента разработчика</a></li>
 </ul>
 
 <h3 id="Основные_понятия">Основные понятия</h3>
