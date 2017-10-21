@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1273567
+revision_id: 1320368
 locale: vi
 slug: MDN/About
 tags: 
-title: About MDN
+title: Giới Thiệu Về MDN
 summary: 
 keywords: 
 needs_technical_review: False
@@ -13,17 +13,17 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>The Mozilla Developer Network (MDN) is an evolving learning platform for Web technologies and the software that powers the Web, including:</p>
+<p>Mozilla Developer Network(MDN) là nợi tổng hợp kiến thức về công nghệ Web và các phần mềm hỗ trợ web, bao gồm:</p>
 
 <ul>
- <li>Web standards such as <a href="/en-US/docs/CSS" title="/en-US/docs/CSS">CSS</a>, <a href="/en-US/docs/HTML" title="/en-US/docs/HTML">HTML</a>, and <a href="/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></li>
- <li><a href="/en-US/docs/Apps" title="/en-US/docs/Apps">Open Web app development</a></li>
- <li><a href="/en-US/docs/Add-ons" title="/en-US/docs/Add-ons">Firefox add-on development</a></li>
+ <li>Ngôn ngữ web như <a href="/en-US/docs/CSS" title="/en-US/docs/CSS">CSS</a>, <a href="/en-US/docs/HTML" title="/en-US/docs/HTML">HTML</a>, và <a href="/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></li>
+ <li><a href="/en-US/docs/Apps" title="/en-US/docs/Apps">Ứng dụng web</a></li>
+ <li><a href="/en-US/docs/Add-ons" title="/en-US/docs/Add-ons">Ứng dụng bổ sung cho trình duyệt Firefox</a></li>
 </ul>
 
-<h2 id="Our_mission">Our mission</h2>
+<h2 id="Our_mission">Sứ mệnh</h2>
 
-<p>MDN's mission is simple: to provide complete, accurate, and helpful documentation for everything about the <a href="/en-US/docs/Web">open Web</a>, whether it's supported by Mozilla-built software or not. If it's an open technology exposed to the Web, we want to document it.</p>
+<p>Sứ mệnh của MDN là cung cấp tài liệu bổ ích, chính xác và đầy đủ về web. Thông tin trên MDN không giới hạn bởi những phần mềm chỉ được Firefox hỗ trơ. Chúng tôi lưu trữ lại tất cả các công nghệ web mở.</p>
 
 <p>In addition, we provide documentation about how to <a href="/en-US/docs/Mozilla">build and contribute to Mozilla projects</a> and about <a href="/en-US/Firefox_OS">Firefox OS</a> and <a href="/en-US/Apps">Web app development</a>.</p>
 
