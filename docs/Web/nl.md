@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1312825
+revision_id: 1320503
 locale: nl
 slug: Web
 tags: "Web" "Landing"
@@ -54,7 +54,7 @@ based_on: None
  <dd>WebGL brengt 3D-graphics naar het Web door een API die nauw samenwerkt met OpenGL ES 2.0, dat in HTML {{HTMLElement("canvas")}}-elementen kan worden gebruikt.</dd>
 </dl>
 
-<h3 id="Audio_video_and_multimedia">Audio, viedo en multiemedia</h3>
+<h3 id="Audio_viedo_en_multiemedia">Audio, video en multiemedia</h3>
 
 <h3 id="Overige">Overige</h3>
 
