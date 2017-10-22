@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1299131
+revision_id: 1320548
 locale: tr
 slug: MDN/Getting_started
 tags: "Rehber" "Yeni başlayanlar"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -19,9 +19,9 @@ based_on: None
 
 <p><strong style="font-size:2.142857142857143rem; font-weight:700; letter-spacing:-1px; line-height:30px">3 Basit&nbsp;Adımda&nbsp;MDN</strong></p>
 
-<p><span class="seoSummary">MDN herkesin içerik ekleyip düzenleyebildiği bir wiki'dir.&nbsp;Bir programcı olmanıza veya teknoloji hakkında çok şey bilmenize gerek yok. Yapılması gereken çok şey var, basitten&nbsp;(düzeltme okuması ve gramer düzeltme) karmaşık olanlara kadar&nbsp;(API dökümantasyonu yazmak).</span></p>
+<p><span class="seoSummary">MDN herkesin içerik ekleyip düzenleyebildiği bir wiki'dir.&nbsp;Bir programcı olmanıza veya teknoloji hakkında çok şey bilmenize gerek yok. Yapılması gereken çok şey var, basitten&nbsp;(düzeltme okuması ve dilbilgisi düzeltme) karmaşık olanlara kadar&nbsp;(API dökümantasyonu yazmak).</span></p>
 
-<p>Katkıda bulunmak kolay ve güvenlidir. Hata yapsanız bile kolaylıkla düzeltilir. Eğer yaptıklarınızın tam olarak&nbsp;nasıl görünmesi gerektiğini bilmiyorsanız veya grameriniz o kadar iyi değilse bile, endişelenmeyin!&nbsp;MDN'deki içeriklerin olabildiğince iyi olduğuna emin olmak için çalışan bir takımımız var. Biri sizin çalışmanız üzerinden geçip düzenli ve güzel yazıldığına emin olacaktır. Bildiklerinizi paylaşın ve güçlü yanlarınızı&nbsp;takip edin.</p>
+<p>Katkıda bulunmak kolay ve güvenlidir. Hata yapsanız bile kolaylıkla düzeltilir. Eğer yaptıklarınızın tam olarak&nbsp;nasıl görünmesi gerektiğini bilmiyorsanız veya dil bilginiz o kadar iyi değilse bile, endişelenmeyin!&nbsp;MDN'deki içeriklerin olabildiğince iyi olduğuna emin olmak için çalışan bir takımımız var. Biri sizin çalışmanız üzerinden geçip düzenli ve güzel yazıldığına emin olacaktır. Bildiklerinizi paylaşın ve güçlü yanlarınızı&nbsp;takip edin.</p>
 
 <h3 id="Adım_1_MDN_Hesabı_Oluşturun">Adım 1: MDN Hesabı Oluşturun</h3>
 
@@ -38,14 +38,14 @@ based_on: None
 <p>İşi mükemmel yapmak konusunda endişelenmeyin; diğer MDN Gönüllüleri gözden kaçan hataları düzeltmek için buradalar. Eğer sorularınız olursa mail listelerindeki bilgiler ve cevaplarınızı&nbsp;alabileceğiniz sohbet kanalları için&nbsp;<a href="/en-US/docs/MDN/Community">Community</a>&nbsp;sayfasını ziyaret edin.</p>
 
 <div class="note">
-<p><strong>Note: </strong>Eğer gerçek site üzerinde değişiklik yapmadan önce denemeler yapmak istiyorsanız, deneylerinizi yapabileceğiniz bir&nbsp;<strong><a href="/en-US/docs/Sandbox">Sandbox</a></strong> sayfamız bulunmaktadır. Lütfen bu sayfa üzerinde yapacağınız değişikleri sınırlayın. Lütfen bu sayfa üzerinde sırf ne olacağını görmek için gereksiz Değişiklikler yapmayın; bu diğerlerinin düzeltmesi gereken bir karışıklık yaratıyor.</p>
+<p><strong>Note: </strong>Eğer gerçek site üzerinde değişiklik yapmadan önce denemeler yapmak istiyorsanız, deneylerinizi yapabileceğiniz bir&nbsp;<strong><a href="/en-US/docs/Sandbox">Sandbox</a></strong> sayfamız bulunmaktadır. Lütfen bu sayfa üzerinde yapacağınız değişikleri sınırlayın. Lütfen bu sayfa üzerinde sırf ne olacağını görmek için gereksiz değişiklikler yapmayın; bu diğerlerinin düzeltmesi gereken bir karışıklık yaratıyor.</p>
 </div>
 
-<p>Seçtiğiniz işi tamamladıktan sonra, başka bir işi almakta Özgür hissedin veya&nbsp;<a href="#Other_things_you_can_do_on_MDN">other things you can do on MDN</a>&nbsp;sayfasını ziyaret edin.</p>
+<p>Seçtiğiniz işi tamamladıktan sonra, başka bir işi almakta özgür hissedin veya&nbsp;<a href="#Other_things_you_can_do_on_MDN">other things you can do on MDN</a>&nbsp;sayfasını ziyaret edin.</p>
 
 <h2 id="Olası_iş_türleri">Olası iş türleri</h2>
 
-<p>Yeteneklerinize ve ilgi alanlarınıza göre katkıda bulunmak için takip edeceğiniz birden çok yol var.&nbsp;Bazı işler zorlayıcı oltada, bizim çok fazla basit işimizde var. Bir çoğu sadece 5 dk zamanınızı (veya daha az!)&nbsp;alıyor.&nbsp;A lot of them need only five minutes (or less!) of your time. İş ve işin kısa açıklaması ile birlikte hangi tür işin&nbsp;yaklaşık ne kadar zaman aldığını bulacaksınız.</p>
+<p>Yeteneklerinize ve ilgi alanlarınıza göre katkıda bulunmak için takip edeceğiniz birden çok yol var.&nbsp;Bazı işler zorlayıcı olsa da, çok fazla basit işimiz de var. Bir çoğu sadece 5 dakika&nbsp;(veya daha az!)&nbsp;zamanınızı&nbsp;alıyor. İş ve işin kısa açıklaması ile birlikte hangi tür işin&nbsp;yaklaşık ne kadar zaman aldığını bulacaksınız.</p>
 
 <h3 id="Seçenek_1_Kelimeleri_seviyorum">Seçenek&nbsp;1: Kelimeleri seviyorum</h3>
 
@@ -73,9 +73,9 @@ based_on: None
  <li><a href="https://developer.mozilla.org/en-US/demos/submit">Submit a new demo </a>(1 saat)</li>
 </ul>
 
-<h3 id="Seçenek_3_Hem_kodlamayı_hemde_kelimeleri_seviyorum">Seçenek 3: Hem kodlamayı hem de kelimeleri seviyorum</h3>
+<h3 id="Seçenek_3_Hem_kodlamayı_hem_de_kelimeleri_seviyorum">Seçenek 3: Hem kodlamayı hem de kelimeleri seviyorum</h3>
 
-<p>Elimizde hem teknik hem de dil becerileri gerektiren işler var, yeni makaleler yazmak, teknik doğruluk için döküman incelemek veya dökümanları sahiplenmek gibi.</p>
+<p>Elimizde,&nbsp;yeni makaleler yazmak, teknik doğruluk için döküman incelemek veya dökümanları sahiplenmek gibi hem teknik hem de dil becerileri gerektiren işler var.</p>
 
 <ul>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Tag_JavaScript_pages">Tag JavaScript pages</a> (5 dakika)</li>
@@ -88,7 +88,7 @@ based_on: None
 
 <h3 id="Seçenek_4_MDN'_i_kendi_dilimde_istiyorum">Seçenek&nbsp;4: MDN' i kendi dilimde istiyorum</h3>
 
-<p>MDN'deki Bütün yerellleştirme ve çeviri işi bizim müthiş gönüllü topluluğumuz tarafından&nbsp;tarafından yapılıyor.</p>
+<p>MDN'deki Bütün yerellleştirme ve çeviri işleri bizim müthiş gönüllü topluluğumuz tarafından&nbsp;tarafından yapılıyor.</p>
 
 <ul>
  <li><a href="/en-US/docs/MDN/Contribute/Localize/Translating_pages">Translating pages</a> (2 saat)</li>
@@ -97,7 +97,7 @@ based_on: None
 
 <h3 id="Seçenek_5_Bazı_yanlış_bilgiler_buldum_ama_nasıl_düzelteceğimi_bilmiyorum">Seçenek&nbsp;5: Bazı yanlış bilgiler buldum ama nasıl düzelteceğimi bilmiyorum</h3>
 
-<p>Bulduğunuz problemleri&nbsp;<a class="external" href="https://bugzilla.mozilla.org/enter_bug.cgi?product=Mozilla%20Developer%20Network">filing a documentation bug</a>&nbsp;sayfasından bildirebilirsiniz. (5 dakika)</p>
+<p>Bulduğunuz sorunları&nbsp;<a class="external" href="https://bugzilla.mozilla.org/enter_bug.cgi?product=Mozilla%20Developer%20Network">filing a documentation bug</a>&nbsp;sayfasından bildirebilirsiniz. (5 dakika)</p>
 
 <p>Aşağıdaki bilgileri kullanın:</p>
 
@@ -117,7 +117,7 @@ based_on: None
   </tr>
   <tr>
    <td><code>URL</code></td>
-   <td>Problemi bulduğunuz sayfanı adresi</td>
+   <td>Sorunu bulduğunuz sayfanın adresi</td>
   </tr>
   <tr>
    <td><code>Description</code></td>
