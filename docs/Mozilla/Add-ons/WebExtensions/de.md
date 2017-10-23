@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1269333
+revision_id: 1320753
 locale: de
 slug: Mozilla/Add-ons/WebExtensions
 tags: 
@@ -21,48 +21,48 @@ based_on: None
 
 <div class="row topicpage-table">
 <div class="section">
-<h3 id="Getting_started">Getting started</h3>
+<h3 id="Getting_started">Erste Schritte</h3>
 
 <ul>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions_">What are WebExtensions?</a></li>
- <li><a href="/en-US/Add-ons/WebExtensions/Your_first_WebExtension">Your first WebExtension</a></li>
- <li><a href="/en-US/Add-ons/WebExtensions/Your_second_WebExtension">Your second WebExtension</a></li>
- <li><a href="/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension">Anatomy of a WebExtension</a></li>
- <li><a href="/en-US/Add-ons/WebExtensions/Examples">Example WebExtensions</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions_">Was sind WebExtensions?</a></li>
+ <li><a href="/en-US/Add-ons/WebExtensions/Your_first_WebExtension">Deine erste WebExtension</a></li>
+ <li><a href="/en-US/Add-ons/WebExtensions/Your_second_WebExtension">Deine zweite WebExtension</a></li>
+ <li><a href="/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension">Anatomie einer WebExtension</a></li>
+ <li><a href="/en-US/Add-ons/WebExtensions/Examples">Beispiel-WebExtensions</a></li>
 </ul>
 
-<h3 id="How_to">How to</h3>
+<h3 id="How_to">Kurzanleitungen</h3>
 
 <ul>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests">Intercept HTTP requests</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page">Modify a web page</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar">Add a button to the toolbar</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Implement_a_settings_page">Implement a settings page</a></li>
- <li>Manipulate browser tabs</li>
- <li>Access and modify bookmarks</li>
- <li>Access and modify cookies</li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests">Abfangen von HTTP-Anfragen</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page">Eine Web-Seite verändern</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar">Eine Schaltfläche zu einer Werkzeugleiste hinzufügen</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Implement_a_settings_page">Eine Einstellungen-Seite erstellen</a></li>
+ <li>Browser-Tabs beeinflussen</li>
+ <li>Zugreifen auf und verändern von Lesezeichen</li>
+ <li>Zugreifen auf und verändern von Cookies</li>
 </ul>
 
-<h3 id="Concepts">Concepts</h3>
+<h3 id="Concepts">Konzepte</h3>
 
 <ul>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Using_the_JavaScript_APIs">Using the JavaScript APIs</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Using_the_JavaScript_APIs">Verwendung der JavaScript-APIs</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/Content_scripts">Content scripts</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/Match_patterns">Match patterns</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Internationalization">Internationalization</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Internationalization">Internationalisierung</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_Security_Policy">Content Security Policy</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging">Native messaging</a></li>
 </ul>
 
-<h3 id="Porting">Porting</h3>
+<h3 id="Porting">Portieren</h3>
 
 <ul>
- <li><a href="/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">Porting a Google Chrome extension</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on">Porting a legacy Firefox add-on</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Embedded_WebExtensions">Embedded WebExtensions</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Comparison_with_the_Add-on_SDK">Comparison with the Add-on SDK</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Comparison_with_XUL_XPCOM_extensions">Comparison with XUL/XPCOM extensions</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Chrome_incompatibilities">Chrome incompatibilities</a></li>
+ <li><a href="/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">Portieren einer Google Chrome-Erweiterung</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on">Portieren eines veralteten Firefox Add-ons</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Embedded_WebExtensions">Eingebettete WebExtensions</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Comparison_with_the_Add-on_SDK">Vergleich mit dem Add-on SDK</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Comparison_with_XUL_XPCOM_extensions">Vergleich mit XUL/XPCOM-Erweiterungen</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Chrome_incompatibilities">Inkompatibilitäten mit Chrome</a></li>
 </ul>
 
 <h3 id="Firefox_workflow">Firefox workflow</h3>
@@ -70,19 +70,19 @@ based_on: None
 <ul>
  <li><a href="/en-US/Add-ons/WebExtensions/Temporary_Installation_in_Firefox">Installation</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/Debugging">Debugging</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Getting_started_with_web-ext">Getting started with web-ext</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/web-ext_command_reference">web-ext command reference</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/WebExtensions_and_the_Add-on_ID">WebExtensions and the Add-on ID</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Publishing_your_WebExtension">Publishing your WebExtension</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Getting_started_with_web-ext">Einstieg in Web-Ext</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/web-ext_command_reference">Web-Ext Befehlsreferenz</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/WebExtensions_and_the_Add-on_ID">WebExtensions und die Add-On-ID</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Publishing_your_WebExtension">Veröffentlichen deiner WebExtension</a></li>
 </ul>
 </div>
 
 <div class="section">
-<h3 id="Reference">Reference</h3>
+<h3 id="Reference">Referenz</h3>
 
 <ul>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/API">JavaScript API overview</a></li>
- <li><a href="/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs">Browser compatibility tables for JavaScript APIs</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/API">JavaScript-API-Überblick</a></li>
+ <li><a href="/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs">Tabellen zur Browser-Kompatibilität zu JavaScript-APIs</a></li>
 </ul>
 
 <h4 id="JavaScript_APIs">JavaScript APIs</h4>
