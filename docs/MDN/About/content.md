@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1317724
+revision_id: 1320846
 locale: en-US
 slug: MDN/About
 tags: "MDN Meta" "Guide" "Licenses" "Community" "Copyright" "Collaborating" "Documentation"
@@ -78,7 +78,7 @@ based_on: None
 
 <h3 id="Downloading_content">Downloading content</h3>
 
-<p>You can download <a href="/media/developer.mozilla.org.tar.gz">a full tarball mirror of MDN</a> (2.5 GB as of 2016-11-30).</p>
+<p>You can download <a href="https://mdn-downloads.s3-us-west-2.amazonaws.com/developer.mozilla.org.tar.gz">a full tarball mirror of MDN</a> (2.1 GB as of February 2017).</p>
 
 <h4 id="Single_pages">Single pages</h4>
 
