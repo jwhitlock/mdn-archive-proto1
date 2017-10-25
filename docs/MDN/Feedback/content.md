@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1270491
+revision_id: 1321626
 locale: en-US
 slug: MDN/Feedback
 tags: "MDN" "MDN Meta" "Guide" "Documentation"
@@ -21,12 +21,20 @@ based_on: None
 
 <h2 id="Update_the_documentation">Update the documentation</h2>
 
-<p>First of all, if you've seen a problem with the documentation, you should always feel free to correct it yourself. Simply <a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">sign in</a> using <a href="https://github.com/">Github</a>, then click any blue <strong>Edit</strong> button to open the <a href="/en-US/docs/MDN/Contribute/Editor">editor</a> and enter the world of contributing to MDN documentation. The documentation here is in a wiki, and is curated by a team of volunteers and paid staff, so don't be shy—your grammar doesn't have to be perfect. We'll clean it up if you make a mistake; no harm done!</p>
+<p>First of all, if you've seen a problem with the documentation, you should always feel free to correct it yourself.</p>
+
+<ol>
+ <li><a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">Sign in</a> using <a href="https://github.com/">Github</a>.</li>
+ <li>Click the blue <strong>Edit</strong> button on any page to open the <a href="/en-US/docs/MDN/Contribute/Editor">editor</a>.</li>
+ <li>Click the <strong>Publish</strong> button when you're finished making changes.</li>
+</ol>
+
+<p>The documentation here is in a wiki, and is curated by a team of volunteers and paid staff, so don't be shy—your grammar doesn't have to be perfect. We'll clean it up if you make a mistake; no harm done!</p>
 
 <p>For more information about contributing to MDN documentation, see:</p>
 
 <ul>
- <li><a href="/en-US/docs/Project:Getting_started" title="/en-US/docs/Project:Getting_started">Getting started</a></li>
+ <li><a href="/en-US/docs/Project:Getting_started" title="/en-US/docs/Project:Getting_started">Getting started</a> for ideas of things you can do.</li>
  <li><a href="/en-US/docs/MDN/Contribute">Contributing to MDN</a></li>
  <li><a href="/en-US/docs/MDN/Contribute/Editor" title="/en-US/docs/Project:MDN_editing_interface">The MDN editing interface</a></li>
 </ul>
