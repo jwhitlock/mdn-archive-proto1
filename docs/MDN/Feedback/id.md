@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1277589
+revision_id: 1321949
 locale: id
 slug: Project:Feedback
 tags: "MDN" "Mozilla" "Feedback" "kontribusi" "Masalah situs"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Selamat datang di Mozilla Developer Network! Jika anda mempunyai masalah, atau ingin meminta saran, ini tempat yang tepat. Kenyataannya anda tertarik mengirimkan tanggapan membuat anda semakin menjadi bagian dari komunitas Mozilla, dan kami berterima kasih atas ketertarikan anda.</p>
+<p>LSelamat datang di Mozilla Developer Network! Jika anda mempunyai masalah, atau ingin meminta saran, ini tempat yang tepat. Kenyataannya anda tertarik mengirimkan tanggapan membuat anda semakin menjadi bagian dari komunitas Mozilla, dan kami berterima kasih atas ketertarikan anda.</p>
 
 <p><span id="result_box" lang="id"><span class="hps">Anda memiliki beberapa pilihan</span> <span class="hps">untuk</span> <span class="hps">menawarkan</span> <span class="hps">wawasan</span><span class="hps">,</span> <span class="hps">artikel ini</span> <span class="hps">akan membantu anda</span> <span class="hps">melakukannya</span></span>.</p>
 
@@ -44,7 +44,7 @@ based_on: None
  <dd>Di saluran #mdndev ini kita membahas tentang pekerjaan pengembang platform yang berjalan pada situs MDN. Bila anda memiliki masalah tentang fungsionalitas situs, atau ide tentang fitur, anda dapat bergabung dalam pembahasan ini.</dd>
 </dl>
 
-<h3 id="Email"><span class="short_text" id="result_box" lang="id"><span>(Asinkron) Diskusi</span></span></h3>
+<h3 id="(Asinkron)_Diskusi"><span class="short_text" id="result_box" lang="id"><span>(Asinkron) Diskusi</span></span></h3>
 
 <p><span id="result_box" lang="id"><span>Diskusi jangka panjang terjadi di <a href="https://discourse.mozilla-community.org/c/mdn">forum diskusi MDN</a> kita.</span> <span>Anda bisa posting ke forum via email ke <a href="mailto:mdn@mozilla-community.org">mdn@mozilla-community.org</a>.</span> <span>Jika Anda bergabung dengan forum, Anda dapat memilih untuk memiliki pemberitahuan tentang diskusi yang dikirimkan kepada Anda melalui email juga.</span></span></p>
 
