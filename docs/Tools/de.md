@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1229085
+revision_id: 1322051
 locale: de
 slug: Tools
 tags: "Tools" "Entwickler" "Webentwicklung"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div class="summary"><span class="seoSummary">Untersuchen, Bearbeiten und Debuggen von HTML, CSS und JavaScript für Desktop- und Mobilseiten!</span></div>
+<div class="summary"><span class="seoSummary"><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow></mrow><annotation encoding="TeX"></annotation></semantics></math>Untersuchen, Bearbeiten und Debuggen von HTML, CSS und JavaScript für Desktop- und Mobilseiten!</span></div>
 
 <div class="column-container zone-callout"><a href="https://www.mozilla.org/en-US/firefox/aurora/all/#de" style="float: right; margin-bottom: 20px; padding: 10px; text-align: center; border-radius: 4px; display: inline-block; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" target="_">Firefox Aurora installieren</a>
 
