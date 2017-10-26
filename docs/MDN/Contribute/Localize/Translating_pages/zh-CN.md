@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1316491
+revision_id: 1322056
 locale: zh-CN
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "MDC项目" "MDN" "本地化"
@@ -15,14 +15,14 @@ based_on: None
 ---
 <p>&nbsp;</p>
 
-<p>这篇文章是翻译MDN上的内容的基本指南，指南内容包括翻译工作的机制以及适当地处理不同类型内容的小贴士。</p>
+<p>这篇文章是翻译MDN内容的基本指南，包括翻译工作的机制以及适当处理不同类型内容的小贴士。</p>
 
-<h2 id="新建一个页面的新翻译版本">新建一个页面的新翻译版本</h2>
+<h2 id="新建一个页面的新翻译版本">新建一个翻译页面</h2>
 
-<p>当您浏览到一个MDN上的页面，想要翻译成您的语言，请参照以下步骤：</p>
+<p>当您浏览到一个MDN的页面，并想要翻译成您的语言，请参照以下步骤：</p>
 
 <ol>
- <li>点击页面上的语言图标 ( {{FontAwesomeIcon("icon-globe")}}) 打开<strong>语言</strong>菜单，并点击<strong>添加翻译副本</strong>，出现选择语言的页面。</li>
+ <li>点击页面上的语言图标 ( {{FontAwesomeIcon("icon-globe")}}) 打开<strong>语言</strong>菜单，并点击<strong>添加翻译副本</strong>，就会看到选择语言的页面。</li>
  <li>点击您想要翻译成的语言。翻译文章的页面会打开，页面左边是文章的原语言。</li>
  <li>在<strong>翻译描述</strong>下，您可以翻译标题，或者，也可以将slug翻译成目标语言。slug是网页URL的最后那一部分（例如，这篇文章的“Translating_pages”）。一些语言的社区不翻译slug，保留使用英语版本的slug。请您对比其他MDN上您的语言的文章来决定一个普遍的做法。当您完成描述的翻译时，您可以点击<strong>翻译描述</strong>后的减号来隐藏它，这样下面翻译内容的部分就有更大的空间。</li>
  <li>在<strong>翻译内容</strong>下，翻译页面的主体内容。</li>
