@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 1203533
+revision_id: 1322464
 locale: id
 slug: MDN/Komunitas
 tags: 
 title: Gabung di Komunitas MDN
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -75,12 +75,12 @@ based_on: None
 
 <h2 id="Project_administrators">Project administrators</h2>
 
-<p>You can contact an MDN project administrator by email. If you wish to talk to the MDN documentation lead, his name is {{UserLink("Sheppy", "Eric Shepherd")}}, and he's happy to try to answer your questions, or help you find the right person to do so.</p>
+<p>kamu dapat menghubungi&nbsp;MDN project <em>administrator </em>melalui&nbsp;email. BIla kamu ingin berbicara&nbsp;dengan pemimpin MDN <em>documentation</em>, ia bernama&nbsp;{{UserLink("Sheppy", "Eric Shepherd")}}, dan ia senang untuk menjawab pertanyaan yang kamu ajukan, atau membantu&nbsp;mencarikan orang yang lebih tepat.</p>
 
-<h2 id="Next_steps">Langkah Berikutnya</h2>
+<h2 id="Langkah_Berikutnya">Langkah Berikutnya</h2>
 
 <ul>
- <li><a href="/en-US/docs/Project:MDN/Contributing" title="/en-US/docs/Project:MDN/Contributing">Contributing to MDN</a>: Look here for guides to working in MDN, and suggestions for things to work on.</li>
- <li><a href="/en-US/docs/Project:MDN/Contributing/Follow_what_s_happening" title="/en-US/docs/Project:MDN/Contributing/Follow_what_s_happening">Follow what's happening</a>: More ways to keep up with MDN, and Mozilla Developer Relations in general.&nbsp;&nbsp;&nbsp;&nbsp;</li>
+ <li><a href="/en-US/docs/Project:MDN/Contributing" title="/en-US/docs/Project:MDN/Contributing">Berkontribusi di MDN</a>: Lihat petunjuk untuk berkontribusi dan bantuan dalam mengerjakannya.</li>
+ <li><a href="/en-US/docs/Project:MDN/Contributing/Follow_what_s_happening" title="/en-US/docs/Project:MDN/Contributing/Follow_what_s_happening">Ikuti apa yang sedang terjadi</a>: Cara untuk tetap terhubung dengan MDN, dan Mozilla <em>Developer Relations </em>secara umum.&nbsp;&nbsp;&nbsp;&nbsp;</li>
 </ul>
 
