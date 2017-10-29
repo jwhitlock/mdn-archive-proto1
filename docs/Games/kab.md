@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1306653
+revision_id: 1322650
 locale: kab
 slug: Games
 tags: 
@@ -15,7 +15,7 @@ based_on: None
 ---
 <p>&nbsp;</p>
 
-<p>Urar d yiwen seg irmuden n Tasenselkimt aɣerfan.ti tiknulujiyin timaynutin tt-awint-ed yal ass asnefli arebbaw u seg widen iǧehden ig zemren ad i ddu di yal iminig ɣef web arawas i tignutin.</p>
+<p>Urar d-yiwen seg irmuden n Tasenselkimt aɣerfan.ti tiknulujiyin timaynutin tt-awint-ed yal ass asnefli arebbaw u seg widen iǧehden ig zemren ad i ddu di yal iminig ɣef web arawas i tignutin.</p>
 
 <div><strong>Snefli uraren di web</strong></div>
 
@@ -79,7 +79,7 @@ based_on: None
  <dd>Adlis ar uqqin,yura Bob Nystrom,ig tt-meslayen ɣef timudmiwin n usihel deg tawenna n taneflit n urar iw akken a nefk tallalt iy ineflayen n uraren akken ad ger tangalt i fazen.<br />
  &nbsp;</dd>
  <dt><a href="http://gamedevjsweekly.com/">Gamedeγ.js Weekly</a></dt>
- <dd>Gamedev.js tanfult n dduṛt iw snefli n uraren HTML5,id itt wacegan yal sḍisass.degs ameɣlal anegaru n imagraden,almeḍris,ifecka ed iɣbula.</dd>
+ <dd>Gamedev.js tanfult n dduṛt iw snefli n uraren HTML5,id itt wacegan yal sḍisass.degs ameɣlal anegaru n imagraden,almeḍris,ifecka d iɣbula.</dd>
  <dt><a href="http://www.html5gamedevs.com/" type="http://www.html5gamedevs.com/">Agraw n amyannan HTML5</a></dt>
  <dd>Agraw n ineflayen,isnulfuyen n ikataren d imaszṛagen.mmud tuttra,ad awiḍ iwenniten,a tefkeḍ tallalt i wiyaḍ.</dd>
 </dl>
@@ -88,15 +88,15 @@ based_on: None
 <div class="column-half">
 <dl>
  <dt><a href="http://html5gameengine.com/" type="http://html5gameengine.com/">Amsadday n unadi HTML5</a></dt>
- <dd>Umuɣ ikataren n uraren HTML5 aɣerfan aked summa n sen,Tiskanin ed tilemmicin.</dd>
+ <dd>Umuɣ ikataren n uraren HTML5 aɣerfan aked summa n sen,Tiskanin d tilemmicin.</dd>
  <dt><a href="http://www.jsbreakouts.org/">JSBreakouts</a></dt>
- <dd>Snemhel ijguya n Breakout JavaScript deg yal imezlan n ikataren iw akken a-tt-afem tallalt u a-tt-fernem akken iwata.</dd>
+ <dd>Snemhel ijguya n Breakout JavaScript deg yal imezlan n ikataren iw akken attafem tallalt u attfernem akken iwata.</dd>
  <dt><a href="https://gamedevelopment.tutsplus.com/" type="https://gamedevelopment.tutsplus.com/">Tuts+ asnefli n urar</a></dt>
  <dd>Ilmedṛisen d imagraden deg taneflit n uraren sumata.</dd>
  <dt><a href="http://html5gameengine.com/" type="http://html5gameengine.com/">Amsekker HTML5</a></dt>
  <dd>Starter iy imsnefliyen n uraren,yiwen wumuɣ n iseɣwen n aṭas iɣbula useqdec deg Web.</dd>
  <dt><a href="http://js13kgames.com/">js13kGames</a></dt>
- <dd>JavaScript&nbsp; tamenziɣt angal iy imsnefliyen n uraren HTML5 akked ubadu n tiddi n ifuyla yerṣa ɣer 13 kilubytes. meṛṛa uraren zeggszan tt waheggan s udem n talɣa yett waɣṛan deg GitHub.0.</dd>
+ <dd>JavaScript&nbsp; tamenziɣt angal iy imsnefliyen n uraren HTML5 akked ubadu n tiddi n ifuyla yerṣa ɣer 13 kilubytes. meṛṛa uraren zeggszan ttwaheggan s udem n talɣa yettwaɣṛan deg GitHub.0.</dd>
  <dt><a href="https://hacks.mozilla.org/category/games/" type="https://hacks.mozilla.org/category/games/">Ablug n Mozilla hacks</a></dt>
  <dd>Taggayt n uraren deg ablug Mozilla Hacks nagbas imagraden ackkiten ɣef&nbsp; gamedev.</dd>
 </dl>
@@ -173,7 +173,7 @@ based_on: None
     <ol>
      <li><a href="/kab/docs/">Awali tagruma n allalen n wanɣed n urar </a></li>
      <li><a href="/kab/docs/">Tagruma tanalit u amafus</a></li>
-     <li><a href="/kab/docs/">Anezḍay n umumed ed anasiw n assira</a></li>
+     <li><a href="/kab/docs/">Anezḍay n umumed d anasiw n assira</a></li>
      <li><a href="/en-US/docs/Games/Techniques/Control_mechanisms/Desktop_with_gamepad">Anezḍay gamped n assira</a></li>
      <li><span style="display:none">&nbsp;</span><a href="/kab/docs/">Anezḍay wer amesdugam</a></li>
     </ol>
