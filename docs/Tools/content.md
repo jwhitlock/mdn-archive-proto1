@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1323014
+revision_id: 1323016
 locale: en-US
 slug: Tools
 tags: "Guide" "Tools" "l10n:priority" "Web Development" "Developing Mozilla" "Web Development:Tools"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p class="summary" dir="rtl">إفحص , عدل و صحح ال CSS , HTML , و <span>JavaScript</span> على سطح المكتب و الموبايل .</p>
+<p class="summary">Examine, edit, and debug HTML, CSS, and JavaScript on the desktop and on mobile.</p>
 
 <hr />
 <div class="column-container">
@@ -22,107 +22,98 @@ based_on: None
 <div class="column-third">
 <p><img alt="" src="https://mdn.mozillademos.org/files/15588/logo-developer-quantum.png" style="display:block; margin:0px auto" /></p>
 
-<p dir="rtl" style="text-align: center;">للحصول على اخر مميزات<br />
- وأدوات المطور , قم بتجربة فايرفوكس إصدارالمطور .</p>
+<p style="text-align: center;">For the latest developer tools and features, try Firefox Developer Edition.</p>
 
-<p dir="rtl"><a href="https://www.mozilla.org/en-US/firefox/developer/" style="width: 280px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;">تحميل فايرفوكس إصدار المطور</a></p>
+<p><a href="https://www.mozilla.org/en-US/firefox/developer/" style="width: 280px;display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;">Download Firefox Developer Edition</a></p>
 </div>
 
 <div class="column-third">&nbsp;</div>
 </div>
 
 <hr />
-<h2 dir="rtl" id="The_Core_Tools">الأدوات الأساسية</h2>
+<h2 id="The_Core_Tools">The Core Tools</h2>
 
 <div class="column-container">
 <div class="column-half">
-<h3 dir="rtl" id="Page_Inspector">مدقق الصفحة</h3>
+<h3 id="Page_Inspector">Page Inspector</h3>
 
 <p><a href="/en-US/docs/Tools/Page_Inspector"><img alt="The all-new Inspector panel in Firefox 57." src="https://mdn.mozillademos.org/files/15481/57-inspector.png" style="display:block; height:243px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
-<p dir="rtl">شاهد وعدل محتوى وتنسيق الصفحة , تخيل العديد من جوانب الصفحة ومن ضمنها شكل النموذج , الرسوم المتحركة ,&nbsp; والتخطيط الشبكي .</p>
-
-<p>&nbsp;</p>
+<p>View and edit page content and layout. Visualise many aspects of the page including the box model, animations, and grid layouts.</p>
 </div>
 
 <div class="column-half">
-<h3 dir="rtl" id="Web_Console">وحدة التحكم بالويب</h3>
+<h3 id="Web_Console">Web Console</h3>
 
 <p><a href="/en-US/docs/Tools/Web_Console"><img alt="The all-new Console in Firefox 57." src="https://mdn.mozillademos.org/files/15483/57-console.png" style="display:block; height:239px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
-<p dir="rtl">شاهد الرسائل المحملة عبر صفحة الويب وتفاعل مع الصفحة باستخدام ال JavaScript .</p>
+<p>See messages logged by a web page and interact with the page using JavaScript.</p>
 </div>
 </div>
 
 <div class="column-container">
 <div class="column-half">
-<h3 dir="rtl" id="JavaScript_Debugger">مصحح ال JavaScript</h3>
+<h3 id="JavaScript_Debugger">JavaScript Debugger</h3>
 
 <p><a href="/en-US/docs/Tools/Debugger"><img alt="The all-new Firefox 57 Debugger.html" src="https://mdn.mozillademos.org/files/15485/57-debugger.png" style="display:block; height:239px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
-<p dir="rtl">توقف , نفذ خطوة , إختبر , وصحح ال JavaScript الذي يعمل في الصفحة .</p>
-
-<p>&nbsp;</p>
+<p>Stop, step through, examine, and modify the JavaScript running in a page.</p>
 </div>
 
 <div class="column-half">
-<h3 dir="rtl" id="Network_Monitor">مراقبة الشبكة</h3>
+<h3 id="Network_Monitor">Network Monitor</h3>
 
 <p><a href="/en-US/docs/Tools/Network_Monitor"><img alt="The Network panel in Firefox 57 DevTools." src="https://mdn.mozillademos.org/files/15487/57-network.png" style="display:block; height:239px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
-<p dir="rtl">شاهد طلبات الشبكة التي تم إجراؤها عند تحميل صفحة الويب .</p>
+<p>See the network requests made when a page is loaded.</p>
 </div>
 </div>
 
 <div class="column-container">
 <div class="column-half">
-<h3 dir="rtl" id="Performance_Tools">ادوات الاداء</h3>
+<h3 id="Performance_Tools">Performance Tools</h3>
 
-<p><a href="/en-US/docs/Tools/Performance"><img alt="" src="https://mdn.mozillademos.org/files/14536/performance.png" style="display:block; height:266px; margin-left:auto; margin-right:auto; width:440px" /></a></p>
+<p><a href="/en-US/docs/Tools/Performance"><img alt="" src="https://mdn.mozillademos.org/files/14536/performance.png" style="display:block; height:1026px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
-<p dir="rtl">تحليل الإستجابة العامة لصفحتك , JavaScript , ونسق الاداء .</p>
-
-<p>&nbsp;</p>
+<p>Analyze your site's general responsiveness, JavaScript, and layout performance.</p>
 </div>
 
 <div class="column-half">
-<h3 dir="rtl" id="Responsive_Design_Mode">اسلوب التصميم المتجاوب</h3>
+<h3 id="Responsive_Design_Mode">Responsive Design Mode</h3>
 
 <p><a href="/en-US/docs/Tools/Responsive_Design_Mode"><img alt="Responsive Design mode in Firefox 57." src="https://mdn.mozillademos.org/files/15491/57-rdm.png" style="display:block; height:266px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
-<p dir="rtl">شاهد كيف يكون شكل وإستجابة صفحة الويب أو التطبيق على الأجهزة المختلفة وأنماط الشبكات المتنوعة .</p>
-
-<p>&nbsp;</p>
+<p>See how your website or app will look and behave on different devices and network types.</p>
 </div>
 </div>
 
 <hr />
-<h2 dir="rtl" id="More_Tools">أدوات إضافية</h2>
+<h2 id="More_Tools">More Tools</h2>
 
-<p dir="rtl">هذه الأدوات مدمجة في الفايرفوكس , على العكس من الأدوات الأساسية في الأعلى والتي من الممكن أن لا تستخدمها بشكل دائم .</p>
+<p>These developer tools are also built into Firefox. Unlike the "Core Tools" above, you might not use them every day.</p>
 
 <div class="twocolumns">
 <dl>
- <dt dir="rtl"><a href="/en-US/docs/Tools/Memory">الذاكره</a></dt>
- <dd dir="rtl">اكتشف أي الأغراض تستمر بحجز وإستخدام الذاكره .</dd>
- <dt dir="rtl"><a href="/en-US/docs/Tools/Storage_Inspector">مدقق التخزين</a></dt>
- <dd dir="rtl">تفحص&nbsp;&nbsp; , التخزين المحلي , فهرسة قواعد البيانات ,وتخزين الجلسات الحالية في الصفحة .</dd>
+ <dt><a href="/en-US/docs/Tools/Memory">Memory</a></dt>
+ <dd>Figure out which objects are keeping memory in use.</dd>
+ <dt><a href="/en-US/docs/Tools/Storage_Inspector">Storage Inspector</a></dt>
+ <dd>Inspect cookies, local storage, indexedDB, and session storage present in a page.</dd>
  <dt><a href="/en-US/docs/Tools/DOM_Property_Viewer">DOM Property Viewer</a></dt>
  <dd>Inspect the page's DOM properties, functions, etc.</dd>
- <dt dir="rtl"><a href="/en-US/docs/Tools/GCLI">شريط أدوات المطور</a></dt>
- <dd dir="rtl">واجهة سطر الأوامر لأدوات المطور .</dd>
- <dt dir="rtl"><a href="/en-US/docs/Tools/Eyedropper">العينات</a></dt>
- <dd dir="rtl">اختر اللون من الصفحة .</dd>
- <dt dir="rtl"><a href="/en-US/docs/Tools/Scratchpad">تطبيق المسودة</a></dt>
- <dd dir="rtl">محرر نصوص مدمج مع فايرفوكس والذي يتيح لك كتابة وتنفيذ ال JavaScript .</dd>
- <dt dir="rtl"><a href="/en-US/docs/Tools/Style_Editor">محرر التنسيق</a></dt>
- <dd dir="rtl">شاهد وحرر تنسيق CSS لصفحتك الحالية .</dd>
+ <dt><a href="/en-US/docs/Tools/GCLI">Developer Toolbar</a></dt>
+ <dd>A command-line interface for the developer tools.</dd>
+ <dt><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></dt>
+ <dd>Select a color from the page.</dd>
+ <dt><a href="/en-US/docs/Tools/Scratchpad">Scratchpad</a></dt>
+ <dd>A text editor built into Firefox that lets you write and execute JavaScript.</dd>
+ <dt><a href="/en-US/docs/Tools/Style_Editor">Style Editor</a></dt>
+ <dd>View and edit CSS styles for the current page.</dd>
  <dt><a href="/en-US/docs/Tools/Shader_Editor">Shader Editor</a></dt>
  <dd>View and edit the vertex and fragment shaders used by <a href="/en-US/docs/Web/WebGL">WebGL</a>.</dd>
- <dt dir="rtl"><a href="/en-US/docs/Tools/Web_Audio_Editor">محرر صوتيات الويب</a></dt>
+ <dt><a href="/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></dt>
  <dd>Examine the graph of audio nodes in an audio context, and modify their parameters.</dd>
- <dt dir="rtl"><a href="/en-US/docs/Tools/Screenshot_tool">اخذ لقطات صور</a></dt>
- <dd dir="rtl">اخذ صورة لجزء من الصفحة او لكامل الصفحة .</dd>
+ <dt><a href="/en-US/docs/Tools/Screenshot_tool">Taking screenshots</a></dt>
+ <dd>Take a screenshot of the entire page or of a single element.</dd>
 </dl>
 </div>
 
@@ -131,7 +122,7 @@ based_on: None
 <p>{{ SauceLabsPromo("a") }}</p>
 
 <hr />
-<h2 dir="rtl" id="Connecting_the_Developer_Tools">ربط أدوات المطور</h2>
+<h2 id="Connecting_the_Developer_Tools">Connecting the Developer Tools</h2>
 
 <p>If you open the developer tools using <a href="/en-US/docs/Tools/Keyboard_shortcuts#Opening_and_closing_tools">keyboard shortcuts</a> or the equivalent menu items, they'll target the document hosted by the currently active tab. But you can attach the tools to a variety of other targets, too, both within the current browser and in different browsers or even different devices.</p>
 
@@ -209,30 +200,30 @@ based_on: None
 <h2 id="Subnav">Subnav</h2>
 
 <ol>
- <li><a href="#">الأدوات الأساسية</a>
+ <li><a href="#">Core Tools</a>
 
   <ol>
-   <li><a href="/en-US/docs/Tools/Page_Inspector">مدقق الصفحة</a></li>
-   <li><a href="/en-US/docs/Tools/Web_Console">وحدة التحكم بالويب</a></li>
-   <li><a href="/en-US/docs/Tools/Debugger">JavaScript مدقق</a></li>
-   <li><a href="/en-US/docs/Tools/Network_Monitor">مراقبة الشبكة</a></li>
-   <li><a href="/en-US/docs/Tools/Performance">الأداء</a></li>
-   <li><a href="/en-US/docs/Tools/Responsive_Design_Mode">اسلوب التصميم المتجاوب</a></li>
-   <li><a href="/en-US/docs/Tools/Tips">نصائح</a></li>
+   <li><a href="/en-US/docs/Tools/Page_Inspector">Page Inspector</a></li>
+   <li><a href="/en-US/docs/Tools/Web_Console">Web Console</a></li>
+   <li><a href="/en-US/docs/Tools/Debugger">JavaScript Debugger</a></li>
+   <li><a href="/en-US/docs/Tools/Network_Monitor">Network Monitor</a></li>
+   <li><a href="/en-US/docs/Tools/Performance">Performance</a></li>
+   <li><a href="/en-US/docs/Tools/Responsive_Design_Mode">Responsive Design Mode</a></li>
+   <li><a href="/en-US/docs/Tools/Tips">Tips</a></li>
   </ol>
  </li>
- <li><a href="#">أدوات اضافية</a>
+ <li><a href="#">More Tools</a>
   <ol>
-   <li><a href="/en-US/docs/Tools/Memory">الذاكرة</a></li>
-   <li><a href="/en-US/docs/Tools/Storage_Inspector">مدقق التخزين</a></li>
+   <li><a href="/en-US/docs/Tools/Memory">Memory</a></li>
+   <li><a href="/en-US/docs/Tools/Storage_Inspector">Storage Inspector</a></li>
    <li><a href="/en-US/docs/Tools/DOM_Property_Viewer">DOM Property Viewer</a></li>
-   <li><a href="/en-US/docs/Tools/GCLI">شريط أدوات المطور</a></li>
+   <li><a href="/en-US/docs/Tools/GCLI">Developer Toolbar</a></li>
    <li><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></li>
-   <li><a href="/en-US/docs/Tools/Taking_screenshots">التقاط صور من الشاشة</a></li>
-   <li><a href="/en-US/docs/Tools/Scratchpad">المسودة</a></li>
-   <li><a href="/en-US/docs/Tools/Style_Editor">محرر التصميم</a></li>
-   <li><a href="/en-US/docs/Tools/Shader_Editor">محرر الظل</a></li>
-   <li><a href="/en-US/docs/Tools/Web_Audio_Editor">محرر صوتيات الويب</a></li>
+   <li><a href="/en-US/docs/Tools/Taking_screenshots">Screenshot</a></li>
+   <li><a href="/en-US/docs/Tools/Scratchpad">Scratchpad</a></li>
+   <li><a href="/en-US/docs/Tools/Style_Editor">Style Editor</a></li>
+   <li><a href="/en-US/docs/Tools/Shader_Editor">Shader Editor</a></li>
+   <li><a href="/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></li>
   </ol>
  </li>
  <li><a href="#">Connecting the devtools</a>
@@ -255,12 +246,12 @@ based_on: None
    <li><a href="/en-US/docs/Tools/Example_add-ons">Example devtools add-ons</a></li>
    <li><a href="https://wiki.mozilla.org/Remote_Debugging_Protocol">Remote Debugging Protocol</a></li>
    <li><a href="https://wiki.mozilla.org/Remote_Debugging_Protocol_Stream_Transport">Stream Transport</a></li>
-   <li><a href="/en-US/docs/Tools/Editor">محرر المصدر</a></li>
+   <li><a href="/en-US/docs/Tools/Editor">Source Editor</a></li>
    <li><a href="/en-US/docs/Tools/Debugger-API">The <code>Debugger</code> Interface</a></li>
    <li><a href="/en-US/docs/Tools/Web_Console/Custom_output">Web Console custom output</a></li>
   </ol>
  </li>
- <li><a href="/en-US/docs/Tools/Settings">الإعدادات</a></li>
+ <li><a href="/en-US/docs/Tools/Settings">Settings</a></li>
  <li><a href="/en-US/docs/Tools/Release_notes">Release notes</a></li>
 </ol>
 
