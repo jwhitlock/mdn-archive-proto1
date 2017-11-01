@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1318744
+revision_id: 1323371
 locale: zh-CN
 slug: Web/CSS
 tags: "CSS" "参考" "布局" "设计"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p class="summary"><span class="seoSummary"><strong>层叠样式表</strong>&nbsp;(Cascading Style Sheets，常缩写记作&nbsp;<strong>CSS</strong>）， 是一种&nbsp;<a href="/zh-CN/docs/DOM/stylesheet">样式表</a>&nbsp;语言，用来描述&nbsp;<a href="/zh-CN/docs/HTML" title="The HyperText Mark-up Language">HTML</a>&nbsp;或&nbsp;<a href="/zh-CN/docs/XML" title="zh-CN/docs/XML">XML</a>（包括如&nbsp;<a href="/zh-CN/docs/SVG" title="zh-CN/docs/SVG">SVG</a>、<a href="/zh-CN/docs/XHTML" title="zh-CN/docs/XHTML">XHTML</a>&nbsp;之类的 XML 分支语言）文档的呈现。CSS 描述了在<span style="line-height:inherit">屏幕、纸质、音频等其它媒体上的元素应该如何被渲染</span>的问题<span style="line-height:inherit">。</span></span></p>
+<p class="summary"><span class="seoSummary"><strong>层叠样式表</strong>&nbsp;(Cascading Style Sheets，缩写为&nbsp;<strong>CSS</strong>）， 是一种&nbsp;<a href="/zh-CN/docs/DOM/stylesheet">样式表</a>&nbsp;语言，用来描述&nbsp;<a href="/zh-CN/docs/HTML" title="The HyperText Mark-up Language">HTML</a>&nbsp;或&nbsp;<a href="/zh-CN/docs/XML" title="zh-CN/docs/XML">XML</a>（包括如&nbsp;<a href="/zh-CN/docs/SVG" title="zh-CN/docs/SVG">SVG</a>、<a href="/zh-CN/docs/XHTML" title="zh-CN/docs/XHTML">XHTML</a>&nbsp;之类的 XML 分支语言）文档的呈现。CSS 描述了在<span style="line-height:inherit">屏幕、纸质、音频等其它媒体上的元素应该如何被渲染</span>的问题<span style="line-height:inherit">。</span></span></p>
 
 <p>CSS 是开放网络<span style="line-height:inherit">的核心语言之一，由&nbsp;</span><a class="external" href="http://w3.org/Style/CSS/#specs" style="line-height: inherit;">W3C 规范</a>&nbsp;进行标准化<span style="line-height:inherit">。CSS 被分为不同等级：CSS1 现已废弃， CSS2.1 是推荐标准，&nbsp;</span><a href="/zh-CN/docs/CSS/CSS3" style="line-height: inherit;" title="CSS3">CSS3</a><span style="line-height:inherit">&nbsp;分成多个小模块且正在标准化中。</span></p>
 
