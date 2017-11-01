@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1163248
+revision_id: 1323393
 locale: ru
 slug: Web
 tags: "Web" "Landing"
@@ -38,6 +38,7 @@ based_on: None
  <ul>
   <li><a href="/ru/docs/Web/API" title="/ru/docs/Web/API">Справочник по веб API</a> содержит все интерфейсы в алфавитном порядке.</li>
   <li><a href="/ru/docs/WebAPI">WebAPI</a> — данная страница содержит перечень API для взаимодействия с устройствами и другие API не менее полезные для приложений.</li>
+  <li><a href="/docs/Web/Events">Справка по событиям</a> содержит список событий, которые возникают на веб-странице или в веб-приложении.</li>
  </ul>
  </dd>
 </dl>
