@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1323371
+revision_id: 1323852
 locale: zh-CN
 slug: Web/CSS
 tags: "CSS" "参考" "布局" "设计"
@@ -27,7 +27,7 @@ based_on: None
   <p>我们的&nbsp;<a href="https://developer.mozilla.org/zh-CN/docs/Learn/CSS">CSS 学习区</a>包含了丰富的教程，它们覆盖了全部基础知识，能使你在&nbsp;CSS 之路上从初出茅庐到游刃有余。</p>
  </li>
  <li><span><strong>CSS </strong>参考</span>
-  <p>针对资深 Web 开发者的<a href="/zh-CN/docs/Web/CSS/Reference" title="zh-CN/docs/Web/CSS/Reference">详细参考手册</a>，其中描述了 CSS 的各个属性与概念。</p>
+  <p>针对资深 Web 开发者的<a href="/zh-CN/docs/Web/CSS/Reference" title="zh-CN/docs/Web/CSS/Reference">详细参考手册</a>，描述了 CSS 的各个属性与概念。</p>
  </li>
 </ul>
 
