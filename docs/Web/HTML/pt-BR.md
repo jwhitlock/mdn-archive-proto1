@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1317490
+revision_id: 1324437
 locale: pt-BR
 slug: Web/HTML
 tags: "HTML" "HTML5" "O que é HTML" "Aula de HTML" "Hiper texto" "Tutorial de HTML" "Referencias(2)" "Programação em HTML"
@@ -8,8 +8,8 @@ title: HTML
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
