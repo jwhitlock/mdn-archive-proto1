@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1102193
+revision_id: 1324436
 locale: pt-BR
 slug: Web/Acessibilidade
 tags: "ARIA" "Avançado" "Acessibilidade" "Desenvolvimento Web" "TA - Tecnologias Assistivas"
