@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 790006
+revision_id: 1324206
 locale: fr
 slug: Web/Guide/Graphics
 tags: "2D" "3D" "Web" "WebGL" "Canvas" "Graphismes"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -41,5 +41,12 @@ based_on: None
 </div>
 </div>
 
-<p>&nbsp;</p>
+<h2 class="highlight-spanned" id="Video" style="font-size: 24px !important; line-height: 30px !important;"><span class="highlight-span" style="font-size:24px !important; line-height:30px !important">Video</span></h2>
+
+<dl style="font-size: 16px !important; line-height: 24px !important;">
+ <dt style="font-size: 16px !important; line-height: 24px !important;"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video" style="font-size: 16px !important; line-height: 24px !important;">Using HTML5 audio and video</a></dt>
+ <dd style="font-size: 16px !important; line-height: 24px !important;">Embedding video and/or audio in a web page and controlling its playback.</dd>
+ <dt style="font-size: 16px !important; line-height: 24px !important;"><a href="https://developer.mozilla.org/en-US/docs/WebRTC" style="font-size: 16px !important; line-height: 24px !important;">WebRTC</a></dt>
+ <dd style="font-size: 16px !important; line-height: 24px !important;">The RTC in WebRTC stands for Real-Time Communications, technology that enables audio/video streaming and data sharing between browser clients (peers).</dd>
+</dl>
 
