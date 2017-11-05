@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1296021
+revision_id: 1324684
 locale: ar
 slug: Web/JavaScript
 tags: "جافا سكريبت" "Landing" "TopicStub" "JavaScript" "NeedsTranslation"
@@ -9,19 +9,21 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <div>{{JsSidebar}}</div>
 
-<p class="summary" dir="rtl"><strong>جافا سكريبت (JavaScript</strong><sup>®</sup>) (أو كما يشيع اختصارها <strong>JS</strong>) هي لغة برمجة خفيفة ومفسرة وكائنية التوجه ذات <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">دوال من الدرجة الأولى</a>، وهي مشهورة خصوصا بكونها لغة البرمجة النصية لصفحات الوب، لكنها <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">تستعمل في بيئات أخرى غير&nbsp;المتصفحات</a> مثل <a class="external" href="https://nodejs.org/">node.js</a> أو <a href="https://couchdb.apache.org/">Apache CouchDB</a>. إنها لغة برمجة نصية ديناميكية <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based_programming" title="Prototype-based">مبنية عل النماذج</a> و متعددة النماذج، وهي تدعم نمطي البرمجة الحتمي والوظيفي. اقرأ المزيد <a href="/en-US/docs/Web/JavaScript/About_JavaScript">عن جافا سكريبت</a>.</p>
+<p class="summary" dir="rtl"><strong>جافا سكريبت (JavaScript</strong><sup>®</sup>) (إختصارا&nbsp;<strong>JS</strong>) هي لغة برمجة خفيفة ومفسرة وكائنية التوجه ذات <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">دوال من الدرجة الأولى</a>، وهي مشهورة خصوصا بكونها لغة البرمجة النصية لصفحات الوب، لكنها <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">تستعمل في بيئات أخرى غير&nbsp;المتصفحات</a> مثل <a class="external" href="https://nodejs.org/">node.js</a> أو <a href="https://couchdb.apache.org/">Apache CouchDB</a>. إنها لغة برمجة نصية ديناميكية <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based_programming" title="Prototype-based">مبنية عل النماذج</a> و متعددة النماذج، وهي تدعم نمطي البرمجة الحتمي والوظيفي. اقرأ المزيد <a href="/en-US/docs/Web/JavaScript/About_JavaScript">عن جافا سكريبت</a>.</p>
 
-<p>ويسمى معيار جافا سكريبت <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources">إكماسكريبت</a>. اعتبارا من عام 2012، جميع المتصفحات الحديثة تدعم بشكل كامل إكماسكريبت 5.1. المتصفحات القديمة تدعم على الأقل إكماسكريبت 3. في 17 يونيو 2015، تم نشر النسخة الرئيسية السادسة من إكماسكريبت. ويسمى هذا الإصدار رسميا إكماسكريبت 2015، ولكن يشار إليها عادة باسم إكماسكريبت 6 أو ES6. الوثائق التي نقدمها تغطي إكماسكريبت 6 وبدأنا بالفعل لتغطية البتات في وقت مبكر من إكماسكريبت 7.</p>
+<p dir="rtl">ويسمى معيار جافا سكريبت <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources">إكماسكريبت</a>. اعتبارا من عام 2012، جميع المتصفحات الحديثة تدعم بشكل كامل إكماسكريبت 5.1. المتصفحات القديمة تدعم على الأقل إكماسكريبت 3. في 17 يونيو 2015، تم نشر النسخة الرئيسية السادسة من إكماسكريبت. ويسمى هذا الإصدار رسميا إكماسكريبت 2015، ولكن يشار إليها عادة باسم إكماسكريبت 6 أو ES6. الوثائق التي نقدمها تغطي إكماسكريبت 6 وبدأنا بالفعل لتغطية البتات في وقت مبكر من إكماسكريبت 7.</p>
 
-<p>This section of the site is dedicated to the JavaScript language itself, the parts that are not specific to Web pages, or other host environments. For information about {{Glossary("API","APIs")}} specific to Web pages, please see <a href="/en-US/docs/Web/API">Web APIs</a> and <a href="/en-US/docs/Glossary/DOM">DOM</a>.</p>
+<p dir="rtl">يختص هذا الجزء بالجافاسكريبت كلغة&nbsp;برمجة، بغض النظر عن&nbsp;مواقع الوب أو البيئات التي يمكن لهاته اللغة أن تشتغل فيها. &nbsp;لمزيد من المعلومات حول&nbsp;{{Glossary("API","APIs")}} الخاصة بمواقع الويب، أنظر&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/DOM">DOM</a>&nbsp;و&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/API">Web APIs</a>.</p>
 
-<p>JavaScript is not to be confused with the&nbsp;<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java programming language</a>. Java is a trademark or registered trademark of Oracle in the U.S. and other countries.</p>
+<p dir="rtl">لا ينبغي الخلط بين الجافاسكريبت و لغة الجافا. فكلتا اللغتين ...&nbsp;</p>
+
+<p dir="rtl">JavaScript is not to be confused with the&nbsp;<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java programming language</a>. Java is a trademark or registered trademark of Oracle in the U.S. and other countries.</p>
 
 <div class="column-container">
 <div class="column-half">
