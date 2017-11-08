@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1210759
+revision_id: 1325540
 locale: zh-TW
 slug: Tools
 tags: "Tools" "TopicStub" "NeedsMarkupWork" "Web Development" "NeedsTranslation" "Developing Mozilla" "Web Development:Tools" "NeedsTechnicalReview"
@@ -13,18 +13,32 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>在桌機與手機上檢查、編輯、並處理 HTML、CSS 與 JavaScript 的錯誤。要取得最新的開發者工具，請下載 <a href="https://www.mozilla.org/zh-TW/firefox/developer/">Firefox Developer Edition</a>。</p>
+<p class="summary">在桌機與手機上檢查、編輯、並處理 HTML、CSS 與 JavaScript 的錯誤。</p>
 
-<p>{{ SauceLabsPromo("a") }}</p>
+<hr>
+<div class="column-container">
+<div class="column-third"> </div>
+
+<div class="column-third">
+<p><img src="https://mdn.mozillademos.org/files/15588/logo-developer-quantum.png" alt="" style="display: block; margin: 0px auto;"></p>
+
+<p style="text-align: center;">要尋找最新的開發工具與功能，請試試 Firefox Developer Edition。</p>
+
+<p><a style="width: 280px; display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;" href="https://www.mozilla.org/zh-TW/firefox/developer/">Download Firefox Developer Edition</a></p>
+</div>
+
+<div class="column-third"> </div>
+</div>
+
+<hr>
 
 <h2 id="核心工具">核心工具</h2>
 
-<hr />
 <div class="column-container">
 <div class="column-half">
 <h3 id="頁面檢測器">頁面檢測器</h3>
 
-<p><a href="/zh-TW/docs/Tools/Page_Inspector"><img alt="" src="https://mdn.mozillademos.org/files/14532/inspector.png" style="display:block; height:257px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="/zh-TW/docs/Tools/Page_Inspector"><img src="https://mdn.mozillademos.org/files/15481/57-inspector.png" alt="The all-new Inspector panel in Firefox 57." style="display: block; height: 243px; margin-left: auto; margin-right: auto; width: 425px;"></a></p>
 
 <p>檢視並編輯網頁的內容與版面。視覺化各種東西，包括盒子模型、動畫、格線版面。</p>
 </div>
@@ -32,7 +46,7 @@ based_on: None
 <div class="column-half">
 <h3 id="網路主控台">網路主控台</h3>
 
-<p><a href="/zh-TW/docs/Tools/Web_Console"><img alt="" src="https://mdn.mozillademos.org/files/14528/console.png" style="display:block; height:257px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="/zh-TW/docs/Tools/Web_Console"><img src="https://mdn.mozillademos.org/files/15483/57-console.png" alt="The all-new Console in Firefox 57." style="display: block; height: 239px; margin-left: auto; margin-right: auto; width: 425px;"></a></p>
 
 <p>檢查網頁紀錄的訊息、並透過 JavaScript 與網頁互動。</p>
 </div>
@@ -43,7 +57,7 @@ based_on: None
 <div class="column-half">
 <h3 id="JavaScript_除錯器">JavaScript 除錯器</h3>
 
-<p><a href="/zh-TW/docs/Tools/Debugger"><img alt="" src="https://mdn.mozillademos.org/files/14542/debugger.png" style="display:block; height:1026px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="/zh-TW/docs/Tools/Debugger"><img src="https://mdn.mozillademos.org/files/15485/57-debugger.png" alt="The all-new Firefox 57 Debugger.html" style="display: block; height: 239px; margin-left: auto; margin-right: auto; width: 425px;"></a></p>
 
 <p>停步、逐步、試驗、修改網頁的 JavaScript。</p>
 </div>
@@ -51,7 +65,7 @@ based_on: None
 <div class="column-half">
 <h3 id="網路監控">網路監控</h3>
 
-<p><a href="/zh-TW/docs/Tools/Network_Monitor"><img alt="" src="https://mdn.mozillademos.org/files/14534/network-monitor.png" style="display:block; height:257px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="/zh-TW/docs/Tools/Network_Monitor"><img src="https://mdn.mozillademos.org/files/15487/57-network.png" alt="The Network panel in Firefox 57 DevTools." style="display: block; height: 239px; margin-left: auto; margin-right: auto; width: 425px;"></a></p>
 
 <p>看看網頁載入時發了什麼請求。</p>
 </div>
@@ -62,7 +76,7 @@ based_on: None
 <div class="column-half">
 <h3 id="效能工具">效能工具</h3>
 
-<p><a href="/zh-TW/docs/Tools/Performance"><img alt="" src="https://mdn.mozillademos.org/files/14536/performance.png" style="display:block; height:1026px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="/zh-TW/docs/Tools/Performance"><img src="https://mdn.mozillademos.org/files/14536/performance.png" alt="" style="display: block; height: 1026px; margin-left: auto; margin-right: auto; width: 425px;"></a></p>
 
 <p>分析網站的通常反應、JavaScript、還有布局效能。</p>
 </div>
@@ -70,7 +84,7 @@ based_on: None
 <div class="column-half">
 <h3 id="適應性設計模式">適應性設計模式</h3>
 
-<p><a href="/zh-TW/docs/Tools/Responsive_Design_Mode"><img alt="" src="https://mdn.mozillademos.org/files/14538/rdm.png" style="display:block; height:1542px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="/zh-TW/docs/Tools/Responsive_Design_Mode"><img src="https://mdn.mozillademos.org/files/15491/57-rdm.png" alt="Responsive Design mode in Firefox 57." style="display: block; height: 266px; margin-left: auto; margin-right: auto; width: 425px;"></a></p>
 
 <p>看看網站或 app 在不同的設備與網路狀況下表現如何。</p>
 </div>
@@ -105,6 +119,8 @@ based_on: None
  <dd>擷取整個網頁或是某個元素。</dd>
 </dl>
 </div>
+
+<p>{{ SauceLabsPromo("a") }}</p>
 
 <hr />
 <h2 id="連接開發者工具">連接開發者工具</h2>
@@ -160,7 +176,12 @@ based_on: None
 </dl>
 </div>
 
-<hr />
+<hr>
+<h2 id="Migrating_from_Firebug">從 Firebug 遷移</h2>
+
+<p>Firebug 已經走到產品生命的盡頭（理由請參閱 <a href="https://hacks.mozilla.org/2016/12/firebug-lives-on-in-firefox-devtools/">Firebug lives on in Firefox DevTools</a>），我們明白有些人要遷移到不太熟悉的 DevTools 產品線會有點困難。針對從 Firebug 遷移到 Firefox 開發者工具壓力的緩解，我們寫了個方便的指南：<a href="/zh-TW/docs/Tools/Migrating_from_Firebug">從 Firebug 遷移</a>。</p>
+
+<hr>
 <h2 id="貢獻">貢獻</h2>
 
 <p>如果你想幫忙改進開發者工具，這些資源能幫助你。</p>
