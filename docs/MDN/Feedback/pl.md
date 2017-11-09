@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1121323
+revision_id: 1325831
 locale: pl
 slug: MDN/Feedback
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -40,8 +40,8 @@ based_on: None
 <p>Używamy Internetowego Relay Chatu (<a href="https://wiki.mozilla.org/IRC" title="/en-US/docs/">IRC</a>) Aby rozmawiać o MDN i jego zawartości, Możesz przyłączyć się do rozmowy !. Mamy kilka kanalów do wyboru, W zależności od konkretnego obszaru zainteresowania.</p>
 
 <dl>
- <dt><a href="irc://irc.mozilla.org/mdn" title="irc://irc.mozilla.org/mdn">MDN site content (#mdn)</a></dt>
- <dd>This channel is for general discussion of MDN: using the site, reading content on the site, and contributing to the site's content. If you have questions or comments about article content, new articles you'd like to see or create, or just want to talk with the writing team, this is the place to be.</dd>
+ <dt><a href="irc://irc.mozilla.org/mdn" title="irc://irc.mozilla.org/mdn">MDN treść strony (#mdn)</a></dt>
+ <dd>Ten kanał służy do ogólnej dyskusji o&nbsp;MDN: dotyczy&nbsp;on używania strony, czytania oraz&nbsp;współtworzenia treści na stronie. Jeżeli masz pytania lub komentarze na temat treści artykułu, nowych artykułów, które chciałbyś żeby powstały czy po prostu chcesz porozmawiać z autorami treści - jesteś we właściwym miejscu.</dd>
  <dt><a href="irc://irc.mozilla.org/mdndev" title="irc://irc.mozilla.org/mdndev">Documentation site development (#mdndev)</a></dt>
  <dd>The {{IRCLink("mdndev")}} channel is where we talk about the development work of the platform that runs the MDN site. If you have problems with the site's functionality, or ideas for features, you can join us here to talk about it.</dd>
 </dl>
