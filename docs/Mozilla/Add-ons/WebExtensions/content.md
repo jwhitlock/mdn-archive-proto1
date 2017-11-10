@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1321915
+revision_id: 1325952
 locale: en-US
 slug: Mozilla/Add-ons/WebExtensions
 tags: "add-on" "Landing" "Extensions" "WebExtensions"
@@ -17,7 +17,7 @@ based_on: None
 
 <p>Extensions can extend and modify the capability of a browser. Extensions for Firefox are built using the WebExtensions API, a cross-browser system for developing extensions. To a large extent the system is compatible with the <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a> supported by Google Chrome and Opera and the <a href="https://browserext.github.io/browserext/">W3C Draft Community Group</a>. Extensions written for these browsers will in most cases run in Firefox or <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a> with <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">just a few changes</a>. The API is also fully compatible with <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">multiprocess Firefox</a>.</p>
 
-<p>If you have ideas or questions, or need help migrating a legacy add-on to use WebExtensions APIs, you can reach us on the <a href="https://mail.mozilla.org/listinfo/dev-addons">dev-addons mailing list</a> or <a href="irc://irc.mozilla.org/extdev">#extdev</a> on <a href="https://wiki.mozilla.org/IRC">IRC</a>.</p>
+<p>If you have ideas or questions, or need help migrating a legacy add-on to use WebExtensions APIs, you can reach us on the <a href="https://mail.mozilla.org/listinfo/dev-addons">dev-addons mailing list</a> or <a href="irc://irc.mozilla.org/webextensions">#webextensions</a> on <a href="https://wiki.mozilla.org/IRC">IRC</a>.</p>
 
 <div class="row topicpage-table">
 <div class="section">
