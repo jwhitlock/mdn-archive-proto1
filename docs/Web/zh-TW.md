@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1318746
+revision_id: 1326119
 locale: zh-TW
 slug: Web
 tags: "Web" "Landing"
@@ -92,7 +92,8 @@ based_on: None
  <dt><a href="/zh-TW/docs/Web/Accessibility">網頁親和力</a></dt>
  <dd>網頁親和力（Accessibility）意指讓最大多數人都得以使用網站，包含某些身心能力受限者。這裡我們提供製作具親和力的網頁內容的相關資訊。</dd>
  <dt><a href="/zh-TW/docs/Web/Security">安全</a></dt>
- <dd>Don't let your website or app leak private data to the bad guys. Use this set of articles to make sure your projects are secure。</dd>
+ <dd>不要讓你的網站或應用程式洩漏隱私資料給壞人。使用此系列文章確保你的專案安全。</dd>
+ <dt>&nbsp;</dt>
 </dl>
 </div>
 </div>
