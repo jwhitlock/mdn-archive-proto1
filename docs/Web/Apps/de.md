@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1318064
+revision_id: 1326246
 locale: de
 slug: Apps
 tags: "Apps" "TopicStub" "Web Development" "NeedsTranslation"
@@ -133,7 +133,7 @@ based_on: None
   --></div>
 
 <div style="-moz-column-width:28em; -webkit-columns:14em; columns:28em; border: dotted 1px; padding: 1em;">
-<h2 id="Das_Open_Web_Apps_ProjeKt">Das Open Web Apps ProjeKt</h2>
+<h2 id="Das_Open_Web_Apps_ProjeKt">Das Open Web Apps Projekt</h2>
 
 <ul>
  <li><a href="https://apps.mozillalabs.com/">Übersichts-Website</a></li>
