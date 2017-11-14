@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1324669
+revision_id: 1326637
 locale: sv-SE
 slug: Web/HTML
 tags: "Vad är HTML" "Referenser" "HTML-handledning" "HTML-programmering"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -33,7 +33,7 @@ based_on: None
   <p>För artiklar&nbsp;om hur du använder HTML, handledning/tutorials och fullständiga exempel, så kan du utforska vår&nbsp;<a href="/en-US/docs/Learn/HTML">HTML Learning Area</a>.</p>
  </li>
  <li><span>HTML-referenser</span>
-  <p>I vår omfattande <a href="/en-US/docs/Web/HTML/Reference">HTML Referenser</a>-sektion hittar du detaljerad information om alla element och attribut i HTML.</p>
+  <p>I vår omfattande <a href="/en-US/docs/Web/HTML/Reference">HTML-referenser</a>-sektion hittar du detaljerad information om alla element och attribut i HTML.</p>
  </li>
 </ul>
 
@@ -53,7 +53,7 @@ based_on: None
  <dt><a href="/en-US/docs/Learn/HTML/Forms">HTML-formulär</a></dt>
  <dd>Formulär&nbsp;är en väldigt viktig del av webben — de bidrar med mycket av den funktionaliteten som du behöver för att kunna interagera med webbsajter, t.ex. registrera&nbsp;och logga in, skicka feedback, köpa produkter och mycket mer.&nbsp;Med denna modul kan du komma igång med att skapa de delar av formulär som hör till klient-sidan.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto">Använda&nbsp;HTML för att lösa vanliga problem</a></dt>
- <dd>Provides links to sections of content explaining how to use HTML to solve very common problems when creating a web page: dealing with titles, adding images or videos, emphasizing content, creating a basic form, etc.</dd>
+ <dd>Erbjuder länkar till sektioner av innehåll som förklarar hur man använder HTML för att lösa mycket vanliga problem som uppstår när man skapar en webbsida: hantera titlar, lägga till bilder eller videos, betona innehåll, skapa ett enkelt formulär, etc.</dd>
 </dl>
 
 <h2 id="Avancerade_ämnen">Avancerade ämnen</h2>
@@ -76,29 +76,29 @@ based_on: None
 <h2 class="Documentation" id="Referenser">Referenser</h2>
 
 <dl>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Reference">HTML-referen</a>ser</dt>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Reference">HTML-referenser</a></dt>
  <dd class="landingPageList">HTML består av&nbsp;<strong>element</strong>, som vart och ett kan modifieras med ett visst&nbsp;antal&nbsp;<strong>attribut</strong>. HTML-dokument&nbsp;är sammanbundna med varandra med hjälp av <a href="/en-US/docs/Web/HTML/Link_types">länkar</a>.</dd>
  <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Element">HTML-elementreferenser</a></dt>
  <dd class="landingPageList">Bläddra igenom en lista på alla <a class="glossaryLink" href="/en-US/docs/Glossary/HTML">HTML</a>-<a class="glossaryLink" href="/en-US/docs/Glossary/Element">element</a>.</dd>
  <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Attributes">HTML-attributreferenser</a></dt>
- <dd class="landingPageList">Element&nbsp;i&nbsp;HTML har&nbsp;olika&nbsp;<strong>attribut</strong>. These are additional values that configure the elements or adjust their behavior in various ways.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Global_attributes">Global attributes</a></dt>
- <dd class="landingPageList">Global attributes may be specified on all <a href="/en-US/docs/Web/HTML/Element">HTML elements</a>, <em>even those not specified in the standard</em>. This means that any non-standard elements must still permit these attributes, even though those elements make the&nbsp;document HTML5-noncompliant.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Inline_elements">Inline elements</a> and <a href="/en-US/docs/Web/HTML/Block-level_elements">block-level elements</a></dt>
- <dd class="landingPageList">HTML elements are usually "inline" or "block-level" elements. An inline element occupies only the space bounded by the tags that define it. A block-level element occupies the entire space of its parent element (container), thereby creating a "block."</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Link_types">Link types</a></dt>
- <dd class="landingPageList">In HTML, various link types can be used to establish and define the relationship between two documents.&nbsp;Link elements that types can be set on include&nbsp;<a href="/en-US/docs/Web/HTML/Element/a"><code>&lt;a&gt;</code></a>, <a href="/en-US/docs/Web/HTML/Element/area"><code>&lt;area&gt;</code></a>, and&nbsp;<a href="/en-US/docs/Web/HTML/Element/link"><code>&lt;link&gt;</code></a>.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Supported_media_formats">Media formats supported by the HTML audio and video elements</a></dt>
- <dd class="landingPageList">The <a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> and <a href="/en-US/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a> elements allow you to play audio and video media. These elements provide a browser-native&nbsp;alternative to similar&nbsp;capabilities found in Adobe Flash and other plug-ins.</dd>
- <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Kinds_of_HTML_content">Kinds of HTML content</a> (Advanced)</dt>
- <dd class="landingPageList">HTML is comprised of several kinds of content, each of which is allowed to be used in certain contexts and is disallowed in others. Similarly, each has a set of other content categories they can contain and elements which can or can't be used in them. This is a guide to these categories.</dd>
+ <dd class="landingPageList">Element&nbsp;i&nbsp;HTML har&nbsp;olika&nbsp;<strong>attribut</strong>. Dessa är kompletterande värden som konfigurerar elementen eller justerar deras beteenden på olika sätt.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Global_attributes">Globala attribut</a></dt>
+ <dd class="landingPageList">Globala attribut&nbsp;kan specifieras för alla <a href="/en-US/docs/Web/HTML/Element">HTML element</a>, <em>även de som inte är specifierade i standarden</em>. Detta betyder att alla&nbsp;icke-standardelement ändå måste tillåta dessa attribut, även om de&nbsp;gör dokumentet icke-kompatibelt med HTML5.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Inline_elements">Inline-element</a>&nbsp;och&nbsp;<a href="/en-US/docs/Web/HTML/Block-level_elements">block-level-element</a></dt>
+ <dd class="landingPageList">HTML-element är vanligtvis "textnivå"- ("inline") eller&nbsp;"blocknivå"-element ("block level"). Ett textnivåelement tar inte upp mer plats än vad som ryms mellan de taggar som definierar det. Ett blocknivåelement tar upp hela sitt föräldraelements (containers) yta, och skapar på så sätt ett "block".</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Link_types">Länktyper</a></dt>
+ <dd class="landingPageList">I&nbsp;HTML kan flera länktyper användas för att etablera och definiera förhållandet mellan två dokument.&nbsp;Länkelement som&nbsp;länktyper kan användas på inkluderar <a href="/en-US/docs/Web/HTML/Element/a"><code>&lt;a&gt;</code></a>, <a href="/en-US/docs/Web/HTML/Element/area"><code>&lt;area&gt;</code></a>, och&nbsp;<a href="/en-US/docs/Web/HTML/Element/link"><code>&lt;link&gt;</code></a>.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Supported_media_formats">Mediaformat&nbsp;som stöds av HTML-audio- och videoelement</a></dt>
+ <dd class="landingPageList">Elementen&nbsp;<a href="/en-US/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a>&nbsp;och&nbsp;<a href="/en-US/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a>&nbsp;låter dig spela upp ljud&nbsp;och video. Dessa element&nbsp;erbjuder ett webbläsarnativt alternativ till liknande funktioner i Adobe Flash och andra plug-ins.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/HTML/Kinds_of_HTML_content">Olika typer av HTML-innehåll</a>&nbsp;(Avancerat)</dt>
+ <dd class="landingPageList">HTML består av flera typer av innehåll, som vart och ett är tillåtet att använda i viss kontext och förbjudet i andra. På samma sätt har alla dessa typer&nbsp;varsin&nbsp;uppsättning av andra innehållskategorier som de kan innehålla och element som kan eller inte&nbsp;kan användas i dem. Detta är en guide till dessa kategorier.</dd>
 </dl>
 
-<h2 class="landingPageList" id="Related_topics">Relaterade&nbsp;ämnen</h2>
+<h2 class="landingPageList" id="Relaterade_ämnen">Relaterade&nbsp;ämnen</h2>
 
 <dl>
- <dt><a href="/en-US/docs/Web/HTML/Applying_color">Applying color to HTML elements using CSS</a></dt>
- <dd>This article covers most of the ways you use CSS to add color to HTML content, listing what parts of HTML documents can be colored and what CSS properties to use when doing so. Includes examples, links to palette-building tools, and more.</dd>
+ <dt><a href="/en-US/docs/Web/HTML/Applying_color">Applicera färg på&nbsp;HTML-element&nbsp;med CSS</a></dt>
+ <dd>Denna artikel tar upp de flesta sätt som du kan använda CSS för att addera färg till HTML-innehåll. Den listar vilka delar av HTML-dokument som kan färgas och vilka CSS-egenskaper som används då. Den inkluderar exempel, länkar till palettbyggarverktyg, m.m.</dd>
 </dl>
 </div>
 </div>
