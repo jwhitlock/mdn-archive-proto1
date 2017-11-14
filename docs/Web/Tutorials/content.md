@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1190703
+revision_id: 1326612
 locale: en-US
 slug: Web/Tutorials
 tags: "CSS" "HTML" "MDN" "Code" "Guide" "Beginner" "Tutorial" "Web_Design" "JavaScript" "Web Fundamental"
@@ -13,7 +13,14 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>The links on this page lead to a variety of tutorials and training materials. Whether you are just starting out, learning the basics, or are an old hand at web development, you can find helpful resources here for best practices. These resources are created by forward-thinking companies and web developers who have embraced open standards and best practices for web development and that provide or allow translations, through an open content license such as Creative Commons.</p>
+<p>The links on this page lead to a variety of tutorials and training materials. <strong>Whether you are just starting out, learning the basics, or are an old hand at web development, you can find helpful resources here for best practices.</strong> These resources are created by forward-thinking companies and web developers who have embraced open standards and best practices for web development and that provide or allow translations, through an open content license such as Creative Commons.</p>
+
+<h2 id="For_complete_beginners_to_the_Web">For complete beginners to the Web</h2>
+
+<dl>
+ <dt><a href="/en-US/docs/Learn/Getting_started_with_the_web">Getting started with the Web </a></dt>
+ <dd><em>Getting started with the Web</em> is a concise series introducing you to the practicalities of web development. You'll set up the tools you need to construct a simple webpage and publish your own simple code.</dd>
+</dl>
 
 <h2 class="Documentation" id="Documentation" name="Documentation">HTML Tutorials</h2>
 
@@ -22,69 +29,19 @@ based_on: None
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt><strong><a href="/en-US/docs/Web/Guide/HTML/Introduction">Introduction to HTML</a></strong></dt>
- <dd>What HTML is, what it does, its history in brief, and what the structure of an HTML document looks like. The articles that follow this one look at each individual part of HTML in much greater depth.</dd>
- <dt><strong><a href="http://reference.sitepoint.com/html/page-structure" rel="external">Basic Structure of a Web Page</a> (SitePoint)</strong></dt>
- <dd>Learn how HTML elements fit together into the bigger picture.</dd>
+ <dt><a href="/en-US/docs/Learn/HTML/Introduction_to_HTML">Introduction to HTML</a></dt>
+ <dd>This module sets the stage, getting you used to important concepts and syntax, looking at applying HTML to text, how&nbsp;to create hyperlinks, and how to use HTML to structure a webpage.</dd>
+ <dt><a href="http://bit.ly/2z9xSS2">Beginner's Guide to HTML</a></dt>
+ <dd>This HTML guide for beginners teaches you how to set up a basic website using HTML and NEW HTML5 tags. Simple step-by-step tutorial with images and resources that you can use to improve your coding skills.</dd>
 </dl>
 </div>
 
 <div class="section">
 <dl>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/HTML/Element">MDN HTML Element Reference</a></strong></dt>
+ <dt><strong><a href="https://developer.mozilla.org/en-US/docs/HTML/Element">MDN HTML element reference</a></strong></dt>
  <dd>A comprehensive reference for HTML elements, and how the different browsers support them.</dd>
  <dt><strong><a href="http://wikiversity.org/wiki/Web_Design/HTML_Challenges" rel="external">HTML Challenges</a> (Wikiversity)</strong></dt>
  <dd>Use these challenges to hone your HTML skills (for example, "Should I use an &lt;h2&gt; element or a &lt;strong&gt; element?"), focusing on meaningful mark-up.</dd>
-</dl>
-</div>
-</div>
-
-<h3 id="Advanced_level">Advanced level</h3>
-
-<div class="row topicpage-table">
-<div class="section">
-<dl>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Tips_for_Authoring_Fast-loading_HTML_Pages">Tips for Authoring Fast-Loading HTML Pages</a></strong></dt>
- <dd>Optimize web pages to provide a more responsive site for visitors and reduce the load on your web server and Internet connection.</dd>
- <dt><strong><a href="http://www.html5rocks.com/tutorials/" rel="external">HTML5 Tutorials</a> (HTML5 Rocks)</strong></dt>
- <dd>Take a guided tour through code that uses HTML5 features.</dd>
- <dt><strong><a href="http://www.alistapart.com/articles/semanticsinhtml5/" rel="external">Semantics in HTML5</a> (A List Apart)</strong></dt>
- <dd>Learn meaningful markup that is extensible and backwards- and forwards-compatible.</dd>
-</dl>
-</div>
-
-<div class="section">
-<dl>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Canvas_tutorial">Canvas Tutorial</a></strong></dt>
- <dd>Learn how to draw graphics using scripting using the canvas element.</dd>
- <dt><strong><a href="http://html5doctor.com/" rel="external">HTML5 Doctor</a></strong></dt>
- <dd>Articles about using HTML5 right now.</dd>
- <dt><strong><a href="http://www.elated.com/articles/html5-audio/" rel="external">The Joy of HTML5 Audio</a> (Elated)</strong></dt>
- <dd>Learn how to use the HTML audio element to embed sounds in your web pages easily. Lots of code examples are included in the tutorial.</dd>
-</dl>
-</div>
-</div>
-
-<h2 class="Documentation" id="Documentation" name="Documentation">Javascript Tutorials</h2>
-
-<h3 id="Introductory_level_2">Introductory level</h3>
-
-<div class="row topicpage-table">
-<div class="section">
-<dl>
- <dt><strong><a href="/en-US/docs/Learn/JavaScript/First_steps">JavaScript First Steps</a></strong></dt>
- <dd>JavaScript tutorial&nbsp;for beginners being written as part of MDN's <a href="/en-US/docs/Learn">Learning Area</a>.</dd>
- <dt><strong><a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</strong></dt>
- <dd>Codecademy is a easy way to learn how to code JavaScript. It's interactive and you can do it with your friends.</dd>
-</dl>
-</div>
-
-<div class="section">
-<dl>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Getting_Started">Getting Started with JavaScript</a></strong></dt>
- <dd>What is JavaScript and how can it help you?</dd>
- <dt><strong><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" rel="external">JavaScript Best Practices</a><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" title="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices"> </a>(WebPlatform.org)</strong></dt>
- <dd>Learn about some of the obvious and (not so) obvious best practices when writing JavaScript.</dd>
 </dl>
 </div>
 </div>
@@ -94,21 +51,77 @@ based_on: None
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/A_re-introduction_to_JavaScript">A Re-Introduction to JavaScript</a></strong></dt>
- <dd>A recap of the JavaScript programming language aimed at intermediate-level developers.</dd>
- <dt><strong><a href="http://eloquentjavascript.net/" rel="external">Eloquent JavaScript</a></strong></dt>
- <dd>A comprehensive guide to intermediate and advanced JavaScript methodologies.</dd>
- <dt><strong><a href="http://speakingjs.com/es5/" rel="external">Speaking JavaScript</a> (Dr. Axel Rauschmayer)</strong></dt>
- <dd>For programmers who want to learn JavaScript quickly and properly, and for JavaScript programmers who want to deepen their skills and/or look up specific topics.</dd>
+ <dt><a href="/en-US/docs/Learn/HTML/Multimedia_and_embedding">Multimedia and embedding</a></dt>
+ <dd>This module explores how to use HTML to include multimedia in your web pages, including the different ways that images can be included, and how to&nbsp;embed video, audio, and even entire other webpages.</dd>
 </dl>
 </div>
 
 <div class="section">
 <dl>
- <dt><strong><a href="http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/" rel="external">Essential JavaScript Design Patterns</a> (Addy Osmani)</strong></dt>
- <dd>An introduction to essential JavaScript design patterns.</dd>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Introduction_to_Object-Oriented_JavaScript">Introduction to Object-Oriented JavaScript</a></strong></dt>
- <dd>Learn about the JavaScript object model.</dd>
+ <dt>&nbsp;</dt>
+ <dt><a href="/en-US/docs/Learn/HTML/Tables">HTML tables</a></dt>
+ <dd>Representing tabular data on a webpage in an understandable, {{glossary("Accessibility", "accessible")}} way can be a challenge. This module covers basic table markup, along with more complex features such as implementing captions and summaries.</dd>
+</dl>
+</div>
+</div>
+
+<h3 id="Advanced_level">Advanced level</h3>
+
+<div class="row topicpage-table">
+<div class="section">
+<dl>
+ <dt><a href="/en-US/docs/Learn/HTML/Forms">HTML forms</a></dt>
+ <dd>Forms are a very important part of the Web — these provide much of the functionality you need for interacting with web sites, e.g. registering and logging in, sending feedback, buying products, and more. This module gets you started with creating the client-side parts of forms.</dd>
+ <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Tips_for_Authoring_Fast-loading_HTML_Pages">Tips for authoring fast-loading HTML pages</a></strong></dt>
+ <dd>Optimize web pages to provide a more responsive site for visitors and reduce the load on your web server and Internet connection.</dd>
+</dl>
+</div>
+</div>
+
+<h2 class="Documentation" id="Documentation" name="Documentation">CSS Tutorials</h2>
+
+<h3 id="Introductory_level_2">Introductory level</h3>
+
+<div class="row topicpage-table">
+<div class="section">
+<dl>
+ <dt><a href="/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS basics</a></dt>
+ <dd>CSS (Cascading Style Sheets) is the code you use to style your webpage. <em>CSS Basics</em> takes you through what you need to get started. We'll answer questions like: How do I make my text black or red? How do I make my content show up in such-and-such a place on the screen? How do I decorate my webpage with background images and colors?</dd>
+ <dt><a href="/en-US/docs/Learn/CSS/Introduction_to_CSS">Introduction to CSS</a></dt>
+ <dd>This module goes in depth with how CSS works, including selectors and properties, writing CSS rules, applying CSS to HTML, how to specify length, color, and other units in CSS, cascade and inheritance, box model basics, and debugging CSS.</dd>
+</dl>
+</div>
+
+<div class="section">
+<dl>
+ <dt><a href="/en-US/docs/Learn/CSS/Styling_boxes">Styling boxes</a></dt>
+ <dd>Next up, we look at styling boxes, one of the fundamental steps towards laying out a web page. In this module we recap the box model then look at controlling box layouts by setting padding, borders and margins, setting custom background colors, images and other features, and fancy features such as drop shadows and filters on boxes.</dd>
+ <dt><a href="/en-US/docs/Learn/CSS/Styling_text">Styling text</a></dt>
+ <dd>Here we look at text styling fundamentals, including setting font, boldness, and italics, line and letter spacing, and drop shadows and other text features. We round off the module by looking at applying custom fonts to your page, and styling lists and links.</dd>
+ <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Common_CSS_Questions">Common CSS Questions</a></strong></dt>
+ <dd>Common questions and answers for beginners.</dd>
+</dl>
+</div>
+</div>
+
+<h3 id="Intermediate_level_2">Intermediate level</h3>
+
+<div class="row topicpage-table" style="width: 100%;">
+<div class="section">
+<dl>
+ <dt><a href="/en-US/docs/Learn/CSS/CSS_layout">CSS layout</a></dt>
+ <dd>At this point we've already looked at CSS fundamentals, how to style text, and how to style and manipulate the boxes that your content sits inside. Now it's time to look at how to place your boxes in the right place in relation to the viewport, and one another. We have covered the necessary prerequisites so can now dive deep into CSS layout, looking at different display settings, traditional layout methods involving float and positioning, and new fangled layout tools like flexbox.</dd>
+ <dt><strong><a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference">CSS reference</a></strong></dt>
+ <dd>Complete reference to CSS, with details on support by Firefox and other browsers.</dd>
+</dl>
+</div>
+
+<div class="section">
+<dl>
+ <dt><strong><a href="http://www.alistapart.com/articles/fluidgrids/" rel="external">Fluid Grids</a> (A List Apart)</strong></dt>
+ <dd>Design layouts that fluidly resize with the browser window, while still using a typographic grid.</dd>
+ <dt><strong><a href="http://en.wikiversity.org/wiki/Web_Design/CSS_challenges" rel="external">CSS Challenges</a> (Wikiversity)</strong></dt>
+ <dd>Flex your CSS skills, and see where you need more practice.</dd>
 </dl>
 </div>
 </div>
@@ -118,24 +131,107 @@ based_on: None
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Guide">JavaScript Guide</a></strong></dt>
- <dd>A comprehensive, regularly updated guide to JavaScript for all levels of learning from beginner to advanced.</dd>
- <dt><strong><a href="https://github.com/getify/You-Dont-Know-JS" rel="external">You Don't Know JS</a> (Kyle Simpson)</strong></dt>
- <dd>A series of books diving deep into the core mechanisms of the JavaScript language.</dd>
- <dt><strong><a href="http://ejohn.org/apps/learn/" rel="external">Learning Advanced JavaScript</a> (John Resig)</strong></dt>
- <dd>John Resig's guide to advanced JavaScript.</dd>
- <dt><strong><a href="http://www.elated.com/articles/javascript-dom-intro/" rel="external">Introducing the JavaScript DOM</a> (Elated)</strong></dt>
- <dd>What is the Document Object Model, and why is it useful? This article gives you a gentle introduction to this powerful JavaScript feature.</dd>
+ <dt><strong><a href="/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms">Using CSS transforms</a></strong></dt>
+ <dd>Apply rotation, skewing, scaling, and translation using CSS.</dd>
+ <dt><strong><a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_transitions">CSS transitions</a></strong></dt>
+ <dd>CSS transitions, part of the draft CSS3 specification, provide a way to animate changes to CSS properties, instead of having the changes take effect instantly.</dd>
 </dl>
 </div>
 
 <div class="section">
 <dl>
+ <dt><strong><a href="http://www.html5rocks.com/tutorials/webfonts/quick/" rel="external">Quick Guide to Implement Web Fonts with @font-face</a> (HTML5 Rocks)</strong></dt>
+ <dd>The @font-face feature from CSS3 allows you to use custom typefaces on the web in an accessible, manipulatable, and scalable way.</dd>
+ <dt><strong><a href="http://davidwalsh.name/starting-css" rel="external">Starting to Write CSS</a> (David Walsh)</strong></dt>
+ <dd>An introduction to tools and methodologies to write more succinct, maintainable, and scalable CSS.</dd>
+</dl>
+</div>
+</div>
+
+<div class="section">
+<dl>
+ <dt><a href="/en-US/docs/Web/API/Canvas_API/Tutorial">Canvas tutorial</a></dt>
+ <dd>Learn how to draw graphics using scripting using the canvas element.</dd>
+ <dt><strong><a href="http://html5doctor.com/" rel="external">HTML5 Doctor</a></strong></dt>
+ <dd>Articles about using HTML5 right now.</dd>
+</dl>
+</div>
+
+<h2 class="Documentation" id="Documentation" name="Documentation">Javascript Tutorials</h2>
+
+<h3 id="Introductory_level_3">Introductory level</h3>
+
+<div class="row topicpage-table">
+<div class="section">
+<dl>
+ <dt>&nbsp;</dt>
+ <dt>
+ <p dir="ltr"><a href="https://tekslate.com/javascript-training/">Introduction To JavaScripting</a>&nbsp;</p>
+
+ <p dir="ltr"><strong id="docs-internal-guid-7e098ef3-ba98-a0c7-b808-242d82161284">Java script is an easy-to-use programming language that can be embedded in the header of your web pages. It is most commonly used as part of web browsers whose implementations allow client-side scripts to interact with the user, communicate asynchronously, and control the browser. It can enhance the dynamics and interactive features of your page by allowing you to perform check, calculations, forms, add special effects, customize graphics selections, write interactive games, create security passwords. JavaScript Training also used in server-side network programming with runtime environments.</strong></p>
+ </dt>
+ <dt><a href="/en-US/docs/Learn/JavaScript/First_steps">JavaScript first steps</a></dt>
+ <dd>In our first JavaScript module, we first answer some fundamental questions such as "what is JavaScript?", "what does it look like?", and "what can it do?", before moving on to taking you through your first practical experience of writing JavaScript. After that, we discuss some key JavaScript features in detail, such as variables, strings, numbers and arrays.</dd>
+ <dt><a href="/en-US/docs/Learn/JavaScript/Building_blocks">JavaScript building blocks</a></dt>
+ <dd>In this module, we continue our coverage of all JavaScript's key fundamental features, turning our attention to commonly-encountered types of code block such as conditional statements, loops, functions, and events. You've seen this stuff already in the course, but only in passing — here we'll discuss it all explicitly.</dd>
+</dl>
+</div>
+
+<div class="section">
+<dl>
+ <dt><a href="/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">Getting started with JavaScript</a></dt>
+ <dd>What is JavaScript and how can it help you?</dd>
+ <dt><strong><a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</strong></dt>
+ <dd>Codecademy is a easy way to learn how to code JavaScript. It's interactive and you can do it with your friends.</dd>
+</dl>
+</div>
+</div>
+
+<h3 id="Intermediate_level_3">Intermediate level</h3>
+
+<div class="row topicpage-table">
+<div class="section">
+<dl>
+ <dt><a href="/en-US/docs/Learn/JavaScript/Objects">Introducing JavaScript objects</a></dt>
+ <dd>In JavaScript, most things are objects, from core JavaScript features like strings and arrays to the browser APIs built on top of JavaScript. You can even create your own objects to encapsulate related functions and variables into efficient packages. The object-oriented nature of JavaScript is important to understand if you want to go further with your knowledge of the language and write more efficient code, therefore we've provided this module to help you. Here we teach object theory and syntax in detail, look at how to create your own objects, and explain what JSON data is and how to work with it.</dd>
+ <dt><a href="/en-US/docs/Learn/JavaScript/Client-side_web_APIs">Client-side web APIs</a></dt>
+ <dd>When writing client-side JavaScript for web sites or applications, you won't go very far before you start to use APIs — interfaces for manipulating different aspects of the browser and operating system the site is running on, or even data from other web sites or services. In this module we will explore what APIs are, and how to use some of the most common APIs you'll come across often in your development work.&nbsp;</dd>
+</dl>
+</div>
+
+<div class="section">
+<dl>
+ <dt><strong><a href="https://developer.mozilla.org/en-US/docs/A_re-introduction_to_JavaScript">A re-Introduction to JavaScript</a></strong></dt>
+ <dd>A recap of the JavaScript programming language aimed at intermediate-level developers.</dd>
+ <dt><strong><a href="http://eloquentjavascript.net/" rel="external">Eloquent JavaScript</a></strong></dt>
+ <dd>A comprehensive guide to intermediate and advanced JavaScript methodologies.</dd>
+ <dt><strong><a href="http://speakingjs.com/es5/" rel="external">Speaking JavaScript</a> (Dr. Axel Rauschmayer)</strong></dt>
+ <dd>For programmers who want to learn JavaScript quickly and properly, and for JavaScript programmers who want to deepen their skills and/or look up specific topics.</dd>
+ <dt><strong><a href="http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/" rel="external">Essential JavaScript Design Patterns</a> (Addy Osmani)</strong></dt>
+ <dd>An introduction to essential JavaScript design patterns.</dd>
+</dl>
+</div>
+</div>
+
+<h3 id="Advanced_level_3">Advanced level</h3>
+
+<div class="row topicpage-table">
+<div class="section">
+<dl>
+ <dt><a href="/en-US/docs/Web/JavaScript/Guide">JavaScript Guide</a></dt>
+ <dd>A comprehensive, regularly updated guide to JavaScript for all levels of learning from beginner to advanced.</dd>
+ <dt><strong><a href="https://github.com/getify/You-Dont-Know-JS" rel="external">You Don't Know JS</a> (Kyle Simpson)</strong></dt>
+ <dd>A series of books diving deep into the core mechanisms of the JavaScript language.</dd>
  <dt><strong><a href="http://bonsaiden.github.com/JavaScript-Garden/" rel="external">JavaScript Garden</a></strong></dt>
  <dd>Documentation of the most quirky parts of JavaScript.</dd>
  <dt><strong><a href="http://exploringjs.com/es6/" rel="external">Exploring ES6</a> (Dr. Axel Rauschmayer)</strong></dt>
  <dd>Reliable and in-depth information on ECMAScript 2015.</dd>
- <dt><strong><a href="http://shichuan.github.io/javascript-patterns" rel="external">Javascipt Patterns</a></strong></dt>
+</dl>
+</div>
+
+<div class="section"><strong><a href="http://shichuan.github.io/javascript-patterns" rel="external">Javascipt Patterns</a></strong>
+
+<dl>
  <dd>A JavaScript pattern and antipattern collection that covers function patterns, jQuery patterns, jQuery plugin patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns, DOM.</dd>
  <dt><strong><a href="http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/">How browsers work</a></strong></dt>
  <dd>A detailed research article describing different modern browsers, their engines, page rendering etc.</dd>
@@ -150,93 +246,8 @@ based_on: None
 <div class="row topicpage-table" style="width: 100%;">
 <div class="section">
 <dl>
- <dt><strong><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension">Writing your first WebExtension</a></strong></dt>
- <dd>A walk through creating a WebExtension for Firefox, from start to finish.</dd>
- <dt><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar">Adding a button to the toolbar</a></dt>
- <dd>Adding buttons to the browser toolbar using WebExtension.</dd>
-</dl>
-</div>
-
-<div class="section">
-<dl>
- <dt><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page">Modifying a web page</a></dt>
- <dd>A walk through of modifying a web page using WebExtensions.</dd>
- <dt><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests">Intercepting HTTP Requests</a></dt>
- <dd>Using WebExtensions to intercept and modify requests.</dd>
-</dl>
-</div>
-</div>
-
-<h2 class="Documentation" id="Documentation" name="Documentation">CSS Tutorials</h2>
-
-<h3 id="Introductory_level_3">Introductory level</h3>
-
-<div class="row topicpage-table">
-<div class="section">
-<dl>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/CSS/Getting_Started">CSS Getting Started</a></strong></dt>
- <dd>This tutorial introduces you to Cascading Style Sheets (CSS). It guides you through the basic features of CSS with practical examples that you can try for yourself on your own computer.</dd>
- <dt><strong><a href="http://en.wikiversity.org/wiki/Web_Design/CSS_Classes" rel="external">CSS Selector Classes</a> (Wikiversity)</strong></dt>
- <dd>What are classes in CSS?</dd>
- <dt><strong><a href="http://en.wikiversity.org/wiki/Web_Design/External_CSS" rel="external">External CSS</a> (Wikiversity)</strong></dt>
- <dd>Using CSS from an external style sheet.</dd>
-</dl>
-</div>
-
-<div class="section">
-<dl>
- <dt><strong><a href="http://www.w3.org/MarkUp/Guide/Style" rel="external">Adding a Touch of Style</a> (W3C)</strong></dt>
- <dd>A brief beginner's guide to styling web pages with CSS.</dd>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Common_CSS_Questions">Common CSS Questions</a></strong></dt>
- <dd>Common questions and answers for beginners.</dd>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors" title="http://codeavengers.com/">CSS Selectors</a></strong></dt>
- <dd>An introduction to CSS selectors</dd>
-</dl>
-</div>
-</div>
-
-<h3 id="Intermediate_level_2">Intermediate level</h3>
-
-<div class="row topicpage-table" style="width: 100%;">
-<div class="section">
-<dl>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference">CSS Reference</a></strong></dt>
- <dd>Complete reference to CSS, with details on support by Firefox and other browsers.</dd>
- <dt><strong><a href="http://en.wikiversity.org/wiki/Web_Design/CSS_challenges" rel="external">CSS Challenges</a> (Wikiversity)</strong></dt>
- <dd>Flex your CSS skills, and see where you need more practice.</dd>
- <dt><strong><a href="http://www.alistapart.com/articles/css-positioning-101/" rel="external">CSS Positioning 101</a> (A List Apart)</strong></dt>
- <dd>Using positioning for standards-compliant, table-free layout.</dd>
-</dl>
-</div>
-
-<div class="section">
-<dl>
- <dt><strong><a href="http://www.alistapart.com/articles/progressiveenhancementwithcss/" rel="external">Progressive Enhancement with CSS</a> (A List Apart)</strong></dt>
- <dd>Integrate progressive enhancement into your web pages with CSS.</dd>
- <dt><strong><a href="http://www.alistapart.com/articles/fluidgrids/" rel="external">Fluid Grids</a> (A List Apart)</strong></dt>
- <dd>Design layouts that fluidly resize with the browser window, while still using a typographic grid.</dd>
-</dl>
-</div>
-</div>
-
-<h3 id="Advanced_level_3">Advanced level</h3>
-
-<div class="row topicpage-table">
-<div class="section">
-<dl>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/CSS/Using_CSS_transforms">Using CSS Transforms</a></strong></dt>
- <dd>Apply rotation, skewing, scaling, and translation using CSS.</dd>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/CSS/CSS_transitions">CSS Transitions</a></strong></dt>
- <dd>CSS transitions, part of the draft CSS3 specification, provide a way to animate changes to CSS properties, instead of having the changes take effect instantly.</dd>
-</dl>
-</div>
-
-<div class="section">
-<dl>
- <dt><strong><a href="http://www.html5rocks.com/tutorials/webfonts/quick/" rel="external">Quick Guide to Implement Web Fonts with @font-face</a> (HTML5 Rocks)</strong></dt>
- <dd>The @font-face feature from CSS3 allows you to use custom typefaces on the web in an accessible, manipulatable, and scalable way.</dd>
- <dt><strong><a href="http://davidwalsh.name/starting-css" rel="external">Starting to Write CSS</a> (David Walsh)</strong></dt>
- <dd>An introduction to tools and methodologies to write more succinct, maintainable, and scalable CSS.</dd>
+ <dt><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions">WebExtensions</a></dt>
+ <dd>WebExtensions is a cross-browser system for developing browser add-ons. To a large extent the system is compatible with the <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a> supported by Google Chrome and Opera. Extensions written for these browsers will in most cases run in Firefox or <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a> with <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">just a few changes</a>. The API is also fully compatible with <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">multiprocess Firefox</a>.</dd>
 </dl>
 </div>
 </div>
