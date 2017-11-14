@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1326612
+revision_id: 1326613
 locale: en-US
 slug: Web/Tutorials
 tags: "CSS" "HTML" "MDN" "Code" "Guide" "Beginner" "Tutorial" "Web_Design" "JavaScript" "Web Fundamental"
@@ -165,11 +165,6 @@ based_on: None
 <div class="section">
 <dl>
  <dt>&nbsp;</dt>
- <dt>
- <p dir="ltr"><a href="https://tekslate.com/javascript-training/">Introduction To JavaScripting</a>&nbsp;</p>
-
- <p dir="ltr"><strong id="docs-internal-guid-7e098ef3-ba98-a0c7-b808-242d82161284">Java script is an easy-to-use programming language that can be embedded in the header of your web pages. It is most commonly used as part of web browsers whose implementations allow client-side scripts to interact with the user, communicate asynchronously, and control the browser. It can enhance the dynamics and interactive features of your page by allowing you to perform check, calculations, forms, add special effects, customize graphics selections, write interactive games, create security passwords. JavaScript Training also used in server-side network programming with runtime environments.</strong></p>
- </dt>
  <dt><a href="/en-US/docs/Learn/JavaScript/First_steps">JavaScript first steps</a></dt>
  <dd>In our first JavaScript module, we first answer some fundamental questions such as "what is JavaScript?", "what does it look like?", and "what can it do?", before moving on to taking you through your first practical experience of writing JavaScript. After that, we discuss some key JavaScript features in detail, such as variables, strings, numbers and arrays.</dd>
  <dt><a href="/en-US/docs/Learn/JavaScript/Building_blocks">JavaScript building blocks</a></dt>
