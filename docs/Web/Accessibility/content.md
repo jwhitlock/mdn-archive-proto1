@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1325999
+revision_id: 1326593
 locale: en-US
 slug: Web/Accessibility
 tags: "Landing" "Accessibility"
@@ -26,11 +26,11 @@ based_on: None
 <p>The MDN <a href="/en-US/docs/Learn/Accessibility">Accessibility Learning Area</a> contains modern, up-to-date tutorials covering accessibility essentials:</p>
 
 <dl>
- <dt><a href="/en-US/docs/Learn/Accessibility/What_is_accessibility">&nbsp;O que é acessibilidade?</a></dt>
+ <dt><a href="/en-US/docs/Learn/Accessibility/What_is_accessibility">What is accessibility?</a></dt>
  <dd>This article starts the module off with a good look at what accessibility actually is — this includes what groups of people we need to consider and why, what tools different people use to interact with the Web, and how we can make accessibility part of our web development workflow.</dd>
  <dt><a href="/en-US/docs/Learn/Accessibility/HTML">HTML: A good basis for accessibility</a></dt>
  <dd>A great deal of web content can be made accessible just by making sure the correct HTML elements are used for the correct purpose at all times. This article looks in detail at how HTML can be used to ensure maximum accessibility.</dd>
- <dt><a href="/en-US/docs/Learn/Accessibility/CSS_and_JavaScript">CSS e JavaScript accessibility best practices</a></dt>
+ <dt><a href="/en-US/docs/Learn/Accessibility/CSS_and_JavaScript">CSS and&nbsp;JavaScript accessibility best practices</a></dt>
  <dd>CSS and JavaScript, when used properly, also have the potential to allow for accessible web experiences ... or they can significantly harm accessibility if misused. This article outlines some CSS and JavaScript best practices that should be considered to ensure even complex content is as accessible as possible.</dd>
  <dt><a href="/en-US/docs/Learn/Accessibility/WAI-ARIA_basics">WAI-ARIA basics</a></dt>
  <dd>Following on from the previous article, sometimes making complex UI controls that involve unsemantic HTML and dynamic JavaScript-updated content can be difficult. WAI-ARIA is a technology that can help with such problems by adding in further semantics that browsers and assistive technologies can recognize and use to let users know what is going on. Here we'll show how to use it at a basic level to improve accessiblity.</dd>
@@ -44,10 +44,10 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Other_documentation" id="Other_documentation" name="Other_documentation">Outras documentações</h2>
+<h2 class="Other_documentation" id="Other_documentation" name="Other_documentation">Other documentations</h2>
 
 <dl>
- <dt><a href="/en-US/docs/Web/Accessibility/Understanding_WCAG">Entendendo a Web Content Accessibility Guidelines</a></dt>
+ <dt><a href="/en-US/docs/Web/Accessibility/Understanding_WCAG">Understanding the Web Content Accessibility Guidelines</a></dt>
  <dd>
  <p>This set of articles provides quick explanations to help you understand the steps that need to be taken to conform to the recommendations outlined in the W3C Web Content Accessibility Guidelines 2.0 (WCAG 2.0 or just WCAG, for the purposes of this writing).</p>
  </dd>
