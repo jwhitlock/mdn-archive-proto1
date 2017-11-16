@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1295553
+revision_id: 1327776
 locale: ko
 slug: Web/HTML
 tags: "HTML" "HTML 강의" "HTML 강좌" "HTML 튜토리얼" "HTML 프로그래밍" "HTML5" "웹" "하이퍼텍스트"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <p>{{HTMLSidebar()}}</p>
 
-<p><span class="seoSummary">HTML(HyperText Markup Language)은&nbsp;웹을 이루는 가장 기초적인 구성 요소입니다. HTML은 웹 페이지의 <em>내용</em>을 서술하고 정의하는 데 사용됩니다. HTML 외에 웹 페이지의 외모와 표현을 서술하거나(<a href="/ko/docs/Web/CSS">CSS</a>), 웹 페이지의 기능을 서술하는(<a href="/ko/docs/Web/JavaScript">JavaScript</a>) 기술들도 있습니다.</span></p>
+<p class="summary"><span class="seoSummary">HTML(HyperText Markup Language)은 웹을 이루는 가장 기초적인 구성 요소입니다. HTML은 웹 페이지의 <em>내용</em>을 서술하고 정의하는 데 사용됩니다. HTML 외에 웹 페이지의 모양과 표현을 서술하거나(<a href="/ko/docs/Web/CSS">CSS</a>), 웹 페이지의 기능과 동작을 서술하는(<a href="/ko/docs/Web/JavaScript">JavaScript</a>) 기술들도 있습니다.</span></p>
 
 <p>"HyperText"는 링크를 가리키는데, 여기에서 링크란 웹 페이지를 다른 웹 페이지나 같은 웹 페이지의 특정 부분과&nbsp;연결하는 것을 말합니다. 링크는 웹의 근본적인 속성입니다. 인터넷에 자료를 올리고 다른 사람이 만든 웹페이지를 링크함으로써, 여러분은 월드 와이드 웹 세계의&nbsp;능동적인 일원이 될 수 있습니다.</p>
 
