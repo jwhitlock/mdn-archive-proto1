@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1276253
+revision_id: 1327748
 locale: pt-BR
 slug: Web/Guide
 tags: "Web" "Guia(2)" "Landing"
@@ -8,7 +8,7 @@ title: Guia do desenvolvedor web
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
@@ -29,7 +29,7 @@ based_on: None
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/API">Guia para&nbsp;APIs da Web</a></dt>
  <dd class="landingPageList">Um lista de todas&nbsp;as APIs da Web e&nbsp;o que&nbsp;elas fazem.</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a></dt>
- <dd>JavaScript&nbsp;é&nbsp;a&nbsp;poderosa&nbsp;linguagem&nbsp;de&nbsp;scripts utilizada para&nbsp;criar aplicativos para&nbsp;a&nbsp;Web.</dd>
+ <dd>JavaScript&nbsp;é uma poderosa&nbsp;linguagem&nbsp;de&nbsp;scripts utilizada para&nbsp;criar aplicativos para&nbsp;a&nbsp;Web.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Localizations_and_character_encodings">Localizações e codificação de caracteres</a></dt>
  <dd class="landingPageList">Internamente, navegadores processam texto como Unicode. Entretanto, uma forma de representar caracteres em termos de bytes (codificação de caracteres) deve ser utilizada para transferência de texto da rede para o navegador. A recomendação da especificação HTML é utilizar UTF-8 (que é capaz de representar todo o conteúdo Unicode). Independentemente da escolha da codificação, ela precisa ser declarada no conteúdo Web.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile">Desenvolvimento Web móvel</a></dt>
