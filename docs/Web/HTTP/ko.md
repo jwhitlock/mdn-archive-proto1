@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1327770
+revision_id: 1327780
 locale: ko
 slug: Web/HTTP
 tags: "HTTP" "Headers" "TopicStub" "NeedsTranslation"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
