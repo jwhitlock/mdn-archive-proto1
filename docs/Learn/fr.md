@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1327851
+revision_id: 1327852
 locale: fr
 slug: Apprendre
 tags: "Web" "Index" "Landing" "Débutant" "Apprendre"
@@ -16,7 +16,7 @@ based_on: None
 <p>{{LearnSidebar}}</p>
 
 <div class="summary">
-<p>Bienvenue dans<em> </em>l'espace d'apprentissage du MDN. Cet ensemble d'articles a pour but de fournir aux débutants tout ce dont ils ont besoin pour commencer à développer des sites web simples.</p>
+<p>Bienvenue dans<em> </em>la zone d'apprentissage du MDN. Cet ensemble d'articles a pour but de fournir aux débutants tout ce dont ils ont besoin pour commencer à développer des sites web simples.</p>
 </div>
 
 <p>Le but de cette section du MDN n'est pas de vous faire passer de «&nbsp;débutant&nbsp;» à «&nbsp;expert&nbsp;», mais plutôt de vous mettre à l'aise avec les technologies. À partir de là, vous devriez être capable de vous débrouiller par vous-même, en utilisant <a href="/fr/">le reste du contenu du MDN</a> et d'autres ressources.</p>
