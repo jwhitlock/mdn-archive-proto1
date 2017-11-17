@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1309101
+revision_id: 1327869
 locale: zh-CN
 slug: Web/HTML
 tags: "HTML" "HTML5" "HTML教程" "元素" "参考" "超文本" "Web"
@@ -27,13 +27,13 @@ based_on: None
 <ul class="card-grid">
  <li><span>HTML介绍</span>
 
-  <p>如果您是Web开发新手，请务必阅读我们的<a href="/zh-CN/docs/Web/HTML/Introduction">HTML基础</a>以了解什么是HTML以及如何使用它。</p>
+  <p>如果您是Web开发新手，请务必阅读我们的<a href="/zh-CN/docs/Web/HTML/Introduction">HTML基础</a>文章来了解什么是HTML以及如何使用它。</p>
  </li>
- <li><span>HTML指南</span>
-  <p>查看我们的<a href="/zh-CN/docs/Web/Guide/HTML">HTML学习区</a>来了解如何使用HTML，以及教程和完整的示例。</p>
+ <li><span>HTML教程</span>
+  <p>关于如何使用HTML，以及教程和完整的示例的相关文章，查看我们的<a href="/zh-CN/docs/Web/Guide/HTML">HTML学习区</a>。</p>
  </li>
  <li><span>HTML参考</span>
-  <p>在我们丰富的<a href="/zh-CN/docs/Web/HTML/Reference">HTML参考</a>中，你可以找到所有HTML元素和属性的详细信息。</p>
+  <p>在我们丰富的<a href="/zh-CN/docs/Web/HTML/Reference">HTML参考</a>部分中，你可以找到在HTML中每一个元素和属性的详细信息。</p>
  </li>
 </ul>
 
