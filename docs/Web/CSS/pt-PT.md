@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1240021
+revision_id: 1328301
 locale: pt-PT
 slug: Web/CSS
 tags: "CSS" "Design" "Desenho" "Disposição" "Referencia" "Apresentação" "l10n:prioridade"
@@ -33,18 +33,18 @@ based_on: None
   <p>Uma <a href="/pt-PT/docs/Web/CSS/Refer%C3%AAncia_CSS">referência exaustiva </a>para desenvolvedores da Web experientes descrevendo cada propriedade e conceito de CSS.</p>
  </li>
  <li><span>Tutoriais de CSS</span>
-  <p>Our <a href="/en-US/docs/Learn/CSS">CSS Learning Area</a> contains a wealth of tutorials to take you from novice level to being comfortable with CSS, covering all the fundamentals.</p>
+  <p>A nossa <a href="/en-US/docs/Learn/CSS">Área de Aprendizage de CSS</a> contém imensos tutoriais importantes para levá-lo do nível de iniciante para um nível profissional em CSS, cobrindo todos os aspetos fundamentais.</p>
  </li>
  <li><span>Introdução ao CSS</span>
-  <p>If you're new to web development, be sure to read our <a href="/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS Basics</a> article to learn what CSS is and how to use it.</p>
+  <p>Se você é novo no desenvolvimento Web, certifique-se de ler o nosso artigo de <a href="/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">Bases de CSS </a>para saber o que é o CSS e como é utilizado.</p>
  </li>
 </ul>
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="Tutorials">Tutoriais</h2>
+<h2 class="Documentation" id="Tutoriais">Tutoriais</h2>
 
-<p>Na nossa <a href="/pt-PT/docs/Learn/CSS">Área de Aprendizagem de CSS </a>apresenta múltiplos módulos que ensinam CSS desde o início&nbsp; — não é necessário conhecimentros prévios.</p>
+<p>A nossa <a href="/pt-PT/docs/Learn/CSS">Área de Aprendizagem de CSS </a>apresenta múltiplos módulos que ensinam CSS desde o início&nbsp; — não é necessário conhecimentros prévios.</p>
 
 <p><span class="comment">&lt;br style="clear:both;" /&gt;</span></p>
 
@@ -58,13 +58,13 @@ based_on: None
 
     <ul>
      <li><a class="link-irc" href="irc://irc.mozilla.org/css">Canal IRC #css</a></li>
-     <li><a href="pt/CSS/Comunidade">Outros links para comunidades...</a></li>
+     <li><a href="pt/CSS/Comunidade">Outras hiperligações para comunidades...</a></li>
     </ul>
 
     <h4 id="Ferramentas" name="Ferramentas">Ferramentas</h4>
 
     <ul>
-     <li><a class="link-https" href="https://addons.mozilla.org/extensions/moreinfo.php?category=Developer%20Tools&amp;id=60">Web Developer - Extensão para Firefox</a></li>
+     <li><a class="link-https" href="https://addons.mozilla.org/extensions/moreinfo.php?category=Developer%20Tools&amp;id=60">Programador Web - Extensão para Firefox</a></li>
      <li><a class="external" href="http://jigsaw.w3.org/css-validator/">Serviço de validação CSS da W3C</a></li>
      <li><a class="link-https" href="https://addons.mozilla.org/extensions/moreinfo.php?id=179">EditCSS - Extensão para Firefox</a></li>
     </ul>
