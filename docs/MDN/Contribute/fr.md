@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 1228951
+revision_id: 1328326
 locale: fr
 slug: MDN/Contribute
 tags: "MDN" "Guide" "Landing" "Documentation" "NeedsTranslation"
 title: Contribuer au MDN
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
