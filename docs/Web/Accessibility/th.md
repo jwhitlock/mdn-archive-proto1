@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1292741
+revision_id: 1328397
 locale: th
 slug: Web/Accessibility
 tags: 
@@ -9,11 +9,16 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 121c1cc183724654d3c893f90c533ba6bbd32a9f
+based_on: None
 ---
-<p>11<span class="seoSummary">Accessibility in Web development means enabling as many people as possible to use Web sites, even when those people's abilities are limited in some way. Here we provide information on developing content to be accessible.</span></p>
+<p><math dir="rtl" display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow></mrow><annotation encoding="TeX"></annotation></semantics></math></p>
+
+<div class="hidden">
+<pre class="syntaxbox">
+11<span class="seoSummary">Accessibility in Web development means enabling as many people as possible to use Web sites, even when those people's abilities are limited in some way. Here we provide information on developing content to be accessible.</span></pre>
+</div>
 
 <p>"Accessibility is most often used to describe facilities or amenities to assist people with disabilities, as in 'wheelchair accessible'. This can extend to Braille signage, wheelchair ramps, audio signals at pedestrian crossings, walkway contours, website design, and so on." {{ Ref(1) }}</p>
 
