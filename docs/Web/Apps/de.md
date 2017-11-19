@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1326246
+revision_id: 1328418
 locale: de
 slug: Apps
 tags: "Apps" "TopicStub" "Web Development" "NeedsTranslation"
@@ -34,10 +34,10 @@ based_on: None
  <dd>Häufig gestellte Fragen rund um Apps.</dd>
  <dt><a href="/en-US/docs/Apps/Getting_Started">Erste Schritte</a></dt>
  <dd>Dieses Tutorial kann dir einen Einblick geben was es braucht um eine gewöhnliche Seite in eine App zuverwandeln.</dd>
- <dt><a href="/en-US/docs/Apps/Tutorials/General">Allgemeine App Tutorial</a></dt>
- <dd>A fairly detailed step-by-step of app development in general.</dd>
+ <dt><a href="/en-US/docs/Apps/Tutorials/General">Allgemeines App Tutorial</a></dt>
+ <dd>Ein gut detailiertes Schritt-für-Schritt Tutorial der allgemeinen Appentwicklung.</dd>
  <dt><a href="/en-US/docs/Apps/For_mobile_developers">Für Entwickler von mobilen Anwendungen</a></dt>
- <dd>If you already develop mobile applications, here's how to make Web-based apps.</dd>
+ <dd>Wenn du bereits Apps für Mobile Geräte machst, kannst du hier sehen wie du Web-basierte Apps machst.</dd>
  <dt><a href="/en-US/docs/Apps/For_Web_developers">Für Web-Entwickler</a></dt>
  <dd>If you already develop Web sites or applications, here's how to make them into installable apps.</dd>
  <dt><a href="/en-US/docs/Apps/Platform-specific_details">App Installation</a></dt>
@@ -49,7 +49,7 @@ based_on: None
  <dt><a href="/en-US/docs/Apps/Using_apps_offline">Apps offline nutzen</a></dt>
  <dd>Zeigt Ihnen, wie Sie Apps programmieren können, die zwischengespeichert werden um sie ohne Internetverbindung benutzen zu können.</dd>
  <dt><a href="/en-US/docs/Apps/Apps_for_Android">Android öffnet Web Apps</a></dt>
- <dd>Information about developing Open Web Apps for Android.</dd>
+ <dt>Infos über das entwickeln von Open Web Apps für Android.</dt>
 </dl>
 </div>
 
@@ -133,7 +133,7 @@ based_on: None
   --></div>
 
 <div style="-moz-column-width:28em; -webkit-columns:14em; columns:28em; border: dotted 1px; padding: 1em;">
-<h2 id="Das_Open_Web_Apps_ProjeKt">Das Open Web Apps Projekt</h2>
+<h2 id="Das_Open_Web_Apps_Projekt">Das Open Web Apps Projekt</h2>
 
 <ul>
  <li><a href="https://apps.mozillalabs.com/">Übersichts-Website</a></li>
