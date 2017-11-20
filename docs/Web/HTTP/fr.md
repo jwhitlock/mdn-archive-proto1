@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1158180
+revision_id: 1328568
 locale: fr
 slug: HTTP
 tags: "HTTP" "Web" "TopicStub" "Référence(2)"
@@ -8,14 +8,14 @@ title: HTTP
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
 <div>{{ HTTPSidebar }}</div>
 
-<p class="summary"><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong> est un protocole de&nbsp; <a class="external" href="https://fr.wikipedia.org/wiki/Couche_application">la couche application</a> servant à transmettre des documents hypermedia, comme HTML. Il a été conçu pour communiquer entre les navigateurs web et les serveurs web, bien qu'il puisse être utilisé à d'autres fins. Il suit le modèle classique <a class="external" href="https://fr.wikipedia.org/wiki/Client-serveur">client-serveur</a>, avec un client qui ouvre une <strong>connexion</strong>, fait une requête et attends jusqu'à recevoir une réponse. C'est aussi un <a class="external" href="https://fr.wikipedia.org/wiki/Serveur_sans_%C3%A9tat">protocole sans état</a>, ce qui signifie que le serveur ne conserve aucune données (état) entre deux requêtes. Bien que généralement basé sur une couche TCP/IP, il peut aussi être utilisé sur toute <a class="external" href="https://fr.wikipedia.org/wiki/Couche_transport">couche de transport</a> fiable,qui est un protocole qui ne perd pas de messages silencieusement.</p>
+<p class="summary"><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong> est un protocole de&nbsp; <a class="external" href="https://fr.wikipedia.org/wiki/Couche_application">la couche application</a> servant à transmettre des documents hypermedia, comme HTML. Il a été conçu pour communiquer entre les navigateurs web et les serveurs web, bien qu'il puisse être utilisé à d'autres fins. Il suit le modèle classique <a class="external" href="https://fr.wikipedia.org/wiki/Client-serveur">client-serveur</a>, avec un client qui ouvre une <strong>connexion</strong>, fait une requête et attend&nbsp;jusqu'à recevoir une réponse. C'est aussi un <a class="external" href="https://fr.wikipedia.org/wiki/Serveur_sans_%C3%A9tat">protocole sans état</a>, ce qui signifie que le serveur ne conserve aucune données (état) entre deux requêtes. Bien que généralement basé sur une couche TCP/IP, il peut aussi être utilisé sur toute <a class="external" href="https://fr.wikipedia.org/wiki/Couche_transport">couche de transport</a> fiable,qui est un protocole qui ne perd pas de messages silencieusement.</p>
 
 <div class="column-container">
 <div class="column-half">
