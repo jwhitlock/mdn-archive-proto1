@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1327996
+revision_id: 1328565
 locale: zh-CN
 slug: Web/Reference
 tags: "Web" "Landing" "TopicStub" "Reference" "Référence(2)" "NeedsTranslation"
@@ -18,7 +18,7 @@ based_on: None
 <div class="row topicpage-table">
 <h2 class="Documentation" id="Web_技术">Web 技术</h2>
 
-<h5 id="我们期望你已经对Web开发入门_当然这并不是必要的。.">我们期望你已经对<a href="/zh-CN/docs/Learn/Getting_started_with_the_web">Web开发入门</a>, 当然这并不是必要的。</h5>
+<h5 id="我们期望你已经对Web开发入门_当然这并不是必要的。">我们期望你已经对<a href="/zh-CN/docs/Learn/Getting_started_with_the_web">Web开发入门</a>, 当然这并不是必要的。</h5>
 
 <dl>
  <dt><strong><a href="/zh-CN/docs/Glossary/HTML">HTML</a></strong> — 构建Web</dt>
@@ -29,7 +29,7 @@ based_on: None
  <dt><strong><a href="/en-US/docs/Glossary/CSS">CSS</a></strong> — 描绘Web</dt>
  <dd><strong>层叠样式表（CSS）</strong>，被用来描述Web页面内容的外观<br />
  <br />
- <a href="/en-US/Learn/CSS/Introduction_to_CSS">CSS介绍</a>&nbsp; |&nbsp;<a href="/en-US/docs/Web/Guide/CSS/Getting_started">开始CSS之旅</a>&nbsp;| <a href="/en-US/Learn/CSS">学习CSS</a> | <a href="/en-US/docs/Web/CSS/CSS3">CSS3 </a>| <a href="/en-US/docs/Web/Guide/CSS">CSS开发者指南</a> | <a href="/en-US/docs/Web/CSS/Common_CSS_Questions">CSS常见问题</a>&nbsp;| <strong><a href="/zh-CN/docs/Web/CSS/Reference">CSS参考</a></strong></dd>
+ <a href="/zh-CN/Learn/CSS/Introduction_to_CSS">CSS介绍</a>&nbsp; |&nbsp;<a href="/zh-CN/docs/Web/Guide/CSS/Getting_started">开始CSS之旅</a>&nbsp;| <a href="/zh-CN/Learn/CSS">学习CSS</a> | <a href="/zh-CN/docs/Web/CSS/CSS3">CSS3 </a>| <a href="/zh-CN/docs/Web/Guide/CSS">CSS开发者指南</a> | <a href="/zh-CN/docs/Web/CSS/Common_CSS_Questions">CSS常见问题</a>&nbsp;| <strong><a href="/zh-CN/docs/Web/CSS/Reference">CSS参考</a></strong></dd>
 </dl>
 </div>
 
