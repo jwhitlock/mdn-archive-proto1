@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 780861
+revision_id: 1329093
 locale: hr
 slug: Web/HTML
 tags: 
@@ -9,15 +9,15 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: d15787d139cda616a9d7a53115330de0fa32964d
+based_on: None
 ---
 <p class="note">{{HTMLSidebar()}}</p>
 
-<p><span class="seoSummary">HyperText Markup Language (HTML) is used for creating and visually representing a webpage.</span></p>
+<p><span class="seoSummary">HyperText Markup Language (HTML) se koristi za kreiranje i vizualno predstavljanje sadržaja web stranice.&nbsp;</span></p>
 
-<p>HTML adds "markup" to standard English text. "Hyper Text" refers to links that connect Web pages to one another, making the World Wide Web what it is today. By creating and uploading Web pages to the Internet, you become an active participant in the World Wide Web. <span class="seoSummary">HTML supports visual images and other media as well.</span> HTML is the language that describes the structure and the semantic content of a web document. Content within a web page is tagged with HTML elements such as {{HTMLElement("img")}}, {{HTMLElement("title")}}, {{HTMLElement("p")}}, {{HTMLElement("div")}}, {{HTMLElement("picture")}}, and so forth.  These elements form the building blocks of a website.</p>
+<p>HTML adds "markup" to standard English text. "Hyper Text" refers to links that connect Web pages to one another, making the World Wide Web what it is today. By creating and uploading Web pages to the Internet, you become an active participant in the World Wide Web. <span class="seoSummary">HTML supports visual images and other media as well.</span>&nbsp;HTML is the language that describes the structure and the semantic content of a web document. Content within a web page is tagged with HTML elements such as {{HTMLElement("img")}}, {{HTMLElement("title")}}, {{HTMLElement("p")}}, {{HTMLElement("div")}}, {{HTMLElement("picture")}}, and so forth.&nbsp; These elements form the building blocks of a website.</p>
 
 <p><span class="seoSummary">The articles here provide reference materials for web development.</span></p>
 
@@ -44,7 +44,7 @@ based_on: d15787d139cda616a9d7a53115330de0fa32964d
 <p><span class="alllinks"><a href="/en-US/docs/tag/HTML" title="Article tagged: HTML">View All...</a></span></p>
 </div>
 
-<p> </p>
+<p>&nbsp;</p>
 
 <div class="section">
 <h2 class="Tools" id="Tools" name="Tools">Guides and tutorials</h2>
