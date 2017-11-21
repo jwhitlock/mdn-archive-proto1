@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1328795
+revision_id: 1328796
 locale: it
 slug: Web/Tutorials
 tags: "CSS" "HTML" "MDN" "Codice" "Design_Web" "Tutorial" "JavaScript"
