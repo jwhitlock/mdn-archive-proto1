@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1038052
+revision_id: 1328799
 locale: it
 slug: MDN/Community
 tags: 
