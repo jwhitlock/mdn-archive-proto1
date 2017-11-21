@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1328383
+revision_id: 1329023
 locale: nl
 slug: Web/HTML
 tags: "HTML" "Naslagwerk" "Referenties"
@@ -8,7 +8,7 @@ title: HTML
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
@@ -57,7 +57,7 @@ based_on: None
  <dd>Deze module bevat links naar secties met inhoud die uitleggen hoe HTML kan worden gebruikt om veelvoorkomende problemen op te lossen wanneer u een webpagina maakt: Hoe gaat u met titels om, hoe voegt u afbeeldingen of video's toe, hoe benadrukt u inhoud, hoe maakt u een eenvoudig formulier, enzovoort.</dd>
 </dl>
 
-<h2 id="Advanced_topics">Onderwerpen voor gevorderden</h2>
+<h2 id="Onderwerpen_voor_gevorderden">Onderwerpen voor gevorderden</h2>
 
 <dl>
  <dt class="landingPageList"><a href="/nl/docs/Web/HTML/CORS_enabled_image">CORS enabled image</a></dt>
@@ -74,7 +74,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="References">Naslagwerken</h2>
+<h2 class="Documentation" id="Naslagwerken">Naslagwerken</h2>
 
 <dl>
  <dt class="landingPageList"><a href="/nl/docs/Web/HTML/Naslagwerk">Naslagwerk voor HTML</a></dt>
@@ -86,7 +86,7 @@ based_on: None
  <dt class="landingPageList"><a href="/nl/docs/Web/HTML/Global_attributes">Algemene attributen</a></dt>
  <dd class="landingPageList">Algemene&nbsp;attributen kunnen worden toegepast op alle <a href="/nl/docs/Web/HTML/Element">HTML-elementen</a>, <em>zelfs op elementen die niet worden gespecificeerd in de standaard.</em>&nbsp;Dit betekent dat alle elementen die niet standaard zijn, deze attributen moeten toestaan, zelfs als deze elementen ervoor zorgen dat het document niet in overeenstemming is met HTML5.</dd>
  <dt class="landingPageList"><a href="/nl/docs/Web/HTML/Inline_elements">Inline-elementen</a> en <a href="/en-US/docs/Web/HTML/Block-level_elements">elementen op blockniveau</a></dt>
- <dd class="landingPageList">HTML-elementen zijn veelal inline-elementen of elementen op blockniveau. Een inline-element bezet alleen de ruimte die wordt begrensd door de labels die dit definiëren. Een element op blockniveau bezet de gehele ruimte van het element dat erboven ligt, waarmee het een "block" maakt.</dd>
+ <dd class="landingPageList">HTML-elementen zijn veelal inline-elementen of elementen op blockniveau. Een inline-element bezet alleen de ruimte die wordt begrensd door de tags die dit definiëren. Een element op blockniveau bezet de gehele ruimte van het element dat erboven ligt, waarmee het een "block" maakt.</dd>
  <dt class="landingPageList"><a href="/nl/docs/Web/HTML/Link_types">Linktypes</a></dt>
  <dd class="landingPageList">In HTML kunnen verschillende linktypes worden gebruikt om de relatie tussen twee documenten vast te stellen en te definiëren. Link-elementen waarop types kunnen worden gevestigd zijn <a href="/en-US/docs/Web/HTML/Element/a"><code>&lt;a&gt;</code></a>, <a href="/en-US/docs/Web/HTML/Element/area"><code>&lt;area&gt;</code></a>, en&nbsp;<a href="/en-US/docs/Web/HTML/Element/link"><code>&lt;link&gt;</code></a>.</dd>
  <dt class="landingPageList"><a href="/nl/docs/Web/HTML/Supported_media_formats">Mediaformaten ondersteund door audio- en video-elementen van HTML</a></dt>
@@ -95,7 +95,7 @@ based_on: None
  <dd class="landingPageList">HTML bestaat uit verschillende soorten inhoud, die&nbsp;in bepaalde contexten wel of niet worden toegestaan.&nbsp;Daarnaast heeft elke soort inhoud een verzameling van andere inhoudscategorieën die hij kan bevatten en elementen die wel of niet kunnen worden gebruikt. Dit is een gids voor deze categorieën.</dd>
 </dl>
 
-<h2 class="landingPageList" id="Related_topics">Gerelateerde onderwerpen</h2>
+<h2 class="landingPageList" id="Gerelateerde_onderwerpen">Gerelateerde onderwerpen</h2>
 
 <dl>
  <dt><a href="/nl/docs/Web/HTML/Applying_color">Kleuren toepassen op HTML-elementen met CSS</a></dt>
