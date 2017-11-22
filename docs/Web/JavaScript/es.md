@@ -1,14 +1,14 @@
 ---
 version: prototype1
-revision_id: 1321770
+revision_id: 1329420
 locale: es
 slug: Web/JavaScript
 tags: "Aprender" "JavaScript"
 title: JavaScript
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
+needs_technical_review: True
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
@@ -18,13 +18,11 @@ based_on: None
 
 <p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) es un lenguaje ligero e interpretado, orientado a objetos con&nbsp;<strong style="background-color:#f4f7f8; font-weight:bold; line-height:1.5">&nbsp;</strong><a href="https://en.wikipedia.org/wiki/First-class_functions" style="line-height: 1.5; font-weight: bold; background-color: rgb(244, 247, 248);" title="https://en.wikipedia.org/wiki/First-class_functions">funciones de primera clase</a><span style="line-height:1.5">, más conocido como el lenguaje de script para páginas web, pero también </span><a href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages" style="line-height: 1.5;" title="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">usado en muchos entornos sin navegador</a><span style="line-height:1.5">, tales como &nbsp;</span><strong style="background-color:#f4f7f8; font-weight:bold; line-height:1.5">&nbsp;</strong><a class="external external-icon" href="http://nodejs.org/" style="line-height: 1.5; white-space: pre-line; font-weight: bold; background-color: rgb(244, 247, 248);">node.js</a><strong style="background-color:#f4f7f8; font-weight:bold; line-height:1.5">&nbsp;o&nbsp;</strong><a href="http://couchdb.apache.org/" style="line-height: 1.5; font-weight: bold; background-color: rgb(244, 247, 248);">Apache CouchDB</a><strong style="background-color:#f4f7f8; font-weight:bold; line-height:1.5">. </strong>Es un lenguaje script multi-paradigma,&nbsp;<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based" style="font-weight: bold; background-color: rgb(244, 247, 248);" title="Prototype-based">basado en prototipos</a>,&nbsp; dinámico, soporta estilos de programación funcional, orientada a objetos e imperativa.&nbsp;<a href="/es/docs/JavaScript/Acerca_de_JavaScript" style="line-height: 1.5;" title="JavaScript/Acerca_de_JavaScript">Leer más sobre JavaScript</a><span style="line-height:1.5">.</span></p>
 
-<p>El estándar de JavaScript es <a href="/en-US/docs/JavaScript/Language_Resources">ECMAScript</a>. Desde el 2012, todos los navegadores modernos soportan completamente ECMAScript 5.1. Los navegadores más antiguos soportan por lo menos ECMAScript 3. La sexta edición se liberó en Julio. Se puede seguir el progreso actual de las diferentes, nuevas y mejoradas características en la <a class="external" href="http://wiki.ecmascript.org/doku.php?id=harmony:proposals">correspondiente wiki</a>.</p>
-
 <p>Esta sección de la web está dedicada al lenguaje JavaScript, a las partes que no son específicas de las páginas web u otros entornos de servidor. Para información sobre las API específicas de las páginas web, consulte <a href="/es/docs/DOM" title="DOM">DOM</a>. Para saber más sobre cómo encajan DOM y JavaScript, dispone de la <a href="/es/docs/Referencia_DOM_de_Gecko/Introducción#DOM_y_JavaScript" title="Referencia_DOM_de_Gecko/Introducción#DOM_y_JavaScript">referencia de DOM</a>.</p>
 
-<p>JavaScript no debe ser confundido con el&nbsp;<a href="http://en.wikipedia.org/wiki/Java_(programming_language)">lenguaje de programación Java</a>. Java es una marca registrada de Oracle en Estados Unidos y otros países. Los dos lenguajes de programación tienen muchas diferencias en las sintaxis, semantica y usos.</p>
+<p>El estándar de JavaScript es <a href="/en-US/docs/JavaScript/Language_Resources">ECMAScript</a>. Desde el 2012, todos los navegadores modernos soportan completamente ECMAScript 5.1. Los navegadores más antiguos soportan por lo menos ECMAScript 3. La sexta edición, conocida<span class="short_text" id="result_box" lang="es"><span> inicialmente como ECMAScript 6 o ES6, </span></span> se liberó el 17 de Julio de 2017. Desde entonces, <span id="result_box" lang="es"><span>los estándares ECMAScript están en ciclos de lanzamiento anuales</span></span><span lang="es"><span>.</span> <span>Esta documentación se refiere a la última versión del borrador, que actualmente es <a href="https://tc39.github.io/ecma262/">ECMAScript 2018</a>.</span></span></p>
 
-<p>Si desea información sobre cómo incrustar un motor de JavaScript en una aplicación, consulta <a href="/es/docs/SpiderMonkey" title="SpiderMonkey">SpiderMonkey</a> y <a href="/en/Rhino" title="Rhino">Rhino</a>.</p>
+<p>JavaScript no debe ser confundido con el&nbsp;<a href="http://en.wikipedia.org/wiki/Java_(programming_language)">lenguaje de programación Java</a>. Java es una marca registrada de Oracle en Estados Unidos y otros países. <span id="result_box" lang="es"><span>Sin embargo, l</span></span>os dos lenguajes de programación tienen muchas diferencias en las sintaxis, semantica y usos.</p>
 </div>
 
 <table class="topicpage-table">
