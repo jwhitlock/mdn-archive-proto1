@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 954989
+revision_id: 1329265
 locale: ja
 slug: MDN/Getting_started
 tags: "MDN Meta" "Guide" "Beginner" "Introduction" "Documentation" "Getting Started" "New Contributors"
@@ -19,15 +19,17 @@ based_on: None
 
 <p>MDN の全ての要素（このサイトを機能させているコードや、文書、コードサンプル、そしてデモ）はオープンな開発者コミュニティにより作成されています。どなたでも何らかの形で貢献できますので、ぜひあなたのご参加をお待ちしています！</p>
 
-<h2 id="3_simple_steps_to_MDN" name="3_simple_steps_to_MDN">MDN 参加の簡単な 3 ステップ</h2>
+<h2 id="3_Simple_steps_to_MDN" name="3_Simple_steps_to_MDN">MDN 参加の簡単な 3 ステップ</h2>
 
-<p><span class="seoSummary">MDN は wiki であり、<strong>誰でも</strong>コンテンツを追加、編集できます。プログラマであったり、テクノロジーについて多くを知っている必要はありません。校正や誤植の修正などの簡単なことからAPI ドキュメントの作成のような複雑なことまで、行うべき事はたくさんあります。</span></p>
+<p><span class="seoSummary">MDN は wiki であり、<strong>誰でも</strong>コンテンツを追加、編集できます。プログラマであったり、テクノロジーについて多くを知っていることが必須ではありません。校正や誤植の修正などの簡単なことから、API ドキュメントの作成のような複雑なことまで、行うべき事はたくさんあります。このガイドにより、あなたは開始できて、MDNの中身を改良させる道を見つける導かれることでしょう。</span></p>
 
 <p>貢献するのは簡単で危険を伴いません。間違ってしまった場合でも、簡単に修正できます。出来栄えをどうすべきかわからなかったり、文法が完璧でなかったりしても、気にしないで！　MDN にあるコンテンツの品質チェックを担当するチームがあります。誰かがやってきて、あなたの成果がきちんと丁寧に書かれているかどうか確認してくれます。あなたの知識を共有し、長所を活かし、そしてあなたの成果をさらに高めてくれるコミュニティの仲間たちを信頼しましょう。</p>
 
 <h3 id="Step_1_Create_an_account_on_MDN" name="Step_1_Create_an_account_on_MDN">ステップ 1 : MDN のアカウントを作成する</h3>
 
-<p>MDN への貢献を開始するには、MDN のアカウントが必要です。詳細は「<a href="/ja/docs/MDN/Contribute/Howto/Create_an_MDN_account">MDN アカウントを作成するには</a>」をご覧ください。</p>
+<p>MDN への貢献を開始するには、MDN のアカウントが必要です。詳細は「<a href="/ja/docs/MDN/Contribute/Howto/Create_an_MDN_account">MDN アカウントを作成するには</a>」をご覧ください。注意すべきこととして、MDN アカウントを作る前に&nbsp;<a href="https://github.com/join">GitHub アカウントが必要です</a>&nbsp;(現在はGithHubを認証用に使っているため)。</p>
+
+<p>タスクに新規ページ作成が含まれる場合、{{SectionOnPage("/ja/docs/MDN/Contribute/Howto/Create_and_edit_pages", "Getting page creation permissions")}} を見て、新規ページ作成の権限取得法についての重要情報を確認します。セキュリティ上の理由により、新規アカウントは既定ではこの能力を持っていないのです。</p>
 
 <h3 id="Step_2_Pick_a_task_to_complete" name="Step_2_Pick_a_task_to_complete">ステップ 2 : 完成させるタスクを選ぶ</h3>
 
@@ -40,7 +42,7 @@ based_on: None
 <p>完璧にしようと悩まないで。MDN に貢献している他の方々が、見落とした間違いの修正を手伝ってくれます。進めていくにつれ疑問がわいたら、回答を得られるメーリングリストやチャットチャンネルについての情報が載っている<a href="/ja/docs/MDN/Community">コミュニティに関するページ</a>をご覧ください。</p>
 
 <div class="note">
-<p><strong>注記 :</strong> MDN の編集を「実際に」行う前に体験してみたい場合は、編集を試したい人向けの<strong><a href="/ja/docs/Sandbox">サンドボックスページ</a></strong>があります。試行錯誤はそのページ内に留めるようにしてください。何が起きるのかを知るためだけに不要な変更をしないでください。そうした結果、他の方が後始末をするはめになります。</p>
+<p><strong>注記 :</strong> MDN の編集を「実際に」行う前に体験してみたい場合は、編集を試したい人向けの<strong><a href="/ja/docs/Sandbox">サンドボックスページ</a></strong>があります。試行錯誤はそのページ内に留めるようにしてください。何が起きるのかを知るためだけに不要な変更をしないでください。そうした結果、他の方が後始末をするはめになったり、もっと悪いことに何かを学習しようとして読んだり、何かを探している読み手が混乱することになります。</p>
 </div>
 
 <p>選んだタスクを終えたら、自由に他の項目を選ぶか、あるいは下記にある「<a href="#Other_things_you_can_do_on_MDN">その他の MDN で行える事</a>」をご覧ください。</p>
@@ -56,9 +58,7 @@ based_on: None
 <ul>
  <li><a href="/ja/docs/MDN/Contribute/Howto/Set_the_summary_for_a_page">ページの要約作成</a> （5 - 15 分）</li>
  <li><a href="/ja/docs/MDN/Contribute/Howto/Do_an_editorial_review">編集レビュー</a> （5 – 30 分）</li>
- <li><a href="/ja/docs/MDN/User_guide/Writing#Editing_an_existing_page">既存の記事を新情報に更新</a> （5 分 - 1 時間）</li>
  <li><a href="/ja/docs/MDN/Contributing/Howto/Write_a_new_entry_in_the_Glossary">用語集に新規項目を作成</a> （15 分 - 1 時間）</li>
- <li><a href="/ja/docs/MDN/User_guide/Writing#Adding_a_new_page">新しいテクノロジーや API の記事を書く</a> （30 分 - 2 時間）</li>
  <li><a href="/ja/docs/MDN/Contributing/How_to/Write_an_article_to_help_learning_the_web">web の学習を補助する記事を書く</a> （1 - 3 時間）</li>
 </ul>
 
@@ -72,9 +72,9 @@ based_on: None
 
 <ul>
  <li><a href="/ja/docs/MDN/Contribute/Howto/Convert_code_samples_to_be_live">コードサンプルをライブコードサンプルに変換</a> （30 分）</li>
+ <li><a href="https://wiki.mozilla.org/Webdev/GetInvolved/developer.mozilla.org">導入ガイドを読む</a>&nbsp;(30 分）</li>
  <li><a href="https://kuma.readthedocs.org/en/latest/installation-vagrant.html">Kuma のビルド環境をセットアップ</a> （1 時間）</li>
  <li><a href="https://github.com/mozilla/kuma#readme">Kuma コードベースにパッチを送る</a> （1 時間）</li>
- <li><a href="https://developer.mozilla.org/ja/demos/submit">新しいデモを投稿する</a> （1 時間）</li>
 </ul>
 
 <h3 id="Option_3_I_like_both_words_and_code" name="Option_3_I_like_both_words_and_code">選択肢その 3 : 言葉もコードも両方好き</h3>
@@ -82,11 +82,11 @@ based_on: None
 <p>新しい記事の執筆、記事の技術的正確さをレビューする、ドキュメントを調整するといった、技術、言語スキルの双方を要求されるタスクもあります。</p>
 
 <ul>
- <li><a href="/ja/docs/MDN/Contribute/Howto/Tag_JavaScript_pages">JavaScript ページをタグ付けする</a> （5 分）</li>
  <li><a href="/ja/docs/MDN/About/Promote">自分の web サイトで MDN を宣伝する</a> （5 分）</li>
  <li><a href="/ja/docs/MDN/Contribute/Howto/Do_a_technical_review">技術レビュー</a> （30 分）</li>
- <li><a href="/ja/docs/MDN/Contribute/Creating_and_editing_pages#Creating_a_new_page">造形の深い話題について新規記事を執筆する</a> （1 時間以上）</li>
+ <li><a href="/ja/docs/MDN/Contribute/Creating_and_editing_pages#Creating_a_new_page">現在必要となっている話題について新規記事を執筆する</a> （1 時間以上）</li>
  <li><a href="/ja/docs/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web">web の学習を補助するための、インタラクティブな課題を作成する</a> （1 時間以上）</li>
+ <li><a href="http://www.joshmatthews.net/bugsahoy/?mdn=1">Bugs Ahoy の MDN カテゴリー</a>&nbsp;から&nbsp;<a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Howto/Resolve_a_mentored_developer_doc_request">文書のバグょ修正する</a>&nbsp;f(1 時間以上）</li>
 </ul>
 
 <h3 id="Option_4_I_want_MDN_in_my_language" name="Option_4_I_want_MDN_in_my_language">選択肢その 4 : 母国語の MDN が欲しい</h3>
@@ -94,7 +94,7 @@ based_on: None
 <p>MDN 上の全てのローカライゼーションと翻訳作業は、素晴らしいボランティアコミュニティによって行われています。</p>
 
 <ul>
- <li><a href="/ja/docs/MDN/Contribute/Localize/Translating_pages">ページを翻訳する</a> （2 時間）</li>
+ <li><a href="/ja/docs/MDN/Contribute/Localize/Translating_pages">ページを翻訳する</a> （2 時間）(<a href="https://developer.mozilla.org/en-US/docs/MDN/Doc_status/l10nPriority">優先度上位</a>を見てください)</li>
  <li><a href="/ja/docs/MDN/Contribute/Localize/Localization_projects">ローカライゼーションプロジェクト</a>に載っているローカライズ担当者と繋がりを持つ （30 分）</li>
 </ul>
 
