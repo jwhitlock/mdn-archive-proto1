@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1101975
+revision_id: 1329375
 locale: nl
 slug: MDN/Getting_started
 tags: "Gids" "MDN Meta" "Beginner" "Introductie"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{IncludeSubnav("/nl/docs/MDN")}}</div>
 
-<p>We zijn een open gemeenschap van ontwikkelaars en schrijvers die middelen voor een beter internet bouwen, ongeacht merk, browser of platform. Iedereen kan bijdragen en iedere persoon die dat doet maakt ons sterker. Samen kunnen we innovatie op het web blijven voortzetten om het algemeen belang te dienen. Het begint hier, met u.</p>
+<p>We zijn een open gemeenschap van ontwikkelaars en schrijvers die middelen bouwen voor een beter internet, ongeacht merk, browser of platform. Iedereen kan bijdragen en iedere persoon die dat doet maakt ons sterker. Samen kunnen we innovatie op het web blijven voortzetten om het algemeen belang te dienen. Het begint hier, met u.</p>
 
 <p>Elk onderdeel van MDN (van de code die de website laat werken tot de documenten, codevoorbeelden en demo’s) wordt gemaakt door een gemeenschap van ontwikkelaars en schrijvers. Iedereen heeft iets te bieden, en hopelijk doet u met ons mee!</p>
 
@@ -27,19 +27,19 @@ based_on: None
 
 <h3 id="Stap_1_maak_een_account_aan_op_MDN">Stap 1: maak een account aan op MDN</h3>
 
-<p>Als het maken van nieuwe pagina’s onder uw taken valt, bekijk dan {{SectionOnPage("/docs/MDN/Contribute/Howto/Create_and_edit_pages", "Bevoegdheden voor het maken van pagina’s verkrijgen")}} voor belangrijke informatie over het verkrijgen van bevoegdheden voor het toevoegen van nieuwe pagina’s; om veiligheidsredenen hebben nieuwe accounts deze mogelijkheid niet.</p>
+<p>Om met uw bijdragen aan MDN te beginnen, dient u een account op MDN te hebben. Voor details, zie <a href="https://developer.mozilla.org/docs/MDN/Contribute/Howto/Create_an_MDN_account">Een MDN-account aanmaken</a>. U hebt een <a href="https://github.com/join">account op GitHub </a>nodig voordat u een account kunt aanmaken op MDN, omdat we op GitHub op dit moment gebruiken voor authenticatie.</p>
 
-<p>Om met uw bijdragen aan MDN te beginnen, dient u een account op MDN te hebben. Voor details, zie <a href="https://developer.mozilla.org/docs/MDN/Contribute/Howto/Create_an_MDN_account">Een MDN-account aanmaken</a>.</p>
+<p>Als het maken van nieuwe pagina’s onder uw taken valt, bekijk dan {{SectionOnPage("/docs/MDN/Contribute/Howto/Create_and_edit_pages", "Bevoegdheden voor het maken van pagina’s verkrijgen")}} voor belangrijke informatie over het verkrijgen van bevoegdheden voor het toevoegen van nieuwe pagina’s; om veiligheidsredenen hebben nieuwe accounts deze mogelijkheid niet.</p>
 
 <h3 id="Stap_2_kies_een_taak">Stap 2: kies een taak</h3>
 
-<p>Lees nadat u bent aangemeld de beschrijvingen van de verschillende taaktypen in {{anch("Mogelijke taaktypen", "de onderstaande lijst")}}, en besluit welke u het meest aantrekkelijk vindt. U kunt elke taak kiezen die u wilt en met uw bijdrage beginnen.</p>
+<p>Lees, nadat u bent aangemeld, de beschrijvingen van de verschillende taaktypen in {{anch("Mogelijke taaktypen", "de onderstaande lijst")}}, en besluit welke u het meest aantrekkelijk vindt. U kunt elke taak kiezen die u wilt en met uw bijdrage beginnen.</p>
 
 <h3 id="Stap_3_voer_de_taak_uit">Stap 3: voer de taak uit</h3>
 
 <p>Zodra u hebt besloten wat voor soort taak u wilt doen, zoekt u een specifieke pagina, codevoorbeeld, etc. om aan te werken, en doet u het gewoon!</p>
 
-<p>Maak u geen zorgen over een perfecte uitvoering; andere MDN-medewerkers zijn hier om te helpen fouten die erin sluipen te corrigeren. Als u tijdens uw taak vragen hebt, zie dan de pagina <a href="/docs/MDN/Community">Gemeenschap</a> voor info over mailinglijsten en chatkanalen waarin u antwoorden kunt krijgen.</p>
+<p>Maak u geen zorgen over een perfecte uitvoering; andere MDN-medewerkers zijn hier om te helpen fouten die erin sluipen te corrigeren. Als u tijdens uw taak vragen hebt, zie dan de pagina <a href="/docs/MDN/Community">Gemeenschap</a> voor informatie over mailinglijsten en chatkanalen waarin u antwoorden kunt krijgen.</p>
 
 <div class="note">
 <p>Als u met bewerken op MDN wilt experimenteren voordat u ‘echt’ iets gaat doen, hebben we een <strong><a href="/docs/Sandbox">Sandbox</a></strong>-pagina voor u om in te spelen. Beperk uw experimenten tot deze pagina. Breng geen onnodige wijzigingen in inhoudspagina’s aan om alleen te zien wat er gebeurt; dat veroorzaakt rommel die anderen moeten opruimen of, erger nog, lezers verwart die alleen iets proberen te leren of iets opzoeken.</p>
@@ -80,7 +80,6 @@ based_on: None
 <p>We hebben de taken waarvoor zowel technische als taalvaardigheden nodig zijn, zoals het schrijven van nieuwe artikelen, het beoordelen voor technische juistheid, of het aanpassen van documenten.</p>
 
 <ul>
- <li><a href="/docs/MDN/Contribute/Howto/Tag_JavaScript_pages">JavaScript-pagina’s taggen</a> (5 minuten)</li>
  <li><a href="/docs/MDN/About/Promote">MDN promoten op uw eigen website</a> (5 minuten)</li>
  <li><a href="/docs/MDN/Contribute/Howto/Do_a_technical_review">Technische beoordelingen geven</a> (30 minuten)</li>
  <li><a href="/docs/Contribute_to_docs_that_are_currently_needed">Een artikel schrijven over een onderwerp dat momenteel nodig is</a> (1 uur of meer)</li>
@@ -93,7 +92,7 @@ based_on: None
 <p>Al het lokalisatie- en vertaalwerk op MDN wordt door onze geweldige gemeenschap van vrijwilligers gedaan.</p>
 
 <ul>
- <li><a href="/docs/MDN/Contribute/Localize/Translating_pages">Pagina’s vertalen</a> (2 uur)</li>
+ <li><a href="/docs/MDN/Contribute/Localize/Translating_pages">Pagina’s vertalen</a> (2 uur) (Zie <a href="/nl/docs/MDN/Doc_status/l10nPriority">topprioriteiten</a>)</li>
  <li>Contact maken met andere vertalers die in <a href="/docs/MDN/Contribute/Localize/Localization_projects">Lokalisatieprojecten</a> zijn vermeld (30 minuten)</li>
 </ul>
 
