@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1329375
+revision_id: 1329376
 locale: nl
 slug: MDN/Getting_started
 tags: "Gids" "MDN Meta" "Beginner" "Introductie"
@@ -27,7 +27,7 @@ based_on: None
 
 <h3 id="Stap_1_maak_een_account_aan_op_MDN">Stap 1: maak een account aan op MDN</h3>
 
-<p>Om met uw bijdragen aan MDN te beginnen, dient u een account op MDN te hebben. Voor details, zie <a href="https://developer.mozilla.org/docs/MDN/Contribute/Howto/Create_an_MDN_account">Een MDN-account aanmaken</a>. U hebt een <a href="https://github.com/join">account op GitHub </a>nodig voordat u een account kunt aanmaken op MDN, omdat we op GitHub op dit moment gebruiken voor authenticatie.</p>
+<p>Om met uw bijdragen aan MDN te beginnen, dient u een account op MDN te hebben. Voor details, zie <a href="https://developer.mozilla.org/docs/MDN/Contribute/Howto/Create_an_MDN_account">Een MDN-account aanmaken</a>. U hebt een <a href="https://github.com/join">account op GitHub </a>nodig voordat u een account kunt aanmaken op MDN, omdat we GitHub op dit moment gebruiken voor authenticatie.</p>
 
 <p>Als het maken van nieuwe pagina’s onder uw taken valt, bekijk dan {{SectionOnPage("/docs/MDN/Contribute/Howto/Create_and_edit_pages", "Bevoegdheden voor het maken van pagina’s verkrijgen")}} voor belangrijke informatie over het verkrijgen van bevoegdheden voor het toevoegen van nieuwe pagina’s; om veiligheidsredenen hebben nieuwe accounts deze mogelijkheid niet.</p>
 
