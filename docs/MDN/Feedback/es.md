@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1266315
+revision_id: 1329716
 locale: es
 slug: MDN/Enviar_feedback_sobre_MDN
 tags: 
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>{{IncludeSubnav("/en-US/docs/MDN")}}</p>
+<p>{{IncludeSubnav("/es-ES/docs/MDN")}}</p>
 
 <p>¡Bienvenido a la Red de Desarrolladores de Mozilla! si tienes algunas sugerencias, o estás teniendo problemas usando MDN, estás en&nbsp;el lugar correcto.<span class="seoSummary"> El mismo hecho de que muestres interés en ofrecer feedback, te hace más parte de la comunidad de Mozilla, y te agradecemos de antemano tu interés.</span></p>
 
