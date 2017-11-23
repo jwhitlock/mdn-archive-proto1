@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1323881
+revision_id: 1329883
 locale: fr
 slug: Accessibilité
 tags: "Guide" "Avancé" "Accessibilité" "Développement Web"
@@ -23,13 +23,13 @@ based_on: None
 <div class="section">
 <h2 class="Key_accessibility_tutorials" id="Key_accessibility_tutorials" name="Key_accessibility_tutorials">Tutoriels clefs</h2>
 
-<p>La documentation MDN <a href="/fr/docs/Accessibilit%C3%A9">Accessibilité</a> contient des tutoriaux modernes et mis à jours en ce qui concerne les essentiels de l'accésibilité:</p>
+<p>La documentation MDN <a href="/fr/docs/Accessibilit%C3%A9">Accessibilité</a> contient des tutoriaux modernes et mis à jours en ce qui concerne les essentiels de l'accessibilité:</p>
 
 <dl>
  <dt><a href="/fr/docs/Apprendre/a11y/What_is_accessibility">Qu'est ce que l'accessibilité?</a></dt>
  <dd>Cet article présente un module général sur ce que l'accessibilité est actuellement — Cela inclut ce que des groupes de personnes ont besoin de considérer et pourquoi, quels outils ils utilisent afin d'intéragir avec les pages web et comment rendre accessible la partie de notre espace de travail web.</dd>
  <dt><a href="/en-US/docs/Learn/Accessibility/HTML">HTML: Un bon basique pour l'accessibilité</a></dt>
- <dd>Un nombre important de ressources du web peuvent être accessibles juste en utilisant correctement les élements HTML dans leur usage approprié. Cet article résume en détail comment le HTML peut être utilisé afin de garantir une accéssibilité maximum.</dd>
+ <dd>Un nombre important de ressources du web peuvent être accessibles juste en utilisant correctement les éléments HTML dans leur usage approprié. Cet article résume en détail comment le HTML peut être utilisé afin de garantir une accessibilité maximum.</dd>
  <dt><a href="/en-US/docs/Learn/Accessibility/CSS_and_JavaScript">Meilleure pratiques d'accessibilité pour le CSS le JavaScript </a></dt>
  <dd>CSS et JavaScript, quand ils sont utilisés proprement, ont le potentiel d'autoriser des expériences Web accessibles ou bien ils peuvent significativement nuire à celle-ci si mal utilisé. <span lang="fr">Cet article décrit certaines pratiques exemplaires en langage CSS et JavaScript qui devraient être considérées pour garantir que le contenu même complexe soit aussi accessible que possible.</span></dd>
  <dt><a href="/en-US/docs/Learn/Accessibility/WAI-ARIA_basics">WAI-ARIA basiques</a></dt>
