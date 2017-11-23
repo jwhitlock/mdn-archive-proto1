@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1317520
+revision_id: 1329714
 locale: en-US
 slug: Web/JavaScript
 tags: "Learn" "Landing" "JavaScript" "l10n:priority"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{JsSidebar}}</div>
 
-<p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) is a lightweight&nbsp;interpreted or JIT-compiled&nbsp;programming language with {{Glossary("First-class Function", "first-class functions")}}. While it is most well-known as the scripting language for Web pages, <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">many non-browser environments</a> also use it, such as <a class="external" href="https://nodejs.org/">node.js</a>, <a href="https://couchdb.apache.org/">Apache CouchDB</a> and <a href="http://www.adobe.com/devnet/acrobat/javascript.html">Adobe Acrobat</a>. JavaScript&nbsp;is a {{Glossary("Prototype-based programming", "prototype-based")}}, multi-paradigm, dynamic language, supporting object-oriented,&nbsp;imperative, and declarative (e.g.&nbsp;functional programming) styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
+<p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) is a lightweight&nbsp;interpreted or JIT-compiled&nbsp;programming language with {{Glossary("First-class Function", "first-class functions")}}. While it is most well-known as the scripting language for Web pages, <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">many non-browser environments</a> also use it, such as <a class="external" href="/en-US/docs/Glossary/Node.js">Node.js</a>, <a href="https://couchdb.apache.org/">Apache CouchDB</a> and <a href="http://www.adobe.com/devnet/acrobat/javascript.html">Adobe Acrobat</a>. JavaScript&nbsp;is a {{Glossary("Prototype-based programming", "prototype-based")}}, multi-paradigm, dynamic language, supporting object-oriented,&nbsp;imperative, and declarative (e.g.&nbsp;functional programming) styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
 
 <p>This section of the site is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments. For information about {{Glossary("API","APIs")}} specific to Web pages, please see <a href="/en-US/docs/Web/API">Web APIs</a> and <a href="/en-US/docs/Glossary/DOM">DOM</a>.</p>
 
@@ -81,6 +81,8 @@ based_on: None
  <dd>Memory life cycle and garbage collection in JavaScript.</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/EventLoop">Concurrency model and Event Loop</a></dt>
  <dd>JavaScript has a concurrency model based on an "event loop".</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/Introduction_to_using_XPath_in_JavaScript">Introduction to using XPath in JavaScript</a></dt>
+ <dd>This document describes the interface for using <a href="/en-US/docs/XPath" title="en/XPath">XPath</a> in JavaScript internally, in extensions, and from websites.</dd>
 </dl>
 </div>
 
