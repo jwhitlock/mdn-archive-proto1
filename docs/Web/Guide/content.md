@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1307545
+revision_id: 1329553
 locale: en-US
 slug: Web/Guide
 tags: "Web" "Guide" "Landing"
@@ -24,6 +24,8 @@ based_on: None
  <dd class="landingPageList">Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Events">Events developer guide</a></dt>
  <dd class="landingPageList">Events refers both to a design pattern used for the asynchronous handling of various incidents which occur in the lifetime of a web page and to the naming, characterization, and use of a large number of incidents of different types.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/Web/Guide/AJAX">AJAX</a></dt>
+ <dd class="landingPageList">AJAX is a term that defines a group of technologies allowing web applications to make quick, incremental updates to the user interface without reloading the entire browser page. This makes the application faster and more responsive to user actions.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics">Graphics on the Web</a></dt>
  <dd class="landingPageList">Modern Web sites and applications often need to present graphics of varying sophistication.</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/API">Guide to Web APIs</a></dt>
