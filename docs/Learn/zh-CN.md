@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1328926
+revision_id: 1330014
 locale: zh-CN
 slug: learn
 tags: "交互式网站" "初学者" "启程" "学习" "索引" "Web" "学习Web开发" "学习Web开发的交互式网站"
@@ -46,7 +46,7 @@ based_on: None
 
 <p>{{LearnBox({"title":"随机术语词条"})}}</p>
 
-<h2 id="Topics_covered">涵盖的主题</h2>
+<h2 id="涵盖的主题">涵盖的主题</h2>
 
 <p>以下是MDN学习区涵盖的所有主题列表：</p>
 
@@ -67,7 +67,7 @@ based_on: None
  <dd>即使您专注于客户端Web开发，了解服务器和服务器端代码功能如何工作仍然是有用的。本主题提供服务器以及服务端代码特性如何工作的概述，并详细介绍了如何使用最流行的两个框架- Django（Python）以及 Express（node.js）建立一个服务器端的应用程序。&nbsp;</dd>
 </dl>
 
-<h2 id="Getting_our_code_examples">获取我们的示例代码</h2>
+<h2 id="获取我们的示例代码">获取我们的示例代码</h2>
 
 <p>The code examples you'll encounter in the Learning Area are all <a href="https://github.com/mdn/learning-area/">available on GitHub</a>. If you want to copy them all to your computer, the easiest way is to:</p>
 
