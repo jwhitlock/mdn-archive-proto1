@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1272087
+revision_id: 1330102
 locale: pt-BR
 slug: Games
 tags: "Gamedev" "Jogos Web" "Jogos em HTML5" "Aplicativos" "Jogos em JavaScript" "Desenvolvimento de Jogos"
