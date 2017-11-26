@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 1320367
+revision_id: 1330311
 locale: vi
 slug: Web
 tags: "Web" "Landing"
 title: Công nghệ lập trình Web
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -83,7 +83,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="Tài_liệu_theo_phân_loại">Góc Hướng Dẫn</h2>
+<h2 class="Documentation" id="Góc_Hướng_Dẫn">Góc Hướng Dẫn</h2>
 
 <dl>
  <dt>&nbsp;</dt>
