@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 982587
+revision_id: 1330346
 locale: pl
 slug: Learn
 tags: "Web" "Index" "Learn" "Nauka" "sieć" "Landing" "Beginner" "TopicStub" "Początkujący"
@@ -9,15 +9,23 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <div class="summary">
+<p>Witamy w dziale nauki MDN. Ten zestaw artykułów pozwala wdrożyć&nbsp;całkowicie&nbsp;początkującego webmastera do wszystkiego, czego potrzebuje by zacząć tworzyć proste strony www.</p>
+
 <p>Chcesz nauczyć się tworzyć strony i aplikacje internetowe? Dobrze trafiłeś!</p>
 </div>
 
 <p>Web design to bardzo obszerny dział, ale nie masz się co martwić. Jesteśmy po to, by ci pomóc. Nieważne, czy dopiero zaczynasz, czy szlifujesz&nbsp;developerskie zdolności.</p>
+
+<p>Jeśli jesteś całkowicie zielony w technologiach webowych, a tworzenie stron jest dla ciebie wyzwaniem - poprowadzimy Cię za rekę i zapoznamy wystarczająco szczegółowo z poszczególnymi tematami. Powinieneś poczuć się jak w domu podczas nauki webmasteringu, niezależnie czy jesteś studentem (na własną rękę lub jako członek zespołu klasowego), nauczycielem poszukującym materiałów, hobbystą albo kimś kto chce dowiedzieć się więcej o technologiach stron internetowych.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <h2 id="Gdzie_zacząć">Gdzie zacząć</h2>
 
@@ -28,6 +36,7 @@ based_on: None
 
   <p>Witaj! Powinieneś zacząć od naszej serii:&nbsp;<a href="/en-US/Learn/Getting_started_with_the_web">"Getting started with the Web"</a>. Poznasz tam wszystkie podstawy potrzebne ci, by zacząć zabawę z tworzeniem stron.</p>
  </li>
+ <li><span>Mam jeszcze kilka pytań</span>Jeśli poszukujesz odpowiedzi na kilka frapujących kwestii dotyczących tworzenia stron nasza sekcja <a href="/en-US/docs/Learn/Common_questions">Najczęściej zadawanych pytań</a>&nbsp;powinna Ci pomóc</li>
  <li><span>To dla mnie nie pierwszyzna</span>
   <p>Świetnie! W takim razie zacznij kopać głębiej, w samym sercu Internetu: <a href="/en-US/docs/Learn/HTML">HTML</a>, <a href="/en-US/docs/Learn/CSS">CSS</a>, i <a href="/en-US/docs/Learn/JavaScript">JavaScript</a></p>
  </li>
