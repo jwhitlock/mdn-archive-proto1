@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1330336
+revision_id: 1330372
 locale: pt-PT
 slug: Tools
 tags: "Guía" "Ferramentas" "l10n:priority" "Precisa de Tradução" "Desenvolvendo Mozilla" "Desenvolvimento da Web" "Desenvolvimento da Web: Ferramentas"
@@ -9,13 +9,13 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <p class="summary">Examinar, editar, e depurar HTML, CSS, e JavaScript no PC e nos dispositivos móveis.</p>
 
-<hr>
+<hr />
 <div class="column-container">
 <div class="column-third">&nbsp;</div>
 
@@ -56,7 +56,7 @@ based_on: None
 
 <p><a href="/en-US/docs/Tools/Debugger"><img alt="" src="https://mdn.mozillademos.org/files/14542/debugger.png" style="display:block; height:1026px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
-<p>Parar, percorrer, examinar e modificar o JavaScript em execução numa página.</p>
+<p>Parar, explorar, examinar e modificar o JavaScript em execução numa página.</p>
 </div>
 
 <div class="column-half">
@@ -90,7 +90,7 @@ based_on: None
 <hr />
 <h2 id="Mais_Ferramentas">Mais Ferramentas</h2>
 
-<p>These developer tools are also built into Firefox. Unlike the "Core Tools" above, you might not use them every day.</p>
+<p>Estas ferramentas de desenvolvimento também estão integradas no Firefox. Ao contrário das 'Ferramentas Principais' acima, pode não utilizá-las todos os dias.</p>
 
 <div class="twocolumns">
 <dl>
@@ -120,12 +120,12 @@ based_on: None
 <hr />
 <h2 id="Ligação_de_Ferramentas_de_Desenvolvimento">Ligação de Ferramentas de Desenvolvimento</h2>
 
-<p>If you open the developer tools using <a href="/pt-PT/docs/Tools/atalhos_de_teclado#Abrir_e_fechar_ferramentas">atalhos de teclado</a>&nbsp;or the equivalent menu items, they'll target the document hosted by the currently active tab. But you can attach the tools to a variety of other targets, too, both within the current browser and in different browsers or even different devices.</p>
+<p>Se abrir as ferramentas de desenvolvimento utilizando os <a href="/pt-PT/docs/Tools/atalhos_de_teclado">atalhos de teclado</a> ou os itens de menu equivalentes, eles irão apontar para o documento hospedado no separador ativo. Mas pode anexar as ferramentas a uma variedades de outros destinos, também, ambos dentro do navegador atual e em navgeadores diferentes ou atém em dispositivos diferentes.</p>
 
 <div class="twocolumns">
 <dl>
- <dt><a href="/en-US/docs/Tools/about:debugging">about:debugging</a></dt>
- <dd>Debug add-ons, content tabs, and workers running in the browser.</dd>
+ <dt><a href="/pt-PT/docs/Tools/about:debugging">about:debugging</a></dt>
+ <dd>Depurar extras, separadores de conteúdo, e <em>workers</em> em execução no navegador.</dd>
  <dt><a href="/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_over_Wifi">Connecting to Firefox for Android</a></dt>
  <dd>Connect the developer tools to an instance of Firefox running on an Android device.</dd>
  <dt><a href="/en-US/docs/Tools/Working_with_iframes">Connecting to iframes</a></dt>
@@ -268,20 +268,45 @@ based_on: None
 </ol>
 
 <div alt="0" id="SL_balloon_obj" style="display: block;">
-<div class="SL_ImTranslatorLogo" id="SL_button" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/imtranslator-s.png&quot;) repeat scroll 0% 0%; opacity: 0; display: block; left: -8px; top: -25px; transition: visibility 2s ease 0s, opacity 2s linear 0s;">&nbsp;</div>
+<div class="SL_ImTranslatorLogo" id="SL_button" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/imtranslator-s.png&quot;) repeat scroll 0% 0%; opacity: 0; display: none; left: -8px; top: -25px; transition: visibility 2s ease 0s, opacity 2s linear 0s;">&nbsp;</div>
 
-<div id="SL_shadow_translation_result2" style="display: none;">&nbsp;</div>
+<div id="SL_shadow_translation_result2" style="display: none; font-size: 14px; line-height: 20px; margin-top: 2649px; margin-left: 80px; direction: ltr; text-align: left;">
+<div id="_X">
+<div id="_XL">
+<div class="TTS1" id="SL_000" lang="es" style="background:url(moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/tts.png);" title="segmentar">&nbsp;</div>
+</div>
 
-<div id="SL_shadow_translator" style="display: none;">
-<div id="SL_planshet">
-<div id="SL_arrow_up" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/up.png&quot;) repeat scroll 0% 0%;">&nbsp;</div>
+<div align="left" id="_XR" style="margin-left:5px;font-weight:bold;font-size:14px;">segmentar</div>
+</div>
+&nbsp;
 
-<div id="SL_Bproviders">
+<div id="_Y">verb</div>
+
+<div id="_A">
+<div id="_AL" style="text-align: left;">
+<div id="_X">
+<div id="_XL">
+<div class="_V" id="SL_00" lang="en" style="background:url(moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/tts.png);" title="segment">&nbsp;</div>
+</div>
+
+<div id="_XR">segment</div>
+</div>
+</div>
+
+<div id="_AR" style="text-align: left;"><a class="_ALNK" href="moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/html/popup/dictionary.html?dir=auto|en&amp;text=segmentar" id="SL_0_0" title="segmentar">segmentar</a>, <a class="_ALNK" href="moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/html/popup/dictionary.html?dir=auto|en&amp;text=dividirse%20en%20segmentos" id="SL_0_1" title="dividirse en segmentos">dividirse en segmentos</a></div>
+</div>
+</div>
+
+<div id="SL_shadow_translator" style="display: none; top: 189px; left: 79px; box-shadow: rgb(186, 185, 181) 0px 0px 0px; width: 467px;">
+<div id="SL_planshet" style="background: rgb(239, 239, 239) none repeat scroll 0% 0%;">
+<div id="SL_arrow_up" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/up.png&quot;) repeat scroll 0% 0%; display: none; left: 214px;">&nbsp;</div>
+
+<div id="SL_Bproviders" style="visibility: visible;">
 <div class="SL_BL_LABLE_ON" id="SL_P0" title="Google">G</div>
 
-<div class="SL_BL_LABLE_ON" id="SL_P1" title="Microsoft">M</div>
+<div class="SL_BL_LABLE_OFF" id="SL_P1" title="Microsoft">M</div>
 
-<div class="SL_BL_LABLE_ON" id="SL_P2" title="Translator">T</div>
+<div class="SL_BL_LABLE_OFF" id="SL_P2" title="Translator">T</div>
 </div>
 
 <div id="SL_alert_bbl" style="display: none;">
@@ -292,59 +317,80 @@ based_on: None
 
 <div id="SL_TB">
 <table cellspacing="1" id="SL_tables">
- <tbody>
-  <tr>
-   <td align="right" class="SL_td" width="10%"><input id="SL_locer" title="Bloquear idioma" type="checkbox" wtx-context="10D67786-DB75-4B58-8F64-82BD69EFC3DD" /></td>
-   <td align="left" class="SL_td" width="20%"><select id="SL_lng_from" style="background: rgb(255, 255, 255) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/select.png&quot;) no-repeat scroll 100% 0px;" wtx-context="818A53E1-3955-4C01-8FE4-E8A88C91F988"><option value="auto">Detectar idioma</option><option value="af">Africâner</option><option value="sq">Albanês</option><option value="de">Alemão</option><option value="ar">Arabe</option><option value="hy">Armênio</option><option value="az">Azerbaijano</option><option value="eu">Basco</option><option value="bn">Bengali</option><option value="be">Bielo-russo</option><option value="my">Birmanês</option><option value="bs">Bósnio</option><option value="bg">Búlgaro</option><option value="ca">Catalão</option><option value="kk">Cazaque</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinês (Simp)</option><option value="zh-TW">Chinês (Trad)</option><option value="si">Cingalês</option><option value="ko">Coreano</option><option value="ht">Crioulo haitiano</option><option value="hr">Croata</option><option value="da">Dinamarquês</option><option value="sk">Eslovaco</option><option value="sl">Esloveno</option><option value="es">Espanhol</option><option value="eo">Esperanto</option><option value="et">Estoniano</option><option value="fi">Finlandês</option><option value="fr">Francês</option><option value="gl">Galego</option><option value="cy">Galês</option><option value="ka">Georgiano</option><option value="el">Grego</option><option value="gu">Gujarati</option><option value="ha">Hauça</option><option value="iw">Hebraico</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="nl">Holandês</option><option value="hu">Húngaro</option><option value="ig">Igbo</option><option value="id">Indonésio</option><option value="en">Inglês</option><option value="yo">Ioruba</option><option value="ga">Irlandês</option><option value="is">Islandês</option><option value="it">Italiano</option><option value="ja">Japonês</option><option value="jw">Javanês</option><option value="kn">Kannada</option><option value="km">Khmer</option><option value="lo">Laosiano</option><option value="la">Latim</option><option value="lv">Letão</option><option value="lt">Lituano</option><option value="mk">Macedônico</option><option value="ml">Malaiala</option><option value="ms">Malaio</option><option value="mg">Malgaxe</option><option value="mt">Maltês</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mn">Mongol</option><option value="ne">Nepalês</option><option value="no">Norueguês</option><option value="fa">Persa</option><option value="pl">Polonês</option><option value="pt">Português</option><option value="pa">Punjabi</option><option value="ro">Romeno</option><option value="ru">Russo</option><option value="sr">Sérvio</option><option value="st">Sesotho</option><option value="so">Somália</option><option value="sw">Suaíli</option><option value="su">Sudanês</option><option value="sv">Sueco</option><option value="tg">Tadjique</option><option value="tl">Tagalo</option><option value="th">Tailandês</option><option value="ta">Tâmil</option><option value="cs">Tcheco</option><option value="te">Telugo</option><option value="tr">Turco</option><option value="uk">Ucraniano</option><option value="ur">Urdu</option><option value="uz">Uzbeque</option><option value="vi">Vietnamita</option><option value="yi">Yiddish</option><option value="zu">Zulu</option></select></td>
-   <td align="center" class="SL_td" width="3">
-    <div id="SL_switch_b" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/switchb.png&quot;) repeat scroll 0% 0%;" title="Alternar Idiomas">&nbsp;</div>
-   </td>
-   <td align="left" class="SL_td" width="20%"><select id="SL_lng_to" style="background: rgb(255, 255, 255) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/select.png&quot;) no-repeat scroll 100% 0px;" wtx-context="24946BBA-60FF-4AC4-8394-0D7C4246A5D7"><option value="af">Africâner</option><option value="sq">Albanês</option><option value="de">Alemão</option><option value="ar">Arabe</option><option value="hy">Armênio</option><option value="az">Azerbaijano</option><option value="eu">Basco</option><option value="bn">Bengali</option><option value="be">Bielo-russo</option><option value="my">Birmanês</option><option value="bs">Bósnio</option><option value="bg">Búlgaro</option><option value="ca">Catalão</option><option value="kk">Cazaque</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinês (Simp)</option><option value="zh-TW">Chinês (Trad)</option><option value="si">Cingalês</option><option value="ko">Coreano</option><option value="ht">Crioulo haitiano</option><option value="hr">Croata</option><option value="da">Dinamarquês</option><option value="sk">Eslovaco</option><option value="sl">Esloveno</option><option value="es">Espanhol</option><option value="eo">Esperanto</option><option value="et">Estoniano</option><option value="fi">Finlandês</option><option value="fr">Francês</option><option value="gl">Galego</option><option value="cy">Galês</option><option value="ka">Georgiano</option><option value="el">Grego</option><option value="gu">Gujarati</option><option value="ha">Hauça</option><option value="iw">Hebraico</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="nl">Holandês</option><option value="hu">Húngaro</option><option value="ig">Igbo</option><option value="id">Indonésio</option><option selected="selected" value="en">Inglês</option><option value="yo">Ioruba</option><option value="ga">Irlandês</option><option value="is">Islandês</option><option value="it">Italiano</option><option value="ja">Japonês</option><option value="jw">Javanês</option><option value="kn">Kannada</option><option value="km">Khmer</option><option value="lo">Laosiano</option><option value="la">Latim</option><option value="lv">Letão</option><option value="lt">Lituano</option><option value="mk">Macedônico</option><option value="ml">Malaiala</option><option value="ms">Malaio</option><option value="mg">Malgaxe</option><option value="mt">Maltês</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mn">Mongol</option><option value="ne">Nepalês</option><option value="no">Norueguês</option><option value="fa">Persa</option><option value="pl">Polonês</option><option value="pt">Português</option><option value="pa">Punjabi</option><option value="ro">Romeno</option><option value="ru">Russo</option><option value="sr">Sérvio</option><option value="st">Sesotho</option><option value="so">Somália</option><option value="sw">Suaíli</option><option value="su">Sudanês</option><option value="sv">Sueco</option><option value="tg">Tadjique</option><option value="tl">Tagalo</option><option value="th">Tailandês</option><option value="ta">Tâmil</option><option value="cs">Tcheco</option><option value="te">Telugo</option><option value="tr">Turco</option><option value="uk">Ucraniano</option><option value="ur">Urdu</option><option value="uz">Uzbeque</option><option value="vi">Vietnamita</option><option value="yi">Yiddish</option><option value="zu">Zulu</option></select></td>
-   <td align="center" class="SL_td" width="8%">
-    <div id="SL_TTS_voice" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/ttsvoice.png&quot;) repeat scroll 0% 0%;" title="Ouça">&nbsp;</div>
-   </td>
-   <td align="center" class="SL_td" width="8%">
-    <div class="SL_copy" id="SL_copy" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/copy.png&quot;) repeat scroll 0% 0%;" title="Copiar">&nbsp;</div>
-   </td>
-   <td align="center" class="SL_td" width="8%">
-    <div id="SL_bbl_font_patch">&nbsp;</div>
+ <tr>
+  <td align="right" class="SL_td" width="10%"><input id="SL_locer" title="Bloquear idioma" type="checkbox" wtx-context="78B355E0-8438-4C60-9DF4-D0BD23C46F5F" /></td>
+  <td align="left" class="SL_td" width="20%"><select id="SL_lng_from" style="background: rgb(255, 255, 255) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/select.png&quot;) no-repeat scroll 100% 0px;" wtx-context="10D32078-7FA1-4978-9495-67753CF701C5"><option value="auto">Detectar idioma</option><option value="af">Africâner</option><option value="sq">Albanês</option><option value="de">Alemão</option><option value="ar">Arabe</option><option value="hy">Armênio</option><option value="az">Azerbaijano</option><option value="eu">Basco</option><option value="bn">Bengali</option><option value="be">Bielo-russo</option><option value="my">Birmanês</option><option value="bs">Bósnio</option><option value="bg">Búlgaro</option><option value="ca">Catalão</option><option value="kk">Cazaque</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinês (Simp)</option><option value="zh-TW">Chinês (Trad)</option><option value="si">Cingalês</option><option value="ko">Coreano</option><option value="ht">Crioulo haitiano</option><option value="hr">Croata</option><option value="da">Dinamarquês</option><option value="sk">Eslovaco</option><option value="sl">Esloveno</option><option value="es">Espanhol</option><option value="eo">Esperanto</option><option value="et">Estoniano</option><option value="fi">Finlandês</option><option value="fr">Francês</option><option value="gl">Galego</option><option value="cy">Galês</option><option value="ka">Georgiano</option><option value="el">Grego</option><option value="gu">Gujarati</option><option value="ha">Hauça</option><option value="iw">Hebraico</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="nl">Holandês</option><option value="hu">Húngaro</option><option value="ig">Igbo</option><option value="id">Indonésio</option><option value="en">Inglês</option><option value="yo">Ioruba</option><option value="ga">Irlandês</option><option value="is">Islandês</option><option value="it">Italiano</option><option value="ja">Japonês</option><option value="jw">Javanês</option><option value="kn">Kannada</option><option value="km">Khmer</option><option value="lo">Laosiano</option><option value="la">Latim</option><option value="lv">Letão</option><option value="lt">Lituano</option><option value="mk">Macedônico</option><option value="ml">Malaiala</option><option value="ms">Malaio</option><option value="mg">Malgaxe</option><option value="mt">Maltês</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mn">Mongol</option><option value="ne">Nepalês</option><option value="no">Norueguês</option><option value="fa">Persa</option><option value="pl">Polonês</option><option value="pt">Português</option><option value="pa">Punjabi</option><option value="ro">Romeno</option><option value="ru">Russo</option><option value="sr">Sérvio</option><option value="st">Sesotho</option><option value="so">Somália</option><option value="sw">Suaíli</option><option value="su">Sudanês</option><option value="sv">Sueco</option><option value="tg">Tadjique</option><option value="tl">Tagalo</option><option value="th">Tailandês</option><option value="ta">Tâmil</option><option value="cs">Tcheco</option><option value="te">Telugo</option><option value="tr">Turco</option><option value="uk">Ucraniano</option><option value="ur">Urdu</option><option value="uz">Uzbeque</option><option value="vi">Vietnamita</option><option value="yi">Yiddish</option><option value="zu">Zulu</option></select></td>
+  <td align="center" class="SL_td" width="3">
+   <div id="SL_switch_b" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/switchb.png&quot;) repeat scroll 0% 0%; cursor: not-allowed;" title="Se o idioma de origem é definido como 'Detectar idioma', esta função não está disponível.">&nbsp;</div>
+  </td>
+  <td align="left" class="SL_td" width="20%"><select id="SL_lng_to" style="background: rgb(255, 255, 255) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/select.png&quot;) no-repeat scroll 100% 0px;" wtx-context="C367871F-216D-4273-830D-EB927749A41D"><option value="af">Africâner</option><option value="sq">Albanês</option><option value="de">Alemão</option><option value="ar">Arabe</option><option value="hy">Armênio</option><option value="az">Azerbaijano</option><option value="eu">Basco</option><option value="bn">Bengali</option><option value="be">Bielo-russo</option><option value="my">Birmanês</option><option value="bs">Bósnio</option><option value="bg">Búlgaro</option><option value="ca">Catalão</option><option value="kk">Cazaque</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinês (Simp)</option><option value="zh-TW">Chinês (Trad)</option><option value="si">Cingalês</option><option value="ko">Coreano</option><option value="ht">Crioulo haitiano</option><option value="hr">Croata</option><option value="da">Dinamarquês</option><option value="sk">Eslovaco</option><option value="sl">Esloveno</option><option value="es">Espanhol</option><option value="eo">Esperanto</option><option value="et">Estoniano</option><option value="fi">Finlandês</option><option value="fr">Francês</option><option value="gl">Galego</option><option value="cy">Galês</option><option value="ka">Georgiano</option><option value="el">Grego</option><option value="gu">Gujarati</option><option value="ha">Hauça</option><option value="iw">Hebraico</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="nl">Holandês</option><option value="hu">Húngaro</option><option value="ig">Igbo</option><option value="id">Indonésio</option><option selected="selected" value="en">Inglês</option><option value="yo">Ioruba</option><option value="ga">Irlandês</option><option value="is">Islandês</option><option value="it">Italiano</option><option value="ja">Japonês</option><option value="jw">Javanês</option><option value="kn">Kannada</option><option value="km">Khmer</option><option value="lo">Laosiano</option><option value="la">Latim</option><option value="lv">Letão</option><option value="lt">Lituano</option><option value="mk">Macedônico</option><option value="ml">Malaiala</option><option value="ms">Malaio</option><option value="mg">Malgaxe</option><option value="mt">Maltês</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mn">Mongol</option><option value="ne">Nepalês</option><option value="no">Norueguês</option><option value="fa">Persa</option><option value="pl">Polonês</option><option value="pt">Português</option><option value="pa">Punjabi</option><option value="ro">Romeno</option><option value="ru">Russo</option><option value="sr">Sérvio</option><option value="st">Sesotho</option><option value="so">Somália</option><option value="sw">Suaíli</option><option value="su">Sudanês</option><option value="sv">Sueco</option><option value="tg">Tadjique</option><option value="tl">Tagalo</option><option value="th">Tailandês</option><option value="ta">Tâmil</option><option value="cs">Tcheco</option><option value="te">Telugo</option><option value="tr">Turco</option><option value="uk">Ucraniano</option><option value="ur">Urdu</option><option value="uz">Uzbeque</option><option value="vi">Vietnamita</option><option value="yi">Yiddish</option><option value="zu">Zulu</option></select></td>
+  <td align="center" class="SL_td" width="8%">
+   <div id="SL_TTS_voice" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/ttsvoice.png&quot;) repeat scroll 0% 0%; display: none; visibility: visible;" title="Ouça">&nbsp;</div>
+  </td>
+  <td align="center" class="SL_td" width="8%">
+   <div class="SL_copy_hand" id="SL_copy" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/copy.png&quot;) repeat scroll 0% 0%;" title="Copiar">&nbsp;</div>
+  </td>
+  <td align="center" class="SL_td" width="8%">
+   <div id="SL_bbl_font_patch" style="display: block;">&nbsp;</div>
 
-    <div class="SL_bbl_font" id="SL_bbl_font" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/font.png&quot;) repeat scroll 0% 0%;" title="Tamanho da fonte">&nbsp;</div>
-   </td>
-   <td align="center" class="SL_td" width="8%">
-    <div id="SL_bbl_help" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/bhelp.png&quot;) repeat scroll 0% 0%;" title="Ajuda">&nbsp;</div>
-   </td>
-   <td align="right" class="SL_td" width="15%">
-    <div class="SL_pin_off" id="SL_pin" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/pin-on.png&quot;) repeat scroll 0% 0%;" title="Fixar a janela de pop-up">&nbsp;</div>
-   </td>
-  </tr>
- </tbody>
+   <div class="SL_font_on" id="SL_bbl_font" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/font.png&quot;) repeat scroll 0% 0%;" title="Tamanho da fonte">&nbsp;</div>
+  </td>
+  <td align="center" class="SL_td" width="8%">
+   <div id="SL_bbl_help" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/bhelp.png&quot;) repeat scroll 0% 0%;" title="Ajuda">&nbsp;</div>
+  </td>
+  <td align="right" class="SL_td" width="15%">
+   <div class="SL_pin_off" id="SL_pin" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/pin-off.png&quot;) repeat scroll 0% 0%;" title="Fixar a janela de pop-up">&nbsp;</div>
+  </td>
+ </tr>
 </table>
 </div>
 </div>
 
-<div id="SL_shadow_translation_result" style="visibility: visible;">&nbsp;</div>
+<div id="SL_shadow_translation_result" style="visibility: visible; font-size: 14px; line-height: 20px; direction: ltr; text-align: left;">
+<div id="_X">
+<div id="_XL">
+<div class="TTS1" id="SL_000" lang="es" style="background:url(moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/tts.png);" title="segmentar">&nbsp;</div>
+</div>
 
-<div class="SL_loading" id="SL_loading" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/loading.gif&quot;) repeat scroll 0% 0%;">&nbsp;</div>
+<div align="left" id="_XR" style="margin-left:5px;font-weight:bold;font-size:14px;">segmentar</div>
+</div>
+&nbsp;
 
-<div id="SL_player2">&nbsp;</div>
+<div id="_Y">verb</div>
 
-<div id="SL_alert100">A função de fala é limitada a 200 caracteres</div>
+<div id="_A">
+<div id="_AL" style="text-align: left;">
+<div id="_X">
+<div id="_XL">
+<div class="_V" id="SL_00" lang="en" style="background:url(moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/tts.png);" title="segment">&nbsp;</div>
+</div>
 
-<div id="SL_Balloon_options" style="background: rgb(255, 255, 255) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/bg3.png&quot;) repeat scroll 0% 0%;">
-<div id="SL_arrow_down" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/down.png&quot;) repeat scroll 0% 0%;">&nbsp;</div>
+<div id="_XR">segment</div>
+</div>
+</div>
+
+<div id="_AR" style="text-align: left;"><a class="_ALNK" href="moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/html/popup/dictionary.html?dir=auto|en&amp;text=segmentar" id="SL_0_0" title="segmentar">segmentar</a>, <a class="_ALNK" href="moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/html/popup/dictionary.html?dir=auto|en&amp;text=dividirse%20en%20segmentos" id="SL_0_1" title="dividirse en segmentos">dividirse en segmentos</a></div>
+</div>
+</div>
+
+<div class="SL_loading" id="SL_loading" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/loading.gif&quot;) repeat scroll 0% 0%; display: none;">&nbsp;</div>
+
+<div id="SL_player2" style="display: none; height: 0px;">&nbsp;</div>
+
+<div id="SL_alert100" style="display: none;">A função de fala é limitada a 200 caracteres</div>
+
+<div id="SL_Balloon_options" style="background: rgb(239, 239, 239) none repeat scroll 0% 0%;">
+<div id="SL_arrow_down" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/down.png&quot;) repeat scroll 0% 0%; display: block; left: 214px;">&nbsp;</div>
 
 <table id="SL_tbl_opt" style="width:100%">
- <tbody>
-  <tr>
-   <td align="center" width="5%"><input checked="checked" id="SL_BBL_locer" title="Mostrar o botão do ImTranslator 3 segundos" type="checkbox" wtx-context="81FDA077-87B1-4D5F-ABD3-FEAB10D1E56A" /></td>
-   <td align="left" width="5%">
-    <div id="SL_BBL_IMG" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/bbl-logo.png&quot;) repeat scroll 0% 0%;" title="Mostrar o botão do ImTranslator 3 segundos">&nbsp;</div>
-   </td>
-   <td align="center" width="70%"><a class="SL_options" href="moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/html/options/options.html?bbl" target="_blank" title="Mostrar opções">Opções</a> : <a class="SL_options" href="moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/html/options/options.html?hist" target="_blank" title="Histórico de tradução">Histórico</a> : <a class="SL_options" href="moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/html/options/options.html?feed" target="_blank" title="Comentários">Comentários</a> : <a class="SL_options" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=GD9D8CPW8HFA2" target="_blank" title="Faça sua contribuição">Donate</a></td>
-   <td align="right" width="15%"><span id="SL_Balloon_Close" title="Encerrar">Encerrar</span></td>
-  </tr>
- </tbody>
+ <tr>
+  <td align="center" width="5%"><input checked="1" id="SL_BBL_locer" title="Mostrar o botão do ImTranslator 3 segundos" type="checkbox" wtx-context="8DA437D7-BC77-4607-8631-6199ACE641EB" /></td>
+  <td align="left" width="5%">
+   <div id="SL_BBL_IMG" style="background: rgba(0, 0, 0, 0) url(&quot;moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/img/util/bbl-logo.png&quot;) repeat scroll 0% 0%;" title="Mostrar o botão do ImTranslator 3 segundos">&nbsp;</div>
+  </td>
+  <td align="center" width="70%"><a class="SL_options" href="moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/html/options/options.html?bbl" target="_blank" title="Mostrar opções">Opções</a> : <a class="SL_options" href="moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/html/options/options.html?hist" target="_blank" title="Histórico de tradução">Histórico</a> : <a class="SL_options" href="moz-extension://271edade-de3e-4cad-8a9c-234a8d637070/content/html/options/options.html?feed" target="_blank" title="Comentários">Comentários</a> : <a class="SL_options" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=GD9D8CPW8HFA2" target="_blank" title="Faça sua contribuição">Donate</a></td>
+  <td align="right" width="15%"><span id="SL_Balloon_Close" title="Encerrar">Encerrar</span></td>
+ </tr>
 </table>
 </div>
 </div>
