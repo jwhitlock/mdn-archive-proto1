@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1326613
+revision_id: 1330690
 locale: en-US
 slug: Web/Tutorials
 tags: "CSS" "HTML" "MDN" "Code" "Guide" "Beginner" "Tutorial" "Web_Design" "JavaScript" "Web Fundamental"
@@ -31,15 +31,17 @@ based_on: None
 <dl>
  <dt><a href="/en-US/docs/Learn/HTML/Introduction_to_HTML">Introduction to HTML</a></dt>
  <dd>This module sets the stage, getting you used to important concepts and syntax, looking at applying HTML to text, how&nbsp;to create hyperlinks, and how to use HTML to structure a webpage.</dd>
- <dt><a href="http://bit.ly/2z9xSS2">Beginner's Guide to HTML</a></dt>
- <dd>This HTML guide for beginners teaches you how to set up a basic website using HTML and NEW HTML5 tags. Simple step-by-step tutorial with images and resources that you can use to improve your coding skills.</dd>
+ <dt><strong><a href="https://developer.mozilla.org/en-US/docs/HTML/Element">MDN HTML element reference</a></strong></dt>
+ <dd>A comprehensive reference for HTML elements, and how the different browsers support them.</dd>
 </dl>
 </div>
 
 <div class="section">
 <dl>
- <dt><strong><a href="https://developer.mozilla.org/en-US/docs/HTML/Element">MDN HTML element reference</a></strong></dt>
- <dd>A comprehensive reference for HTML elements, and how the different browsers support them.</dd>
+ <dt><strong><a href="https://www.theblogstarter.com/html-for-beginners">Creating a Simple Web Page with HTML</a> (The Blog Starter)</strong></dt>
+ <dd>An HTML guide for beginners that includes explanations of common tags, including HTML5 tags. Also includes a step-by-step guide to creating a basic web page with code examples.</dd>
+ <dt><strong><a href="http://bit.ly/2z9xSS2">Beginner's Guide to HTML</a> (Website Setup)</strong></dt>
+ <dd>This HTML guide for beginners teaches you how to set up a basic website using HTML and NEW HTML5 tags. Simple step-by-step tutorial with images and resources that you can use to improve your coding skills.</dd>
  <dt><strong><a href="http://wikiversity.org/wiki/Web_Design/HTML_Challenges" rel="external">HTML Challenges</a> (Wikiversity)</strong></dt>
  <dd>Use these challenges to hone your HTML skills (for example, "Should I use an &lt;h2&gt; element or a &lt;strong&gt; element?"), focusing on meaningful mark-up.</dd>
 </dl>
