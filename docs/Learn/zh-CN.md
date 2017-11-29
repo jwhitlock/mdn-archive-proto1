@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1330014
+revision_id: 1331391
 locale: zh-CN
 slug: learn
 tags: "交互式网站" "初学者" "启程" "学习" "索引" "Web" "学习Web开发" "学习Web开发的交互式网站"
@@ -69,27 +69,32 @@ based_on: None
 
 <h2 id="获取我们的示例代码">获取我们的示例代码</h2>
 
-<p>The code examples you'll encounter in the Learning Area are all <a href="https://github.com/mdn/learning-area/">available on GitHub</a>. If you want to copy them all to your computer, the easiest way is to:</p>
+<p>你在学习过程中遇到的代码示例,都可以在<a href="https://github.com/mdn/learning-area/">GitHub</a>上获得。如果你想把代码复制到你的个人电脑上，最简单的方法是：</p>
 
 <ol>
- <li><a href="http://git-scm.com/downloads">Install Git</a> on your machine. This is the underlying version control system software that GitHub works on top of.</li>
- <li><a href="https://github.com/join">Sign up for a GitHub account</a>. It's simple and easy.</li>
- <li>Once you've signed up, log in to <a href="https://github.com">github.com</a> with your username and password.</li>
- <li>Open your computer's <a href="https://www.lifewire.com/how-to-open-command-prompt-2618089">command prompt</a> (Windows) or terminal (<a href="https://help.ubuntu.com/community/UsingTheTerminal">Linux</a>, <a href="http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line">MacOSX</a>)</li>
- <li>To copy the learning area repo to a folder called learning-area in the current location your command prompt/terminal is pointing to, use the following command:
+ <li>在你的电脑上安装<a href="https://git-scm.com/downloads">Git</a>，这是GitHub使用的版本控制系统软件。</li>
+ <li><a href="https://github.com/join">注册一个GitHub账号</a>。</li>
+ <li>注册成功后，使用你的用户名和密码登录到<a href="https://github.com/">github.com</a>。</li>
+ <li>打开你的计算机命令提示符(<a href="https://www.lifewire.com/how-to-open-command-prompt-2618089">Windows</a>)或终端(<a href="https://help.ubuntu.com/community/UsingTheTerminal">Linux</a>, <a href="http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line">MacOSX</a>)。</li>
+ <li>在想要保存示例代码的目录里，打开命令 提示符/终端 ，输入以下指令:
   <pre class="brush: bash line-numbers  language-bash">
 <code class="language-bash">git clone https://github.com/mdn/learning-area</code></pre>
  </li>
- <li>You can now enter the directory and find the files you are after (either using your finder/file explorer or the <a href="https://en.wikipedia.org/wiki/Cd_(command)">cd command</a>).</li>
+ <li>恭喜你，现在你可以进入该目录并查看所有示例代码。(使用 <code>finder/file explorer</code>或<a href="https://en.wikipedia.org/wiki/Cd_(command)"><code>cd</code>命令</a>)</li>
 </ol>
 
-<p>You can update the <code>learning-area</code> repository with any changes made to the master version on GitHub with the following steps:</p>
+<p>你可以更新<code>learning-area</code>里的示例代码，使用以下步骤:</p>
+
+<p>在你的终端中，使用<code>cd</code>命令进入<code>learning-area</code>所在目录。例如，如果你在父目录中：</p>
 
 <ol>
- <li>In your command prompt/terminal, go inside the <code>learning-area</code> directory using <code>cd</code>. For example, if you were in the parent directory:
-
+ <li>
   <pre class="brush: bash line-numbers  language-bash">
 <code class="language-bash">cd learning-area</code></pre>
+ </li>
+ <li>使用以下命令更新：
+  <pre class="brush: bash">
+<code>git pull</code></pre>
  </li>
 </ol>
 
@@ -98,8 +103,6 @@ based_on: None
 <p>如果你想与我们联系交流，最好的方式是通过<a href="/zh-CN/docs/MDN/Community/Conversations#Asynchronous_discussions">邮件列表</a>或者 <a href="/zh-CN/docs/MDN/Community/Conversations#Chat_in_IRC">IRC 频道</a>留下消息。不论你觉得网站上有哪里错误或遗漏，希望看到新的学习主题，对自己不理解的内容求助，还是有其他任何想法，都欢迎你联络我们。</p>
 
 <p>如果你有兴趣帮助我们开发、改进社区内容，请看一下<a href="/zh-CN/Learn/How_to_contribute">如何帮助</a>并联系我们。无论你是学生、老师、经验丰富的 Web 开发者，还是想通过帮助我们以提升自我学习经验，我们都欢迎你的参与！</p>
-
-<p>{{CommunityBox("Learn", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Projects/Content/Learning_Area/Weekly_meetings|Every Monday in IRC||Contribute|/zh-CN/docs/MDN/Doc_status/Learn|See the doc status for more information||Mentors to help you|/profiles/Jeremie|Jeremie")}}</p>
 
 <h2 id="另见">另见</h2>
 
