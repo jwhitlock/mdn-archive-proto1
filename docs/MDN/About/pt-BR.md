@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1314905
+revision_id: 1331529
 locale: pt-BR
 slug: MDN/About
 tags: "Guia(2)" "MDN Meta" "Licenças" "Comunidade" "Colaboração"
@@ -119,5 +119,5 @@ based_on: None
 
 <h2 id="Sobre_a_Mozilla">Sobre a Mozilla</h2>
 
-<p>Whether you want to learn more about who we are, how to be a part of Mozilla or just where to find us, you've come to the right place. To find out what drives us and makes us different, please visit our <a href="http://www.mozilla.org/en-US/mission/">mission</a> page.</p>
+<p><span id="result_box" lang="pt"><span>Se você quer saber mais sobre quem somos, como fazer parte da Mozilla ou apenas onde nos encontrar, você veio ao lugar certo.</span> <span>Para descobrir o que nos impulsiona e nos torna diferentes, visite nossa página de <a href="http://www.mozilla.org/en-US/mission/">missão</a>.</span></span></p>
 
