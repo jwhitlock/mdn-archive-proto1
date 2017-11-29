@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1212727
+revision_id: 1331408
 locale: zh-CN
 slug: Games
 tags: "Web" "Apps" "Games" "HTML5 Games" "Gamedev" "TopicStub" "JavaScript Games" "Game Development"
@@ -8,7 +8,7 @@ title: 游戏开发
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
@@ -26,7 +26,7 @@ based_on: None
 <p>我们同样包含了参考书库，因此你可以轻易的找到有关游戏开发所有常用的API以及有用的<a href="/zh-CN/docs/Games/Tools/Engines_and_tools">引擎和工具</a>清单和<a href="/zh-CN/docs/Games/Examples">游戏案例</a>.</p>
 
 <div class="note">
-<p><strong>注解</strong>: 在你开始尝试创建一个网页游戏之前你至少要掌握基础的核心web技术&nbsp;—— 例如HTML、CSS和Javascript。如果你是一个完全的初学者，&nbsp;<a href="/zh-CN/docs/Learn">这里</a>&nbsp;将会是一个很好的学习领域。</p>
+<p><strong>注解</strong>: 在你开始尝试创建一个网页游戏之前你至少要掌握基础的核心web技术 —— 例如HTML、CSS和Javascript。如果你是一个完全的初学者， <a href="/zh-CN/docs/Learn">这里</a> 将会是一个很好的学习领域。</p>
 </div>
 
 <dl>
@@ -36,7 +36,7 @@ based_on: None
 <div class="column-half">
 <h2 id="将本地游戏移植到Web">将本地游戏移植到Web</h2>
 
-<p>如果你是一个本地游戏开发者(例如你用C++开发游戏)，并且你对如何将本地游戏移植到Web感兴趣，你应该更多的学习关于我们的<a href="http://kripken.github.io/emscripten-site/index.html">Emscripten</a> 工具——&nbsp;这是一个LLVM JavaScript 编译器。它能获取LLVM字节码(例如用Clang编译C/C++或者其他语言生成的字节码）并且将它们编译成<a href="/en-US/docs/Games/Tools/asm.js">asm.js</a>以在Web上运行。</p>
+<p>如果你是一个本地游戏开发者(例如你用C++开发游戏)，并且你对如何将本地游戏移植到Web感兴趣，你应该更多的学习关于我们的<a href="http://kripken.github.io/emscripten-site/index.html">Emscripten</a> 工具—— 这是一个LLVM JavaScript 编译器。它能获取LLVM字节码(例如用Clang编译C/C++或者其他语言生成的字节码）并且将它们编译成<a href="/en-US/docs/Games/Tools/asm.js">asm.js</a>以在Web上运行。</p>
 
 <p>开始，查看以下:</p>
 
@@ -52,11 +52,11 @@ based_on: None
 <div class="column-half">
 <h2 id="示例">示例</h2>
 
-<p>获取示例清单，查看<a href="/zh-CN/docs/Games/Examples">示例页</a>。也可以检出&nbsp;<a href="http://www.openwebgames.com/">openwebgames.com</a>&nbsp;以获得更多有用的资源和示例！</p>
+<p>有关网页游戏示例的列表，请参阅我们的<a href="/zh-CN/docs/Games/Examples">示例页</a>。也可以查看 <a href="http://www.openwebgames.com/">openwebgames.com</a> 以获得更多有用的资源和示例！</p>
 </div>
 </div>
 
-<p><a href="http://www.openwebgames.com"><img alt="" src="https://mdn.mozillademos.org/files/12790/owg-logo-dark.svg" style="display:block; margin:0px auto; width:400px" /></a></p>
+<p><a href="http://www.openwebgames.com"><img src="https://mdn.mozillademos.org/files/12790/owg-logo-dark.svg" alt="" style="display: block; margin: 0px auto; width: 400px;"></a></p>
 
 <h2 id="请参见">请参见</h2>
 
@@ -64,9 +64,9 @@ based_on: None
 <div class="column-half">
 <dl>
  <dt><a href="http://buildnewgames.com/">Build New Games</a></dt>
- <dd>一个具有大量开放的网络游戏开发教程的网站。 最近并不非常活跃，但仍然拥有一些不错的资源。</dd>
+ <dd>这是一个以大量开放式网页游戏开发教程为特色的协作网站。 最近还不是很活跃，但还是拥有一些不错的资源。</dd>
  <dt><a href="http://creativejs.com/">Creative JS</a></dt>
- <dd>一个令人印象深刻的JavaScript技术和实验的集合，并不完全是游戏但还是对开发有帮助的。 最近并不非常活跃，但仍然拥有一些不错的资源。</dd>
+ <dd>一个令人印象深刻的JavaScript技术和实验的集合，并不全是游戏技术，但还是对开发有帮助。 最近并不非常活跃，但仍然拥有一些不错的资源。</dd>
  <dt><a href="http://gameprogrammingpatterns.com/">Game programming patterns</a></dt>
  <dd>在线书籍，作者Bob Nystrom，其中讨论了游戏开发环境中的编程模式，旨在帮助游戏开发人员生成更有效，更高效的代码。</dd>
  <dt><a href="http://blog.artillery.com/">Artillery blog</a></dt>
@@ -85,7 +85,7 @@ based_on: None
  <dt><a href="http://html5gameengine.com/">HTML5游戏引擎</a></dt>
  <dd>眼下最流行的HTML5游戏框架列表，包含评分，特色和案例。</dd>
  <dt><a href="http://www.jsbreakouts.org/">JSBreakouts</a></dt>
- <dd>比较在不同的框架中的JavaScript Breakout&nbsp;clones，以帮助您作出正确的选择。</dd>
+ <dd>比较在不同的框架中的JavaScript Breakout clones，以帮助您作出正确的选择。</dd>
  <dt><a href="http://gamedevelopment.tutsplus.com/">Tuts与游戏开发</a></dt>
  <dd>关于游戏开发的教程和案例。</dd>
  <dt><a href="http://webchat.freenode.net/?channels=bbg">#BBG IRC chat</a></dt>
@@ -128,7 +128,7 @@ based_on: None
    <li><a href="/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/TypedArray">Typed Arrays</a></li>
    <li><a href="/zh-CN/docs/Web/API/Web_Audio_API">Web Audio</a></li>
    <li><a href="/zh-CN/docs/Web/API/WebGL_API">WebGL</a></li>
-   <li><a href="/zh-CN/docs/Web/API/WebRTC_API">WebRTC</a></li>
+   <li><a href="/zh-CN/docs/Web/API/WebRTC_API">WebRTC</a>(网络实时通信)</li>
    <li><a href="/zh-CN/docs/Web/API/WebSockets_API">Web Sockets</a></li>
    <li><a href="/zh-CN/docs/Web/API/WebVR_API">WebVR</a></li>
    <li><a href="/zh-CN/docs/Web/API/Web_Workers_API">Web Workers</a></li>
@@ -139,11 +139,11 @@ based_on: None
   <ol>
    <li><a href="/zh-CN/docs/Games/Techniques/Async_scripts" title="Especially when creating medium to large-sized games, async scripts are an essential technique to take advantage of, so that your game's JavaScript can be compiled off the main thread and be cached for future game running">使用同步scripts for asm.js</a></li>
    <li><a href="/zh-CN/docs/Apps/Developing/Optimizing_startup_performance" title="How to make sure your game starts up quickly, smoothly, and without appearing to lock up the user's browser or device.">优化启动性能</a></li>
-   <li><a href="/zh-CN/docs/Games/Techniques/WebRTC_data_channels" title="In addition to providing support for audio and video communication, WebRTC lets you set up peer-to-peer data channels to exchange text or binary data actively between your players.">Using WebRTC peer-to-peer data channels</a></li>
+   <li><a href="/zh-CN/docs/Games/Techniques/WebRTC_data_channels" title="In addition to providing support for audio and video communication, WebRTC lets you set up peer-to-peer data channels to exchange text or binary data actively between your players.">使用WebRTC  P2P数据通道</a></li>
    <li><a href="/zh-CN/docs/Games/Techniques/Efficient_animation_for_web_games">针对web游戏的高效动画</a></li>
    <li><a href="/zh-CN/docs/Games/Techniques/3D_on_the_web">网页3D游戏</a>
     <ol>
-     <li><a href="/zh-CN/docs/Games/Techniques/3D_on_the_web">3D games on the Web overview</a></li>
+     <li><a href="/zh-CN/docs/Games/Techniques/3D_on_the_web">Web上的3D游戏概述</a></li>
      <li><a href="/zh-CN/docs/Games/Techniques/3D_on_the_web/Basic_theory">解释3D基本原理</a></li>
      <li><a href="/zh-CN/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Three.js">使用Three.js创建一个基本的demo</a></li>
      <li><a href="/zh-CN/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas">使用PlayCanvas创建一个基本的demo</a></li>
@@ -158,17 +158,17 @@ based_on: None
    <li><a href="/zh-CN/docs/Games/Techniques/3D_collision_detection">3D碰撞检测</a>
     <ol>
      <li><a href="/zh-CN/docs/Games/Techniques/3D_collision_detection">3D碰撞检测前瞻</a></li>
-     <li><a href="/zh-CN/docs/Games/Techniques/3D_collision_detection/Bounding_volume_collision_detection_with_THREE.js">Bounding volume collision detection with THREE.js</a></li>
+     <li><a href="/zh-CN/docs/Games/Techniques/3D_collision_detection/Bounding_volume_collision_detection_with_THREE.js">使用Three.js进行边界体积碰撞检测</a></li>
     </ol>
    </li>
-   <li><a href="/zh-CN/docs/Games/Techniques/Tilemaps">贴图和tilemaps</a>
+   <li><a href="/zh-CN/docs/Games/Techniques/Tilemaps">贴图和tilemaps</a>(多格地图)
     <ol>
      <li><a href="/zh-CN/docs/Games/Techniques/Tilemaps">贴图和tilemaps前瞻</a></li>
      <li><a href="/zh-CN/docs/Games/Techniques/Tilemaps/Square_tilemaps_implementation%3A_Static_maps">静态地图</a></li>
      <li><a href="/zh-CN/docs/Games/Techniques/Tilemaps/Square_tilemaps_implementation%3A_Scrolling_maps">滚动地图</a></li>
     </ol>
    </li>
-   <li><a href="/zh-CN/docs/Games/Techniques/Control_mechanisms">Implementing game control mechanisms</a>
+   <li><a href="/zh-CN/docs/Games/Techniques/Control_mechanisms">实现游戏控制机制</a>
     <ol>
      <li><a href="/zh-CN/docs/Games/Techniques/Control_mechanisms">游戏操控机制前瞻</a></li>
      <li><a href="/zh-CN/docs/Games/Techniques/Control_mechanisms/Mobile_touch">移动端触屏控制</a></li>
@@ -181,8 +181,8 @@ based_on: None
  </li>
  <li><a href="/zh-CN/docs/Games/Tutorials">教程</a>
   <ol>
-   <li><a href="/zh-CN/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript">纯JavaScript的2D breakout游戏</a></li>
-   <li><a href="/zh-CN/docs/Games/Tutorials/2D_breakout_game_Phaser">使用Phaser创建的2D breakout游戏</a></li>
+   <li><a href="/zh-CN/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript">纯JavaScript的2D 打砖块游戏</a></li>
+   <li><a href="/zh-CN/docs/Games/Tutorials/2D_breakout_game_Phaser">使用Phaser创建的2D 打砖块游戏</a></li>
    <li><a href="/zh-CN/docs/Games/Tutorials/HTML5_Gamedev_Phaser_Device_Orientation">2D迷宫游戏with device orientation</a></li>
   </ol>
  </li>
