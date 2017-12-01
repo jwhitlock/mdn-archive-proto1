@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1332381
+revision_id: 1332382
 locale: ar
 slug: Web/MathML
 tags: "مراجع" "ويب"
@@ -11,7 +11,7 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 75e9821b93eda7021293625bfe99ec75a345e7e4
+based_on: None
 ---
 <p class="summary" dir="rtl">لغة الترميز الرياضية <strong>(MathML) </strong>هي نكهة من <a href="/en-US/docs/XML">XML </a>لوصف الرموز الرياضية و تمثيل هيكلها و محتواها.</p>
 
@@ -19,7 +19,7 @@ based_on: 75e9821b93eda7021293625bfe99ec75a345e7e4
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 dir="rtl" id="Getting_help_from_the_community">الحصول على المساعدة من المجتمع</h2>
+<h2 dir="rtl" id="الحصول_على_المساعدة_من_المجتمع">الحصول على المساعدة من المجتمع</h2>
 
 <ul dir="rtl">
  <li>انظر إلى منتديات موزيلا
@@ -35,7 +35,7 @@ based_on: 75e9821b93eda7021293625bfe99ec75a345e7e4
  <li><a href="https://lists.w3.org/Archives/Public/www-math/" title="http://lists.w3.org">أرشيف بريد</a> <a href="https://lists.w3.org/Archives/Public/www-math/" title="http://lists.w3.org">www-math w3.org</a></li>
 </ul>
 
-<h2 dir="rtl" id="Tools">الأدوات</h2>
+<h2 dir="rtl" id="الأدوات">الأدوات</h2>
 
 <ul dir="rtl">
  <li><a href="https://validator.w3.org" title="http://validator.w3.org">مصحح W3C</a></li>
@@ -46,7 +46,7 @@ based_on: 75e9821b93eda7021293625bfe99ec75a345e7e4
  <li>مشروع <a href="http://webdemo.visionobjects.com/home.html#equation" title="http://webdemo.visionobjects.com">Web Equation </a>- تحويل المعادلات المكتوبة يدوياً إلى MathML أو LaTeX</li>
 </ul>
 
-<h2 dir="rtl">مواضيع متعلقة</h2>
+<h2 dir="rtl" id="مواضيع_متعلقة">مواضيع متعلقة</h2>
 
 <ul dir="rtl">
  <li><a href="/ar/docs/Web/HTML_لغة_ترميز_النص_الفائق">أتش تي أم إل</a></li>
@@ -57,7 +57,7 @@ based_on: 75e9821b93eda7021293625bfe99ec75a345e7e4
 
 <div class="section">
 <div class="section">
-<h2 dir="rtl" id="MathML_reference">مراجع لغة الترميز الرياضية</h2>
+<h2 dir="rtl" id="مراجع_لغة_الترميز_الرياضية">مراجع لغة الترميز الرياضية</h2>
 
 <dl>
  <dt dir="rtl"><a href="https://developer.mozilla.org/en-US/docs/Web/MathML/Element">مرجع العنصر لغة الترميز الرياضية</a></dt>
@@ -78,7 +78,7 @@ based_on: 75e9821b93eda7021293625bfe99ec75a345e7e4
 </div>
 </div>
 
-<h2 dir="rtl" id="Browser_compatibility">التوافق مع المتصفحات</h2>
+<h2 dir="rtl" id="التوافق_مع_المتصفحات">التوافق مع المتصفحات</h2>
 
 <p>{{CompatibilityTable}}</p>
 
