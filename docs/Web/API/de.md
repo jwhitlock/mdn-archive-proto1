@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1330585
+revision_id: 1332354
 locale: de
 slug: Web/API
 tags: "NeedsTag" "TopicStub" "NeedsTranslation"
