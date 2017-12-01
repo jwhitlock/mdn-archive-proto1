@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1331905
+revision_id: 1332160
 locale: ar
 slug: Web
 tags: "Web" "Landing" "TopicStub" "NeedsTranslation"
@@ -67,53 +67,37 @@ based_on: None
  <dd dir="rtl">مرجع لواجهة برمجة تطبيقات التي تجعل من الممكن دفق, تسجيل, و التلاعب بالوسائط محلياً و على الشبكة في آنٍ واحد. هذا يتضمن استخدام الكاميرا المحلية و الميكروفون للالتقاط الفيديو, الصوت, و الصور.</dd>
  <dt dir="rtl"><a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">استخدام أتش تي أم إل مع الصوت و الفيديو</a></dt>
  <dd dir="rtl">تضمين الفيديو و الصوت في صفحة الويب و التحكم بتشغيلها.</dd>
- <dt dir="rtl"><a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">استخدام أتش تي أم إل مع الصوت و الفيديو</a></dt>
- <dd dir="rtl">تضمين الفيديو و الصوت في صفحة الويب و التحكم بتشغيلها.</dd>
- <dt dir="rtl">
- <div>&nbsp;</div>
- </dt>
 </dl>
-
-<p dir="rtl">&nbsp;</p>
 
 <dl>
- <dt><a href="/en-US/docs/WebRTC">WebRTC</a></dt>
- <dd>The RTC in WebRTC stands for Real-Time Communications, technology that enables audio/video streaming and data sharing between browser clients (peers).</dd>
+ <dt dir="rtl"><a href="/en-US/docs/WebRTC">تقنية WebRTC</a></dt>
+ <dd dir="rtl">تقنية RTC في الويب تعني الإتصال في الوقت الحالي (Real-Time Communications), وهي تقنية تسمح بتمكين تدفق الصوت و الصورة ومشاركتها بين المتصفحات.
+ <h3 class="highlight-spanned" id="Other"><span class="highlight-span">أُخرى</span></h3>
+ </dd>
+ <dt dir="rtl"><a href="https://developer.mozilla.org/en-US/docs/Web/MathML">لغة الترميز الرياضية</a></dt>
+ <dd dir="rtl"><strong>لغة الترميز الرياضية&nbsp;(MathML)</strong> تسمح لك بتمثيل صيغة المعادلات الرياضية المعقدة.</dd>
 </dl>
-
-<h3 id="Other">Other</h3>
-
-<dl>
- <dt><a href="/en-US/docs/Web/MathML">MathML</a></dt>
- <dd><strong>Mathematical Markup Language (MathML)</strong> lets you&nbsp;display complex mathematical equations and syntax.</dd>
-</dl>
-
-<p dir="rtl">&nbsp;</p>
-
-<p>&nbsp;</p>
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="Docs_for_add-on_developers" name="Docs_for_add-on_developers">Web technology references</h2>
-
 <dl>
- <dt><a href="/en-US/docs/Web/API">Web APIs</a></dt>
- <dd>Reference material for each of the interfaces that comprise the Web's APIs, including the DOM and all of the related APIs and interfaces you can use to build Web content and apps.</dd>
- <dt><a href="/en-US/docs/Web/HTML">HTML</a></dt>
- <dd>HyperText Markup Language is the language used to describe and define the content of a Web page.</dd>
- <dt><a href="/en-US/docs/Web/CSS">CSS</a></dt>
- <dd>Cascading Style Sheets are used to describe the appearance of Web content.</dd>
- <dt><a href="/en-US/docs/SVG">SVG</a></dt>
- <dd>Scalable Vector Graphics let you describe images as sets of vectors and shapes in order to allow them to scale smoothly regardless of the size at which they're drawn.</dd>
- <dt><a href="/en-US/docs/Web/MathML">MathML</a></dt>
- <dd>The Mathematical Markup Language makes it possible to display complex mathematical equations and syntax.</dd>
+ <dt dir="rtl">
+ <h2>منطقة التعلم</h2>
+ </dt>
+ <dt dir="rtl"><a href="/ar/docs/Learn">تعلم تطوير الويب</a></dt>
+ <dd dir="rtl">هذه مجموعة من المقالات توفر للمبتدأين ما يحتاجون إليه لبدئ كتابة موقع بسيط.</dd>
+ <dt>
+ <h2 dir="rtl" id="Other_topics">مواضيع أُخرى</h2>
+ </dt>
+ <dt dir="rtl"><a href="/ar/docs/Web/تطبيقات">تطوير تطبيقات الويب</a></dt>
+ <dd dir="rtl">هذه قائمة من المقالات تشرح تقنيات التي تستخدم في تطوير تطبيقات الويب للهواتف, لسطح المكتب, و لبيئة نظام فايرفوكس.</dd>
+ <dt dir="rtl"><a href="/ar/docs/Web/Accessibility">إمكانية الوصول</a></dt>
+ <dd dir="rtl">تمكن المواقع التي يمكن الوصول إليها بطرق مختلفة عدد أكبر من الأشخاص استخدام الويب, بما في ذلك الأشخاص التي تكون قدراتهم السمعية و البصرية محدودة (المعاقين جسدياً). هذه مجموعة من المقالات توفر معلومات حول تطوير المواقع ذات إمكانية الوصول.</dd>
+ <dt dir="rtl"><a href="/en-US/docs/Web/Security">الحماية</a></dt>
+ <dd dir="rtl">لا تدع موقعك أو تطبيقك يتعرض لتسريب بيانات خاصة إلى أشخاص سيئين. استخدم مجموعة المقالات هذه لتتأكد أنَّ مشروعك آمن.</dd>
 </dl>
 </div>
 </div>
 
-<h3 id="Temporary" name="Temporary">Temporary</h3>
-
-<p>The stuff below here is temporary to help keep track of things while organization work is ongoing. Pay it no mind.</p>
-
-<div>{{ListSubpages}}</div>
+<p dir="rtl"><a href="en-US/docs/tag/Web">قراءة المزيد...</a></p>
 
