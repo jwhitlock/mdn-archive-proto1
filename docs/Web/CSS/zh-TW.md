@@ -1,14 +1,14 @@
 ---
 version: prototype1
-revision_id: 1332525
+revision_id: 1332526
 locale: zh-TW
 slug: Web/CSS
 tags: 
 title: CSS
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
+needs_technical_review: True
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
