@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1292187
+revision_id: 1332490
 locale: zh-CN
 slug: MDN/About
 tags: "MDN" "合作伙伴" "指南" "文档" "版权" "社区" "许可"
@@ -8,7 +8,7 @@ title: 关于 MDN
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
@@ -16,20 +16,20 @@ based_on: None
 <p>Mozilla 开发者网络（MDN）是一个完整的学习平台，你可以在这里深入学习网络技术以及能够驱动网络的软件，包括：</p>
 
 <ul>
-	<li>网络标准（例如：<a href="/zh-CN/docs/CSS" title="/en-US/docs/CSS">CSS</a>、<a href="/zh-CN/docs/HTML" title="/en-US/docs/HTML">HTML</a> 和 <a href="/zh-CN/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a>）</li>
-	<li><a href="/zh-CN/docs/Apps" title="/en-US/docs/Apps">开发开放网络应用</a></li>
-	<li><a href="/zh-CN/docs/Add-ons" title="/en-US/docs/Add-ons">开发 Firefox 附加组件</a></li>
+ <li>网络标准（例如：<a href="/zh-CN/docs/CSS" title="/en-US/docs/CSS">CSS</a>、<a href="/zh-CN/docs/HTML" title="/en-US/docs/HTML">HTML</a> 和 <a href="/zh-CN/docs/JavaScript" title="/en-US/docs/JavaScript">JavaScript</a>）</li>
+ <li><a href="/zh-CN/docs/Apps" title="/en-US/docs/Apps">开发开放网络应用</a></li>
+ <li><a href="/zh-CN/docs/Add-ons" title="/en-US/docs/Add-ons">开发 Firefox 附加组件</a></li>
 </ul>
 
 <h2 id="我们的使命">我们的使命</h2>
 
-<p>MDN的使命很简单，就是要为一切开源的东西提供完整的、准确的、有用的文档，不管它是不是被火狐内置的软件所支持。如果他是一个网络上开源的技术，我们想要记录它。</p>
+<p>MDN的使命很简单——提供能使开发者们更轻易构建Web项目的信息。我们致力于记录网络上的开源技术。</p>
 
 <p>另外，我们提供关于怎样创建和贡献火狐项目以及关于<a href="https://developer.mozilla.org/en-US/Firefox_OS">Firefox OS</a>&nbsp;和<a href="https://developer.mozilla.org/en-US/Apps">Web app development</a>的文档。</p>
 
 <p>如果你不确定一个某个话题应不应该被发布在MDN上，请阅读： <a href="https://developer.mozilla.org/en-US/docs/Project:MDN/Contributing/Does_this_belong">Does this belong on MDN?</a></p>
 
-<h2 id="你如何帮助我们">如何帮助我们</h2>
+<h2 id="如何帮助我们">如何帮助我们</h2>
 
 <p>想要帮助MDN，并不需要编写代码的能力！你可以通过很多其他的途径帮助我们，包括复查文章来保证文章的可读性，添加示例代码等。实际上，帮助我们的方法有很多，我们还专门建立了一个<a href="https://developer.mozilla.org/zh-CN/docs/MDN/Getting_started">入门指南</a>来帮助你上手，它可以根据你的兴趣和你的空闲时间推荐合适的任务！</p>
 
@@ -105,5 +105,5 @@ based_on: None
 
 <h2 id="关于_Mozilla">关于 Mozilla</h2>
 
-<p>不论你想要了解更多关于我们的信息，获知如何成为Mozilla的一员或者仅仅想了解如何找到我们，这里便是合适的位置。想要了解是什么驱动着我们，使我们与众不同，请访问<a href="http://www.mozilla.org/en-US/mission/">使命</a>页面。</p>
+<p>如果你是想要了解更多关于我们的信息，获知如何成为Mozilla的一员，或者仅仅想了解如何找到我们，那么你来对了地方。想要了解是什么驱动着我们，使我们与众不同，请访问<a href="http://www.mozilla.org/en-US/mission/">使命</a>页面。</p>
 
