@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1239863
+revision_id: 1332525
 locale: zh-TW
 slug: Web/CSS
 tags: 
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p><span class="seoSummary"><strong>層疊樣式表（Cascading Style Sheets, CSS）</strong>， 是用來描述 <a href="/zh-TW/docs/HTML" title="HyperText Markup Language">HTML</a> 或 <a href="/zh-TW/docs/XML" title="zh-TW/docs/XML">XML</a>（包含 <a href="/zh-TW/docs/SVG" title="zh-TW/docs/SVG">SVG</a> 或&nbsp;<a href="/zh-TW/docs/XHTML" title="zh-TW/docs/XHTML">XHTML</a> 等各種 XML 變形）文件外觀的<a href="/zh-TW/docs/DOM/stylesheet">樣式表</a>語言。</span>CSS 會描述文件裡的結構化元素，該如何呈現在螢幕、紙、語音報讀、或其他媒介上。</p>
+<p class="summary"><span class="seosummary="><strong>層疊樣式表（Cascading Style Sheets, CSS）</strong>， 是用來描述 <a href="/zh-TW/docs/HTML" title="HyperText Markup Language">HTML</a> 或 <a href="/zh-TW/docs/XML" title="zh-TW/docs/XML">XML</a>（包含 <a href="/zh-TW/docs/SVG" title="zh-TW/docs/SVG">SVG</a> 或&nbsp;<a href="/zh-TW/docs/XHTML" title="zh-TW/docs/XHTML">XHTML</a> 等各種 XML 變形）文件外觀的<a href="/zh-TW/docs/DOM/stylesheet">樣式表</a>語言。CSS 會描述文件裡的結構化元素，該如何呈現在螢幕、紙、語音報讀、或其他媒介上。</span></p>
 
 <p><strong>CSS</strong> 是<em>開放網路</em>的核心語言之一，具有標準化的 <a class="external" href="http://w3.org/Style/CSS/#specs">W3C 規範</a>。歷經不同層級的開發，CSS1 目前已被棄用、CSS2.1 是建議規範，而 <a href="/zh-TW/docs/CSS/CSS3" title="CSS3">CSS3</a> 目前被分作數個較小的模組，持續在標準化的路上行進。</p>
 
@@ -41,11 +41,11 @@ based_on: None
  <dt><a href="/zh-TW/docs/Learn/CSS/Introduction_to_CSS">CSS 介紹</a></dt>
  <dd>此模組讓你理解 CSS 工作原理，包含選擇器與屬性、撰寫 CSS 規則、在 HTML 套用 CSS、如何在 CSS 指定長度、色彩、還有其它單位、階層與繼承、box model 基礎、以及針對 CSS 除錯。</dd>
  <dt><a href="/zh-TW/docs/Learn/CSS/Styling_text">樣式化文字</a></dt>
- <dd>Here we look at text styling fundamentals, including setting font, boldness, and italics, line and letter spacing, and drop shadows and other text features. We round off the module by looking at applying custom fonts to your page, and styling lists and links.</dd>
- <dt><a href="/zh-TW/docs/Learn/CSS/Styling_boxes">Styling boxes</a></dt>
- <dd>Next up, we look at styling boxes, one of the fundamental steps towards laying out a web page. In this module we recap the box model then look at controlling box layouts by setting padding, borders and margins, setting custom background colors, images and other features, and fancy features such drop shadows and filters on boxes.</dd>
- <dt><a href="/zh-TW/docs/Learn/CSS/CSS_layout">CSS layout</a></dt>
- <dd>At this point we've already looked at CSS fundamentals, how to style text, and how to style and manipulate the boxes that your content sits inside. Now it's time to look at how to place your boxes in the right place in relation to the viewport, and one another. We have covered the necessary prerequisites so can now dive deep into CSS layout, looking at different display settings, traditional layout methods involving float and positioning, and new fangled layout tools like flexbox.</dd>
+ <dd>在這裡我們專注在樣式化文字的基礎，包含設定字體、粗細、斜體、行距、字距、陰影等等文字特色。最後以應用自訂字體、樣式化列表、樣式化連結結束。</dd>
+ <dt><a href="/zh-TW/docs/Learn/CSS/Styling_boxes">樣式化盒子</a></dt>
+ <dd>接著，我們關注樣式化盒子，這是網頁排版中一個基礎的環節。在這個系列中我們會複習盒子模型，然後操作盒子的排版，像是設定留白、邊框、邊距、背景顏色或圖片以及其他特色，還有一些酷炫的功能像是陰影、過濾器。</dd>
+ <dt><a href="/zh-TW/docs/Learn/CSS/CSS_layout">CSS 排版</a></dt>
+ <dd>到了這裡，我們已經看完 CSS 的基礎（樣式化文字、樣式化與操作盒子使你的內容可以合適的展示）。<span class="not-sure">現在該來看看如何把你的盒子放在相對於可視區正確的地方。我們已經擁有必要的知識，所以你可以更深入了解 CSS 排版、看不同的顯示設定、傳統排版方法如浮動或定位、新的排版方法如 flexbox。</span></dd>
 </dl>
 </div>
 
@@ -53,16 +53,16 @@ based_on: None
 <h2 class="Tools" id="參考">參考</h2>
 
 <ul>
- <li><a href="/zh-TW/docs/Web/CSS/Reference">CSS 參考</a>: An exhaustive reference for seasoned Web developers describing every property and concept of CSS.</li>
- <li>CSS key concepts:
+ <li><a href="/zh-TW/docs/Web/CSS/Reference">CSS 參考</a>: 一個詳細的參考資料，為資深網頁開發人員設計，包含 CSS 各種屬性和觀念。</li>
+ <li>CSS 關鍵思維:
   <ul>
-   <li>The <a href="/zh-TW/docs/CSS/Syntax">syntax and forms of the language</a></li>
-   <li><a href="/zh-TW/docs/CSS/Specificity">Specificity</a> and <a href="/zh-TW/docs/CSS/inheritance">inheritance</a></li>
-   <li><a href="/zh-TW/docs/CSS/box_model">Box model</a> and <a href="/zh-TW/docs/CSS/margin_collapsing">margin collapse</a></li>
-   <li><a href="/zh-TW/docs/CSS/Understanding_z-index/The_stacking_context" title="The stacking context">Stacking</a> and <a href="/zh-TW/docs/CSS/block_formatting_context" title="block formatting context">block-formatting</a> contexts</li>
-   <li><a href="/zh-TW/docs/CSS/initial_value">Initial</a>, <a href="/zh-TW/docs/CSS/computed_value">computed</a>, <a href="/zh-TW/docs/CSS/used_value">used</a>, and <a href="/zh-TW/docs/CSS/actual_value">actual</a> values</li>
-   <li><a href="/zh-TW/docs/CSS/Shorthand_properties">CSS shorthand properties</a></li>
-   <li><a href="/zh-TW/docs/Web/CSS/CSS_Flexible_Box_Layout">CSS Flexible Box Layout</a></li>
+   <li><a href="/zh-TW/docs/CSS/Syntax">CSS 的語法和格式</a></li>
+   <li><a href="/zh-TW/docs/CSS/Specificity">權重</a> 和 <a href="/zh-TW/docs/CSS/inheritance">繼承</a></li>
+   <li><a href="/zh-TW/docs/CSS/box_model">盒子模型</a> 和 <a href="/zh-TW/docs/CSS/margin_collapsing">邊框的崩潰</a></li>
+   <li><a href="/zh-TW/docs/CSS/Understanding_z-index/The_stacking_context" title="The stacking context">堆疊</a> 和 <a href="/zh-TW/docs/CSS/block_formatting_context" title="block formatting context">格式化區塊</a> 情形</li>
+   <li><a href="/zh-TW/docs/CSS/initial_value">初始值</a> 、<a href="/zh-TW/docs/CSS/computed_value">計算值（computed）</a>、 <a href="/zh-TW/docs/CSS/used_value">使用值（usｅd）</a>和<a href="/zh-TW/docs/CSS/actual_value">運作值</a></li>
+   <li><a href="/zh-TW/docs/CSS/Shorthand_properties">CSS 簡寫屬性</a></li>
+   <li><a href="/zh-TW/docs/Web/CSS/CSS_Flexible_Box_Layout">CSS 浮動排版</a></li>
    <li><a href="https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Grid_Layout">CSS 格線配置</a></li>
   </ul>
  </li>
