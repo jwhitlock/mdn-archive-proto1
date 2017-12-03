@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1332669
+revision_id: 1332694
 locale: ko
 slug: Learn
 tags: "웹" "초보자" "학습" "Index" "Learn" "Landing" "Beginner" "TopicStub" "NeedsTranslation"
@@ -8,8 +8,8 @@ title: Web 학습하기
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -24,7 +24,7 @@ based_on: None
  초보자의 경우, 웹개발은 어려울지도 모릅니다. 우리는 손을 잡고 편안함을 느끼고 주제를 올바르게 배우기에 충분한 세부사항의 정보를 제공할 것입니다. 웹개발을 (독학을 하던, 수업수강을 해서든) 공부하는 학생에게도, 교재를 찾고 있는 선생님들에게도, 취미로도 단순히 웹기술의 동작을 알고 싶은 경우에도 이 곳에서 많은 것을 얻어가게 될 것입니다.</p>
 
 <div class="warning">
-<p>중요: Learning Area의 모든 컨텐츠는 정기적으로 내용이 추가되고 있습니다. 혹시 다루어지길 원하는 부분, 또는 부족한 부분의 토픽에 관한 질문이 있는 경우는 아래의 <a name="Contact_us">Contact us</a>를 참조하셔서 연락을 주시길 바랍니다.</p>
+<p>중요: Learning Area의 모든 컨텐츠는 정기적으로 내용이 추가되고 있습니다. 혹시 다루어지길 원하는 부분, 또는 부족한 부분의 토픽에 관한 질문이 있는 경우는 아래의 <a id="Contact us" name="Contact us">Contact us</a>를 참조하셔서 연락을 주시길 바랍니다.</p>
 </div>
 
 <h2 id="우선_어디로_가야할까">우선 어디로 가야할까</h2>
@@ -57,7 +57,7 @@ based_on: None
 
 <p>{{LearnBox({"title":"Random glossary entry"})}}</p>
 
-<h2 id="Contact_us_2">연락처</h2>
+<h2 id="연락처_2"><a name="Contact_us">Contact us</a></h2>
 
 <p>만약에 연락을 취하고 싶으실 경우 <a href="/ko/docs/MDN/Community/Conversations#Asynchronous_discussions">메일링 리스트</a>나 <a href="/ko/docs/MDN/Community/Conversations#Chat_in_IRC">IRC 채널</a>를 통해 메세지를 보내주시는 것이 가장 좋은 방법입니다. 사이트의 틀린 점이나 새로운 학습 주제 요청, 이해가 되지 않는 사항에 대한 도움 요청 등 무엇이든 환영합니다.<br />
  <br />
