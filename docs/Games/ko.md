@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1251343
+revision_id: 1332688
 locale: ko
 slug: Games
 tags: "HTML5" "HTML5 게임" "게임" "게임 개발" "게임개발자" "앱" "웹" "자바스크립트 게임"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -23,7 +23,7 @@ based_on: None
 
 <p>웹 게임 개발 센터에 온 것을 환영 합니다! 이 사이트에서는 게임&nbsp;개발을 원하는 웹 개발자들에게 리소스를 제공합니다. 왼쪽의 기본 메뉴에서 유용한 자습서 및 기술 관련 기사를 찾을 수 있으므로, 당신은 탐색하는 데 자유로움을 느낄 수 있습니다.&nbsp;</p>
 
-<p>우리는 또한 유용한 <a href="https://developer.mozilla.org/en-US/docs/Games/Tools/Engines_and_tools">엔진과 툴</a>의 목록과 <a href="https://developer.mozilla.org/en-US/docs/Games/Examples">게임 예제</a>&nbsp;뿐만 아니라 당신이 게임 개발에서 사용되는 가장 대중적인 API의 모든 것들에 대한 정보를 쉽게 발견하기 위해서 참고 자료를 포함하고 있습니다.니</p>
+<p>우리는 또한 유용한 <a href="https://developer.mozilla.org/en-US/docs/Games/Tools/Engines_and_tools">엔진과 툴</a>의 목록과 <a href="https://developer.mozilla.org/en-US/docs/Games/Examples">게임 예제</a>&nbsp;뿐만 아니라 당신이 게임 개발에서 사용되는 가장 대중적인 API의 모든 것들에 대한 정보를 쉽게 발견하기 위해서 참고 자료를 포함하고 있습니다.</p>
 
 <div class="note">
 <p><strong>Note</strong>: 당신은 웹 게임을 개발하는 것을 시도하기 전에 적어도 핵심 웹 기술 ㅡ HTML, CSS와 JavaScript등의 ㅡ&nbsp;에 숙달되있어야 한다.&nbsp;만일 당신이 컴퓨터 초보자라면&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Learn">Learning&nbsp;Area</a>에 가는 것이&nbsp;좋다.</p>
