@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1320031
+revision_id: 1334488
 locale: ro
 slug: Web/CSS
 tags: "CSS" "Design" "Layout" "Landing" "Referință"
@@ -50,7 +50,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Tools" name="Tools">Referințe</h2>
+<h2 class="Tools" id="Tools" name="Tools">Referințe</h2>
 
 <ul>
  <li><a href="/ro/docs/Web/CSS/Referin%C8%9B%C4%83">Referință&nbsp;CSS</a>: Această referință exhaustivă pentru dezvoltatorii Web experimentați descrie fiecare proprietate și concept&nbsp;CSS.</li>
@@ -78,7 +78,7 @@ based_on: None
  <li>Comunitatea Web a creat și alte&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Tools">instrumente&nbsp;CSS</a>&nbsp;pentru a le utiliza.</li>
 </ul>
 
-<h2>Meta buguri</h2>
+<h2 id="Meta_buguri">Meta buguri</h2>
 
 <ul>
  <li>Firefox: {{bug(1323667)}}</li>
@@ -95,5 +95,5 @@ based_on: None
  <li>Tehnologiile Mozilla care utilizează&nbsp;CSS pe scară largă : <a href="/en-US/docs/Mozilla/Tech/XUL" title="en-US/docs/XUL">XUL</a>, <a href="/en-US/Firefox">Firefox</a>, și&nbsp;<a href="/en-US/docs/Mozilla/Thunderbird">extensiile Thunderbird</a>&nbsp;și&nbsp;<a href="/en-US/Add-ons/Themes" title="en-US/docs/Themes">teme</a>.</li>
 </ul>
 
-<p>{{CommunityBox("Web layout", "dev-tech-layout", "mozilla.dev.tech.layout", "", "Stack Overflow|http://stackoverflow.com/questions/tagged/css|CSS topics|Visit Stack Overflow, a collaboratively built and maintained Q&amp;A site. See if you can find an answer; if not, you can ask your question there.||CSS-Discuss|http://www.css-discuss.org/|CSS-Discuss mailing list|Join the css-discuss mailing list, which is dedicated to discussing practical, real-world use of CSS.")}}</p>
+<p>{{CommunityBox("Web layout", "dev-tech-layout", "mozilla.dev.tech.layout", "", "Stack Overflow|http://stackoverflow.com/questions/tagged/css|CSS topics|Visit Stack Overflow, a collaboratively built and maintained Q&amp;A site. See if you can find an answer; if not, you can ask your question there.")}}</p>
 
