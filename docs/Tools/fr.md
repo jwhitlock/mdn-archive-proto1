@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1268043
+revision_id: 1334567
 locale: fr
 slug: Outils
 tags: "Guide" "Outils" "Firefox" "Développement Web" "Développement Web:Outils"
@@ -13,18 +13,31 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Examinez, modifiez, et déboguez du HTML, du CSS, et du JavaScript sur ordinateur, et sur mobile. Pour avoir la dernière version des outils de développement, téléchargez <a href="https://www.mozilla.org/fr/firefox/developer/">Firefox Developer Edition</a>.</p>
-
-<p>{{ SauceLabsPromo("a") }}</p>
-
-<h2 id="Outils_principaux">Outils principaux</h2>
+<p class="summary">Examinez, modifiez, et déboguez du HTML, du CSS, et du JavaScript sur ordinateur, et sur mobile.</p>
 
 <hr />
+<div class="column-container">
+<div class="column-third">&nbsp;</div>
+
+<div class="column-third">
+<p><img alt="" src="https://mdn.mozillademos.org/files/15588/logo-developer-quantum.png" style="display:block; margin:0px auto" /></p>
+
+<p style="text-align: center;">Pour avoir la dernière version des outils de développement, il y a : Firefox Developer Edition</p>
+
+<p><a href="https://www.mozilla.org/fr/firefox/developer/" style="width: 280px; display: block; margin-left: auto; margin-right: auto; padding: 10px; text-align: center; border-radius: 4px; background-color: #81BC2E; white-space: nowrap; color: white; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2), 0px -1px 0px 0px rgba(0, 0, 0, 0.3) inset;">Télécharger Firefox Developer Edition</a></p>
+</div>
+
+<div class="column-third">&nbsp;</div>
+</div>
+
+<hr />
+<h2 id="The_Core_Tools">Outils principaux</h2>
+
 <div class="column-container">
 <div class="column-half">
 <h3 id="Inspecteur">Inspecteur</h3>
 
-<p><a href="/fr/docs/Tools/Page_Inspector"><img alt="" src="https://mdn.mozillademos.org/files/14532/inspector.png" style="display:block; height:257px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="https://developer.mozilla.org/fr/docs/Tools/Page_Inspector"><img alt="The all-new Inspector panel in Firefox 57." src="https://mdn.mozillademos.org/files/15481/57-inspector.png" style="display:block; height:243px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
 <p>Permet de voir et modifier une page en HTML et en CSS. Permet de visualiser différents aspects de la page y compris les animations, l'agencement de la grille.</p>
 </div>
@@ -32,7 +45,7 @@ based_on: None
 <div class="column-half">
 <h3 id="Console_Web">Console Web</h3>
 
-<p><a href="/fr/docs/Tools/Web_Console"><img alt="" src="https://mdn.mozillademos.org/files/14528/console.png" style="display:block; height:257px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="https://developer.mozilla.org/fr/docs/Tools/Web_Console"><img alt="The all-new Console in Firefox 57." src="https://mdn.mozillademos.org/files/15483/57-console.png" style="display:block; height:239px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
 <p>Affiche les messages émis par la page web. Permet également d'interagir avec la page via JavaScript.</p>
 </div>
@@ -41,9 +54,9 @@ based_on: None
 <hr />
 <div class="column-container">
 <div class="column-half">
-<h3 id="Débogueur_Javascript">Débogueur JavaScript</h3>
+<h3 id="Débogueur_JavaScript">Débogueur JavaScript</h3>
 
-<p><a href="/fr/docs/Tools/Debugger"><img alt="" src="https://mdn.mozillademos.org/files/14542/debugger.png" style="display:block; height:1026px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="https://developer.mozilla.org/fr/docs/Tools/Debugger"><img alt="The all-new Firefox 57 Debugger.html" src="https://mdn.mozillademos.org/files/15485/57-debugger.png" style="display:block; height:239px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
 <p>Permet de parcourir, stopper, examiner et modifier le code JavaScript s’exécutant dans une page</p>
 </div>
@@ -51,7 +64,7 @@ based_on: None
 <div class="column-half">
 <h3 id="Réseau">Réseau</h3>
 
-<p><a href="/fr/docs/Tools/Network_Monitor"><img alt="" src="https://mdn.mozillademos.org/files/14534/network-monitor.png" style="display:block; height:257px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="https://developer.mozilla.org/fr/docs/Tools/Network_Monitor"><img alt="The Network panel in Firefox 57 DevTools." src="https://mdn.mozillademos.org/files/15487/57-network.png" style="display:block; height:239px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
 <p>Permet d'inspecter les requêtes réseau lors du chargement de la page.</p>
 </div>
@@ -62,7 +75,7 @@ based_on: None
 <div class="column-half">
 <h3 id="Performances">Performances</h3>
 
-<p><a href="/fr/docs/Tools/Performance"><img alt="" src="https://mdn.mozillademos.org/files/14536/performance.png" style="display:block; height:1026px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="https://developer.mozilla.org/fr/docs/Tools/Performance"><img alt="" src="https://mdn.mozillademos.org/files/14536/performance.png" style="display:block; height:1026px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
 <p>Permet d'analyser les performances de la réactivité globale, du JavaScript et, de l'agencement des sites.</p>
 </div>
@@ -70,7 +83,7 @@ based_on: None
 <div class="column-half">
 <h3 id="Vue_Adaptative">Vue Adaptative</h3>
 
-<p><a href="/fr/docs/Tools/Responsive_Design_Mode"><img alt="" src="https://mdn.mozillademos.org/files/14538/rdm.png" style="display:block; height:1542px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
+<p><a href="https://developer.mozilla.org/fr/docs/Tools/Responsive_Design_Mode"><img alt="Responsive Design mode in Firefox 57." src="https://mdn.mozillademos.org/files/15491/57-rdm.png" style="display:block; height:266px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
 <p>Permet de voir comment un site web ou une application se comporte sur différents types d'appareils et de connexions.</p>
 </div>
@@ -88,14 +101,14 @@ based_on: None
  <dt><a href="/fr/docs/Tools/Storage_Inspector">Inspecteur de Stockage</a></dt>
  <dd>Inspecter les cookies, le stockage local, l'indexedDB, et le stockage de session présent dans une page.</dd>
  <dt><a href="/fr/docs/Tools/DOM_Property_Viewer">DOM Property Viewer</a></dt>
- <dd>Inspecter les propriétés DOM d'une page (fonctions, etc...)</dd>
+ <dd>Inspecter les propriétés DOM d'une page (fonctions, etc.)</dd>
  <dt><a href="/fr/docs/Tools/GCLI">Barre de développement</a></dt>
  <dd>Une interface en ligne de commande pour les outils de développement.</dd>
  <dt><a href="/fr/docs/Tools/Eyedropper">Pipette</a></dt>
  <dd>Sélectionner une couleur de la page.</dd>
  <dt><a href="/fr/docs/Tools/Scratchpad">Ardoise JavaScript</a></dt>
  <dd>Un éditeur de texte intégré à Firefox qui permet d'écrire et d'exécuter du JavaScript..</dd>
- <dt><a href="/fr/docs/Outils/Style_Editor">Éditeur de Style</a></dt>
+ <dt><a href="/fr/docs/Outils/Style_Editor">Éditeur de Styles</a></dt>
  <dd>Voir et modifier les styles CSS de la page affichée.</dd>
  <dt><a href="/fr/docs/Outils/Shader_Editor">Éditeur de Shaders</a></dt>
  <dd>Voir et éditer les <em>vertex shaders</em> et les <em>fragment shaders</em> utilisés par <a href="/fr/docs/WebGL">WebGL</a>.</dd>
@@ -105,6 +118,8 @@ based_on: None
  <dd>Prendre une capture d'écran de la page entière ou d'un seul élément</dd>
 </dl>
 </div>
+
+<p>{{ SauceLabsPromo("a") }}</p>
 
 <hr />
 <h2 id="Connecter_les_outils_de_développement">Connecter les outils de développement</h2>
@@ -125,7 +140,7 @@ based_on: None
 </div>
 
 <hr />
-<h2 id="Deboguer_le_navigateur">Déboguer le navigateur</h2>
+<h2 id="Déboguer_le_navigateur">Déboguer le navigateur</h2>
 
 <p>Par défaut, les outils de développement sont attachés à une page web. Il est cependant possible de les connecter au navigateur en lui même. C'est utile lors de développements portant sur le navigateur ou sur un module complémentaire.</p>
 
@@ -159,6 +174,11 @@ based_on: None
  <dd>Comment étendre et personnaliser la sortie de la <a href="/fr/docs/Tools/Web_Console">Console Web</a> et de la <a href="/fr/docs/Tools/Browser_Console">Console Javascript</a>.</dd>
 </dl>
 </div>
+
+<hr />
+<h2 id="Migrating_from_Firebug">Migrer de Firebug</h2>
+
+<p>Firebug arrive en fin de vie (voir <a href="https://hacks.mozilla.org/2016/12/firebug-lives-on-in-firefox-devtools/">Firebug, présent en esprit dans les outils de Firefox</a> sur le pourquoi du comment), et nous sommes conscients que certains peuvent avoir du mal à faire la transition. Pour faciliter celle-ci, nous avons écrit un guide : <a href="/fr/docs/Tools/Migrating_from_Firebug">Migrer depuis Firebug</a>.</p>
 
 <hr />
 <h2 id="Contribuer">Contribuer</h2>
