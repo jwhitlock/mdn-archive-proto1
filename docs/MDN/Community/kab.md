@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1334494
+revision_id: 1334518
 locale: kab
 slug: MDN/Tamezdaynutt
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -51,7 +51,7 @@ based_on: None
  <dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Conversations">Iwenniten n tamezdagnut MDN </a></dt>
  <dd class="landingPageList">Leqdic n MDN i teddu deg asmel n MDN,maca "tamezdagnut" tetteddu daɣen s iwenniten (aramtawan) d iwenniten d ugraw ɣer uqqin (amtawan).</dd>
  <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/MDN/Community/Working_in_community">Qdec deg tamezdagnut </a></dt>
- <dd class="landingPageList">A major part of contributing to MDN documentation on any significant scale is knowing how to work as part of the MDN community. This article offers tips to help you make the most of your interactions with both other writers and with development teams.</dd>
+ <dd class="landingPageList">Amur ameqqṛan n imttekka deg tumlin MDN s wazal-is ad amek ara yilli leqdic n imttekki n tamezdagnut MDN.amagrad agi yesumer ndeṛ akken ak-id yefk tallalt deg tamyigawt inek akked imyura d tirebaɛ n imsenfaliyen.</dd>
 </dl>
 </div>
 </div>
