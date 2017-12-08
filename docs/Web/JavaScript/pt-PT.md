@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1335222
+revision_id: 1335284
 locale: pt-PT
 slug: Web/JavaScript
 tags: "Landing" "Aprender" "JavaScript" "l10n:priority"
@@ -9,89 +9,125 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <div>{{JsSidebar}}</div>
 
 <div>
-<p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) é uma linguagem de programação compilada JIT ou interpretada simples com {{Glossary("First-class Function", "first-class functions")}}. While it is most well-known as the scripting language for Web pages, <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">many non-browser environments</a> also use it, such as <a class="external" href="/en-US/docs/Glossary/Node.js">Node.js</a>, <a href="https://couchdb.apache.org/">Apache CouchDB</a> and <a href="http://www.adobe.com/devnet/acrobat/javascript.html">Adobe Acrobat</a>. JavaScript is a {{Glossary("Prototype-based programming", "prototype-based")}}, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
+<p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) é uma linguagem de programação compilada JIT ou interpretada simples com {{Glossary("First-class Function", "funções de primeira classe")}}. Embora seja mais conhecida coma a linguagem de <em>scripting</em> para as páginas da Web, <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">muitos ambientes de não navegador</a> (inglês) também o utilizam, tais como <a class="external" href="/en-US/docs/Glossary/Node.js">Node.js</a>, <a href="https://couchdb.apache.org/">Apache CouchDB</a> e <a href="http://www.adobe.com/devnet/acrobat/javascript.html">Adobe Acrobat</a>. JavaScript é uma linguagem dinâmica, {{Glossary("Prototype-based programming", "Programação baseada em protótipo")}}, multiparadigma, linguagem dinâmica, suporte de objeto orientado, imperativa, e estilos declarativos (por exemplo, programação funcional). Leia mais <a href="/pt-PT/docs/Web/JavaScript/Sobre_JavaScript">sobre o JavaScript</a>.</p>
 
-<p>Hoje em dia, Javascript é uma linguagem que pode ser utilizada em qualquer aspecto, desde aplicações no lado cliente (aplicações de front-end), como do lado servidor (aplicações server-side com <a class="external" href="http://www.commonjs.org/" title="http://www.commonjs.org/">CommonJs</a> ou mesmo <a class="external" href="http://nodejs.org/" title="http://nodejs.org/">Node.Js</a>). Ela também foi desenhada para ser fácil o seu embutimento em outros produtos e aplicações, como navegadores web. Dentro de um navegador - browser (ambiente-hospedeiro), a linguagem JavaScript pode ser ligada aos objetos desse ambiente para aprimorar o comportamento dos objetos e elementos da página.</p>
+<p>Essa seção do site é dedicada à própria linguagem JavaScript, e não as partes que são específicas das páginas da Web ou outros ambientes de hospedagem. Para informação sobre {{Glossary("API","APIs")}} específicas das páginas da Web, por favor, consulte&nbsp;<a href="/pt-PT/docs/Web/API">APIs da Web </a>e <a href="/pt-PT/docs/DOM/DOM_Reference" title="https://developer.mozilla.org/en/DOM">DOM</a>.</p>
 
-<p>Essa seção do site é dedicado a linguagem JavaScript, as partes que não foram especificadas para as páginas Web ou outros ambientes de hospedagem. Para informações sobre APIs específicas de páginas Web, por favor veja o <a href="/en/DOM" title="https://developer.mozilla.org/en/DOM">DOM</a>. Leia mais sobre como o <a href="/en/DOM" title="https://developer.mozilla.org/en/DOM">DOM</a> e JavaScript trabalham juntos na <a href="/en/Gecko_DOM_Reference/Introduction#DOM_and_JavaScript" title="https://developer.mozilla.org/en/Gecko_DOM_Reference/Introduction#DOM_and_JavaScript">Referência do DOM</a>.</p>
+<p>The standard for JavaScript is <a href="/en-US/docs/Web/JavaScript/Language_Resources">ECMAScript</a>. As of 2012, all <a href="https://kangax.github.io/compat-table/es5/">modern browsers</a> fully support ECMAScript 5.1. Older browsers support at least ECMAScript 3. On June 17, 2015, <a href="https://www.ecma-international.org">ECMA International</a> published the sixth major version of ECMAScript, which is officially called ECMAScript 2015, and was initially referred to as ECMAScript 6 or ES6. Since then, ECMAScript standards are on yearly release cycles. This documentation refers to the latest draft version, which is currently <a href="https://tc39.github.io/ecma262/">ECMAScript 2018</a>.</p>
 
-<p>Para informações sobre como adicionar a engine do JavaScript em sua aplicação, veja <a href="/en/SpiderMonkey" title="https://developer.mozilla.org/en/SpiderMonkey">SpiderMonkey</a> e <a href="/en/Rhino" title="https://developer.mozilla.org/en/Rhino">Rhino</a>.</p>
+<p>Do not confuse JavaScript with the <a href="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)">Java (linguagem de programação)</a>. Both "Java" and "JavaScript" are trademarks or registered trademarks of Oracle in the U.S. and other countries. However, the two programming languages have very different syntax, semantics, and uses.</p>
 
-<p>&nbsp;</p>
+<div class="column-container">
+<div class="column-half">
+<h2 id="Tutorials">Tutoriais</h2>
+
+<p>Learn how to program in JavaScript with guides and tutorials.</p>
+
+<h3 id="For_complete_beginners">Para principiantes</h3>
+
+<p>Head over to our <a href="/en-US/docs/Learn/JavaScript">Learning Area JavaScript topic</a> if you want to learn JavaScript but have no previous experience of JavaScript or programming. The complete modules available there are as follows:</p>
+
+<dl>
+ <dt><a href="/en-US/docs/Learn/JavaScript/First_steps">JavaScript first steps</a></dt>
+ <dd>Answers some fundamental questions such as "what is JavaScript?", "what does it look like?", and "what can it do?", along with discussing key JavaScript features such as variables, strings, numbers, and arrays.</dd>
+ <dt><a href="/en-US/docs/Learn/JavaScript/Building_blocks">JavaScript building blocks</a></dt>
+ <dd>Continues our coverage of JavaScript's key fundamental features, turning our attention to commonly-encountered types of code block such as conditional statements, loops, functions, and events.</dd>
+</dl>
+
+<h3 id="JavaScript_guide">Guia de JavaScript</h3>
+
+<dl>
+ <dt><a href="/pt-PT/docs/Web/JavaScript/Guia">Guia de JavaScript</a></dt>
+ <dd>A much more detailed guide to the JavaScript language, aimed at those with previous programming experience either in JavaScript or another language.</dd>
+</dl>
+
+<h3 id="Intermediate">Intermediário</h3>
+
+<dl>
+ <dt><a href="/en-US/docs/Learn/JavaScript/Objects">Introducing JavaScript objects</a></dt>
+ <dd>The object-oriented nature of JavaScript is important to understand if you want to go further with your knowledge of the language and write more efficient code, therefore we've provided this module to help you.</dd>
+ <dt><a href="/en-US/docs/Learn/JavaScript/Client-side_web_APIs">Client-side web APIs</a></dt>
+ <dd>When writing client-side JavaScript for web sites or applications, you won't go very far before you start to use APIs — interfaces for manipulating different aspects of the browser and operating system the site is running on, or even data from other web sites or services. In this module we will explore what APIs are, and how to use some of the most common APIs you'll come across often in your development work.</dd>
+</dl>
+
+<dl>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript">A re-introduction to JavaScript</a></dt>
+ <dd>An overview for those who <em>think</em> they know about JavaScript.</dd>
+</dl>
+
+<dl>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">JavaScript data structures</a></dt>
+ <dd>Overview of available data structures in JavaScript.</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness">Equality comparisons and sameness</a></dt>
+ <dd>JavaScript provides three different value-comparison operations: strict equality using <code>===</code>, loose equality using <code>==</code>, and the {{jsxref("Global_Objects/Object/is", "Object.is()")}} method.</dd>
+</dl>
+
+<h3 id="Advanced">Avançado</h3>
+
+<dl>
+ <dt><a href="/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain">Inheritance and the prototype chain</a></dt>
+ <dd>Explanation of the widely misunderstood and under-estimated prototype-based inheritance.</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/Reference/Strict_mode">Strict mode</a></dt>
+ <dd>Strict mode defines that you can not use any variable before initializing it. It is a restricted variant of ECMAScript 5, for faster performance and easier debugging.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays">JavaScript typed arrays</a></dt>
+ <dd>JavaScript typed arrays provide a mechanism for accessing raw binary data.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management">Memory Management</a></dt>
+ <dd>Memory life cycle and garbage collection in JavaScript.</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/EventLoop">Concurrency model and Event Loop</a></dt>
+ <dd>JavaScript has a concurrency model based on an "event loop".</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/Introduction_to_using_XPath_in_JavaScript">Introduction to using XPath in JavaScript</a></dt>
+ <dd>This document describes the interface for using <a href="/en-US/docs/XPath" title="en/XPath">XPath</a> in JavaScript internally, in extensions, and from websites.</dd>
+</dl>
 </div>
 
-<table class="topicpage-table">
- <tbody>
-  <tr>
-   <td>
-    <h4 id="Documenta.C3.A7.C3.A3o" name="Documenta.C3.A7.C3.A3o"><a href="/Special:Tags?tag=JavaScript&amp;language=pt" title="Special:Tags?tag=JavaScript&amp;language=pt">Documentação</a></h4>
+<div class="column-half">
+<h2 id="Reference">Referência</h2>
 
-    <dl>
-     <dt><a href="/pt/JavaScript/Guia" title="pt/JavaScript/Guia">Guia de JavaScript</a></dt>
-     <dd><small>Nosso guia principal sobre como programar com JavaScript.</small></dd>
-    </dl>
+<p>Browse the complete <a href="/en-US/docs/Web/JavaScript/Reference">JavaScript reference</a> documentation.</p>
 
-    <dl>
-     <dt><a href="/pt/Javascript_orientado_a_objetos" title="pt/Javascript_orientado_a_objetos">Javascript orientado a objetos</a></dt>
-     <dd><small>Este artigo demonstra de forma concisa, como utilizar Javascript orientado a objetos.</small></dd>
-    </dl>
+<dl>
+ <dt><a href="/en-US/docs/Web/JavaScript/Reference/Global_Objects">Standard objects</a></dt>
+ <dd>Get to know standard built-in objects {{jsxref("Array")}}, {{jsxref("Boolean")}}, {{jsxref("Date")}}, {{jsxref("Error")}}, {{jsxref("Function")}}, {{jsxref("JSON")}}, {{jsxref("Math")}}, {{jsxref("Number")}}, {{jsxref("Object")}}, {{jsxref("RegExp")}}, {{jsxref("String")}}, {{jsxref("Map")}}, {{jsxref("Set")}}, {{jsxref("WeakMap")}}, {{jsxref("WeakSet")}}, and others.</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/Reference/Operators">Expressions and operators</a></dt>
+ <dd>Learn more about the behavior of JavaScript's operators {{jsxref("Operators/instanceof", "instanceof")}}, {{jsxref("Operators/typeof", "typeof")}}, {{jsxref("Operators/new", "new")}}, {{jsxref("Operators/this", "this")}}, the <a href="/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence">operator precedence</a>, and more.</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/Reference/Statements">Statements and declarations</a></dt>
+ <dd>Learn how {{jsxref("Statements/do...while", "do-while")}}, {{jsxref("Statements/for...in", "for-in")}}, {{jsxref("Statements/for...of", "for-of")}}, {{jsxref("Statements/try...catch", "try-catch")}}, {{jsxref("Statements/let", "let")}}, {{jsxref("Statements/var", "var")}}, {{jsxref("Statements/const", "const")}}, {{jsxref("Statements/if...else", "if-else")}}, {{jsxref("Statements/switch", "switch")}}, and more JavaScript statements and keywords work.</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/Reference/Functions">Functions</a></dt>
+ <dd>Learn how to work with JavaScript's functions to develop your applications.</dd>
+</dl>
 
-    <dl>
-     <dt><a href="/pt/Usando_privilégios_expandidos_em_navegadores_Mozilla" title="pt/Usando_privilégios_expandidos_em_navegadores_Mozilla">Usando privilégios expandidos em navegadores Mozilla</a></dt>
-     <dd><small>Navegadores Mozilla dispõem de funções para segurança em Javascript, que podem conceder privilégios aos scripts.</small></dd>
-    </dl>
+<h2 id="Tools_resources">Ferramentas e recursos</h2>
 
-    <dl>
-     <dt><a href="/pt/Migrando_aplicações_do_Internet_Explorer_para_o_Mozilla" title="pt/Migrando_aplicações_do_Internet_Explorer_para_o_Mozilla">Migrando aplicações do Internet Explorer para o Mozilla</a></dt>
-     <dd><small>Doron Rosenberg fala como fazer suas aplicações web funcionarem com o IE e Mozilla.</small></dd>
-    </dl>
+<p>Helpful tools for writing and debugging your <strong>JavaScript </strong>code.</p>
 
-    <p><span class="alllinks"><a href="/Special:Tags?tag=JavaScript&amp;language=pt" title="Special:Tags?tag=JavaScript&amp;language=pt">Veja todos...</a></span></p>
-   </td>
-   <td>
-    <h4 id="Comunidade" name="Comunidade">Comunidade</h4>
+<dl>
+ <dt><a href="/en-US/docs/Tools">Firefox Developer Tools</a></dt>
+ <dd><a href="/en-US/docs/Tools/Scratchpad">Scratchpad</a>, <a href="/en-US/docs/Tools/Web_Console">Web Console</a>, <a href="/en-US/docs/Tools/Profiler">JavaScript Profiler</a>, <a href="/en-US/docs/Tools/Debugger">Debugger</a>, and more.</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/Shells">JavaScript Shells</a></dt>
+ <dd>A JavaScript shell allows you to quickly test snippets of JavaScript code.</dd>
+ <dt><a href="https://togetherjs.com/">TogetherJS</a></dt>
+ <dd>Collaboration made easy. By adding TogetherJS to your site, your users can help each other out on a website in real time!</dd>
+ <dt><a href="https://stackoverflow.com/questions/tagged/javascript">Stack Overflow</a></dt>
+ <dd>Stack Overflow questions tagged with "JavaScript".</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/New_in_JavaScript">JavaScript versions and release notes</a></dt>
+ <dd>Browse JavaScript's feature history and implementation status.</dd>
+ <dt><a href="https://jsfiddle.net/">JSFiddle</a></dt>
+ <dd>Edit JavaScript, CSS, HTML and get live results. Use external resources and collaborate with your team online.</dd>
+ <dt><a href="/en-US/docs/Web/JavaScript/JavaScript_templates">JavaScript templates</a></dt>
+ <dd>This page provides a list of JavaScript template systems.</dd>
+ <dt><a href="https://plnkr.co/">Plunker</a></dt>
+ <dd>Plunker is an online community for creating, collaborating on and sharing your web development ideas. Edit your JavaScript, CSS, HTML files and get live results and file structure.</dd>
+</dl>
+</div>
+</div>
 
-    <p>{{ Comunidade() }}</p>
-
-    <ul>
-     <li><a href="/pt/Extensões/Comunidade" title="pt/Extensões/Comunidade">Outros links para comunidades...</a></li>
-    </ul>
-
-    <h4 id="Ferramentas" name="Ferramentas">Ferramentas</h4>
-
-    <ul>
-     <li><a href="/pt/Venkman" title="pt/Venkman">Venkman</a> - depurador de JavaScript</li>
-     <li><a class="external" href="http://www.getfirebug.com/" rel="external" target="_blank" title="http://www.getfirebug.com/">Firebug</a> - plugin para o Firefox para depuração de JavaScript</li>
-     <li><a class="external" href="http://www.jslint.com/lint.html" rel="external" target="_blank" title="http://www.jslint.com/lint.html">JSLint</a> - verificador de sintaxe, alerta sobre más práticas</li>
-     <li><a class="external" href="http://jshint.com/" rel="external" target="_blank" title="http://jshint.com/">JSHint</a> - verificador de sintaxe mantido pela comunidade</li>
-     <li><a class="external" href="http://code.google.com/p/jsdoc-toolkit/" rel="external" target="_blank" title="http://code.google.com/p/jsdoc-toolkit/">JSDoc</a> - gerador de documentação através do código</li>
-     <li><a class="external" href="http://www.aptana.com/" rel="external" target="_blank" title="http://www.aptana.com">Aptana Studio</a> - IDE de código aberto com suporte a JavaScript</li>
-     <li><a class="external" href="http://netbeans.org/features/javascript/" rel="external" target="_blank" title="http://netbeans.org/features/javascript/">Netbeans</a> - IDE de código aberto com suporte a JavaScript</li>
-     <li><a class="external" href="http://www.eclipse.org/downloads/packages/eclipse-ide-javascript-web-developers/heliossr1" rel="external" target="_blank" title="http://www.eclipse.org/downloads/packages/eclipse-ide-javascript-web-developers/heliossr1">Eclipse</a> - IDE de código aberto com suporte a JavaScript</li>
-    </ul>
-
-    <p><span class="alllinks"><a href="/Special:Tags?tag=JavaScript:Ferramentas&amp;language=pt" title="Special:Tags?tag=JavaScript:Ferramentas&amp;language=pt">Veja todas...</a></span></p>
-
-    <h4 id="T.C3.B3picos_relacionados" name="T.C3.B3picos_relacionados">Tópicos relacionados</h4>
-
-    <p><a href="/pt/AJAX" title="pt/AJAX">AJAX</a>, <a href="/pt/DOM" title="pt/DOM">DOM</a>, <a href="/pt/DHTML" title="pt/DHTML">DHTML</a>, <a href="/pt/E4X" title="pt/E4X">E4X</a>, <a href="/pt/SpiderMonkey" title="pt/SpiderMonkey">SpiderMonkey</a></p>
-
-    <p><span class="comment">Categorias</span></p>
-
-    <p><span class="comment">Interwiki Language Links</span></p>
-
-    <p>&nbsp;</p>
-   </td>
-  </tr>
- </tbody>
-</table>
-
-<p>{{ languages( { "en": "en/JavaScript", "es": "es/JavaScript", "fr": "fr/JavaScript", "it": "it/JavaScript", "ja": "ja/JavaScript", "ko": "ko/JavaScript", "pl": "pl/JavaScript", "zh-cn": "cn/JavaScript" } ) }}</p>
+<p>{{CommunityBox("JavaScript", "dev-tech-js-engine-internals", "mozilla.dev.tech.js-engine.internals", "js", "ES discuss|https://esdiscuss.org/|esdiscuss.org|ECMAScript standard discussion mailing list||SpiderMonkey|https://wiki.mozilla.org/JavaScript|Project page|Contribute to the JavaScript Engine||Twitter|https://twitter.com/SpiderMonkeyJS|@SpiderMonkeyJS|SpiderMonkey updates on Twitter")}}</p>
+</div>
 
