@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1335294
+revision_id: 1335295
 locale: nl
 slug: MDN/Contribute/Howto/Een_redactionele_beoordeling_geven
 tags: "MDN Meta" "Guide" "Howto" "Documentation" "Editorial Review"
@@ -43,7 +43,7 @@ based_on: None
   <li>Deselecteer het vakje <strong>Redactioneel</strong> en klik op <strong>Opslaan</strong>.</li>
   <li>Als u fouten vindt die dienen te worden gecorrigeerd:
    <ol>
-    <li>Klik boven in de pagina op de knop <strong>Bewerken</strong>; dit brengt u naar de <a href="/nl/docs/Project:MDN/Contributing/Editor_guide">MDN-editor</a>.</li>
+    <li>Klik boven in de pagina op de knop <strong>Bewerken</strong>; dit brengt u naar de <a href="/nl/docs/Project:MDN/Contributing/Editor">MDN-editor</a>.</li>
     <li>Corrigeer eventuele typefouten en spelling, grammatica of gebruiksfouten die u tegenkomt. U hoeft niet alles te corrigeren om nuttig te zijn, maar zorg ervoor dat het verzoek voor redactionele beoordeling actief blijft als u niet helemaal zeker weet of u een volledige controle van het hele artikel hebt gedaan.</li>
     <li>Voer onder in het artikel een <strong>Revisieopmerking</strong> in; zoiets als ‘<em>Redactionele beoordeling: typefouten, grammatica en spelling gecorrigeerd</em>’. Dit laat andere medewerkers en website-editors weten wat u hebt gewijzigd en waarom.</li>
     <li>Deselecteer het vakje <strong>Redactioneel</strong> onder <strong>Beoordeling nodig?</strong> Dit bevindt zich net onder de sectie Revisieopmerking van de pagina.</li>
