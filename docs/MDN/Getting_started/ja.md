@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1329265
+revision_id: 1335039
 locale: ja
 slug: MDN/Getting_started
 tags: "MDN Meta" "Guide" "Beginner" "Introduction" "Documentation" "Getting Started" "New Contributors"
@@ -86,7 +86,7 @@ based_on: None
  <li><a href="/ja/docs/MDN/Contribute/Howto/Do_a_technical_review">技術レビュー</a> （30 分）</li>
  <li><a href="/ja/docs/MDN/Contribute/Creating_and_editing_pages#Creating_a_new_page">現在必要となっている話題について新規記事を執筆する</a> （1 時間以上）</li>
  <li><a href="/ja/docs/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web">web の学習を補助するための、インタラクティブな課題を作成する</a> （1 時間以上）</li>
- <li><a href="http://www.joshmatthews.net/bugsahoy/?mdn=1">Bugs Ahoy の MDN カテゴリー</a>&nbsp;から&nbsp;<a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Howto/Resolve_a_mentored_developer_doc_request">文書のバグょ修正する</a>&nbsp;f(1 時間以上）</li>
+ <li><a href="http://www.joshmatthews.net/bugsahoy/?mdn=1">Bugs Ahoy の MDN カテゴリー</a>&nbsp;から&nbsp;<a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Howto/Resolve_a_mentored_developer_doc_request">文書のバグを修正する</a>&nbsp;f(1 時間以上）</li>
 </ul>
 
 <h3 id="Option_4_I_want_MDN_in_my_language" name="Option_4_I_want_MDN_in_my_language">選択肢その 4 : 母国語の MDN が欲しい</h3>
