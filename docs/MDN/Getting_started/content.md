@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1332440
+revision_id: 1335179
 locale: en-US
 slug: MDN/Getting_started
 tags: "MDN Meta" "Guide" "Beginner" "Introduction" "Getting Started"
@@ -70,7 +70,7 @@ based_on: None
 
 <ul>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Convert_code_samples_to_be_live">Convert code samples to be "live"</a> (30 minutes)</li>
- <li><a href="https://wiki.mozilla.org/Webdev/GetInvolved/developer.mozilla.org">Read the Getting Involved Guide</a> (30 minutes)</li>
+ <li><a href="https://wiki.mozilla.org/Webdev/GetInvolved/developer.mozilla.org">Read the Getting Involved Guide</a>&nbsp;(30 minutes)</li>
  <li><a href="http://kuma.readthedocs.org/en/latest/installation.html">Set up a Kuma build environment</a> (1 hour)</li>
  <li><a href="https://github.com/mozilla/kuma#readme">Send your code patch to the Kuma codebase</a> (1 hour)</li>
 </ul>
@@ -82,7 +82,7 @@ based_on: None
 <ul>
  <li><a href="/en-US/docs/MDN/About/Promote">Promote MDN on your own website</a> (5 minutes)</li>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Do_a_technical_review">Do technical reviews</a> (30 minutes)</li>
- <li><a href="/en-US/docs/Contribute_to_docs_that_are_currently_needed">Write a new article on a topic that is currently needed</a> (1 hour or more)</li>
+ <li><a href="/en-US/docs/MDN/Contribute/Contribute_to_docs_that_are_currently_needed">Write a new article on a topic that is currently needed</a> (1 hour or more)</li>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web">Create an interactive exercise to help people learn about the web</a> (1 hour or more)</li>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Resolve_a_mentored_developer_doc_request">Fix a documentation bug</a> from the <a href="http://www.joshmatthews.net/bugsahoy/?mdn=1">MDN category in Bugs Ahoy</a> (1 hour or more)</li>
 </ul>
@@ -98,7 +98,7 @@ based_on: None
 
 <h3 id="Option_5_I_found_some_wrong_information_but_I_don't_know_how_to_fix_it">Option 5: I found some wrong information but I don't know how to fix it</h3>
 
-<p>You can report problems by <a href="https://bugzilla.mozilla.org/form.doc" class="external">filing a documentation bug</a>. (5 minutes)</p>
+<p>You can report problems by <a class="external" href="https://bugzilla.mozilla.org/form.doc">filing a documentation bug</a>. (5 minutes)</p>
 
 <h2 id="Other_things_you_can_do_on_MDN">Other things you can do on MDN</h2>
 
