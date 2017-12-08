@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1335280
+revision_id: 1335288
 locale: nl
 slug: MDN/Contribute/Howto/Een_technische_beoordeling_maken
 tags: "Gids" "MDN Meta" "Beoordeling" "Documentație"
@@ -43,7 +43,7 @@ based_on: None
   </li>
   <li>Lees het artikel, waarbij u goed let op de technische details: Is het artikel correct? Mist er iets? Aarzel niet om naar een andere pagina te gaan als de eerste die u koos niet bij u past.</li>
   <li>Als er geen fouten zijn hoeft u het artikel niet te bewerken om het als beoordeeld te markeren. Zoek naar het vak 'snelle beoordeling' aan de linkerkant van de pagina. Dit gele vak geeft alle beoordelingen weer die in behandeling zijn. Hier kunt u een beoordeling als voltooid markeren. Als er om een technische beoordeling is gevraagd, ziet dat er als volgt uit:<br />
-   <img alt="Screenshot  van een vak aan de linkerkant van de pagina, waarin de beoordelingen staan die moeten worden uitgevoerd en waar markeringen kunnen worden gewijzigd." src="https://mdn.mozillademos.org/files/13016/SidebarTechReviewRequested.png" /></li>
+   <img alt="Screenshot  van een vak aan de linkerkant van de pagina, waarin de beoordelingen staan die moeten worden uitgevoerd en waar markeringen kunnen worden gewijzigd." src="https://mdn.mozillademos.org/files/15667/technische_beoordeling.png" style="height:145px; width:317px" /></li>
   <li>Verwijder de selectie van het vakje <strong>Technisch</strong> en klik op <strong>Opslaan</strong>.</li>
   <li>Als u fouten vindt die moeten worden gecorrigeerd is het ook mogelijk om de status van de beoordelingsaanvraag te wijzigen in de editor. U kunt dat als volgt doen:
    <ol>
