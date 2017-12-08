@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 792791
+revision_id: 1335222
 locale: pt-PT
 slug: Web/JavaScript
 tags: "Landing" "Aprender" "JavaScript" "l10n:priority"
@@ -15,13 +15,8 @@ based_on: None
 ---
 <div>{{JsSidebar}}</div>
 
-<div class="callout-box"><strong><a href="/pt/JavaScript/Como_começar" title="pt/JavaScript/Como_começar">Uma re-introdução ao JavaScript</a></strong>
-
-<p>Uma visão geral para aqueles que acham que sabem JavaScript</p>
-</div>
-
 <div>
-<p><strong>JavaScript </strong>(às vezes chamado apenas de <strong>JS</strong>) é uma linguagem de programação interpretada e orientada a objetos baseada em <em><a href="http://en.wikipedia.org/wiki/Prototype-based_programming" title="http://en.wikipedia.org/wiki/Prototype-based_programming">protótipos</a></em> e em <a href="http://en.wikipedia.org/wiki/First-class_function" title="http://en.wikipedia.org/wiki/First-class_function"><em>first-class functions</em></a>, mais conhecida como a linguagem de script da Web, mas utilizada em <a href="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages" title="http://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">vários outros ambientes</a> como <a href="http://nodejs.org/" title="http://nodejs.org/">node.js</a> e <a href="http://www.couchbase.com/" title="http://www.couchbase.com/">Couchbase</a>.</p>
+<p class="summary"><strong>JavaScript</strong> (<strong>JS</strong>) é uma linguagem de programação compilada JIT ou interpretada simples com {{Glossary("First-class Function", "first-class functions")}}. While it is most well-known as the scripting language for Web pages, <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_Web_pages">many non-browser environments</a> also use it, such as <a class="external" href="/en-US/docs/Glossary/Node.js">Node.js</a>, <a href="https://couchdb.apache.org/">Apache CouchDB</a> and <a href="http://www.adobe.com/devnet/acrobat/javascript.html">Adobe Acrobat</a>. JavaScript is a {{Glossary("Prototype-based programming", "prototype-based")}}, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more <a href="/en-US/docs/Web/JavaScript/About_JavaScript">about JavaScript</a>.</p>
 
 <p>Hoje em dia, Javascript é uma linguagem que pode ser utilizada em qualquer aspecto, desde aplicações no lado cliente (aplicações de front-end), como do lado servidor (aplicações server-side com <a class="external" href="http://www.commonjs.org/" title="http://www.commonjs.org/">CommonJs</a> ou mesmo <a class="external" href="http://nodejs.org/" title="http://nodejs.org/">Node.Js</a>). Ela também foi desenhada para ser fácil o seu embutimento em outros produtos e aplicações, como navegadores web. Dentro de um navegador - browser (ambiente-hospedeiro), a linguagem JavaScript pode ser ligada aos objetos desse ambiente para aprimorar o comportamento dos objetos e elementos da página.</p>
 
