@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1335277
+revision_id: 1335280
 locale: nl
 slug: MDN/Contribute/Howto/Een_technische_beoordeling_maken
 tags: "Gids" "MDN Meta" "Beoordeling" "Documentație"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
+<div>{{IncludeSubnav("/nl/docs/MDN")}}</div>
 
 <p class="summary"><strong>Een technische beoordeling</strong> bestaat uit het beoordelen van de technische nauwkeurigheid en volledigheid van een artikel, en het corrigeren hiervan als het nodig is. Als een schrijver van een artikel iemand anders wil vragen om de technische inhoud van een artikel te controleren, klikt diegene op het vakje met de naam 'Technische beoordeling' tijdens het bewerken. Vaak neemt een schrijver contact op met een specifieke technicus om de tekst te laten beoordelen, maar iedereen met technische kennis kan dit doen.</p>
 
