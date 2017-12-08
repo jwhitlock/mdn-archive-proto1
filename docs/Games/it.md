@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1335053
+revision_id: 1335265
 locale: it
 slug: Games
 tags: "App" "Web" "Giochi" "Giochi HTML5" "Sviluppo Giochi" "Giochi JavaScript"
-title: Game development
+title: Sviluppo di giochi
 summary: 
 keywords: 
 needs_technical_review: False
@@ -33,7 +33,7 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h2 id="Trasferischi_giochi_nativi_sul_web">Trasferisci giochi nativi sul web</h2>
+<h2 id="Trasferisci_giochi_nativi_sul_web">Trasferisci giochi nativi sul web</h2>
 
 <p>Se sei uno sviluppatore nativo (per esempio scrivi giochi in C++), e sei interessato a portare i tuoi giochi sul web, dovrai imparare di più sul nostro tool&nbsp;<a href="http://kripken.github.io/emscripten-site/index.html">Emscripten</a>&nbsp;- questo è un compilatore LLVM a JavaScript, che prende il bytecode LLVM&nbsp;(p.e. generato con C/C++ tramite Clang oppure da un altro linguaggio) e lo compila in <a href="/en-US/docs/Games/Tools/asm.js">asm.js</a>, che può girare sul Web.</p>
 
