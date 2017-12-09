@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1335541
+revision_id: 1335542
 locale: pt-PT
 slug: Learn
 tags: "Web" "Index" "Aprender" "Introdução" "Principiante"
