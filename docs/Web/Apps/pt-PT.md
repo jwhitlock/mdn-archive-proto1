@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1335488
+revision_id: 1335490
 locale: pt-PT
 slug: Apps
 tags: "Movel" "Aplicações" "Desenvolvimento da Web" "Aplicações da Web modernas" "Aplicações da Web progressivas"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -28,7 +28,7 @@ based_on: None
 <div class="column-half">&nbsp;</div>
 </div>
 
-<h2 id="Essencial_de_aplicação">Essencial de aplicação</h2>
+<h2 id="Essencial_de_aplicação">Básico da aplicação</h2>
 
 <p>The guides listed below cover common areas of functionality that you'll want to cover/implement in web apps. Each page includes workflows, tutorials, references, examples, and other useful information.</p>
 
@@ -64,7 +64,7 @@ based_on: None
 </div>
 </div>
 
-<h2 id="Consultar_também">Consultar também</h2>
+<h2 id="Consultar_também">Consulte também</h2>
 
 <ul>
  <li><a href="/pt-PT/docs/Tools">Ferramentas de desenvolvimento da Mozilla</a></li>
