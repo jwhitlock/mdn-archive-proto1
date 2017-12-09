@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1335542
+revision_id: 1335546
 locale: pt-PT
 slug: Learn
 tags: "Web" "Index" "Aprender" "Introdução" "Principiante"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -33,13 +33,13 @@ based_on: None
  <li><span>Principiante:</span> Se é um principiante no do desenvolvimento da Web, nós recomendamos que começe pelo nosso módulo <a href="/pt-PT/docs/Learn/Comecar_com_a_Web">Começar com a Web</a>, que fornece uma introdução prática ao desenvolvimento <em>web</em>.</li>
  <li><span>Questões específicas:</span> Se tem uma questão específica sobre o desenvolvimento da Web, a nossa secção de <a href="/pt-PT/docs/Learn/Questoes_comuns">Questões comuns</a> poderá ter algo para o ajudar.</li>
  <li><span>Além do básico:</span> Se já tem algum conhecimento, o próximo passo é aprender {{glossary("HTML")}} e {{glossary("CSS")}} em detalhe: comece com o nosso módulo <a href="/pt-PT/docs/Learn/HTML/Introducao_ao_HTML">Introdução ao HTML</a> e avançe para o nosso módulo <a href="/pt-PT/docs/Learn/CSS/Introduction_to_CSS">Introdução ao CSS</a>.</li>
- <li><span>Mover para <em>scripting</em>:</span> Se já se sente confortável com HTML e CSS, ou se está interessado principalmente em código, poderá querer seguir para {{glossary("JavaScript")}} ou desenvolvimento no servidor. Comece com os nossos módulos <a href="/pt-PT/docs/Learn/JavaScript/Primeiros_passos">JavaScript - primeiros passos</a> e <a href="/en-US/docs/Learn/Server-side/First_steps">Primeiros passos do lado do servidor</a>.</li>
+ <li><span>Mover para <em>scripting</em>:</span> Se já se sente confortável com HTML e CSS, ou se está interessado principalmente em código, poderá querer seguir para {{glossary("JavaScript")}} ou desenvolvimento do lado do servidor. Comece com os nossos módulos <a href="/pt-PT/docs/Learn/JavaScript/Primeiros_passos">JavaScript - primeiros passos</a> e <a href="/pt-PT/docs/Learn/No-servidor/Primeiros_passos">Primeiros passos do lado do servidor</a>.</li>
 </ul>
 
 <p>&nbsp;</p>
 
 <div class="note">
-<p><strong>Nota</strong>: o nosso&nbsp;<a href="/pt-PT/docs/Gloss%C3%A1rio">Glossário</a>&nbsp;proporciona definições de terminologia.</p>
+<p><strong>Nota</strong>: o nosso&nbsp;<a href="/pt-PT/docs/Glossário">Glossário</a>&nbsp;proporciona definições de terminologia.</p>
 </div>
 
 <p>{{LearnBox({"title":"Random glossary entry"})}}</p>
