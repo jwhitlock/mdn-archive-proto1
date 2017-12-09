@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1275723
+revision_id: 1335488
 locale: pt-PT
 slug: Apps
 tags: "Movel" "Aplicações" "Desenvolvimento da Web" "Aplicações da Web modernas" "Aplicações da Web progressivas"
