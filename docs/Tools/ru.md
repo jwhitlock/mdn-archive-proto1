@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1294713
+revision_id: 1335776
 locale: ru
 slug: Tools
 tags: "Tools" "TopicStub" "l10n:priority" "инструменты" "Веб-разработка" "Developing Mozilla" "Разработка Mozilla" "веб-разработка:инструменты"
@@ -17,12 +17,12 @@ based_on: None
 
 <p>{{ SauceLabsPromo("a") }}</p>
 
-<h2 id="The_Core_Tools">Основные инструменты</h2>
+<h2 id="Основные_инструменты">Основные инструменты</h2>
 
 <hr />
 <div class="column-container">
 <div class="column-half">
-<h3 id="Page_Inspector">Инспектор страницы</h3>
+<h3 id="Инспектор_страницы">Инспектор страницы</h3>
 
 <p><a href="/en-US/docs/Tools/Page_Inspector"><img alt="" src="https://mdn.mozillademos.org/files/14532/inspector.png" style="display:block; height:257px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
@@ -30,7 +30,7 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h3 id="Web_Console">Web консоль</h3>
+<h3 id="Web_консоль">Web консоль</h3>
 
 <p><a href="/en-US/docs/Tools/Web_Console"><img alt="" src="https://mdn.mozillademos.org/files/14528/console.png" style="display:block; height:257px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
@@ -41,7 +41,7 @@ based_on: None
 <hr />
 <div class="column-container">
 <div class="column-half">
-<h3 id="JavaScript_Debugger">Отладчик JavaScript</h3>
+<h3 id="Отладчик_JavaScript">Отладчик JavaScript</h3>
 
 <p><a href="/en-US/docs/Tools/Debugger"><img alt="" src="https://mdn.mozillademos.org/files/14542/debugger.png" style="display:block; height:1026px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
@@ -49,7 +49,7 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h3 id="Network_Monitor">Монитор сетевой активности</h3>
+<h3 id="Монитор_сетевой_активности">Монитор сетевой активности</h3>
 
 <p><a href="/en-US/docs/Tools/Network_Monitor"><img alt="" src="https://mdn.mozillademos.org/files/14534/network-monitor.png" style="display:block; height:257px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
@@ -68,7 +68,7 @@ based_on: None
 </div>
 
 <div class="column-half">
-<h3 id="Responsive_Design_Mode">Режим адаптивного дизайна</h3>
+<h3 id="Режим_адаптивного_дизайна">Режим адаптивного дизайна</h3>
 
 <p><a href="/en-US/docs/Tools/Responsive_Design_Mode"><img alt="" src="https://mdn.mozillademos.org/files/14538/rdm.png" style="display:block; height:1542px; margin-left:auto; margin-right:auto; width:425px" /></a></p>
 
@@ -77,9 +77,9 @@ based_on: None
 </div>
 
 <hr />
-<h2 id="More_Tools">More Tools</h2>
+<h2 id="More_Tools">Больше инструментов</h2>
 
-<p>These developer tools are also built into Firefox. Unlike the "Core Tools" above, you might not use them every day.</p>
+<p>Эти инструменты разработчика также встроены в Firefox. В отличие от «Core Tools»&nbsp; описанных выше, могут не использоватся каждый день.</p>
 
 <div class="twocolumns">
 <dl>
@@ -95,8 +95,8 @@ based_on: None
  <dd>Select a color from the page.</dd>
  <dt><a href="/en-US/docs/Tools/Scratchpad">Scratchpad</a></dt>
  <dd>A text editor built into Firefox that lets you write and execute JavaScript.</dd>
- <dt><a href="/en-US/docs/Tools/Style_Editor">Style Editor</a></dt>
- <dd>View and edit CSS styles for the current page.</dd>
+ <dt><a href="/en-US/docs/Tools/Style_Editor">Редактор стилей</a></dt>
+ <dd>Просмотр и редактирование стилей CSS для текущей страницы.</dd>
  <dt><a href="/en-US/docs/Tools/Shader_Editor">Shader Editor</a></dt>
  <dd>View and edit the vertex and fragment shaders used by <a href="/en-US/docs/Web/WebGL">WebGL</a>.</dd>
  <dt><a href="/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></dt>
