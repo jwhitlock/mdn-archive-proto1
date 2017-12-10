@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1335776
+revision_id: 1335778
 locale: ru
 slug: Tools
 tags: "Tools" "TopicStub" "l10n:priority" "инструменты" "Веб-разработка" "Developing Mozilla" "Разработка Mozilla" "веб-разработка:инструменты"
@@ -8,8 +8,8 @@ title: Инструменты разработчика Firefox
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -77,9 +77,9 @@ based_on: None
 </div>
 
 <hr />
-<h2 id="More_Tools">Больше инструментов</h2>
+<h2 id="Больше_инструментов">Больше инструментов</h2>
 
-<p>Эти инструменты разработчика также встроены в Firefox. В отличие от «Core Tools»&nbsp; описанных выше, могут не использоватся каждый день.</p>
+<p>Эти инструменты разработчика также встроены в Firefox. В отличие от «Core Tools»&nbsp; описанных выше, могут не использоватся в повседневной работе.</p>
 
 <div class="twocolumns">
 <dl>
@@ -180,19 +180,19 @@ based_on: None
 <h2 id="Subnav">Subnav</h2>
 
 <ol>
- <li><a href="#">Core Tools</a>
+ <li><a href="#">Основные иструменты</a>
 
   <ol>
-   <li><a href="/en-US/docs/Tools/Page_Inspector">Page Inspector</a></li>
-   <li><a href="/en-US/docs/Tools/Web_Console">Web Console</a></li>
-   <li><a href="/en-US/docs/Tools/Debugger">JavaScript Debugger</a></li>
-   <li><a href="/en-US/docs/Tools/Network_Monitor">Network Monitor</a></li>
+   <li><a href="/en-US/docs/Tools/Page_Inspector">Инспектор страницы</a></li>
+   <li><a href="/en-US/docs/Tools/Web_Console">Web консоль</a></li>
+   <li><a href="/en-US/docs/Tools/Debugger">Отладчик JavaScript</a></li>
+   <li><a href="/en-US/docs/Tools/Network_Monitor">Монитор сетевой активности</a></li>
    <li><a href="/en-US/docs/Tools/Performance">Performance</a></li>
-   <li><a href="/en-US/docs/Tools/Responsive_Design_Mode">Responsive Design Mode</a></li>
-   <li><a href="/en-US/docs/Tools/Tips">Tips</a></li>
+   <li><a href="/en-US/docs/Tools/Responsive_Design_Mode">Режим адаптивного дизайна</a></li>
+   <li><a href="/en-US/docs/Tools/Tips">Советы</a></li>
   </ol>
  </li>
- <li><a href="#">More Tools</a>
+ <li><a href="#">Больше инструментов</a>
   <ol>
    <li><a href="/en-US/docs/Tools/Memory">Memory</a></li>
    <li><a href="/en-US/docs/Tools/Storage_Inspector">Storage Inspector</a></li>
@@ -201,7 +201,7 @@ based_on: None
    <li><a href="/en-US/docs/Tools/Eyedropper">Eyedropper</a></li>
    <li><a href="/en-US/docs/Tools/Taking_screenshots">Screenshot</a></li>
    <li><a href="/en-US/docs/Tools/Scratchpad">Scratchpad</a></li>
-   <li><a href="/en-US/docs/Tools/Style_Editor">Style Editor</a></li>
+   <li><a href="/en-US/docs/Tools/Style_Editor">Редактор стилей</a></li>
    <li><a href="/en-US/docs/Tools/Shader_Editor">Shader Editor</a></li>
    <li><a href="/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></li>
   </ol>
