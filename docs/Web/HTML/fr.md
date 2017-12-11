@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1330110
+revision_id: 1335931
 locale: fr
 slug: Web/HTML
 tags: "HTML" "HTML 5" "Web" "Landing" "Reference"
