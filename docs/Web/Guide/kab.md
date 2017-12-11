@@ -1,17 +1,17 @@
 ---
 version: prototype1
-revision_id: 1189653
+revision_id: 1335939
 locale: kab
 slug: Web/Guide
 tags: "Web" "Guide" "Landing" "TopicStub" "NeedsTranslation"
-title: Web developer guides
+title: Amnir n usnifel n Web
 summary: 
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: ab7a07128302517982c83a792c5348ae04cef1b4
+based_on: None
 ---
 <p><span class="seoSummary"><strong>These articles provide how-to information to help you make use of specific technologies and APIs.</strong></span></p>
 
