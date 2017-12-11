@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1322657
+revision_id: 1335938
 locale: kab
 slug: Web
 tags: "Web" "Landing" "TopicStub" "Web Development" "NeedsTranslation"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -23,7 +23,7 @@ based_on: None
 
 <dl>
  <dt><a href="/en-US/docs/Web/HTML">HTML</a></dt>
- <dd><strong>HyperText Markup Language (HTML)</strong> D tutlayt yettswaqedcen iw seglem d usdabu n ugbuṛ n usebter web.</dd>
+ <dd><strong>HyperText Markup Language (HTML)</strong> D tutlayt yettswaqedcen iw seglem ad usdabu n ugbuṛ n usebter web.</dd>
  <dt><a href="/en-US/docs/Web/CSS">CSS</a></dt>
  <dd><strong>Cascading Style Sheets (CSS)</strong> Isebtaren n uɣanib acercuṛ ttwasqedcen iw seglem n tagamett n ugbuṛ di web.</dd>
  <dt><a href="/en-US/docs/Web/HTTP">HTTP</a></dt>
