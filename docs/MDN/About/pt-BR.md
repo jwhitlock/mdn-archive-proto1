@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1331529
+revision_id: 1336166
 locale: pt-BR
 slug: MDN/About
 tags: "Guia(2)" "MDN Meta" "Licenças" "Comunidade" "Colaboração"
@@ -37,85 +37,85 @@ based_on: None
 
 <h2 id="A_comunidade_MDN">A comunidade MDN</h2>
 
-<p>Our community is a global one! We have amazing contributors all around the world, in a number of languages. If you'd like to learn more about us, or if you need help of any kind with MDN, feel free to check out our discussion forum or IRC channel !</p>
+<p>Nossa comunidade é global! Nós temos contribuidores incríveis ao redor do mundo todo, em muitos idiomas. Se você gostaria de descobrir mais sobre nós, ou se precisa de qualquer tipo de ajuda com a MDN, fique livre para checar nosso fórum de discussões ou canal IRC!</p>
 
-<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC")}}</p>
+<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Reuniões|https://wiki.mozilla.org/MDN/Community_meetings|Quartas-feiras alternadas no IRC")}}</p>
 
 <h2 id="Licenças_e_cópias_de_direito">Licenças e cópias de direito</h2>
 
-<p>MDN wiki documents have been prepared with the contributions of many authors, both within and outside the Mozilla Foundation. Unless otherwise indicated, the content is available under the terms of the <a class="external text" href="http://creativecommons.org/licenses/by-sa/2.5/" rel="nofollow" title="http://creativecommons.org/licenses/by-sa/2.5/">Creative Commons Attribution-ShareAlike license</a> (CC-BY-SA), v2.5 or any later version. Please attribute "Mozilla Contributors" and include a hyperlink (online) or URL (in print) to the specific wiki page for the content being sourced. For example, to provide attribution for this article, you can write:</p>
+<p>Os documentos wiki da MDN foram preparados com as contribuições de muitos autores, de dentro e de fora da Mozilla Foundation. A menos que seja indicado, o conteúdo está disponível sob os termos da <a class="external text" href="http://creativecommons.org/licenses/by-sa/2.5/" rel="nofollow" title="http://creativecommons.org/licenses/by-sa/2.5/">Creative Commons Attribution-ShareAlike license</a> (CC-BY-SA), v2.5 ou qualquer versão mais recente. Por favor, atribua&nbsp;"Mozilla Contributors" e inclua um hyperlink (online) ou&nbsp;URL (impresso) para a página da wiki específica do conteúdo referenciado. Por exemplo, para atribuir a este artigo, você pode escrever:&nbsp;</p>
 
-<blockquote><a href="https://developer.mozilla.org/en-US/docs/MDN/About">About MDN</a> by <a href="https://developer.mozilla.org/en-US/docs/MDN/About$history">Mozilla Contributors</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/2.5/">CC-BY-SA 2.5</a>.</blockquote>
+<blockquote><a href="https://developer.mozilla.org/en-US/docs/MDN/About">About MDN</a>&nbsp;por&nbsp;<a href="https://developer.mozilla.org/en-US/docs/MDN/About$history">Mozilla Contributors</a>&nbsp;está licenciado sob&nbsp;<a href="http://creativecommons.org/licenses/by-sa/2.5/">CC-BY-SA 2.5</a>.</blockquote>
 
-<p>Note that in the example, "Mozilla Contributors" links to the history of the cited page. See <a href="http://wiki.creativecommons.org/Marking/Users">Best practices for attribution</a> for further explanation.</p>
+<p>Note que nesse exemplo,&nbsp;"Mozilla Contributors" leva para a história da página citada. Veja <a href="http://wiki.creativecommons.org/Marking/Users">Best practices for attribution</a>&nbsp;para explicações mais detalhadas.</p>
 
 <div class="note">
-<p><strong>Note:</strong> See <a href="/en-US/docs/MDN_content_on_WebPlatform.org" title="/en-US/docs/MDN_content_on_WebPlatform.org">MDN content on WebPlatform.org</a> for information about how to reuse and attribute MDN content on that site.</p>
+<p><strong>Nota:</strong>&nbsp;Veja&nbsp;<a href="/en-US/docs/MDN_content_on_WebPlatform.org" title="/en-US/docs/MDN_content_on_WebPlatform.org">MDN content on WebPlatform.org</a>&nbsp;para informações sobre como reutilizar e atribuir conteúdo da MDN naquele site.</p>
 </div>
 
-<p>Code samples added to this wiki before August 20, 2010 are available under the <a class="external" href="http://www.opensource.org/licenses/mit-license.php" title="http://www.opensource.org/licenses/mit-license.php">MIT license</a>; you should insert the following attribution information into the MIT template:&nbsp;"© &lt;date of last wiki page revision&gt; &lt;name of person who put it in the wiki&gt;".</p>
+<p>Amostras de código adicionadas a esta wiki antes de 20 de agosto de 2010 estão disponíveis sob a <a class="external" href="http://www.opensource.org/licenses/mit-license.php" title="http://www.opensource.org/licenses/mit-license.php">MIT license</a>; você deveria inserir a seguinte informação de atribuição no template MIT:&nbsp;"© &lt;data da última revisão da página da wiki&gt; &lt;nome da pessoa que a inseriu na wiki&gt;".</p>
 
-<p>Code samples added on or after August 20, 2010 are in the <a class="external" href="http://creativecommons.org/publicdomain/zero/1.0/" title="http://wiki.creativecommons.org/Public_domain">public domain</a>. No licensing notice is necessary, but if you need one, you can use:&nbsp;"Any copyright is dedicated to the Public Domain. http://creativecommons.org/publicdomain/zero/1.0/".</p>
+<p>Amostras de código adicionadas no dia 20 de agosto de 2010 ou depois estão no&nbsp;<a class="external" href="http://creativecommons.org/publicdomain/zero/1.0/" title="http://wiki.creativecommons.org/Public_domain">public domain</a>. Não é necessário um aviso de licença, mas se você precisa de um, você pode utilizar:&nbsp;"Qualquer direito de cópia é dedicado ao Domínio Público. http://creativecommons.org/publicdomain/zero/1.0/".</p>
 
-<p>If you wish to contribute to this wiki, you must make your documentation available under the Attribution-ShareAlike license (or occasionally an alternative license already specified by the page you are editing), and your code samples available under <a href="http://creativecommons.org/publicdomain/zero/1.0/" title="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC-0</a> (a Public Domain dedication). Adding to this wiki means you agree that your contributions will be made available under those licenses.</p>
+<p>Se você deseja contribuir para esta wiki, você deve tornar sua documentação disponível pela licença&nbsp;Attribution-ShareAlike (ou ocasionalmente uma licença alternativa já especificada pela página que você está editando), e suas amostras de código disponívels sob a <a href="http://creativecommons.org/publicdomain/zero/1.0/" title="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC-0</a> (uma dedicação de Domínio Público). Acrescentar a esta wiki significa que você concorda que suas contribuições serão feitas sob estas licenças.</p>
 
-<p>Some older content was made available under a license other than the licenses noted above; these are indicated at the bottom of each page by way of an <a class="internal" href="/Project:en/Examples/Alternate_License_Block" title="Project:En/Examples/Alternate License Block">Alternate License Block</a>.</p>
+<p>Alguns conteúdos mais antigos foram disponibilizados sob uma licença diferente das citadas acima; estas são indicadas no final de cada página em&nbsp;um&nbsp;<a class="internal" href="/Project:en/Examples/Alternate_License_Block" title="Project:En/Examples/Alternate License Block">Alternate License Block</a>.</p>
 
 <div class="warning">
-<p><strong>Important:</strong> No new pages may be created using alternate licenses.</p>
+<p><strong>Importante:</strong>&nbsp;Nenhuma nova página deve ser criada usando licenças alternativas.</p>
 </div>
 
-<p>Copyright for contributed materials remains with the author unless the author assigns it to someone else.</p>
+<p>Os direitos de cópia para materiais de contribuição permanecem com o(a) autor(a), a menos que ele(a) os atribua a outra pessoa.</p>
 
-<p>If you have any questions or concerns about anything discussed here, please contact <a class="external" href="mailto:eshepherd@mozilla.com" rel="nofollow" title="mailto:eshepherd@mozilla.com">Eric Shepherd</a>.</p>
+<p>Se você tem perguntas ou dúvidas sobre algo exposto aqui, por favor contate <a class="external" href="mailto:eshepherd@mozilla.com" rel="nofollow" title="mailto:eshepherd@mozilla.com">Eric Shepherd</a>.</p>
 
 <hr />
-<p>The rights in the trademarks, logos, service marks of the Mozilla Foundation, as well as the look and feel of this web site, are not licensed under the Creative Commons license, and to the extent they are works of authorship (like logos and graphic design), they are not included in the work that is licensed under those terms. If you use the text of documents, and wish to also use any of these rights, or if you have any other questions about complying with our licensing terms for this collection, you should contact the Mozilla Foundation here: <a class="external text" href="mailto:licensing@mozilla.org" rel="nofollow" title="mailto:licensing@mozilla.org">licensing@mozilla.org</a>.</p>
+<p>Os direitos das marcas, logos, marcas de serviço da&nbsp;Mozilla Foundation, bem como o visual e estrutura deste site, não estão licenciados pela Creative Commons, e enquanto são trabalhos autorais&nbsp;(como&nbsp;logos e design gráfico), eles não estão inclusos no trabalho que está licenciado nesses termos. Se você utilizar o texto de documentos, e quiser também usar qualquer um destes direitos, ou se tem outras perguntas sobre cumprir com nossos termos de licença para esta coleção, você deve contatar a&nbsp;Mozilla Foundation aqui:&nbsp;<a class="external text" href="mailto:licensing@mozilla.org" rel="nofollow" title="mailto:licensing@mozilla.org">licensing@mozilla.org</a>.</p>
 
 <h2 id="Baixar_conteúdo">Baixar conteúdo</h2>
 
-<p>You can retrieve the content of a single page on MDN by adding <a href="/en-US/docs/Project:MDN/Kuma/API#Document_parameters">document parameters</a> to the URL to specify what format you want.</p>
+<p>Você pode baixar o conteúdo de uma página individual na MDN adicionando&nbsp;<a href="/en-US/docs/Project:MDN/Kuma/API#Document_parameters">document parameters</a>&nbsp;à URL para especificar qual formato deseja.</p>
 
-<p>If you want to download a complete, anonymized SQL dump of the MDN database -- that is, a copy of the database with all private user information scrubbed out, we provide that as well. This dump is updated on the first day of each month.</p>
+<p>Se você quiser baixar um dump SQL completo e anonimizado da base de dados da MDN -- isto é, uma cópia da base de dados com todas as informações privadas de usuários removidas, nós também fornecemos isso. Esse&nbsp;dump é atualizado no primeiro dia de todo mês.</p>
 
-<p>There are three archives that comprise the anonymized monthly dump of MDN:</p>
+<p>Existem três arquivos que compreendem o dump mensal anonimizado da MDN:</p>
 
 <dl>
  <dt><code>&lt;date&gt;.sanitized.devmo_sanitize.sql.gz</code></dt>
- <dd>The sanitized MySQL database dump of all of MDN's content, data records, and so forth. This is all article content, history records, and so forth. All personal user information has been stripped out (such as email addresses).</dd>
+ <dd>O dump de banco de dados MySQL sanitizado de todo o conteúdo da MDN, registros de datas, e assim por diante. Inclui todo o conteúdo de artigos, registros de histórico, e assim por diante. Todas as informações pessoais de usuários são retiradas&nbsp;(como endereços de email).</dd>
  <dt><code>attachments-&lt;date&gt;.tar.gz</code></dt>
- <dd>This archive contains all the file attachments that have been uploaded to the wiki.</dd>
+ <dd>Esse arquivo contém todos os uploads de arquivos anexos feitos para a wiki.</dd>
  <dt><code>uploads-&lt;date&gt;.tar.gz</code></dt>
- <dd>This (very large!) archive contains the files uploaded to the Demo Studio. If your interest is only in wiki content, you don't need to download this.</dd>
+ <dd>Esse arquivo (muito grande!) contém os uploads de arquivos para o Demo Studio. Se você tem interesse apenas no conteúdo da wiki, você não precisa baixar isso.</dd>
 </dl>
 
-<p><a href="https://developer.allizom.org/landfill/">Visit the MDN landfill</a> to download these files.</p>
+<p><a href="https://developer.allizom.org/landfill/">Visite o aterro da MDN</a>&nbsp;para baixar esses arquivos.</p>
 
 <h3 id="Ferramentas_de_terceiros">Ferramentas de terceiros</h3>
 
-<p>You can also view MDN content via third-party tools like <a href="http://kapeli.com/dash">Dash</a> (for Mac OS) and <a href="http://zealdocs.org/">Zeal</a> (for Linux and Windows).</p>
+<p>Você também pode visualizar o conteúdo da MDN via ferramentas de terceiros como o <a href="http://kapeli.com/dash">Dash</a> (para&nbsp;Mac OS) e&nbsp;<a href="http://zealdocs.org/">Zeal</a> (para&nbsp;Linux e&nbsp;Windows).</p>
 
-<h2 id="Informando_problemas_com_MDN">Informando problemas com&nbsp;MDN</h2>
+<h2 id="Informando_problemas_com_MDN">Informando problemas com a MDN</h2>
 
-<p>Now and then, you may run into problems while using MDN. Whether it's a problem with site infrastructure or an error in documentation content, you can either try to fix it yourself or report the problem. While the former is preferred, the latter is sometimes the best you can manage, and that's okay too.</p>
+<p>De vez em quando, você pode encontrar problemas usando a MDN. Seja um problema com a infraestrutura do site ou um erro no conteúdo da documentação, você pode tentar consertar sozinho ou reportar o problema. Enquanto a primeira opção é preferida, a última é às vezes o melhor que você consegue fazer, e tudo bem com isso também.</p>
 
 <h3 id="Erros_na_documentação">Erros na documentação</h3>
 
-<p>Obviously, since MDN is a wiki, the best thing you can possibly do is fix problems you spot yourself. But maybe you don't know the answer or are in the middle of rushing to the hospital or something, and need to jot down the problem so someone can look at it later.</p>
+<p>Obviamente, já que a MDN é uma wiki, a melhor coisa que você pode fazer é consertar problemas que você encontrar sozinho. Mas talvez você não saiba a resposta, ou esteja no meio de uma correria para o hospital ou algo assim, e precise&nbsp;anotar o problema pra que alguém possa olhar depois.</p>
 
-<p>As is the case with all things Mozilla, you report a documentation problem by filing a bug. That's when filing a <a href="https://bugzilla.mozilla.org/form.doc">documentation request bug</a> comes in. Our handy documentation request form will gather the information needed to get us started on fixing the issue.</p>
+<p>Como tudo o que é Mozilla, você pode reportar um problema na documentação registrando um bug. É aí que entra o registro de um&nbsp;<a href="https://bugzilla.mozilla.org/form.doc">documentation request bug</a>. Nosso útil formulário de solicitação de documentação reunirá as informações necessárias para que possamos começar a consertar o problema.</p>
 
-<p>Of course, our writing community is busy, so sometimes the quickest way to see a documentation problem resolved is to fix it yourself. See <a href="/en-US/docs/MDN/Contribute/Creating_and_editing_pages" title="/en-US/docs/Project:MDN/Contributing/Creating_and_editing_pages">Creating and editing pages</a> for details.</p>
+<p>Naturalmente, nossa comunidade de escrita é atarefada, então às vezes a forma mais rápida de ver um problema de documentação resolvido é consertá-lo você mesmo. Veja <a href="/en-US/docs/MDN/Contribute/Creating_and_editing_pages" title="/en-US/docs/Project:MDN/Contributing/Creating_and_editing_pages">Criando e editando páginas</a>&nbsp;para detalhes.</p>
 
 <h3 id="Bugs_do_site_ou_solicitar_recursos">Bugs do site ou solicitar recursos</h3>
 
-<p><a href="/en-US/docs/Project:MDN/Kuma" title="/en-US/docs/Project:MDN/Kuma">Kuma</a>, the Mozilla-developed platform used for the MDN web site, is in a state of continuous development. Our developers—as well as a number of volunteer contributors—are constantly making improvements. If you see a bug, or have a problem with the site, or even have a suggestion for something that could make the software more awesome, you can use the <a href="https://bugzilla.mozilla.org/form.mdn" title="https://bugzilla.mozilla.org/form.mdn">Kuma bug form</a> to file a report.</p>
+<p><a href="/en-US/docs/Project:MDN/Kuma" title="/en-US/docs/Project:MDN/Kuma">Kuma</a>, a plataforma desenvolvida pela Mozilla usada para o web site da MDN, está em um constante estado de desenvolvimento. Nossos desenvolvedores—assim como vários contribuidores voluntários—estão constantemente fazendo melhorias. Se você encontrar um bug, ou tiver um problema com o site, ou ainda tiver uma sugestão para algo que poderia tornar o software mais incrível, você pode usar o <a href="https://bugzilla.mozilla.org/form.mdn" title="https://bugzilla.mozilla.org/form.mdn">Kuma bug form</a>&nbsp;para preencher um relatório.</p>
 
 <h2 id="História_da_MDN">História da&nbsp;MDN</h2>
 
-<p>The Mozilla Developer Network (a.k.a. Mozilla Developer Center (MDC), a.k.a. <em>Devmo</em>) project started in early 2005, when the <a class="external" href="http://www.mozillafoundation.org">Mozilla Foundation</a> obtained a license from AOL to use the original <a href="/Project:en/DevEdge" title="Project:en/DevEdge">DevEdge</a> content. The DevEdge content was mined for still-useful material, which was then migrated by volunteers into this wiki so it would be easier to update and maintain.</p>
+<p>O projeto Mozilla Developer Network (a.k.a. Mozilla Developer Center (MDC), a.k.a. <em>Devmo</em>) começou no início de 2005, quando a <a class="external" href="http://www.mozillafoundation.org">Mozilla Foundation</a>&nbsp;obteve uma licença da AOL para utilizar o conteúdo original <a href="/Project:en/DevEdge" title="Project:en/DevEdge">DevEdge</a>. Os materiais ainda úteis foram extraídos do&nbsp;conteúdo&nbsp;DevEdge, e então migrados por voluntários para essa wiki, pra que a manutenção e atualização fossem mais fáceis.</p>
 
-<p>Since then, the project has continued growing and now forms a central nexus for all developer documentation related to the Mozilla Project and open web technologies. In 2010, the name was changed to Mozilla Developer Network; 2011 saw the addition of <a class="external" href="http://developer.mozilla.org/en-US/demos" title="https://developer.mozilla.org/en-US/demos/">Demo Studio</a> for web developers to share and show off their code, and <a class="external" href="http://developer.mozilla.org/en-US/learn" title="https://developer.mozilla.org/en-US/learn">Learning</a> pages to provide links to tutorials. (The name MDC lives on as "MDN Doc Center" for the documentation section.) In time, it is hoped that the Mozilla Developer Network will become a resource that web designers, application developers, and extension and theme writers visit on a regular basis.</p>
+<p>Desde então, o projeto continuou a crescer e agora forma um nexo central para toda a documentação para desenvolvedores relacionada ao&nbsp;Mozilla Project e tecnologias abertas da web. Em&nbsp;2010, o nome mudou para&nbsp;Mozilla Developer Network; 2011 viu a adição do&nbsp;<a class="external" href="http://developer.mozilla.org/en-US/demos" title="https://developer.mozilla.org/en-US/demos/">Demo Studio</a>&nbsp;para desenvolvedores web compartilharem e exibirem seu código, e páginas <a class="external" href="http://developer.mozilla.org/en-US/learn" title="https://developer.mozilla.org/en-US/learn">Learning</a> para fornecer links de tutoriais. (O nome MDC ainda vive como "MDN Doc Center" para a seção de documentação.) A tempo, espera-se que a Mozilla Developer Network se torne&nbsp;um recurso que web designers, desenvolvedores de aplicações, e escritores de extensões e temas visitam regularmente.&nbsp;</p>
 
 <h2 id="Sobre_a_Mozilla">Sobre a Mozilla</h2>
 
