@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1336482
+revision_id: 1336483
 locale: en-US
 slug: Learn
 tags: "Web" "Index" "Intro" "Learn" "Landing" "Beginner"
-title: Aprende  diseño y desarrollo web
+title: Learn web development
 summary: 
 keywords: 
 needs_technical_review: False
@@ -16,12 +16,12 @@ based_on: None
 <div>{{LearnSidebar}}</div>
 
 <div>
-<p class="summary">¡Hola! Bienvenido a la zona de aprendizaje de MDN. Si quieres aprender sobre cómo crear tus propias páginas web, sitios o aplicaciones, has venido al lugar indicado..</p>
+<p class="summary">Welcome to the MDN Learning Area. This set of articles aims to provide complete beginners to web development with all they need to start coding simple websites.</p>
 </div>
 
-<p>The aim of this area of MDN is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable". From there you should be able to start making your own way, learning from <a href="https://developer.mozilla.org/en-US/">the rest of MDN</a>&nbsp;and other intermediate to advanced resources that assume a lot of previous knowledge.</p>
+<p>The aim of this area of MDN is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable". From there you should be able to start making your own way, learning from <a href="https://developer.mozilla.org/en-US/">the rest of MDN</a> and other intermediate to advanced resources that assume a lot of previous knowledge.</p>
 
-<p>If you are a complete beginner, web development can be challenging — we will hold your hand&nbsp;and provide enough detail for you to feel comfortable and learn the topics properly. You should feel at home whether you are a student learning web development (on your own or as part of a class), a teacher looking for class materials, a hobbyist, or someone who just wants to understand more about how web technologies work.</p>
+<p>If you are a complete beginner, web development can be challenging — we will hold your hand and provide enough detail for you to feel comfortable and learn the topics properly. You should feel at home whether you are a student learning web development (on your own or as part of a class), a teacher looking for class materials, a hobbyist, or someone who just wants to understand more about how web technologies work.</p>
 
 <div class="warning">
 <p><strong>Important</strong>: The content in the Learning Area is being added to regularly. If you have questions regarding topics you'd like to see covered or feel are missing, see the {{anch("Contact us")}} section below for information on how to get in touch.</p>
@@ -60,7 +60,7 @@ based_on: None
  <dt><a href="/en-US/docs/Learn/Tools_and_testing">Tools and testing</a></dt>
  <dd>This topic is a place to cover tools developers use to facilitate their work, such as cross browser testing tools.</dd>
  <dt><a href="/en-US/docs/Learn/Server-side">Server-side website programming</a></dt>
- <dd>Even if you are concentrating on client-side web development, it is still useful to know about how servers and server-side code features work. This topic provides a general introduction to how the server-side works, and detailed tutorials detailing how to build up a server-side app using two popular frameworks — Django (Python) and Express (node.js).&nbsp;</dd>
+ <dd>Even if you are concentrating on client-side web development, it is still useful to know about how servers and server-side code features work. This topic provides a general introduction to how the server-side works, and detailed tutorials detailing how to build up a server-side app using two popular frameworks — Django (Python) and Express (node.js). </dd>
 </dl>
 
 <h2 id="Getting_our_code_examples">Getting our code examples</h2>
@@ -73,8 +73,7 @@ based_on: None
  <li>Once you've signed up, log in to <a href="https://github.com">github.com</a> with your username and password.</li>
  <li>Open your computer's <a href="https://www.lifewire.com/how-to-open-command-prompt-2618089">command prompt</a> (Windows) or terminal (<a href="https://help.ubuntu.com/community/UsingTheTerminal">Linux</a>, <a href="http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line">MacOSX</a>)</li>
  <li>To copy the learning area repo to a folder called learning-area in the current location your command prompt/terminal is pointing to, use the following command:
-  <pre class="brush: bash">
-git clone https://github.com/mdn/learning-area</pre>
+  <pre class="brush: bash">git clone https://github.com/mdn/learning-area</pre>
  </li>
  <li>You can now enter the directory and find the files you are after (either using your finder/file explorer or the <a href="https://en.wikipedia.org/wiki/Cd_(command)">cd command</a>).</li>
 </ol>
@@ -84,12 +83,10 @@ git clone https://github.com/mdn/learning-area</pre>
 <ol>
  <li>In your command prompt/terminal, go inside the <code>learning-area</code> directory using <code>cd</code>. For example, if you were in the parent directory:
 
-  <pre class="brush: bash">
-cd learning-area</pre>
+  <pre class="brush: bash">cd learning-area</pre>
  </li>
  <li>Update the repository using the following command:
-  <pre class="brush: bash">
-git pull</pre>
+  <pre class="brush: bash">git pull</pre>
  </li>
 </ol>
 
