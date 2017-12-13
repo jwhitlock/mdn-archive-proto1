@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1248043
+revision_id: 1336482
 locale: en-US
 slug: Learn
 tags: "Web" "Index" "Intro" "Learn" "Landing" "Beginner"
-title: Learn web development
+title: Aprende  diseño y desarrollo web
 summary: 
 keywords: 
 needs_technical_review: False
@@ -16,10 +16,10 @@ based_on: None
 <div>{{LearnSidebar}}</div>
 
 <div>
-<p class="summary">Welcome to the MDN Learning Area. This set of articles aims to provide complete beginners to web development with all they need to start coding simple websites.</p>
+<p class="summary">¡Hola! Bienvenido a la zona de aprendizaje de MDN. Si quieres aprender sobre cómo crear tus propias páginas web, sitios o aplicaciones, has venido al lugar indicado..</p>
 </div>
 
-<p>The aim of this area of MDN is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable". From there you should be able to start making your own way, learning from <a href="https://developer.mozilla.org/en-US/">the rest of MDN</a>, and other intermediate to advanced resources that assume a lot of previous knowledge.</p>
+<p>The aim of this area of MDN is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable". From there you should be able to start making your own way, learning from <a href="https://developer.mozilla.org/en-US/">the rest of MDN</a>&nbsp;and other intermediate to advanced resources that assume a lot of previous knowledge.</p>
 
 <p>If you are a complete beginner, web development can be challenging — we will hold your hand&nbsp;and provide enough detail for you to feel comfortable and learn the topics properly. You should feel at home whether you are a student learning web development (on your own or as part of a class), a teacher looking for class materials, a hobbyist, or someone who just wants to understand more about how web technologies work.</p>
 
@@ -42,6 +42,27 @@ based_on: None
 
 <p>{{LearnBox({"title":"Random glossary entry"})}}</p>
 
+<h2 id="Topics_covered">Topics covered</h2>
+
+<p>The following is a list of all the topics we cover in the MDN learning area.</p>
+
+<dl>
+ <dt><a href="/en-US/docs/Learn/Getting_started_with_the_web">Getting started with the web</a></dt>
+ <dd>Provides a practical introduction to web development for complete beginners.</dd>
+ <dt><a href="/en-US/docs/Learn/HTML">HTML — Structuring the web</a></dt>
+ <dd>HTML is the language that we use to structure the different parts of our content and define what their meaning or purpose is. This topic teaches HTML in detail.</dd>
+ <dt><a href="/en-US/docs/Learn/CSS">CSS — Styling the web</a></dt>
+ <dd>CSS is the language that we can use to style and lay out our web content, as well as adding behavior like animation. This topic provides comprehensive coverage of CSS.</dd>
+ <dt><a href="/en-US/docs/Learn/JavaScript">JavaScript — Dynamic client-side scripting</a></dt>
+ <dd>JavaScript is the scripting language used to add dynamic functionality to web pages. This topic teaches all the essentials needed to become comfortable with writing and understanding JavaScript.</dd>
+ <dt><a href="/en-US/docs/Learn/Accessibility">Accessibility — make the web usable by everyone</a></dt>
+ <dd>Accessibility is the practice of making web content available to as many people as possible regardless of disability, device, locale, or other differentiating factors. This topic gives you all you need to know.</dd>
+ <dt><a href="/en-US/docs/Learn/Tools_and_testing">Tools and testing</a></dt>
+ <dd>This topic is a place to cover tools developers use to facilitate their work, such as cross browser testing tools.</dd>
+ <dt><a href="/en-US/docs/Learn/Server-side">Server-side website programming</a></dt>
+ <dd>Even if you are concentrating on client-side web development, it is still useful to know about how servers and server-side code features work. This topic provides a general introduction to how the server-side works, and detailed tutorials detailing how to build up a server-side app using two popular frameworks — Django (Python) and Express (node.js).&nbsp;</dd>
+</dl>
+
 <h2 id="Getting_our_code_examples">Getting our code examples</h2>
 
 <p>The code examples you'll encounter in the Learning Area are all <a href="https://github.com/mdn/learning-area/">available on GitHub</a>. If you want to copy them all to your computer, the easiest way is to:</p>
@@ -55,13 +76,13 @@ based_on: None
   <pre class="brush: bash">
 git clone https://github.com/mdn/learning-area</pre>
  </li>
- <li>You can now enter the directory and find the files you are after (either using your finder/file explorer, or the <a href="https://en.wikipedia.org/wiki/Cd_(command)">cd command</a>).</li>
+ <li>You can now enter the directory and find the files you are after (either using your finder/file explorer or the <a href="https://en.wikipedia.org/wiki/Cd_(command)">cd command</a>).</li>
 </ol>
 
 <p>You can update the <code>learning-area</code> repository with any changes made to the master version on GitHub with the following steps:</p>
 
 <ol>
- <li>In your command prompt/terminal, go inside the <code>learning-area</code> directory using <code>cd</code>, for example if you were in the parent directory:
+ <li>In your command prompt/terminal, go inside the <code>learning-area</code> directory using <code>cd</code>. For example, if you were in the parent directory:
 
   <pre class="brush: bash">
 cd learning-area</pre>
@@ -74,7 +95,7 @@ git pull</pre>
 
 <h2 id="Contact_us">Contact us</h2>
 
-<p>If you want to get in touch with us about anything, the best way is to drop us a message on our <a href="/en-US/docs/MDN/Community/Conversations#Asynchronous_discussions">mailing lists</a> or <a href="https://developer.mozilla.org/en-US/docs/MDN/Community/Conversations#Chat_in_IRC">IRC channels</a>. We'd like to hear from you about anything you think is wrong or missing on the site, requests for new learning topics, requests for help with items you don't understand, or anything else.</p>
+<p>If you want to get in touch with us about anything, the best way is to drop us a message on our <a href="https://discourse.mozilla-community.org/t/learning-web-development-marking-guides-and-questions/16294">Learning Area discourse thread</a> or <a href="https://developer.mozilla.org/en-US/docs/MDN/Community/Conversations#Chat_in_IRC">IRC channels</a>. We'd like to hear from you about anything you think is wrong or missing on the site, requests for new learning topics, requests for help with items you don't understand, or any other questions or concerns.</p>
 
 <p>If you're interested in helping develop/improve the content, take a look at <a href="/en-US/Learn/How_to_contribute">how you can help</a>, and get in touch! We are more than happy to talk to you, whether you are a learner, teacher, experienced web developer, or someone else interested in helping to improve the learning experience.</p>
 
@@ -84,7 +105,7 @@ git pull</pre>
 
 <dl>
  <dt><a href="https://www.mozilla.org/en-US/newsletter/developer/">Mozilla Developer Newsletter</a></dt>
- <dd>Our newsletter for web developers, which is great resource for all levels of developer.</dd>
+ <dd>Our newsletter for web developers, which is a great resource for all levels of experience.</dd>
 </dl>
 
 <dl>
@@ -92,8 +113,8 @@ git pull</pre>
  <dd>A great interactive site for learning programming languages from scratch.</dd>
  <dt><a href="https://code.org/">Code.org</a></dt>
  <dd>Basic coding theory and practice, mainly aimed at children/complete beginners.</dd>
- <dt><a href="https://www.freecodecamp.com/">freeCodeCamp.com</a></dt>
- <dd>Interactive site with tutorials and projects to learn Web Development.</dd>
+ <dt><a href="https://www.freecodecamp.org/">freeCodeCamp.org</a></dt>
+ <dd>Interactive site with tutorials and projects to learn web development.</dd>
 </dl>
 
 <dl>
