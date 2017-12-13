@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1322650
+revision_id: 1336395
 locale: kab
 slug: Games
 tags: 
@@ -9,13 +9,13 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <p>&nbsp;</p>
 
-<p>Urar d-yiwen seg irmuden n Tasenselkimt aɣerfan.ti tiknulujiyin timaynutin tt-awint-ed yal ass asnefli arebbaw u seg widen iǧehden ig zemren ad i ddu di yal iminig ɣef web arawas i tignutin.</p>
+<p>Urar d-yiwen seg irmuden n Tasenselkimt aɣerfan.titiknulujiyin timaynutin ttawinted yal ass asnefli arebbaw u seg widen iǧehden ig zemren ad i ddu di yal iminig ɣef web arawas i tignutin.</p>
 
 <div><strong>Snefli uraren di web</strong></div>
 
