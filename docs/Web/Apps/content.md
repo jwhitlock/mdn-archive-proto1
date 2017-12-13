@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1336275
+revision_id: 1336331
 locale: en-US
 slug: Web/Apps
 tags: "Apps" "Mobile" "Modern web apps" "Web Development" "Progressive web apps"
@@ -25,12 +25,10 @@ based_on: None
 </dl>
 </div>
 
-<div class="column-half">&nbsp;</div>
+<div class="column-half"> </div>
 </div>
 
-<h2 id="App_fundamentals">App fundame</h2>
-
-<h2>tals</h2>
+<h2 id="App_fundamentals">App fundamentals</h2>
 
 <p>The guides listed below cover common areas of functionality that you'll want to cover/implement in web apps. Each page includes workflows, tutorials, references, examples, and other useful information.</p>
 
