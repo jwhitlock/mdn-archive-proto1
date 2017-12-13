@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1273501
+revision_id: 1336237
 locale: ja
 slug: MDN/About
 tags: "要更新" "MDN Meta" "Guide" "Licenses" "Community" "Copyright"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{IncludeSubNav("/ja/docs/MDN")}}</div>
 
-<p>Mozilla Developer Network (MDN) は進化し続ける学習プラットフォームであり、下記に挙げるようなウェブテクノロジーとウェブを支えるソフトウェアについて学ぶことができます。</p>
+<p>MDN Web Docs は進化し続ける学習プラットフォームであり、下記に挙げるようなウェブテクノロジーとウェブを支えるソフトウェアについて学ぶことができます。</p>
 
 <ul>
  <li><a href="/ja/docs/CSS" title="/ja/docs/CSS">CSS</a>、<a href="/ja/docs/HTML" title="/ja/docs/HTML">HTML</a>、 <a href="/ja/docs/JavaScript" title="/ja/docs/JavaScript">JavaScript</a> などのウェブ標準</li>
@@ -23,9 +23,11 @@ based_on: None
  <li><a href="/ja/docs/Mozilla/Add-ons" title="/ja/docs/Add-ons">Firefox のアドオン開発</a></li>
 </ul>
 
+<h2 id="Our_mission">我々のミッション</h2>
+
 <p>MDN のミッションは単純です。開発者が<a href="/ja/docs/Web">オープンなウェブ</a>上でプロジェクトを簡単に構築できるようにする情報を提供することです。ウェブ上で公開されているオープンなテクノロジーであれば、どんなものでも私たちは文書化したいと考えています。</p>
 
-<p>加えて、<a href="/ja/docs/Mozilla">Mozilla の製品</a>に関するドキュメントや、<a href="/ja/docs/Mozilla">Mozilla プロジェクトをビルドしたり、プロジェクトに協力する</a>方法に関するドキュメントも提供します。また、<a href="/ja/Firefox_OS">B2G OS</a>&nbsp;(旧 Firefox OS) に関するドキュメントもカバーします。</p>
+<p>加えて、<a href="/ja/docs/Mozilla">Mozilla の製品</a>に関するドキュメントや、<a href="/ja/docs/Mozilla">Mozilla プロジェクトをビルドしたり、プロジェクトに協力する</a>方法に関するドキュメントも提供します。</p>
 
 <p>もしあるトピックを MDN に含めるべきか、自信を持って判断できないときは、<a href="/ja/docs/Project:MDN/Contributing/Does_this_belong">これは MDN に含まれますか？</a>&nbsp;のページを読んでみてください。</p>
 
@@ -37,9 +39,9 @@ based_on: None
 
 <h2 id="MDN_コミュニティ">MDN コミュニティ</h2>
 
-<p>私たちのコミュニティはグローバルなコミュニティです！ 素晴らしい貢献者たちが全世界に存在し、数々の言語をカバーしています。<span id="result_box" lang="ja"><span>私たちについてもっと知りたい、あるいはMDNに関する助けが必要な場合は、ディスカッションフォーラムやIRCチャンネルに参加してください。</span></span></p>
+<p>私たちのコミュニティはグローバルなコミュニティです！ 素晴らしい貢献者たちが全世界に存在し、数々の言語をカバーしています。<span id="result_box" lang="ja"><span>私たちについてもっと知りたい、あるいはMDNに関する助けが必要な場合は、</span></span> <a href="https://discourse.mozilla-community.org/c/mdn">ディスカッションフォーラム</a> <span lang="ja"><span>や</span></span> <a href="irc://irc.mozilla.org#mdn">IRC チャンネル</a> <span lang="ja"><span>に参加してください。{{Yakuchu("英語のでのコミュニケーションになります。")}}</span></span> <a href="http://twitter.com/MozDevNet">@MozDevNet</a> のTwitterアカウントをフォローして最新情報を追いかけることもできます。何かの間違いを見つけたりフィードバックしたり(感謝したり) したい場合、ライターや貢献者にツイートすることもできます。</p>
 
-<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "定例会|https://wiki.mozilla.org/MDN/Community_meetings|隔週水曜日に IRC で||イベント|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN コミュニティのイベントカレンダー||Trello 掲示板|https://trello.com/b/HAhl54zz/status|プロジェクト管理のための掲示板||貢献する|/ja/docs/Inbox|ページを作成する", "MozDevNet")}}</p>
+<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "イベント|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN コミュニティのイベントカレンダー", "MozDevNet")}}</p>
 
 <h2 id="MDNのコンテンツを使用するには">MDNのコンテンツを使用するには</h2>
 
@@ -84,7 +86,7 @@ based_on: None
 
 <h3 id="コンテンツをダウンロードするには">コンテンツをダウンロードするには</h3>
 
-<p><a href="https://developer.mozilla.org/media/developer.mozilla.org.tar.gz">MDN のすべての内容の tarball ミラー</a>&nbsp;(2016年11月30日 現在、2.5 GB) がダウンロードできます。</p>
+<p><a href="https://mdn-downloads.s3-us-west-2.amazonaws.com/developer.mozilla.org.tar.gz">MDN のすべての内容の tarball ミラー</a>&nbsp;(2017年2月 現在、2.1 GB) がダウンロードできます。</p>
 
 <h4 id="単一ページのダウンロード">単一ページのダウンロード</h4>
 
@@ -100,13 +102,13 @@ based_on: None
 
 <p>リンクを張るときは、ガイダンス記事&nbsp;<a href="https://developer.mozilla.org/ja/docs/MDN/About/Linking_to_MDN">MDN にリンクするには</a>&nbsp;に従うのがベストプラクティスです。</p>
 
-<h2 id="MDN_の問題を報告する">MDN の問題を報告する</h2>
+<h2 id="MDN_の問題を報告する">MDN&nbsp;Web Docs の問題を報告する</h2>
 
 <p><a href="https://developer.mozilla.org/ja/docs/MDN/Contribute/Howto/Report_a_problem">MDN の問題を報告する</a> を読んでください。</p>
 
-<h2 id="MDN_の歴史">MDN の歴史</h2>
+<h2 id="MDN_の歴史">MDN&nbsp;Web Docs の歴史</h2>
 
-<p>Mozilla Developer Network (かつては Mozilla Developer Center (MDC) として知られ、また <em>Devmoとしても知られていた</em>) プロジェクトは、2005年初頭、<a class="external" href="http://www.mozillafoundation.org">Mozilla Foundation</a> が AOL からオリジナルの <a href="/Project:en/DevEdge" title="Project:en/DevEdge">DevEdge</a> のコンテンツの使用ライセンスを取得した時点から始まりました。 DevEdge のコンテンツの中からまだ使える素材が探し出され、更新と維持が楽になるよう、ボランティアによって wiki に移されました。</p>
+<p>MDN Web Docs (かつては&nbsp;Mozilla Developer Network(MDN)、その前は Mozilla Developer Center (MDC) として知られ、また <em>Devmoとしても知られていた</em>) プロジェクトは、2005年初頭、<a class="external" href="http://www.mozillafoundation.org">Mozilla Foundation</a> が AOL からオリジナルの <a href="/Project:en/DevEdge" title="Project:en/DevEdge">DevEdge</a> のコンテンツの使用ライセンスを取得した時点から始まりました。 DevEdge のコンテンツの中からまだ使える素材が探し出され、更新と維持が楽になるよう、ボランティアによって wiki に移されました。</p>
 
 <p>さらに詳しい MDN の歴史については、私たちのページ <a href="https://developer.mozilla.org/ja/docs/MDN_at_ten">MDN は 10 周年を迎えました</a> を参照してください。当時の関係者から聞き取った内容も含まれています。</p>
 
