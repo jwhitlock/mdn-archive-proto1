@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1336323
+revision_id: 1336338
 locale: nl
 slug: MDN/Over
 tags: "Gids" "MDN Meta" "Community" "Licenties" "Collaboratie" "Documentație" "Auteursrechten"
@@ -29,7 +29,7 @@ based_on: None
 
 <p>Daarnaast bieden we documentatie over <a href="https://developer.mozilla.org/nl/docs/Mozilla">Mozilla producten</a> en hoe mee te&nbsp; <a href="https://developer.mozilla.org/nl/docs/Mozilla">bouwen en bij te dragen aan Mozilla projecten</a>.</p>
 
-<p>Als je onzeker bent of een specifiek onderwerp wel op MDN past of niet, lees: <a href="https://developer.mozilla.org/nl/docs/MDN/Over/Promote">Hoort dit op MDN?</a></p>
+<p>Als je onzeker bent of een specifiek onderwerp wel op MDN past of niet, lees: <a href="https://developer.mozilla.org/nl/docs/MDN/Contribute/Guidelines/Does_this_belong_on_MDN">Hoort dit op MDN?</a></p>
 
 <h2 id="Hoe_u_kunt_helpen">Hoe u kunt helpen</h2>
 
