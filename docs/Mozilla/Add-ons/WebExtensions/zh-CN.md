@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1317927
+revision_id: 1336575
 locale: zh-CN
 slug: Mozilla/Add-ons/WebExtensions
 tags: "发布" "附加组件" "WebExtension" "WebExtensions" "firefox add-on" "web-extensions" "firefox extensions"
@@ -27,7 +27,7 @@ based_on: None
  <li><a href="/zh-CN/Add-ons/WebExtensions/What_are_WebExtensions">什么是扩展?</a></li>
  <li><a href="/zh-CN/Add-ons/WebExtensions/Your_first_WebExtension">你的第一个扩展</a></li>
  <li><a href="/zh-CN/Add-ons/WebExtensions/Your_second_WebExtension">你的第二个扩展</a></li>
- <li><a href="/zh-CN/Add-ons/WebExtensions/Anatomy_of_a_WebExtension">解析一个扩展</a></li>
+ <li><a href="/zh-CN/Add-ons/WebExtensions/Anatomy_of_a_WebExtension">扩展解析</a></li>
  <li><a href="/zh-CN/Add-ons/WebExtensions/Examples">扩展示例</a></li>
 </ul>
 
@@ -36,7 +36,7 @@ based_on: None
 <ul>
  <li><a href="/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests">拦截 HTTP 请求</a></li>
  <li><a href="/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page">修改网页</a></li>
- <li><a href="/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar">添加按钮在工具栏</a></li>
+ <li><a href="/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar">在工具栏添加按钮</a></li>
  <li><a href="/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Implement_a_settings_page">制作一个设置页面</a></li>
  <li><a href="/zh-CN//docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard">与剪贴板交互</a></li>
 </ul>
