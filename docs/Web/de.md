@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1326608
+revision_id: 1336593
 locale: de
 slug: Web
 tags: "Web" "Landing" "Verlauf" "Technologie" "Web Entwicklung"
@@ -26,6 +26,8 @@ based_on: None
  <dd>Die Auszeichnungssprache <strong>HyperText Markup Language</strong> kommt bei der Erstellung von Inhalten für eine Webseite zum Einsatz.</dd>
  <dt><a href="/de/docs/Web/CSS" title="/en-US/docs/Web/CSS">CSS</a></dt>
  <dd><strong>Cascading Style Sheets</strong> werden verwendet, um das Aussehen einer Webseite zu definieren.</dd>
+ <dt><a href="/de/docs/Web/HTTP">HTTP</a></dt>
+ <dd><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong> wird benutzt, um HTML und andere Medien über das Netz zu übertragen.</dd>
 </dl>
 
 <h3 id="Scripting">Scripting</h3>
