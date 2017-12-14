@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1336331
+revision_id: 1336569
 locale: en-US
 slug: Web/Apps
 tags: "Apps" "Mobile" "Modern web apps" "Web Development" "Progressive web apps"
@@ -25,7 +25,7 @@ based_on: None
 </dl>
 </div>
 
-<div class="column-half"> </div>
+<div class="column-half">&nbsp;</div>
 </div>
 
 <h2 id="App_fundamentals">App fundamentals</h2>
@@ -40,7 +40,7 @@ based_on: None
  <dt><a href="/en-US/Apps/Build/Basic_data_flow">Basic data flow</a></dt>
  <dd>Setting up the data flow through your application, HTTP basics, Ajax.</dd>
  <dt><a href="/en-US/Apps/Build/Modern_web_app_architecture">Modern web app architecture</a></dt>
- <dd>A basic introduction to modern web app architecture and development: MVC, frameworks, etc.</dd>
+ <dd>A basic introduction to modern web app architecture and development: MVC, frameworks, and so on.</dd>
  <dt><a href="/en-US/Apps/Build/gather_and_modify_data">Gather and modify data</a></dt>
  <dd>Retrieving data from files, device hardware (e.g., battery, proximity, light sensor), and key services (e.g., camera, contacts).</dd>
  <dt><a href="/en-US/Apps/Build/User_notifications">User notifications</a></dt>
