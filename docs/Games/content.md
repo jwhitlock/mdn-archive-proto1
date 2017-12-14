@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1304893
+revision_id: 1336563
 locale: en-US
 slug: Games
 tags: "Web" "Apps" "Games" "HTML5 Games" "Gamedev" "JavaScript Games" "Game Development"
@@ -23,7 +23,7 @@ based_on: None
 <div class="column-half">
 <h2 id="Develop_web_games">Develop web games</h2>
 
-<p>Welcome to the MDN game development center! In this area of the site we provide resources for web developers wanting to develop games. You'll find many useful tutorials and technique articles in the main menu on the left, so feel free to explore.</p>
+<p>Welcome to the MDN game development center! In this area of the site we provide resources for web developers wanting to develop games. You will&nbsp;find many useful tutorials and technique articles in the main menu on the left, so feel free to explore.</p>
 
 <p>We've also included a reference section so you can easily find information about all the most common APIs used in game development.</p>
 
@@ -35,7 +35,7 @@ based_on: None
 <div class="column-half">
 <h2 id="Port_native_games_to_the_Web">Port native games to the Web</h2>
 
-<p>If you are a native developer (for example writing games in C++), and you are interested in how you can port your games over to the Web, you should learn more about our <a href="http://kripken.github.io/emscripten-site/index.html">Emscripten</a> tool — this is An LLVM to JavaScript compiler, which takes LLVM bytecode (e.g. generated from C/C++ using Clang, or from another language) and compiles that into <a href="/en-US/docs/Games/Tools/asm.js">asm.js</a>, which can be run on the Web.</p>
+<p>If you are a native developer (for example writing games in C++), and you are interested in how you can port your games over to the Web, you should learn more about our <a href="http://kripken.github.io/emscripten-site/index.html">Emscripten</a> tool — this is an LLVM to JavaScript compiler, which takes LLVM bytecode (e.g. generated from C/C++ using Clang, or from another language) and compiles that into <a href="/en-US/docs/Games/Tools/asm.js">asm.js</a>, which can be run on the Web.</p>
 
 <p>To get started, see:</p>
 
@@ -63,15 +63,15 @@ based_on: None
 <div class="column-half">
 <dl>
  <dt><a href="http://buildnewgames.com/">Build New Games</a></dt>
- <dd>A collaborative site featuring a large number of open web game development tutorials. Hasn't been very active recently, but still holds some nice resources.</dd>
+ <dd>A collaborative site featuring a large number of open web game development tutorials. Has not&nbsp;been very active recently, but still holds some nice resources.</dd>
  <dt><a href="http://creativejs.com/">Creative JS</a></dt>
- <dd>A collection of impressive JavaScript techniques and experiments, not specific to games, but helpful nonetheless. Hasn't been very active recently, but still holds some nice resources.</dd>
+ <dd>A collection of impressive JavaScript techniques and experiments, not specific to games, but helpful nonetheless. Has not&nbsp;been very active recently, but still holds some nice resources.</dd>
  <dt><a href="http://gameprogrammingpatterns.com/">Game programming patterns</a></dt>
- <dd>An online book, written by Bob Nystrom, which discusses programming patterns in the context of game development with the aim of helping game developers produce more effective, efficient code.</dd>
+ <dd>An online book, written by Bob Nystrom, which discusses programming patterns in the context of game development with the aim of helping game developers produce more effective and efficient code.</dd>
  <dt><a href="http://gamedevjsweekly.com/">Gamedev.js Weekly</a></dt>
- <dd>Weekly newsletter about HTML5 game development, sent every Friday. Contains the latest articles, tutorials, tools, and resources.</dd>
+ <dd>Weekly newsletter about HTML5 game development, sent every Friday. Contains the latest articles, tutorials, tools&nbsp;and resources.</dd>
  <dt><a href="http://www.html5gamedevs.com/">HTML5 Game Devs Forum</a></dt>
- <dd>Forums for developers, framework creators and publishers. Ask questions, get feedback, help others.</dd>
+ <dd>Forums for developers, framework creators and publishers. Ask questions, get feedback and&nbsp;help others.</dd>
 </dl>
 </div>
 
