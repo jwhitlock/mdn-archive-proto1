@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1247471
+revision_id: 1336985
 locale: ko
 slug: Web/JavaScript
 tags: "Learn" "Landing" "JavaScript" "l10n:priority"
@@ -16,6 +16,32 @@ based_on: None
 <div>{{JsSidebar}}</div>
 
 <p class="summary"><strong>JavaScript</strong> (JS)는 가벼운 인터프리터형 또는 JIT-컴파일형&nbsp;프로그래밍 언어로, <a href="https://en.wikipedia.org/wiki/First-class_functions" title="https://en.wikipedia.org/wiki/First-class_functions">일급 함수</a>를 지원합니다. 주로 웹 페이지를 위한 스크립팅 언어로 알려졌지만, <a class="external" href="https://nodejs.org/">node.js</a>나 <a href="https://couchdb.apache.org/">Apache CouchDB</a>처럼 <a class="external" href="https://en.wikipedia.org/wiki/JavaScript#Uses_outside_web_pages">많은 비브라우저 환경</a>에서도 사용됩니다. JavaScript는 <a class="mw-redirect" href="https://en.wikipedia.org/wiki/Prototype-based_programming" title="Prototype-based">프로토타입 기반</a>의 다중 패러다임 스크립팅 언어로서, 역동적이고, 객체지향형, 명령형 및 선언형(가령 함수형 프로그래밍) 스타일을 지원합니다. 자세한 내용은 <a href="/ko/docs/Web/JavaScript/About">JavaScript에 대하여</a>를 참고하세요.</p>
+
+<p class="summary">&nbsp;</p>
+
+<p>&nbsp;‘HTML(Hyper&nbsp;Text&nbsp;Markup&nbsp;Language)’, ‘CSS(Cascading&nbsp;Style&nbsp;Sheets)’, ‘자바스크립트(Javascript)’다.&nbsp;HTML은 웹페이지의 큰 뼈대를 제공하고,&nbsp;CSS는 색깔이나 글씨체와 같은 디자인 요소를 관리한다. 자바스크립트는 크로스 플랫폼(crossplatform), 객체지향 스크립트 언어로 웹페이지의 동작을 담당한다. 예를 들어 자바스크립트를 이용하면 ‘<a href="http://www.w3schools.com/js/" target="_blank">버튼을 클릭하면 밑에 날짜를 보여줘</a>’라는 식의 명령을 내릴 수 있다.</p>
+
+<p>자바스크립트를 이용하면 웹에 풍부한 효과를 넣을 수 있지만, 2000년대 초반만 해도 자바스크립트는 개발자들에게 무시당하는 언어였다. 별다른 기능도 없고, 성능도 별로 좋지 않았기 때문이다. 하지만 최근 몇 년 사이에 다양한 자바스크립트 프레임워크와 라이브러리가 생기면서 자바스크립트 생태계는 크게 확장되고 있으며, 그 위상도 점점 높아지고 있다.</p>
+
+<p><strong>[네이버 지식백과]</strong>&nbsp;<a href="http://terms.naver.com/entry.nhn?docId=3580851">자바스크립트</a>&nbsp;[Javascript] - 웹을 풍부하게 만들어주는 작고 가벼운 언어 (용어로 보는 IT)</p>
+
+<p class="summary">&nbsp;</p>
+
+<p>우리가 매일 접속하는 웹사이트는 크게 3가지 요소로 구성된다. ‘HTML(Hyper&nbsp;Text&nbsp;Markup&nbsp;Language)’, ‘CSS(Cascading&nbsp;Style&nbsp;Sheets)’, ‘자바스크립트(Javascript)’다.&nbsp;HTML은 웹페이지의 큰 뼈대를 제공하고,&nbsp;CSS는 색깔이나 글씨체와 같은 디자인 요소를 관리한다. 자바스크립트는 크로스 플랫폼(crossplatform), 객체지향 스크립트 언어로 웹페이지의 동작을 담당한다. 예를 들어 자바스크립트를 이용하면 ‘<a href="http://www.w3schools.com/js/" target="_blank">버튼을 클릭하면 밑에 날짜를 보여줘</a>’라는 식의 명령을 내릴 수 있다.</p>
+
+<p>자바스크립트를 이용하면 웹에 풍부한 효과를 넣을 수 있지만, 2000년대 초반만 해도 자바스크립트는 개발자들에게 무시당하는 언어였다. 별다른 기능도 없고, 성능도 별로 좋지 않았기 때문이다. 하지만 최근 몇 년 사이에 다양한 자바스크립트 프레임워크와 라이브러리가 생기면서 자바스크립트 생태계는 크게 확장되고 있으며, 그 위상도 점점 높아지고 있다.</p>
+
+<p><strong>[네이버 지식백과]</strong>&nbsp;<a href="http://terms.naver.com/entry.nhn?docId=3580851">자바스크립트</a>&nbsp;[Javascript] - 웹을 풍부하게 만들어주는 작고 가벼운 언어 (용어로 보는 IT)</p>
+
+<p class="summary">&nbsp;</p>
+
+<p>우리가 매일 접속하는 웹사이트는 크게 3가지 요소로 구성된다. ‘HTML(Hyper&nbsp;Text&nbsp;Markup&nbsp;Language)’, ‘CSS(Cascading&nbsp;Style&nbsp;Sheets)’, ‘자바스크립트(Javascript)’다.&nbsp;HTML은 웹페이지의 큰 뼈대를 제공하고,&nbsp;CSS는 색깔이나 글씨체와 같은 디자인 요소를 관리한다. 자바스크립트는 크로스 플랫폼(crossplatform), 객체지향 스크립트 언어로 웹페이지의 동작을 담당한다. 예를 들어 자바스크립트를 이용하면 ‘<a href="http://www.w3schools.com/js/" target="_blank">버튼을 클릭하면 밑에 날짜를 보여줘</a>’라는 식의 명령을 내릴 수 있다.</p>
+
+<p>자바스크립트를 이용하면 웹에 풍부한 효과를 넣을 수 있지만, 2000년대 초반만 해도 자바스크립트는 개발자들에게 무시당하는 언어였다. 별다른 기능도 없고, 성능도 별로 좋지 않았기 때문이다. 하지만 최근 몇 년 사이에 다양한 자바스크립트 프레임워크와 라이브러리가 생기면서 자바스크립트 생태계는 크게 확장되고 있으며, 그 위상도 점점 높아지고 있다.</p>
+
+<p><strong>[네이버 지식백과]</strong>&nbsp;<a href="http://terms.naver.com/entry.nhn?docId=3580851">자바스크립트</a>&nbsp;[Javascript] - 웹을 풍부하게 만들어주는 작고 가벼운 언어 (용어로 보는 IT)</p>
+
+<p class="summary">&nbsp;</p>
 
 <p>이 문서는&nbsp;JavaScript 언어 자체만 다루며 웹 페이지를 비롯한 다른 사용 환경에 대해서는 다루지 않습니다. 웹 페이지의 특정 {{Glossary("API","APIs")}}에 대하여 알고 싶다면 <a href="/ko/docs/Web/API">웹 API</a>와 <a href="/ko/docs/DOM">DOM</a>을 참고하시기 바랍니다.</p>
 
