@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1321626
+revision_id: 1337027
 locale: en-US
 slug: MDN/Feedback
 tags: "MDN" "MDN Meta" "Guide" "Documentation"
@@ -62,7 +62,15 @@ based_on: None
 
 <h3 id="Documentation_issues">Documentation issues</h3>
 
-<p>If you see a problem in the documentation and can't fix it yourself for any reason, you can <a href="https://bugzilla.mozilla.org/form.doc" title="Report a documentation content problem.">report the issue</a>! You can use this form for any documentation issue at all, whether it's a simple correction or a request for an entirely new piece of content. As mentioned before, we invite you to contribute the changes yourself, but this option is available for you as well.</p>
+<p>If you see a problem in the documentation and can't fix it yourself for any reason, you can <a href="https://bugzilla.mozilla.org/form.doc" title="Report a documentation content problem.">report the issue</a>! You can use this form for any documentation issue at all, for example:</p>
+
+<ul>
+ <li>a simple correction</li>
+ <li>a request for an entirely new piece of content</li>
+ <li>reporting inappropriate content (including spam and misplaced translations)</li>
+</ul>
+
+<p>As mentioned before, we invite you to contribute the changes yourself, but this option is available for you as well.</p>
 
 <h3 id="Site_issues">Site issues</h3>
 
