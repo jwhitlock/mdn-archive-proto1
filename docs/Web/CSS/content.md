@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1336778
+revision_id: 1337529
 locale: en-US
 slug: Web/CSS
 tags: "CSS" "Design" "Layout" "Landing" "Reference" "l10n:priority"
@@ -15,7 +15,7 @@ based_on: None
 ---
 <p class="summary"><span class="seoSummary"><strong>Cascading Style Sheets</strong> (<strong>CSS</strong>) is a <a href="/en-US/docs/DOM/stylesheet">stylesheet</a> language used to describe the presentation of a document written in <a href="/en-US/docs/HTML" title="HyperText Markup Language">HTML</a></span> or <a href="/en-US/docs/XML">XML</a> (including XML dialects such as <a href="/en-US/docs/SVG">SVG</a> or <a href="/en-US/docs/XHTML">XHTML</a>). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.</p>
 
-<p>CSS is one of the core languages of the <em>open web</em> and is standardized across browsers according to the <a class="external" href="http://w3.org/Style/CSS/#specs">W3C specification</a>. Developed in levels, CSS1 is now obsolete, CSS2.1 is a recommendation, and <a href="/en-US/docs/CSS/CSS3" title="CSS3">CSS3</a>, now split into smaller modules, is progressing on the standardization track.</p>
+<p>CSS is one of the core languages of the <em>open web</em> and is standardized across browsers according to the <a href="http://w3.org/Style/CSS/#specs" class="external">W3C specification</a>. Developed in levels, CSS1 is now obsolete, CSS2.1 is a recommendation, and <a href="/en-US/docs/CSS/CSS3" title="CSS3">CSS3</a>, now split into smaller modules, is progressing on the standardization track.</p>
 
 <section id="sect1">
 <ul class="card-grid">
@@ -72,9 +72,9 @@ based_on: None
 <h2 class="Tools" id="Tools_for_CSS_development">Tools for CSS development</h2>
 
 <ul>
- <li>You can use the <a class="external" href="https://jigsaw.w3.org/css-validator/">W3C CSS Validation Service</a> to check if your CSS is valid. This is an invaluable debugging tool.</li>
+ <li>You can use the <a href="https://jigsaw.w3.org/css-validator/" class="external">W3C CSS Validation Service</a> to check if your CSS is valid. This is an invaluable debugging tool.</li>
  <li><a href="/en-US/docs/Tools">Firefox Developer Tools</a> lets you view and edit a page's live CSS via the <a href="/en-US/docs/Tools/Page_Inspector">Inspector</a> and <a href="/en-US/docs/Tools/Style_Editor">Style Editor</a> tools.</li>
- <li>The <a class="link-https" href="https://addons.mozilla.org/en-US/firefox/addon/60">Web Developer extension</a> for Firefox lets you track and edit live CSS on watched sites.</li>
+ <li>The <a href="https://addons.mozilla.org/en-US/firefox/addon/60" class="link-https">Web Developer extension</a> for Firefox lets you track and edit live CSS on watched sites.</li>
  <li>The Web community has created various other <a href="/en-US/docs/Web/CSS/Tools">miscellaneous CSS tools</a> for you to use.</li>
 </ul>
 
