@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1192447
+revision_id: 1337675
 locale: fr
 slug: Web/Tutoriels
 tags: "CSS" "MDN" "Code" "Design" "Débutant" "Tutoriel" "JavaScript" "Fondamentaux du Web"
@@ -8,8 +8,8 @@ title: Tutoriels
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -24,7 +24,7 @@ based_on: None
     <h3 id="Introduction"><font><font>Introduction</font></font></h3>
 
     <dl>
-     <dt><a href="https://docs.webplatform.org/wiki/guides/the_basics_of_html" lang="en">Introdution à HTML</a> <font><font>(WebPlatform.org)</font></font></dt>
+     <dt><a href="https://webplatform.github.io/docs/guides/the_basics_of_html/" lang="en">Introdution à HTML</a> <font><font>(WebPlatform.org)</font></font></dt>
      <dd>Ce qu’est le HTML,&nbsp;ce à quoi il sert, son historique en bref et ce à quoi ressemble la structure d’un document HTML. Cet article présente les principaux éléments qui composent une page HTML. Les articles qui suivent cet article présentent les éléments individuels qui composent HTML en beaucoup plus de profondeur.</dd>
      <dt><a href="http://reference.sitepoint.com/html/page-structure" lang="en" rel="external"><font><font>Structure de base d'une page web</font></font></a><font><font> (SitePoint)</font></font></dt>
      <dd><font><font>Apprendre comment les éléments HTML s'assemblent pour former une page web.</font></font></dd>
