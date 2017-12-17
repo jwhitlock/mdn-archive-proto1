@@ -1,14 +1,14 @@
 ---
 version: prototype1
-revision_id: 1332020
+revision_id: 1337693
 locale: ru
 slug: Web/HTML
 tags: "HTML" "HTML5" "Landing" "Главная" "Reference" "Руководство" "гипертекст"
 title: HTML
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
+needs_technical_review: True
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
