@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1004107
+revision_id: 1337976
 locale: ja
 slug: Games
 tags: "Web" "Apps" "Games" "HTML5 Games" "Gamedev" "JavaScript Games" "Game Development"
@@ -107,8 +107,6 @@ based_on: None
 </dl>
 </div>
 </div>
-
-<p>{{GameTechBox}}</p>
 
 <div class="note">
 <p><strong>付記:&nbsp; ゲーム開発に関するドキュメントは継続して作成されています。状況は <a href="/ja/docs/Games/Doc_Status">Game development documentation status</a> でご確認いただけます。ゲーム開発に関する文書作成にご貢献いただける方は、こちらのページから 作業が必要な文書を確認いただけます。</strong></p>
