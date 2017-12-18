@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 1279289
+revision_id: 1337981
 locale: ru
 slug: Games
 tags: 
 title: Разработка игр
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -100,8 +100,6 @@ based_on: None
 </div>
 </div>
 </div>
-
-<p>{{GameTechBox}}</p>
 
 <div class="note">
 <p><strong><span id="result_box" lang="ru" tabindex="-1"><span>Обратите внимание, что мы отслеживаем текущую работу над документацией по разработке игр на нашей</span></span> <a href="/en-US/docs/Games/Doc_Status">Game development documentation status</a>&nbsp;<span class="short_text" id="result_box" lang="ru" tabindex="-1"><span>странице</span></span>. <span id="result_box" lang="ru" tabindex="-1"><span>Если вы хотите внести свой вклад в документацию по разработке игр, ознакомьтесь с этой страницей, чтобы узнать, что нужно делать.</span></span> </strong></p>
