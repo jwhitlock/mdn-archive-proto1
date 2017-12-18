@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1320951
+revision_id: 1337975
 locale: de
 slug: Games
 tags: "Spiele" "Anwendungen"
@@ -8,8 +8,8 @@ title: Spieleentwicklung
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -43,10 +43,7 @@ based_on: None
  <dd>HTML5 games company Artillery have some useful articles on their blog.</dd>
  <dt><a href="https://leanpub.com/buildinggamesforfirefoxos/">Spiele für&nbsp;Firefox OS erstellen</a></dt>
  <dd>Eine schnell Anleitung&nbsp;um ein&nbsp;2D Spiel&nbsp;mit&nbsp;HTML5, für Firefox OS und anderen&nbsp;Mobilen Platformen zu ertellen.</dd>
- <dd>&nbsp;</dd>
 </dl>
-
-<p>&nbsp;</p>
 </div>
 
 <div class="column-half">
@@ -74,20 +71,8 @@ based_on: None
  <dd>WebGL und asm.js-basierte&nbsp;Strategiespiel: Capture all the suns to win!</dd>
  <dd>&nbsp;</dd>
 </dl>
-
-<dl>
- <dt>&nbsp;</dt>
-</dl>
 </div>
 </div>
-
-<p>{{GameTechBox}}</p>
-
-<div class="note">
-<p><strong>Note that we are keeping track of ongoing work on game development documentation on our <a href="/en-US/docs/Games/Doc_Status">Game development documentation status</a> page. If you want to help contribute to game development documentation, please have a look at this page to see what work needs doing!</strong></p>
-</div>
-
-<p>&nbsp;</p>
 
 <p>{{CommunityBox("Games development", "community-games", "mozilla.community.games", "games", "Games Wiki|https://wiki.mozilla.org/Platform/Games|View Wiki|Find more information about Mozilla gaming efforts on the Games Wiki")}}</p>
 
