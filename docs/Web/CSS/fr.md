@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1336759
+revision_id: 1337872
 locale: fr
 slug: Web/CSS
 tags: "CSS" "Landing" "Reference"
