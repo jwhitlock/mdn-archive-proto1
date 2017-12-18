@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 814583
+revision_id: 1337980
 locale: es
 slug: Games
 tags: "Apps" "Games" "juegos" "TopicStub" "NeedsContent" "aplicaciones"
@@ -19,7 +19,7 @@ based_on: None
 
 <div class="column-container">
 <div class="column-half">
-<h2 id="Introducci.C3.B3n_de_los_juegos_para_la_Web">Introducción de los juegos para la Web</h2>
+<h2 id="Introducción_de_los_juegos_para_la_Web">Introducción de los juegos para la Web</h2>
 
 <dl>
  <dt><a href="/en-US/docs/Games/Introduction" title="/en-US/docs/Games/Introduction">Introducción al desarrollo de juegos para la Web</a></dt>
@@ -42,8 +42,6 @@ based_on: None
  <dt><a href="http://blog.artillery.com/">Artillery blog</a></dt>
  <dd>La compañía de videojuegos HTML5 Artillery tiene algunos artículos útiles en su blog.</dd>
 </dl>
-
-<p>&nbsp;</p>
 </div>
 
 <div class="column-half">
@@ -69,20 +67,12 @@ based_on: None
  <dd>Un juego en línea multijugador <em>shooter</em> basado en WebGL y asm.js, desarrollado por Nom Nom Games y Trendy entertainment.</dd>
  <dd>&nbsp;</dd>
 </dl>
-
-<dl>
- <dt>&nbsp;</dt>
-</dl>
 </div>
 </div>
-
-<p>{{GameTechBox}}</p>
 
 <div class="note">
 <p><strong><span id="result_box" lang="es"><span class="hps">Tenga en cuenta que</span> <span class="hps">estamos manteniendo</span> <span class="hps">un registro de</span> <span class="hps">los trabajos en curso</span> <span class="hps">sobre la documentación</span></span> en nuesta <strong>página</strong> <a href="/en-US/docs/Games/Doc_Status">Estado de la Documentación de Desarrollo de Videojuegos</a>. Si quieres ayudar a contribuir <strong><strong>para la documentación de desarrollo de videojuegos, <strong><strong>por favor, ¡busque en esta <strong><strong>página <strong><strong>para ver qué trabajo necesita hacerse!.</strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 </div>
-
-<p>&nbsp;</p>
 
 <p>{{CommunityBox("Games development", "community-games", "mozilla.community.games", "games", "Games Wiki|https://wiki.mozilla.org/Platform/Games|View Wiki|Find more information about Mozilla gaming efforts on the Games Wiki")}}</p>
 
