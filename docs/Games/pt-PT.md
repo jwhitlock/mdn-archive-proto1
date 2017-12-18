@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 967527
+revision_id: 1337978
 locale: pt-PT
 slug: Jogos
 tags: 
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 965867
+based_on: None
 ---
 <div class="summary">
 <p><span class="seoSummary">Gaming is one of the most popular computer activities. New technologies are constantly arriving to make it possible to develop better and more powerful games that can be run in any standards-compliant web browser.</span></p>
@@ -101,13 +101,9 @@ based_on: 965867
 </div>
 </div>
 
-<p>{{GameTechBox}}</p>
-
 <div class="note">
 <p><strong>Note that we are keeping track of ongoing work on game development documentation on our <a href="/en-US/docs/Games/Doc_Status">Game development documentation status</a> page. If you want to help contribute to game development documentation, please have a look at this page to see what work needs doing!</strong></p>
 </div>
-
-<p>&nbsp;</p>
 
 <p>{{CommunityBox("Games development", "community-games", "mozilla.community.games", "games", "Games Wiki|https://wiki.mozilla.org/Platform/Games|View Wiki|Find more information about Mozilla gaming efforts on the Games Wiki")}}</p>
 
