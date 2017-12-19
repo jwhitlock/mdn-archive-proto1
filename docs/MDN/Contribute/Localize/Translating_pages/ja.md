@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1338192
+revision_id: 1338193
 locale: ja
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "MDN" "l10n" "MDN Meta" "Guide" "Localization" "Page Tlanslation"
@@ -20,7 +20,7 @@ based_on: None
 <p>このサイトのページを日本語などに翻訳してみたいと思われたときは、以下の手順にしたがってください。</p>
 
 <ol>
- <li>言語アイコン ({{FontAwesomeIcon("icon- language")}})をクリックし <strong>言語</strong> メニューを開きます。メニューの中から<strong> Add a Translation </strong>を選択すると言語選択画面が現れます。&nbsp;</li>
+ <li>言語アイコン ({{FontAwesomeIcon("icon-language")}})をクリックし <strong>言語</strong> メニューを開きます。メニューの中から<strong> Add a Translation </strong>を選択すると言語選択画面が現れます。&nbsp;</li>
  <li>日本語など、あなたが新たに翻訳したい先の言語を選択します。翻訳用のビューが開かれ、その左側には翻訳前の記事が表示されます。</li>
  <li><strong>翻訳についての説明</strong> では記事タイトルとslugの翻訳をしていただけます。slugはページのURLの最後の部分のことをいいます (例えばこの記事のslugは"Translating_pages"になります) 。slugは翻訳するかどうかは各言語のコミュニティによりますが、翻訳しない場合は英語版のものを利用してください。他の日本語版の記事を参考にしながら翻訳の一般的な方法に従っておくといいでしょう。<strong>翻訳についての説明 </strong>の横にあるマイナスのマークをクリックするとこれらの編集画面を閉じておいて、<strong>内容を翻訳</strong> の節のスペースを増やすことも可能です。</li>
  <li><strong>内容を翻訳</strong> よりも下がページの記事本文です。翻訳を始めてください。</li>
