@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1338175
+revision_id: 1338192
 locale: ja
 slug: MDN/Contribute/Localize/Translating_pages
 tags: "MDN" "l10n" "MDN Meta" "Guide" "Localization" "Page Tlanslation"
@@ -20,11 +20,11 @@ based_on: None
 <p>このサイトのページを日本語などに翻訳してみたいと思われたときは、以下の手順にしたがってください。</p>
 
 <ol>
- <li>言語アイコン ({{FontAwesomeIcon("icon-globe")}})をクリックし言語メニューを開きます。メニューの中から<strong>Add a Translation</strong>を選択すると言語選択画面が現れます。&nbsp;</li>
+ <li>言語アイコン ({{FontAwesomeIcon("icon- language")}})をクリックし <strong>言語</strong> メニューを開きます。メニューの中から<strong> Add a Translation </strong>を選択すると言語選択画面が現れます。&nbsp;</li>
  <li>日本語など、あなたが新たに翻訳したい先の言語を選択します。翻訳用のビューが開かれ、その左側には翻訳前の記事が表示されます。</li>
- <li><strong>翻訳についての説明</strong>では記事タイトルとslugの翻訳をしていただけます。slugはページのURLの最後の部分のことをいいます(例えばこの記事のslugは"Translating_pages"になります) 。slugは翻訳するかどうかは各言語のコミュニティによりますが、翻訳しない場合は英語版のものを利用してください。他の日本語版の記事を参考にしながら翻訳の一般的な方法に従っておくといいでしょう。<strong>翻訳についての説明 </strong>の横にあるマイナスのマークをクリックするとこれらの編集画面を閉じておいて、<strong>内容を翻訳</strong> の節のスペースを増やすことも可能です。</li>
- <li><strong>内容を翻訳</strong>よりも下がページの記事本文です。翻訳を始めてください。</li>
- <li>ページに付加するタグを1つ以上付けます。</li>
+ <li><strong>翻訳についての説明</strong> では記事タイトルとslugの翻訳をしていただけます。slugはページのURLの最後の部分のことをいいます (例えばこの記事のslugは"Translating_pages"になります) 。slugは翻訳するかどうかは各言語のコミュニティによりますが、翻訳しない場合は英語版のものを利用してください。他の日本語版の記事を参考にしながら翻訳の一般的な方法に従っておくといいでしょう。<strong>翻訳についての説明 </strong>の横にあるマイナスのマークをクリックするとこれらの編集画面を閉じておいて、<strong>内容を翻訳</strong> の節のスペースを増やすことも可能です。</li>
+ <li><strong>内容を翻訳</strong> よりも下がページの記事本文です。翻訳を始めてください。</li>
+ <li>ページに付加する<strong> タグ </strong>を1つ以上付けます。</li>
  <li>終わったら <strong>変更を保存</strong> をクリックして内容を保存します。</li>
 </ol>
 
@@ -45,19 +45,19 @@ MDN公式の機能ではなく翻訳コミュニティの成果ですが、下�
 
 <h2 id="タグの翻訳">タグの翻訳</h2>
 
-<p>たとえ記事が英語版の翻訳であったとしても、すべてのページに少なくともひとつのタグを付ける必要があります。</p>
+<p>たとえ記事が英語版の翻訳であったとしても、すべてのページに少なくともひとつのタグを付ける必要があります。一般的に、オリジナル記事と同じタグを使うのがいい考えです。</p>
 
 <p>検索結果のフィルタリングや貢献者同士の規約として使われているタグもあります。これらは翻訳されるべきではありません。より詳しいルールや使い方などは、<a href="https://developer.mozilla.org/ja/docs/MDN/Contribute/Howto/Tag">適切にタグづけする方法</a>をご参照ください。なお、既存のタグが記事の中身を表せない場合には新たなタグを自由に作ることができます。</p>
 
-<h2 id="Tips_for_new_localizers">新しい翻訳者向けTips</h2>
+<h2 id="新しい翻訳者向けTips">新しい翻訳者向けTips</h2>
 
 <p>MDN のローカライズに慣れていない場合、いくつかヒントがあります:</p>
 
 <ul>
  <li><a href="https://developer.mozilla.org/ja/docs/Glossary">Glossary</a> 内の記事は、短くシンプルなので、新規翻訳者に良いです。</li>
  <li><a href="https://developer.mozilla.org/ja/docs/tag/l10n%3Apriority">"l10n:priority" とタグづけされた</a> 記事は優先度が高いと考えられています。また、一般に、チュートリアルと概念的な記事は、読者が新しい概念を学ぶ時に翻訳の必要性が最も高いために、リファレンスページと比べて高優先です。</li>
- <li><code>\{{some-text("more text")}}</code> のように二重波括弧で囲まれたテキストを見かけたら、そのまま訳さずに、 句読点も変えずにおきます。これは<a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Macros">マクロ</a>で、たぶんページの構造を作ったり、その他の役立つことを行っています。 マクロで生成された訳されないテキストが見えるでしょうが、もっと MDN の経験を踏むまで気にしないでください。 (マクロはとても強力なので、このテキストを変更するには<a href="https://developer.mozilla.org/ja/docs/MDN/Contribute/Tools/Template_editing">特別な権限</a>が必要です。気になるなら、<a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Macros/Commonly-used_macros">よく使われるマクロ</a>を見て、マクロにできることを見てください。</li>
- <li><a href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Localize/Localization_projects">Localization プロジェクトのページ</a>を見てあなたのロケールのローカライゼーションの詳細を発見してください。</li>
+ <li><code>\{{some-text("more text")}}</code> のように二重波括弧で囲まれたテキストを見かけたら、そのまま訳さずに、 句読点も変えずにおきます。これは<a href="https://developer.mozilla.org/ja/docs/MDN/Contribute/Structures/Macros">マクロ</a>で、たぶんページの構造を作ったり、その他の役立つことを行っています。 マクロで生成された訳されないテキストが見えるでしょうが、もっと MDN の経験を踏むまで気にしないでください。 (マクロはとても強力なので、このテキストを変更するには<a href="https://developer.mozilla.org/ja/docs/MDN/Contribute/Tools/Template_editing">特別な権限</a>が必要です。気になるなら、<a href="https://developer.mozilla.org/ja/docs/MDN/Contribute/Structures/Macros/Commonly-used_macros">よく使われるマクロ</a>を見て、マクロにできることを見てください。</li>
+ <li><a href="https://developer.mozilla.org/ja/docs/MDN/Contribute/Localize/Localization_projects">Localization プロジェクトのページ</a>を見てあなたのロケールのローカライゼーションの詳細を発見してください。</li>
 </ul>
 
 <h2 id="日本語版での翻訳作業について">日本語版での翻訳作業について</h2>
