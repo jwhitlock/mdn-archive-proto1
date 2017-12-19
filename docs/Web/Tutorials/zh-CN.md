@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1335891
+revision_id: 1338250
 locale: zh-CN
 slug: Web/Tutorials
 tags: "教程" "网页设计"
@@ -19,11 +19,11 @@ based_on: None
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" name="Documentation">对于学习Web的新手</h2>
+<h2 class="Documentation" id="Documentation" name="Documentation">对于学习Web的新手</h2>
 
 <p><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">开始学习Web</a></p>
 
-<p>一系列介绍帮助你开始学习Web开发。你需要设置工具去设置一个简单的网页并且发布你自己简单的代码。</p>
+<p>一系列介绍帮助你开始学习Web开发。你需要准备工具去创建一个简单的网页并发布你自己简单的代码。</p>
 
 <h2 class="Documentation" id="Documentation" name="Documentation">HTML 入门</h2>
 
