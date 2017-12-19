@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1148064
+revision_id: 1338243
 locale: ru
 slug: Web/HTTP
 tags: "HTTP" "Web" "Reference" "l10n:priority"
@@ -13,16 +13,16 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>{{ HTTPSidebar }}</p>
+<p>{{HTTPSidebar}}</p>
 
-<p class="summary">Протокол передачи гипер текста (&nbsp;<dfn>Hypertext Transfer Protocol -&nbsp;HTTP)</dfn>&nbsp;это <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B_%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F">прикладной протокол</a> для передачи гипертекстовых документов, таких как HTML. Он создан для общения между веб-браузерами и веб-серверами, хотя в принципе HTTP может использоваться и для других целей. Протокол следует классической <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80">клиент-серверной модели</a>, когда клиент открывает соединение, инициирует запрос, а затем ждет ответа. HTTP - это&nbsp;<a href="http://en.wikipedia.org/wiki/Stateless_protocol" title="http://en.wikipedia.org/wiki/Stateless_protocol">stateless-протокол</a>, то есть сервер не сохраняет никаких данных (состояние) между парами запросов-ответов. Несмотря на то, что HTTP основан на TCP/IP , он так же может использовать любой <a href="http://en.wikipedia.org/wiki/Transport_Layer">транспорт</a>, который не теряет молча сообщения (то есть обязан знать дошло ли сообщение до адресата).&nbsp;</p>
+<p class="summary"><strong>Протокол передачи гипертекста (<dfn>Hypertext Transfer Protocol -&nbsp;HTTP)</dfn></strong>&nbsp;это <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B_%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F">прикладной протокол</a> для передачи гипертекстовых документов, таких как HTML. Он создан для связи между веб-браузерами и веб-серверами, хотя в принципе HTTP может использоваться и для других целей. Протокол следует классической <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80">клиент-серверной модели</a>, когда клиент открывает соединение, создаёт запрос, а затем ждет ответа. HTTP - это&nbsp;<a href="http://en.wikipedia.org/wiki/Stateless_protocol" title="http://en.wikipedia.org/wiki/Stateless_protocol">stateless-протокол</a>, то есть сервер не сохраняет никаких данных (состояние) между двумя парами "запрос-ответ". Несмотря на то, что HTTP основан на TCP/IP, он так же может использовать любой <a href="http://en.wikipedia.org/wiki/Transport_Layer">транспорт</a>, который не теряет молча сообщения (то есть он обязан знать дошло ли сообщение до адресата).&nbsp;</p>
 
 <div class="column-container">
 <div class="column-half">
 <h2 class="Documentation" id="Documentation" name="Documentation">Учебники</h2>
 
 <dl>
- <dt><a href="/en-US/docs/Web/HTTP/Overview">Обзор HTTP</a></dt>
+ <dt><a href="/ru/docs/Web/HTTP/Overview">Обзор HTTP</a></dt>
  <dd>Основные свойства клиент-серверного протокола: что можно сделать и для чего он предназначен</dd>
  <dt><a href="/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP">Эволюция HTTP</a></dt>
  <dd>Краткое описание изменений, произошедших в HTTP, начиная с самых ранних версий, заканчивая новой HTTP/2 и далее.</dd>
