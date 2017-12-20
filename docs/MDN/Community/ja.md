@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1338826
+revision_id: 1338829
 locale: ja
 slug: MDN/Community
 tags: "MDN Meta" "Guide" "Landing" "Community"
@@ -8,15 +8,15 @@ title: MDN コミュニティに参加する
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <div>{{IncludeSubnav("/ja/docs/MDN")}}</div>
 
 <div class="summary">
-<p>MDN Web Docsは wiki 以上のもの。オープンな Web 技術を利用する開発者たちのための素晴らしいリソースとして MDN を共に作り上げる、開発者たちによるコミュニティなのです。</p>
+<p>MDN Web Docsは wiki 以上のものです。つまりオープンな Web 技術を利用する開発者たちのための素晴らしいリソースとして MDN を共に作り上げる、開発者たちによるコミュニティなのです。</p>
 </div>
 
 <p>MDN に貢献していただけるのはもちろん大歓迎ですが、MDN コミュニティに参加していただけるとよりありがたいです。コミュニティとつながりを持つには、こちらの簡単な3ステップを踏んでください :</p>
@@ -34,12 +34,12 @@ based_on: None
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/MDN/Community/Roles">Community roles</a></dt>
- <dd class="landingPageList">There are a number of roles within the MDN community that have specific responsibilities.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/MDN/Community/Doc_sprints">Doc sprints</a></dt>
- <dd class="landingPageList">This is a guide to organizing a documentation sprint. It contains advice and tips from people who have organized doc sprints, to help you in organizing one, too.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/MDN/Community/Whats_happening">Follow what's happening</a></dt>
- <dd class="landingPageList">MDN is brought to you by the <a class="external external-icon" href="https://wiki.mozilla.org/MDN">Mozilla Developer Network community</a>. Here are some ways to that we share information about what we're doing.</dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/ja/docs/MDN/Community/Roles">Community roles</a></dt>
+ <dd class="landingPageList">MDN コミュニティ内には特定の責務を持つたくさんのロールがあります。</dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/ja/docs/MDN/Community/Doc_sprints">Doc sprints</a></dt>
+ <dd class="landingPageList">これはドキュメンテーションスプリントを開催するためのガイドです。ここには doc sprints を開催した人からの助言やtipsがあり、あなたの開催にも役立ちます。</dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/ja/docs/MDN/Community/Whats_happening">Follow what's happening</a></dt>
+ <dd class="landingPageList">MDN は <a class="external external-icon" href="https://wiki.mozilla.org/MDN">Mozilla Developer Network community</a>. によってもたらされます。ここに我々が行っていることの情報を共有する方法があります。</dd>
 </dl>
 
 <dl>
@@ -48,10 +48,10 @@ based_on: None
 
 <div class="section">
 <dl>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/MDN/Community/Conversations">MDN community conversations</a></dt>
- <dd class="landingPageList">The "work" of MDN happens on the MDN site, but the "community" also happens through (asynchronous) discussion and (synchronous) online chat and meetings.</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/en-US/docs/MDN/Community/Working_in_community">Working in community</a></dt>
- <dd class="landingPageList">A major part of contributing to MDN documentation on any significant scale is knowing how to work as part of the MDN community. This article offers tips to help you make the most of your interactions with both other writers and with development teams.</dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/ja/docs/MDN/Community/Conversations">MDN community conversations</a></dt>
+ <dd class="landingPageList">MDNの「成果」は MDN サイトで行われますが、「コミュニティ」も (非同期の) 議論と (同期の) オンラインチャットやミーティングで行われます。</dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/ja/docs/MDN/Community/Working_in_community">Working in community</a></dt>
+ <dd class="landingPageList">MDN 文書化にかなりの量で貢献する部分は、MDNコミュニティの役割として作業する方法を知ることです。この記事では他のライターや開発チームの両方とやりとりすることを活用するのに役立つtipsを置いています。</dd>
 </dl>
 </div>
 </div>
