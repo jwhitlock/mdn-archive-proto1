@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1320282
+revision_id: 1338876
 locale: ru
 slug: Mozilla/Add-ons/WebExtensions
 tags: "Landing" "Дополнения" "Расширения" "WebExtensions"
-title: WebExtensions
+title: Расширения браузера
 summary: 
 keywords: 
 needs_technical_review: False
@@ -44,7 +44,7 @@ based_on: None
  <li>Доступ и изменение куки (cookies)</li>
 </ul>
 
-<h3>Интерфейс пользователя</h3>
+<h3 id="Интерфейс_пользователя">Интерфейс пользователя</h3>
 
 <ul>
  <li><a href="/ru/docs/Mozilla/Add-ons/WebExtensions/user_interface">Введение</a></li>
