@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1190759
+revision_id: 1339133
 locale: en-US
 slug: Web/Guide/Graphics
 tags: "2D" "3D" "HTML5" "SVG" "Web" "WebGL" "WebRTC" "Canvas" "Graphics"
@@ -8,12 +8,12 @@ title: Graphics on the Web
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p><span class="seoSummary">Web sites and applications often need to present graphics.</span> Static images can easily be displayed using the {{HTMLElement("img")}} element, or by setting the background of HTML elements using the {{cssxref("background-image")}} property. You can also construct graphics on-the-fly, or manipulate images after the fact. <span class="seoSummary">These articles provide insight into how you can accomplish this.</span></p>
+<p><span class="seoSummary">Websites and applications often need to present graphics.</span> Static images can easily be displayed using the {{HTMLElement("img")}} element, or by setting the background of HTML elements using the {{cssxref("background-image")}} property. You can also construct graphics on-the-fly, or manipulate images after the fact. <span class="seoSummary">These articles provide insight into how you can accomplish this.</span></p>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -43,7 +43,7 @@ based_on: None
  <dt><a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">Using HTML5 audio and video</a></dt>
  <dd>Embedding video and/or audio in a web page and controlling its playback.</dd>
  <dt><a href="/en-US/docs/WebRTC">WebRTC</a></dt>
- <dd>The RTC in WebRTC stands for Real-Time Communications, technology that enables audio/video streaming and data sharing between browser clients (peers).</dd>
+ <dd>The RTC in WebRTC stands for Real-Time Communications, a technology that enables audio/video streaming and data sharing between browser clients (peers).</dd>
 </dl>
 </div>
 </div>
