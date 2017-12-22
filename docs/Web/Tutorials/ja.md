@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1339429
+revision_id: 1339479
 locale: ja
 slug: Web/Tutorials
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -53,8 +53,8 @@ based_on: None
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt><a href="/ja/docs/Learn/HTML/Multimedia_and_embedding">Multimedia and embedding</a></dt>
- <dd>このモジュールでは、あなたのWebページに、HTMLをどのようにして用いればマルチメディアを含むことができるかについて学びます。また、画像を挿入するためのさまざまな方法や、どのようにして動画・音声、そして他のウェブページさえも挿入するのかということもこのモジュールに含まれています。</dd>
+ <dt><a href="/ja/docs/Learn/HTML/Multimedia_and_embedding">マルチメディアとその埋め込み方</a></dt>
+ <dd>このモジュールでは、あなたのWebページに、HTMLをどのようにして用いればマルチメディアを含むことができるかについて学びます。また、画像を挿入するためのさまざまな方法や、どのようにして動画・音声、そして他のウェブページ全体を挿入するのかについても触れています。</dd>
 </dl>
 </div>
 
@@ -72,8 +72,8 @@ based_on: None
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt><a href="/en-US/docs/Learn/HTML/Forms">HTML forms</a></dt>
- <dd>Forms are a very important part of the Web — these provide much of the functionality you need for interacting with web sites, e.g. registering and logging in, sending feedback, buying products, and more. This module gets you started with creating the client-side parts of forms.</dd>
+ <dt><a href="/ja/docs/Learn/HTML/Forms">HTML フォームガイド</a></dt>
+ <dd>HTML フォームは、ウェブの重要な部品です。フォームは多くの機能を提供し、ユーザーがウェブサイトとやり取りする際に必要なものとなっています。例えば登録、ログイン、フィードバックの送信、商品の購入、などなど。このモジュールではフォームのクライアント側の部分を作成するところから始めます。</dd>
 </dl>
 </div>
 
