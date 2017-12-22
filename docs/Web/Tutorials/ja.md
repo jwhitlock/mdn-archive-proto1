@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1339362
+revision_id: 1339429
 locale: ja
 slug: Web/Tutorials
 tags: 
@@ -92,20 +92,24 @@ based_on: None
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt><a href="/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS basics</a></dt>
- <dd>CSS (カスケーディング スタイル シート) はis the code you use to style your webpage. <em>CSS Basics</em> takes you through what you need to get started. We'll answer questions like: How do I make my text black or red? How do I make my content show up in such-and-such a place on the screen? How do I decorate my webpage with background images and colors?</dd>
- <dt><a href="/en-US/docs/Learn/CSS/Introduction_to_CSS">Introduction to CSS</a></dt>
- <dd>This module goes in depth with how CSS works, including selectors and properties, writing CSS rules, applying CSS to HTML, how to specify length, color, and other units in CSS, cascade and inheritance, box model basics, and debugging CSS.</dd>
+ <dt><a href="/ja/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS の基本</a></dt>
+ <dd>
+ <div>
+ <p>CSS (Cascading Style Sheets) は、Web ページのスタイルを設定するコードです。 CSS の基本ではあなたが始めるのに必要なものを紹介します。私たちは次のような質問に答えます：テキストを黒または赤にするにはどうすればいいですか？ そのような場所でコンテンツを画面に表示させるにはどうすればよいですか？ 背景画像と色を使ってウェブページをどのように飾るのですか？</p>
+ </div>
+ </dd>
+ <dt><a href="/ja/docs/Learn/CSS/Introduction_to_CSS">CSS 入門</a></dt>
+ <dd>このモジュールで、CSS 習得の道のりを開始できます。セレクター、プロパティ、CSS の記述ルール、CSS を HTML に適用する方法、CSS で長さや色やその他の単位を指定する方法、カスケードと継承、ボックスモデルの基本、CSS のデバッグが含まれています。</dd>
 </dl>
 </div>
 
 <div class="section">
 <dl>
  <dt><a href="/en-US/docs/Learn/CSS/Styling_boxes">Styling boxes</a></dt>
- <dd>Next up, we look at styling boxes, one of the fundamental steps towards laying out a web page. In this module we recap the box model then look at controlling box layouts by setting padding, borders and margins, setting custom background colors, images and other features, and fancy features such as drop shadows and filters on boxes.</dd>
- <dt><a href="/en-US/docs/Learn/CSS/Styling_text">Styling text</a></dt>
- <dd>Here we look at text styling fundamentals, including setting font, boldness, and italics, line and letter spacing, and drop shadows and other text features. We round off the module by looking at applying custom fonts to your page, and styling lists and links.</dd>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Common_CSS_Questions">CSS に関する一般的な質問</a></dt>
+ <dd>次に、 we look at styling boxes, one of the fundamental steps towards laying out a web page. In this module we recap the box model then look at controlling box layouts by setting padding, borders and margins, setting custom background colors, images and other features, and fancy features such as drop shadows and filters on boxes.</dd>
+ <dt><a href="/ja/docs/Learn/CSS/Styling_text">テキストのスタイリング</a></dt>
+ <dd>ここでは、フォント、太字、イタリック体、線、文字間隔、影、その他のテキストの機能の設定を含むテキストスタイリングの基礎を確認します。あなたのページにカスタムフォントを適用し、リストとリンクにスタイルを適用することでこのモジュールを締めくくります。</dd>
+ <dt><a href="/ja/docs/Common_CSS_Questions">CSS に関する一般的な質問</a></dt>
  <dd>初心者から寄せられる一般的な質問とその回答です。</dd>
  <dt>（以下の4つは過去の和訳から。原文からは削除されています）</dt>
  <dt><a href="http://en.wikiversity.org/wiki/Web_Design/CSS_Classes" rel="external">CSS Selector Classes</a> (Wikiversity)</dt>
@@ -180,19 +184,20 @@ based_on: None
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt><a href="/en-US/docs/Learn/JavaScript/First_steps">JavaScript first steps</a></dt>
- <dd>In our first JavaScript module, we first answer some fundamental questions such as "what is JavaScript?", "what does it look like?", and "what can it do?", before moving on to taking you through your first practical experience of writing JavaScript. After that, we discuss some key JavaScript features in detail, such as variables, strings, numbers and arrays.</dd>
- <dt><a href="/en-US/docs/Learn/JavaScript/Building_blocks">JavaScript building blocks</a></dt>
- <dd>In this module, we continue our coverage of all JavaScript's key fundamental features, turning our attention to commonly-encountered types of code block such as conditional statements, loops, functions, and events. You've seen this stuff already in the course, but only in passing — here we'll discuss it all explicitly.</dd>
+ <dt><a href="/ja/docs/Learn/JavaScript/First_steps">JavaScript の第一歩</a></dt>
+ <dd>最初の JavaScript のモジュールでは、初めて JavaScript を書く実践的な体験をしていただく前に「JavaScript とは何？」や「どのように見える？」や「何ができる？」といったような基本的な質問に答えます。その後 JavaScript を理解する重要な特徴、たとえば変数や文字列、 数値、配列などについてお話します。</dd>
+ <dt><a href="/ja/docs/Learn/JavaScript/Building_blocks">JavaScript の構成要素</a></dt>
+ <dd><span id="result_box" lang="ja"><span>このモジュールでは、条件付きステートメント、ループ、関数、イベントなど一般的に発生するコードブロックの種類に注目し、JavaScript の重要な基本機能をすべてカバーしていきます。これまでの勉強で詰め込み、とおりすぎてしまっているかもしれませんが、ここではすべて明示的に説明を行います。</span></span></dd>
 </dl>
 </div>
 
 <div class="section">
 <dl>
+ <dt><a href="/ja/docs/Learn/Getting_started_with_the_web/JavaScript_basics">JavaScript を始めましょう　</a></dt>
+ <dd>JavaScript とは何か? 何の役に立つのかを学べます。</dd>
  <dt><a href="http://www.codecademy.com/">Codecademy</a> (Codecademy)</dt>
  <dd>Codecademy では簡単に JavaScript コーディングの方法を学べます。対話形式で学習でき、友人と一緒に進めることができます。</dd>
- <dt><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Getting_Started">JavaScript を始めましょう　</a></dt>
- <dd>JavaScript とは何か? 何の役に立つのかを学べます。</dd>
+ <dt>（以下の3つは過去版の和訳から。原文では削除されています）</dt>
  <dt><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" rel="external">JavaScript Best Practices</a><a href="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices" title="http://docs.webplatform.org/wiki/tutorials/javascript_best_practices"> </a>(WebPlatform.org)</dt>
  <dd>JavaScript を書くときの分かりやすい (一部少し分かりにくいものもあります) ベスト プラクティスをいくつか学ぶことができます。</dd>
  <dt><a href="http://codeavengers.com/" title="http://codeavengers.com/">CodeAvengers</a> (CodeAvengers.com)</dt>
@@ -208,8 +213,8 @@ based_on: None
 <div class="row topicpage-table">
 <div class="section">
 <dl>
- <dt><a href="/en-US/docs/Learn/JavaScript/Objects">Introducing JavaScript objects</a></dt>
- <dd>In JavaScript, most things are objects, from core JavaScript features like strings and arrays to the browser APIs built on top of JavaScript. You can even create your own objects to encapsulate related functions and variables into efficient packages. The object-oriented nature of JavaScript is important to understand if you want to go further with your knowledge of the language and write more efficient code, therefore we've provided this module to help you. Here we teach object theory and syntax in detail, look at how to create your own objects, and explain what JSON data is and how to work with it.</dd>
+ <dt><a href="/en-US/docs/Learn/JavaScript/Objects">JavaScript オブジェクトの紹介</a></dt>
+ <dd><span lang="ja"><span>JavaScript では、文字列や配列などの JavaScript のコア機能から、JavaScript の上に構築されたブラウザ API まで、ほとんどのものがオブジェクトです。</span> <span>関連する関数や変数を効率的なパッケージにカプセル化する独自のオブジェクトを作成することもできます。</span> <span>JavaScript のオブジェクト指向の性質を理解することは、言語に関する知識をさらに深め、より効率的なコードを書く場合に重要です。したがって、このモジュールを用意しました。</span> <span>ここではオブジェクトの理論と構文を詳しく説明し、独自のオブジェクトを作成する方法を見て、JSON のデータとその使い方を説明します。</span></span></dd>
  <dt><a href="/en-US/docs/Learn/JavaScript/Client-side_web_APIs">Client-side web APIs</a></dt>
  <dd>When writing client-side JavaScript for web sites or applications, you won't go very far before you start to use APIs — interfaces for manipulating different aspects of the browser and operating system the site is running on, or even data from other web sites or services. In this module we will explore what APIs are, and how to use some of the most common APIs you'll come across often in your development work.</dd>
 </dl>
@@ -225,6 +230,7 @@ based_on: None
  <dd>For programmers who want to learn JavaScript quickly and properly, and for JavaScript programmers who want to deepen their skills and/or look up specific topics.</dd>
  <dt><a href="http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/" rel="external">Essential JavaScript Design Patterns</a> (Addy Osmani)</dt>
  <dd>JavaScript デザイン パターンの真髄に触れてみましょう。</dd>
+ <dt>（以下の2つは過去版の和訳から。原文では削除されています）</dt>
  <dt><a href="http://www.yuiblog.com/blog/2007/01/24/video-crockford-tjpl/" rel="external">The JavaScript Programming Language</a> (YUI Blog)</dt>
  <dd>Douglas Crockford 氏が、最新の JavaScript とそこに至るまでの経緯を探求しています。</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Introduction_to_Object-Oriented_JavaScript">Introduction to Object-Oriented JavaScript</a></dt>
@@ -249,14 +255,18 @@ based_on: None
 </dl>
 </div>
 
-<div class="section"><strong><a href="http://shichuan.github.io/javascript-patterns" rel="external">Javascipt Patterns</a></strong>
+<div class="section">
+<dl>
+ <dt><a href="http://shichuan.github.io/javascript-patterns" rel="external">Javascipt Patterns</a></dt>
+ <dd>Javascript のパターンと不適切な例であるアンチパターンを集めたものです。関数パターン、jQueryパターン、jQuery プラグイン パターン、デザイン パターン、一般的なパターン、リテラルおよびコンストラクター パターン、オブジェクト生成パターン、コード再利用パターン、DOM をカバーしています。</dd>
+</dl>
+<strong><a href="http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/">How browsers work</a></strong>
 
 <dl>
- <dd>A JavaScript pattern and antipattern collection that covers function patterns, jQuery patterns, jQuery plugin patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns, DOM.</dd>
- <dt><strong><a href="http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/">How browsers work</a></strong></dt>
  <dd>A detailed research article describing different modern browsers, their engines, page rendering etc.</dd>
  <dt><a href="https://github.com/bolshchikov/js-must-watch">JavaScript Videos</a> (GitHub)</dt>
- <dd>A collection of JavaScript videos to watch.</dd>
+ <dd>見ておきたい JavaScript についての映像を集めたものです。</dd>
+ <dt>（以下の5つは過去版の和訳から。原文では削除されています）</dt>
  <dt><a href="http://www.elated.com/articles/javascript-dom-intro/" rel="external">Introducing the JavaScript DOM</a> (Elated)</dt>
  <dd>ドキュメントオブジェクトモデル (DOM) について、これが役に立つ理由と JavaScript の強力な機能である DOM について優しく紹介されています。</dd>
  <dt><a href="http://yuiblog.com/blog/2006/10/20/video-crockford-domtheory/" rel="external">An Inconvenient API: The Theory of the DOM</a> (YUI Blog)</dt>
@@ -265,8 +275,6 @@ based_on: None
  <dd>JavaScript プログラマーがアプリケーションを作成する際に選択できるコード パターンを、Douglas Crockford 氏がレビューしています。</dd>
  <dt><a href="http://yuiblog.com/blog/2008/07/22/non-blocking-scripts/" rel="external">Non-Blocking JavaScript Downloads</a> (YUI Blog)</dt>
  <dd>JavaScript を含むページの読込パフォーマンスを改善するヒントです。</dd>
- <dt><a href="http://shichuan.github.io/javascript-patterns" rel="external">Javascipt Patterns</a></dt>
- <dd>Javascript のパターンと不適切な例であるアンチパターンを集めたものです。関数パターン、jQueryパターン、jQuery プラグイン パターン、デザイン パターン、一般的なパターン、リテラルおよびコンストラクター パターン、オブジェクト生成パターン、コード再利用パターン、DOM をカバーしています。</dd>
  <dt><a href="http://ejohn.org/apps/learn/" rel="external">Learning Advanced JavaScript</a> (John Resig)</dt>
  <dd>John Resig 氏による上級 JavaScript ガイドです。</dd>
 </dl>
