@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 944599
+revision_id: 1339844
 locale: bn-BD
 slug: Learn
 tags: "Web" "Index" "Learn" "Landing" "Beginner" "TopicStub" "NeedsTranslation"
@@ -9,12 +9,12 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
 <div class="summary">
-<p><strong id="docs-internal-guid-882eb067-dfbc-b1a1-15fd-8230d416ac78">আপনি কি আপনার নিজের ওয়েবসাইট বা ওয়েব এ্যাপ বানাতে চান ? আপনি একেবারে সঠিক জায়গায়তেই এসেছেন।</strong></p>
+<p><u><strong id="docs-internal-guid-882eb067-dfbc-b1a1-15fd-8230d416ac78">আপনি কি আপনার নিজের ওয়েবসাইট বা ওয়েব এ্যাপ বানাতে চান ? আপনি একেবারে সঠিক জায়গায়তেই এসেছেন।</strong></u></p>
 </div>
 
 <p><font face="FreeSans"><font face="SolaimanLipi">ওয়েব ডিজাইন এবং ডেভলোপমেন্ট শিখতে বেশ কিছু জানতে হয়</font></font><font face="SolaimanLipi">, </font><font face="FreeSans"><font face="SolaimanLipi">তবে এটি তেমন চিন্তার বিষয় নয়। এখানে আমরা আপনার সহযোগীতায় আছি </font></font><font face="SolaimanLipi">, </font><font face="FreeSans"><font face="SolaimanLipi">যেখানে আপনি শুধু কিছু কোড বেছে নিবেন আর দেখবেন&nbsp;ধীরে ধীরে আপনি একজন দক্ষ্য পেশাদারী ডেভলোপার এর পরিনত হয়ে যাবেন ।</font></font></p>
@@ -42,7 +42,7 @@ based_on: None
 
 <p>{{LearnBox({"title":"Quick learning: Vocabulary"})}}</p>
 
-<h2 id="Learning_with_other_people">অন্যান্য জনের সাথে শিখুন</h2>
+<h2 id="অন্যান্য_জনের_সাথে_শিখুন">অন্যান্য জনের সাথে শিখুন</h2>
 
 <p>&nbsp;যদি আপনার কিছু জানার থাকে&nbsp;or are still wondering where to go, Mozilla is a global community of Web enthusiasts, including mentors and teachers who are glad to help you. Get in touch with them through WebMaker:</p>
 
