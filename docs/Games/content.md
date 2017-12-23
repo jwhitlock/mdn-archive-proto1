@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1336563
+revision_id: 1339796
 locale: en-US
 slug: Games
 tags: "Web" "Apps" "Games" "HTML5 Games" "Gamedev" "JavaScript Games" "Game Development"
@@ -28,8 +28,9 @@ based_on: None
 <p>We've also included a reference section so you can easily find information about all the most common APIs used in game development.</p>
 
 <div class="note">
-<p><strong style="-webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; border:0px; color:#3b3c40; font-family:'open sans',arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-weight:700; letter-spacing:normal; margin:0px; orphans:auto; padding:0px; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px">Note</strong><span style="-webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; background-color:#fff5cc; color:#3b3c40; font-family:'open sans',arial,sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px">: Creating games on the web draws on a number of core web technologies such as HTML, CSS, and JavaScript. The&nbsp;</span><a href="/en-US/docs/Learn" style="font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; color: rgb(33, 122, 192); text-decoration: none; margin: 0px; padding: 0px; border: 0px; font-family: 'open sans', arial, sans-serif;">Learning Area</a><span style="-webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; background-color:#fff5cc; color:#3b3c40; font-family:'open sans',arial,sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px">&nbsp;is a good place to go to get started with the basics.</span></p>
+  <strong>Note:</strong> Creating games on the web draws on a number of core web technologies such as HTML, CSS, and JavaScript. The <a href="/en-US/docs/Learn">Learning Area</a> is a good place to go to get started with the basics.
 </div>
+
 </div>
 
 <div class="column-half">
