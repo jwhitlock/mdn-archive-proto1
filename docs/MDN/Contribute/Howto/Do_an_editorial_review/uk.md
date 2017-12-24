@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1316419
+revision_id: 1340017
 locale: uk
 slug: MDN/Contribute/Howto/Do_an_editorial_review
 tags: "MDN Meta" "Путівник" "Документація" "Редакційний огляд"
@@ -47,7 +47,7 @@ based_on: None
   </li>
   <li>Перечитайте статтю, звертаючи увагу на можливі одруки, помилки правопису, граматики та слововживання. Можете обрати іншу статтю, якщо обрана вам з будь-яких причин не до вподоби.</li>
   <li>Якщо жодної помилки немає, не потрібно відкривати редактор статті, щоб прибрати позначку про необхідність огляду. Натомість зверніться до меню «швидкий огляд» по лівий бік статті:<br />
-   <img alt="" src="https://mdn.mozillademos.org/files/15371/banner-editorial-review.png" style="height:173px; width:446px" /></li>
+   <img alt="" src="https://mdn.mozillademos.org/files/15371/banner-editorial-review.png" style="height:116px; margin-bottom:20px; margin-top:20px; width:300px" /></li>
   <li>Приберіть відповідну позначку та натисніть <strong>Зберегти</strong>.</li>
   <li>Якщо ви знайшли помилки, які слід виправити:
    <ol>
