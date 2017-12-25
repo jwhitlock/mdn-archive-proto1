@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1339799
+revision_id: 1340063
 locale: zh-TW
 slug: Games
 tags: 
@@ -27,38 +27,35 @@ based_on: None
 
 <p>我們也涵蓋了參考的章節，你可以從那裡找到遊戲開發最需要用到的一些 API。</p>
 
-<div class="note">
-  <strong>注：</strong>建立遊戲會需要用上一些 web 的核心技術，如 HTML、CSS、JavaScript。<a href="/zh-TW/docs/Learn">學習專區</a>會是個很好的學習區域。
-</div>
-
+<div class="note"><strong>注：</strong>建立遊戲會需要用上一些 web 的核心技術，如 HTML、CSS、JavaScript。<a href="/zh-TW/docs/Learn">學習專區</a>會是個很好的學習區域。</div>
 </div>
 
 <div class="column-half">
-<h2 id="Port_native_games_to_the_Web">Port native games to the Web</h2>
+<h2 id="Port_native_games_to_the_Web">從原生到 Web</h2>
 
-<p>If you are a native developer (for example writing games in C++), and you are interested in how you can port your games over to the Web, you should learn more about our <a href="http://kripken.github.io/emscripten-site/index.html">Emscripten</a> tool — this is an LLVM to JavaScript compiler, which takes LLVM bytecode (e.g. generated from C/C++ using Clang, or from another language) and compiles that into <a href="/zh-TW/docs/Games/Tools/asm.js">asm.js</a>, which can be run on the Web.</p>
+<p>如果你是原生介面開發者（例如，你寫 C++ 的遊戲）、對於怎麼把遊戲移植到 Web 有興趣的話，請看看我們的工具 <a href="http://kripken.github.io/emscripten-site/index.html">Emscripten</a>：這是個 LLVM 轉到 JavaScript 的編譯器，它使用了 LLVM 位元碼（例如，使用 Clang 從 C/C++ 產生。其他語言亦可）並編譯到能在 Web 運行的 <a href="/zh-TW/docs/Games/Tools/asm.js">asm.js</a>。</p>
 
-<p>To get started, see:</p>
+<p>要入門請參見：</p>
 
 <ul>
  <li><a href="http://kripken.github.io/emscripten-site/docs/introducing_emscripten/about_emscripten.html">About Emscripten</a> for an introduction including high-level details.</li>
  <li><a href="http://kripken.github.io/emscripten-site/docs/getting_started/downloads.html">Download and Install</a> for installing the toolchain.</li>
- <li><a href="http://kripken.github.io/emscripten-site/docs/getting_started/Tutorial.html">Emscripten Tutorial</a> for a tutorial to teach you how to get started.</li>
+ <li>有關如何開始的教學：<a href="http://kripken.github.io/emscripten-site/docs/getting_started/Tutorial.html">Emscripten Tutorial</a></li>
 </ul>
 </div>
 </div>
 
 <div class="column-container">
 <div class="column-half">
-<h2 id="Examples">Examples</h2>
+<h2 id="Examples">示例</h2>
 
-<p>For a list of web game examples, see our <a href="/zh-TW/docs/Games/Examples">examples page</a>. Also check out <a href="http://www.openwebgames.com/">openwebgames.com</a> for more useful resources and examples!</p>
+<p>需要 web 遊戲的示例，請參考我們的 <a href="/zh-TW/docs/Games/Examples">示例頁</a>。也請參考下 <a href="http://www.openwebgames.com/">openwebgames.com</a> 以獲取更多資源與示範！</p>
 </div>
 </div>
 
 <p><a href="http://www.openwebgames.com"><img alt="" src="https://mdn.mozillademos.org/files/12790/owg-logo-dark.svg" style="display:block; margin:0px auto; width:400px" /></a></p>
 
-<h2 id="See_also">See also</h2>
+<h2 id="See_also">參見</h2>
 
 <div class="column-container">
 <div class="column-half">
