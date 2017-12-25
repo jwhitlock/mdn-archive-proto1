@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1340140
+revision_id: 1340147
 locale: uk
 slug: MDN/Contribute
 tags: "MDN Meta" "Landing" "Путівник"
-title: Contributing to MDN
+title: Внесок до MDN
 summary: 
 keywords: 
 needs_technical_review: False
