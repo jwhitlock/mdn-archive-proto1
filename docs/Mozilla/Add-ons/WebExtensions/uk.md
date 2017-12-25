@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1304569
+revision_id: 1340126
 locale: uk
 slug: Mozilla/Add-ons/WebExtensions
 tags: "Landing" "Додатки" "TopicStub" "Extensions" "WebExtensions" "NeedsTranslation"
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: bd5c8d673a35ed952d5a54bcdebfc8265bf9b53c
+based_on: None
 ---
 <div>{{AddonSidebar}}</div>
 
