@@ -1,17 +1,17 @@
 ---
 version: prototype1
-revision_id: 1257151
+revision_id: 1340323
 locale: fa
 slug: MDN/Community
 tags: 
 title: Join the MDN community
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 39299b7a70a341b954531e1aa17fdf326d5da9e8
+based_on: None
 ---
 <div>{{IncludeSubnav("/en-US/docs/MDN")}}</div>
 
@@ -19,7 +19,7 @@ based_on: 39299b7a70a341b954531e1aa17fdf326d5da9e8
 <p>MDN (which is an abbreviation for Mozilla Developer Network) is more than a wiki: It's a community of developers working together to make MDN an outstanding resource for developers who use open Web technologies.</p>
 </div>
 
-<p>We'd love it if you contribute to MDN, but we'd love it even more if you participate in the MDN community. Here's how to get connected, in three easy steps:</p>
+<p>We'd love it if you contribute to MDN, but we'd love it even more if you participate in the MDN community.&nbsp;Here's how to get connected, in three easy steps:</p>
 
 <ol>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Create_an_MDN_account">Create an MDN account</a>.</li>
@@ -39,7 +39,7 @@ based_on: 39299b7a70a341b954531e1aa17fdf326d5da9e8
  <dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Doc_sprints">Doc sprints</a></dt>
  <dd class="landingPageList">This is a guide to organizing a documentation sprint. It contains advice and tips from people who have organized doc sprints, to help you in organizing one, too.</dd>
  <dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Whats_happening">Follow what's happening</a></dt>
- <dd class="landingPageList">MDN is brought to you by the <a href="https://wiki.mozilla.org/MDN" class="external">Mozilla Developer Network community</a>. Here are some ways to that we share information about what we're doing.</dd>
+ <dd class="landingPageList">MDN is brought to you by the <a class="external" href="https://wiki.mozilla.org/MDN">Mozilla Developer Network community</a>. Here are some ways to that we share information about what we're doing.</dd>
 </dl>
 
 <dl>
@@ -56,5 +56,5 @@ based_on: 39299b7a70a341b954531e1aa17fdf326d5da9e8
 </div>
 </div>
 
-<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC||Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events", "MozDevNet")}} </p>
+<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC||Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events", "MozDevNet")}}&nbsp;</p>
 
