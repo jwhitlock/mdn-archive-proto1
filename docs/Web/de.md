@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 1336593
+revision_id: 1340271
 locale: de
 slug: Web
 tags: "Web" "Landing" "Verlauf" "Technologie" "Web Entwicklung"
 title: Webtechnologien für Entwickler
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -34,12 +34,13 @@ based_on: None
 
 <dl>
  <dt><a href="/de/docs/Web/JavaScript">JavaScript</a></dt>
- <dd>Die Programmiersprache JavaScript wird bei der Erstellung von anspruchsvolleren Webseiten und Anwendungen eingesetzt.</dd>
+ <dd>Die Programmiersprache JavaScript wird bei der Erstellung von anspruchsvolleren Webseiten und Anwendungen eingesetzt, damit die Webseite interaktiv wird und andere dynamische Funktionen eingefügt werden können.</dd>
  <dt><a href="/de/docs/Web/Reference/API" title="/en-US/docs/Web/API">Web APIs</a></dt>
  <dd>Referenzmaterial für jede einzelne der skriptfähigen APIs, einschließlich des <a href="/de/docs/DOM">DOM</a> und aller zugehörigen APIs und Schnittstellen, die Sie für die Erstellung von Webinhalten und Anwendungen einsetzen können.
  <ul>
   <li><a href="/de/docs/Web/API" title="/en-US/docs/Web/API">Web API Schnittstellen Referenz</a> - alle Schnittstellen in alphabetischer Reihenfolge.</li>
   <li>Auf der <a href="/de/docs/Web/WebAPI">WebAPI</a> Seite sind APIs für den Gerätezugriff und weitere für Anwendungen nützliche APIs aufgeführt.</li>
+  <li>In der <a href="de/docs/Web/Events">Ereignis-Referenz</a> werden alle Ereignisse aufgelistet, die man nutzen kann, um auf den Benutzer zu reagieren.</li>
  </ul>
  </dd>
 </dl>
