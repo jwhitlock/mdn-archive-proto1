@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1338732
+revision_id: 1340317
 locale: zh-CN
 slug: Web
 tags: "指南" "Web" "Web 开发"
@@ -34,13 +34,13 @@ based_on: None
 
 <dl>
  <dt><a href="/zh-CN/docs/Web/JavaScript">JavaScript</a></dt>
- <dd><strong>JavaScript&nbsp;</strong>是运行在浏览器端的编程语言，您可以使用它为您的网站或应用程序添加交互性和其他动态功能。</dd>
+ <dd><strong>JavaScript </strong>是运行在浏览器端的编程语言，您可以使用它为您的网站或应用程序添加交互性和其他动态功能。</dd>
  <dt><a href="/zh-CN/docs/Web/Reference/API">Web APIs</a></dt>
  <dd><strong>Web 应用程序编程接口（Web APIs）</strong>用于执行各种任务，如操作 <a href="/zh-CN/docs/DOM">DOM</a>，播放音频或视频或生成 3D 图形。
  <ul>
-  <li><a href="/zh-CN/docs/Web/API">Web API 接口</a>&nbsp;列出了所有的用于 Web 开发的对象类型。</li>
-  <li><a href="/zh-CN/docs/WebAPI">WebAPI</a>&nbsp;页面列出了所有通信、设备访问 API 和其他可用于 Web 应用程序的 API。</li>
-  <li><a href="/zh-CN/docs/Web/Events">事件类型一览表</a>&nbsp;列出了所有事件，你可以用这些事件来跟踪和响应网页或应用程序中的发生的有趣的事情。</li>
+  <li><a href="/zh-CN/docs/Web/API">Web API 接口</a> 列出了所有的用于 Web 开发的对象类型。</li>
+  <li><a href="/zh-CN/docs/WebAPI">WebAPI</a> 页面列出了所有通信、设备访问 API 和其他可用于 Web 应用程序的 API。</li>
+  <li><a href="/zh-CN/docs/Web/Events">事件类型一览表</a> 列出了所有事件，你可以用这些事件来跟踪和响应网页或应用程序中的发生的有趣的事情。</li>
  </ul>
  </dd>
 </dl>
