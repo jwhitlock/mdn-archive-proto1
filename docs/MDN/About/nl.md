@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1336338
+revision_id: 1340861
 locale: nl
 slug: MDN/Over
 tags: "Gids" "MDN Meta" "Community" "Licenties" "Collaboratie" "Documentație" "Auteursrechten"
@@ -8,7 +8,7 @@ title: Over MDN
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
