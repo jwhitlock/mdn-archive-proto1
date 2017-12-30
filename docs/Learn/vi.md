@@ -1,15 +1,15 @@
 ---
 version: prototype1
-revision_id: 1326628
+revision_id: 1340982
 locale: vi
 slug: Learn
 tags: "Web" "Index" "Learn" "Landing" "Beginner" "TopicStub" "NeedsTranslation"
 title: Học làm Web
 summary: 
 keywords: 
-needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_technical_review: True
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -21,7 +21,7 @@ based_on: None
 
 <p>Mục đích của trang này không phải là giúp bạn từ "người mới bắt đầu" trở thành "chuyên gia", mà là giúp bạn từ "người mới bắt đầu" trở thành "người có thể thoải mái làm mọi việc". Từ đây, bạn có thể bắt đầu làm việc theo cách của riêng bạn, học từ <a href="https://developer.mozilla.org/vi/docs/Learn">the rest of MDN</a>&nbsp;và các nguồn tài nguyên khác&nbsp;từ trung cấp đến nâng cao sẽ giúp bạn củng cố rất nhiều kiến thức trước đó.</p>
 
-<p>Nếu bạn là "người hoàn toàn mới", việc phát triển web có thể có đôi chút khó khăn - &nbsp;chúng tôi sẽ dẫn dắt bạn và cung cấp cho bạn đầy đủ chi tiết&nbsp;giúp bạn cảm thấy thoải mái để học. Bạn sẽ cảm thấy như ở nhà cho dù bạn là sinh viên đang học làm web (bằng chính bạn hoặc học tại lớp), một giáo viên đang tìm kiếm tư liệu, hay ai đó chỉ muốn hiểu thêm về cách mà các công nghệ web làm việc.</p>
+<p>Nếu bạn là "người hoàn toàn mới", việc phát triển web có thể có đôi chút khó khăn - &nbsp;chúng tôi sẽ dẫn dắt bạn và cung cấp cho bạn đầy đủ chi tiết&nbsp;giúp bạn cảm thấy thoải mái để học. Bạn sẽ cảm thấy như ở nhà cho dù bạn là sinh viên đang học làm web (tự học hoặc học tại lớp), một giáo viên đang tìm kiếm tư liệu, hay ai đó chỉ muốn hiểu thêm về cách mà các công nghệ web làm việc.</p>
 
 <div class="warning">
 <p><strong>Quan trọng</strong>: Nội dung trong Khu vực Học tập đang được bổ sung thường xuyên. Nếu bạn có thắc mắc về các chủ đề bạn muốn xem hoặc cảm thấy bị thiếu, hãy xem phần {{anch("Contact us")}} dưới đây để biết thông tin về cách liên lạc.</p>
@@ -42,7 +42,7 @@ based_on: None
 
 <p>{{LearnBox({"title":"Random glossary entry"})}}</p>
 
-<h2>Danh sách chủ đề</h2>
+<h2 id="Danh_sách_chủ_đề">Danh sách chủ đề</h2>
 
 <p>Dưới đây là danh sách tất cả các chủ đề trình bày tại MDN Learning Area.</p>
 
