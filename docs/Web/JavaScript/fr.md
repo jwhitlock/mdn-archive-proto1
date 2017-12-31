@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1336013
+revision_id: 1341120
 locale: fr
 slug: Web/JavaScript
 tags: "Landing" "JavaScript"
