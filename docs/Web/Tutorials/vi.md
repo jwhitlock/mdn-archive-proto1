@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1340981
+revision_id: 1341143
 locale: vi
 slug: Web/Tutorials
 tags: 
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -18,7 +18,7 @@ based_on: None
 <h2 id="Cho_những_ai_hoàn_toàn_mới_với_Web">Cho những ai hoàn toàn mới với Web</h2>
 
 <dl>
- <dt>Làm quen với Web</dt>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">Làm quen với Web</a></dt>
  <dd><em>Làm quen với Web</em> là một chuỗi các bài viết xúc tích, thực tế giới thiệu về phát triển web. Bạn sẽ thiết đặt các công cụ cần thiết để xây dựng một trang web và chạy những dòng code đơn giản</dd>
 </dl>
 
