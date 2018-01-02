@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1340756
+revision_id: 1341328
 locale: en-US
 slug: MDN/Contribute/Howto/Do_a_technical_review
 tags: "MDN Meta" "Guide" "Howto" "Review" "Documentation"
@@ -49,7 +49,7 @@ based_on: None
    <ol>
     <li>To edit the page, click the <strong>Edit</strong> button near the top of the page; this puts you into the <a href="/en-US/docs/MDN/Contribute/Editor">MDN editor</a>.</li>
     <li>Fix any technical information is not correct, and/or add any important information that is missing.</li>
-    <li>Enter a <strong>Revision Comment</strong> at the bottom of the article. This is a brief message that describes what you did, like '<em>Technical review completed.</em>' If you corrected information, include that in your comment, for example <em>'Technical review and fixed parameter descriptions.'</em> This helps other contributors and site editors know what you changed and why. You can also mention if there were specific bits that you didn't feel qualified to review</li>
+    <li>Enter a <strong>Revision Comment</strong> at the bottom of the article. This is a brief message that describes what you did, like '<em>Technical review completed.</em>' If you corrected information, include that in your comment, for example <em>'Technical review and fixed parameter descriptions.'</em> This helps other contributors and site editors know what you changed and why. You can also mention if there were specific bits that you didn't feel qualified to review.</li>
     <li>Deselect<em> </em>the <strong>Technical</strong> box under <strong>Review Needed?</strong> just below the Revision Comment area of the page.</li>
     <li>Click the <strong>PUBLISH</strong> button.</li>
    </ol>
