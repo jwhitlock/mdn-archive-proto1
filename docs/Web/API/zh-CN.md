@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1340837
+revision_id: 1341368
 locale: zh-CN
 slug: Web/API
 tags: "Web APIs" "Web， APIs"
@@ -15,5 +15,5 @@ based_on: None
 ---
 <p>当使用JavaScript编写网页代码时，有很多API可以使用。以下是所有对象、类型等接口的列表,你在开发网页应用程序或站点时使用它们。</p>
 
-<div>&nbsp;</div>
+<div>{{APIListAlpha}}</div>
 
