@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1342089
+revision_id: 1342139
 locale: en-US
 slug: Web/JavaScript
 tags: "Learn" "Landing" "JavaScript" "l10n:priority"
@@ -117,8 +117,6 @@ based_on: None
  <dd>Browse JavaScript's feature history and implementation status.</dd>
  <dt><a href="https://jsfiddle.net/">JSFiddle</a></dt>
  <dd>Edit JavaScript, CSS, HTML and get live results. Use external resources and collaborate with your team online.</dd>
- <dt><a href="/en-US/docs/Web/JavaScript/JavaScript_templates">JavaScript templates</a></dt>
- <dd>This page provides a list of JavaScript template systems.</dd>
  <dt><a href="https://plnkr.co/">Plunker</a></dt>
  <dd>Plunker is an online community for creating, collaborating on and sharing your web development ideas. Edit your JavaScript, CSS, HTML files and get live results and file structure.</dd>
 </dl>
