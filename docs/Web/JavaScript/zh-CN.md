@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1340116
+revision_id: 1341470
 locale: zh-CN
 slug: Web/JavaScript
 tags: "学习" "Landing" "JavaScript"
@@ -59,7 +59,7 @@ based_on: None
 </dl>
 
 <dl>
- <dt><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript">JavaScript 深入理解</a></dt>
+ <dt><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript">重新介绍 JavaScript（JS 教程）</a></dt>
  <dd>为那些有 JavaScript 基础的朋友们深入介绍 JavaScript。</dd>
 </dl>
 
