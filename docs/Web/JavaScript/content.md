@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1340715
+revision_id: 1342089
 locale: en-US
 slug: Web/JavaScript
 tags: "Learn" "Landing" "JavaScript" "l10n:priority"
@@ -81,8 +81,6 @@ based_on: None
  <dd>Memory life cycle and garbage collection in JavaScript.</dd>
  <dt><a href="/en-US/docs/Web/JavaScript/EventLoop">Concurrency model and Event Loop</a></dt>
  <dd>JavaScript has a concurrency model based on an "event loop".</dd>
- <dt><a href="/en-US/docs/Web/JavaScript/Introduction_to_using_XPath_in_JavaScript">Introduction to using XPath in JavaScript</a></dt>
- <dd>This document describes the interface for using <a href="/en-US/docs/XPath" title="en/XPath">XPath</a> in JavaScript internally, in extensions, and from websites.</dd>
 </dl>
 </div>
 
