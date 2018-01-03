@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1336357
+revision_id: 1342186
 locale: es
 slug: Learn
 tags: "Web" "Ayuda" "Inicio" "Landing" "TopicStub" "Principiante"
@@ -24,8 +24,8 @@ based_on: None
   <ol>
    <li><a href="https://webmaker.org/en-US/literacy" rel="external">Web Literacy Map</a></li>
    <li><a href="/en-US/Learn/Web_Mechanics">Mecánicas Web</a></li>
-   <li><a href="/en-US/Learn/Infrastructure">Infraestructura</a></li>
-   <li><a href="/en-US/Learn/Coding-Scripting">Coding &amp; Scripting</a></li>
+   <li><a href="/es/docs/Learn/Common_questions">Infraestructura</a></li>
+   <li><a href="/es/docs/Learn/codificacion-scripting">Codificación-Scripting</a></li>
    <li><a href="/en-US/Learn/Design_and_Accessibility">Design &amp; Accessibility</a></li>
    <li><a href="/en-US/Learn/Composing_for_the_web">Writing &amp; planning</a></li>
   </ol>
