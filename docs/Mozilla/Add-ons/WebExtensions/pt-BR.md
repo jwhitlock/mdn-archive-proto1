@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1274923
+revision_id: 1341628
 locale: pt-BR
 slug: Mozilla/Add-ons/WebExtensions
 tags: "Passo a passo" "WebExtension"
@@ -36,7 +36,7 @@ based_on: None
 <ul>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests">Interceptar solicitações de HTTP</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page">Modificar uma página de Web</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar">Adicionar um botõa na barra de ferramenta</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar">Adicionar um botão na barra de ferramenta</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Implement_a_settings_page">Implementar uma página de configurações</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard">Interagir com a área de transferência</a></li>
 </ul>
