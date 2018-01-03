@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1325371
+revision_id: 1341586
 locale: zh-TW
 slug: MDN/Getting_started
 tags: "入門" "MDN Meta" "Guide" "Beginner" "Getting Started"
@@ -15,21 +15,21 @@ based_on: None
 ---
 <div>{{IncludeSubnav("/zh-TW/docs/MDN")}}</div>
 
-<p>這裡不分品牌、瀏覽器、平台，我們都是希望能為美好的 Web 未來提供更多資源。大家都能貢獻，而每個貢獻者都讓我們更為壯大。<span class="ordinary-span-edit">要想持續推動 Web 創新、成就更為偉大的事物？就讓我們和您一起，從這裡開始。</span></p>
+<p>這是一個開放的開發者和作家社區，不分品牌、瀏覽器、平台，為更好的 Web 構建提供更多資源。每個人都能做出貢獻，而每個貢獻者的付出都讓我們變得更為壯大。<span class="ordinary-span-edit">要想持續推動 Web 創新、成就更為偉大的事物？就讓我們和您一起，從這裡開始。</span></p>
 
 <p>MDN 上的每一個部分（網站本身的程式、文件、程式範例、效果展示等等）都是由一群開發者及文案編輯組成的社群完成。術業有專攻，您也一定有些妙招可以分享，請加入我們！</p>
 
 <h2 id="MDN_三步驟快速上手"><span>MDN 三步驟快速上手</span></h2>
 
-<p><span class="seoSummary">MDN 是一個 wiki，<strong>每個人</strong>都可以添加、編撰內容。您不必得是個了解許多技術的程式設計師才能加入，畢竟總有各種事情需要完成，從簡單如校對與糾正拼寫，到複雜如撰寫 API 文件都有。This guide will get you started and help steer you toward finding ways <em>you</em> can help improve MDN's content.</span></p>
+<p><span class="seoSummary">MDN 是一個 wiki，<strong>每個人</strong>都可以添加、編撰內容。您不必得是個了解許多技術的程式設計師才能加入，畢竟總有各種事情需要完成，從簡單如校對與糾正拼寫，到複雜如撰寫 API 文件都有。這個導向將引導您開始和幫助您找到可以幫助提升 MDN 内容的方法。</span></p>
 
-<p>加入貢獻非常容易，且即使您不慎犯了個錯誤，也很容易修正。就算您不知道文件該怎麼編排，或者不太了解語法，也不用煩惱：我們有一群人就是專門努力巡視四周、盡力確保 MDN 上的內容優質依舊；有人會盡力編輯您的貢獻確保文件格式正確。放膽分享您的所學吧，並相信整個社群能幫您做得更好。</p>
+<p>加入貢獻非常容易，且即使您不慎犯了錯誤，也很容易修正。就算您不知道文件該怎麼編排，或者不太了解語法，也不用煩惱：我們有一群人就是專門努力巡視四周、盡力確保 MDN 上的內容優質依舊；有人會盡力編輯您的貢獻確保文件格式正確。放膽分享您的所學吧，並相信整個社群能幫您做得更好。</p>
 
 <h3 id="步驟_1：建立_MDN_帳號">步驟 1：建立 MDN 帳號</h3>
 
 <p>加入貢獻的第一步是要有 MDN 帳號，請參考<a href="/docs/MDN/Contribute/Howto/Create_an_MDN_account">建立帳號說明</a>。注意，在建立 MDN 帳號之前，您需要有一個 <a href="https://github.com/join">GitHub帳號</a>，因為我們已經使用 GitHub 作為登入驗證。</p>
 
-<p>If your task involves creating new pages, please see {{SectionOnPage("/zh-TW/docs/MDN/Contribute/Howto/Create_and_edit_pages", "Getting page creation permissions")}} for important information about how to get permission to add new pages; for security reasons, new accounts don't have this ability by default.</p>
+<p>如果你想創建一個新的頁面，請參考{{SectionOnPage("/zh-TW/docs/MDN/Contribute/Howto/Create_and_edit_pages", "Getting page creation permissions")}}，這裏有關於如何獲得創建新頁面許可的重要信息；出於安全考慮，新賬戶默認沒有此功能。</p>
 
 <h3 id="步驟_2：找件事來完成">步驟 2：找件事來完成</h3>
 
@@ -42,7 +42,7 @@ based_on: None
 <p>別擔心您無法做到完美，會有 MDN 成員來幫忙修復問題與錯誤。有任何疑問，都歡迎到<a href="/docs/MDN/Community">社群網頁</a>上查詢郵件群組、聊天頻道等資訊，協助您找尋答案。</p>
 
 <div class="note">
-<p>If you want to experiment with editing on MDN before doing something "for real", we have a <strong><a href="/zh-TW/docs/Sandbox">Sandbox</a></strong> page for you to play around in. Please limit your experiments to this page. Please don't make unneeded changes to content pages just to see what happens; that's making a mess for others to clean up or, worse, confusing readers who are just trying to learn something or look something up.</p>
+<p>如果您想要在編輯 MDN 之前做些實際的試驗，那麽我們有提供一個沙盒(<strong><a href="/zh-TW/docs/Sandbox">Sandbox</a>)</strong>給您體驗。請將您的試驗限制在這個頁面。請不要為了看看會發生什麽而在内容頁做不必要的變動，這會弄得一團糟讓其他人搞不清楚，更糟糕的是，會讓一些衹是想學點或看點什麽的讀者混亂。</p>
 </div>
 
 <p>完成這項工作以後，歡迎再挑另一件事情做，或者看看{{anch("其他可以在 MDN 上做的事", "其他可以在 MDN 上做的事")}}。</p>
@@ -95,7 +95,6 @@ based_on: None
  <li><a href="/zh-TW/docs/MDN/Contribute/Localize/Translating_pages">翻譯頁面</a>（2 小時）（參見 <a href="/zh-TW/docs/MDN/Doc_status/l10nPriority">top priorities</a>）</li>
  <li>與其他列在<a href="/zh-TW/docs/MDN/Contribute/Localize/Localization_projects">本地化專案</a>裡面的朋友聯繫（30 分鐘）</li>
 </ul>
-
 
 <h3 id="選項_5_我發現了一些錯誤的資訊，但我不知道該怎樣修復它">選項 5: 我發現了一些錯誤的資訊，但我不知道該怎樣修復它</h3>
 
