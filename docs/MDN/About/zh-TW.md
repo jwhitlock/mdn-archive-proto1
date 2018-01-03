@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1303413
+revision_id: 1341592
 locale: zh-TW
 slug: Project:MDN/About
 tags: "指引" "文檔" "版權" "社群"
@@ -27,11 +27,11 @@ based_on: None
 
 <p>MDN 的使命非常簡單：提供開發者在<a href="/zh-TW/docs/Web">開放網站</a>上輕鬆地建立各種專案所需的資訊。只要有一個網路上開放的技術，我們就希望把它寫成文件。</p>
 
-<p>除此之外，我們提供有關 <a href="/zh-TW/docs/Mozilla">Mozilla 產品</a>和如何<a href="/zh-TW/docs/Mozilla">建置與貢獻 Mozilla 專案</a>的方法。另外也涵蓋了 <a href="/zh-TW/docs/Mozilla/B2G_OS">B2G OS</a>（以前叫做 Firefox OS）的文件。
+<p>除此之外，我們提供有關 <a href="/zh-TW/docs/Mozilla">Mozilla 產品</a>和如何<a href="/zh-TW/docs/Mozilla">建置與貢獻 Mozilla 專案</a>的方法。另外也涵蓋了 <a href="/zh-TW/docs/Mozilla/B2G_OS">B2G OS</a>（以前叫做 Firefox OS）的文件。</p>
 
-<p>如果你不知道一個特定的主題適不適合出現在 MDN 上，請參閱：<a href="/zh-TW/docs/Project:MDN/Contributing/Does_this_belong">Does this belong on MDN?</a>。
+<p>如果你不知道一個特定的主題適不適合出現在 MDN 上，請參閱：<a href="/zh-TW/docs/Project:MDN/Contributing/Does_this_belong">Does this belong on MDN?</a>。</p>
 
-<h2 id="要如何幫忙">要如何幫忙</h2>
+<h2 id="要如何幫忙">如何幫忙</h2>
 
 <p>想要幫忙 MDN 更加完善，你不需要寫得一手很好的程式碼！你可以透過很多種方式幫忙我們，從檢查文件是否合理、到隨手增添一些文字或是範例程式碼都行。根據你的興趣和時間，你可以到<a href="/zh-TW/docs/MDN/Getting_started">開始入門 MDN</a> 頁面看看有幾種方法可以幫忙我們。</p>
 
@@ -74,7 +74,6 @@ based_on: None
 <p>如果你對這裡提到的內容有任何問題或疑慮，請聯絡 <a class="external" href="mailto:eshepherd@mozilla.com" rel="nofollow" title="mailto:eshepherd@mozilla.com">Eric Shepherd</a>。</p>
 
 <hr />
-
 <p>Mozilla 基金會的商標、Logo、服務標誌，以及這個網站的風格外觀，皆不屬於創用 CC 授權的範圍。它們是其原作者的作品（例如 Logo 和圖形設計），不包含在上述的授權條款中。如果你使用文件中的文字、並同時希望使用以上任一權利，或者你對於遵守我們的授權條款有任何的問題，你應該聯絡 Moziila 基金會：<a class="external text" href="mailto:licensing@mozilla.org" rel="nofollow" title="mailto:licensing@mozilla.org">licensing@mozilla.org</a>。</p>
 
 <h3 id="下載內容">下載內容</h3>
@@ -95,11 +94,11 @@ based_on: None
 
 <p>請參閱 <a href="/zh-TW/docs/MDN/About/Linking_to_MDN">linking to MDN</a> 文內的指導，了解連結文件的最佳做法。</p>
 
-<h2 id="向_MDN_回報問題">向 MDN 回報問題</h2>
+<h2 id="向_MDN_回報問題">向 MDN 報告問題</h2>
 
 <p>請參閱 <a href="/zh-TW/docs/MDN/Contribute/Howto/Report_a_problem">How to report a problem on MDN</a>。</p>
 
-<h2 id="MDN_歷史">MDN 歷史</h2>
+<h2 id="MDN_歷史">MDN 網頁文檔歷史</h2>
 
 <p>MDN Web Docs（前身為<em>Mozilla Developer Network (MDN)</em>，更前身為 Mozilla Developer Center (MDC) 或 <em>Devmo</em>）專案始於 2005 年初，<a class="external" href="http://www.mozillafoundation.org">Mozilla 基金會</a>從 AOL 得到了原始的 Netscape <a href="https://web.archive.org/web/*/devedge.netscape.com" title="Project:en/DevEdge">DevEdge</a> 授權。DevEdge 內容仍被視為可用，之後由志願者合併到今天的這個 wiki 以便日後的更新與維護。</p>
 
