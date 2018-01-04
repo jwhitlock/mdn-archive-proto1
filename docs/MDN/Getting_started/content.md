@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1335179
+revision_id: 1342821
 locale: en-US
 slug: MDN/Getting_started
 tags: "MDN Meta" "Guide" "Beginner" "Introduction" "Getting Started"
@@ -81,6 +81,7 @@ based_on: None
 
 <ul>
  <li><a href="/en-US/docs/MDN/About/Promote">Promote MDN on your own website</a> (5 minutes)</li>
+ <li><a href="/en-US/docs/MDN/Contribute/Howto/Remove__Experimental__Macros">Remove "experimental" macros</a> from items that are no longer experimental (5-30 minutes)</li>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Do_a_technical_review">Do technical reviews</a> (30 minutes)</li>
  <li><a href="/en-US/docs/MDN/Contribute/Contribute_to_docs_that_are_currently_needed">Write a new article on a topic that is currently needed</a> (1 hour or more)</li>
  <li><a href="/en-US/docs/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web">Create an interactive exercise to help people learn about the web</a> (1 hour or more)</li>
