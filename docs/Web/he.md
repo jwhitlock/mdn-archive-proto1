@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1342240
+revision_id: 1342292
 locale: he
 slug: Web
 tags: 
@@ -19,16 +19,16 @@ based_on: None
 <div class="section">
 <h2 class="Documentation" dir="rtl" id="טכנולוגיות_לפיתוח_אינטרנטי">טכנולוגיות לפיתוח אינטרנטי</h2>
 
-<h3 dir="rtl" id="מתחילים">מתחילים</h3>
+<h3 dir="rtl" id="מתחילים">מידע בסיסי</h3>
 
 <dl>
  <dt dir="rtl"><a href="/en-US/docs/Web/HTML">HTML</a></dt>
- <dd dir="rtl">&nbsp;שפה המשמשת ליצירת דפי אינטרנט ומסמכים אחרים הניתנים לצפייה בדפדפן אינטרנט.</dd>
+ <dd dir="rtl">שפה המשמשת ליצירת דפי אינטרנט ומסמכים אחרים הניתנים לצפייה בדפדפן אינטרנט.</dd>
  <dt dir="rtl"><a href="/en-US/docs/Web/CSS">CSS</a></dt>
- <dd>Cascading Style Sheets are used to describe the appearance of Web content.</dd>
+ <dd dir="rtl">גיליונות סגנון מדורגים הם פורמט כתיבה היררכי&nbsp;המשמשים לעיצוב דף האינטרנט.&nbsp;</dd>
 </dl>
 
-<h3 dir="rtl" id="Scripting">סקריפטים</h3>
+<h3 dir="rtl" id="סקריפטים">סקריפטים</h3>
 
 <dl>
  <dt dir="rtl"><a href="/en-US/docs/Web/JavaScript">JavaScript</a></dt>
@@ -46,7 +46,7 @@ based_on: None
 
 <dl>
  <dt dir="rtl"><a href="/en-US/docs/SVG">SVG</a></dt>
- <dd>Scalable Vector Graphics let you describe images as sets of vectors and shapes in order to allow them to scale smoothly regardless of the size at which they're drawn.</dd>
+ <dd dir="rtl">משמשת לתיאור גרפיקה וקטורית דו-ממדית סטטית או דינמית.</dd>
  <dt dir="rtl"><a href="/en-US/docs/Web/WebGL" title="/en-US/docs/Web/WebGL">WebGL</a></dt>
  <dd>WebGL brings 3D graphics to the Web by introducing an API that closely conforms to OpenGL ES 2.0 that can be used in HTML {{HTMLElement("canvas")}} elements</dd>
 </dl>
@@ -60,7 +60,7 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Documentation" dir="rtl" id="Documentation_by_type">מסמכים לפי סוג</h2>
+<h2 class="Documentation" dir="rtl" id="מסמכים_לפי_סוג">מסמכים לפי סוג</h2>
 
 <dl>
  <dt><a href="/en-US/docs/Web/Guide">Web Developer Guide</a></dt>
@@ -71,7 +71,7 @@ based_on: None
  <dd><em>This page will offer links to all reference information on MDN, but for now use one of the technology links the left section.</em></dd>
 </dl>
 
-<h2 dir="rtl" id="Other_topics">נושאים נוספים</h2>
+<h2 dir="rtl" id="נושאים_נוספים">נושאים נוספים</h2>
 
 <dl>
  <dt><a href="/en-US/docs/Web/Apps">Developing Web applications</a></dt>
