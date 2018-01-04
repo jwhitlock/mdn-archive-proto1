@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1341120
+revision_id: 1342307
 locale: fr
 slug: Web/JavaScript
 tags: "Landing" "JavaScript"
@@ -83,9 +83,7 @@ based_on: None
  <dt><a href="/fr/docs/Web/JavaScript/Gestion_de_la_mémoire">La gestion de la mémoire en JavaScript</a></dt>
  <dd>Cet article décrit le cycle de vie des objets et de la mémoire en JavaScript, ainsi que le mécanisme du ramasse-miettes.</dd>
  <dt><a href="/fr/docs/Web/JavaScript/Concurrence_et_boucle_des_événements">Gestion de la concurrence et boucle des événements</a></dt>
- <dd>Le modèle de concurrence utilisé par JavaScript est basé sur une « boucle d'événements ».</dd>
- <dt><a href="/fr/docs/Web/JavaScript/Introduction_à_l_utilisation_de_XPath_avec_JavaScript">Une introduction à l'utilisation de XPath avec JavaScript</a></dt>
- <dd>Ce document décrit l'interface disponible afin d'utiliser <a href="/fr/docs/XPath">XPath</a> avec JavaScript, via des extensions ou des sites web.</dd>
+ <dd>Le modèle de concurrence utilisé par JavaScript est basé sur une « boucle d'événements »</dd>
 </dl>
 </div>
 
@@ -124,8 +122,6 @@ based_on: None
  <dd>Parcourez l'historique de JavaScript, l'évolution des différentes fonctionnalités et l'état de l'implémentation.</dd>
  <dt><a href="https://jsfiddle.net/">JSFiddle</a></dt>
  <dd>Éditez du code JavaScript, CSS et HTML et visualisez le résultat obtenu en direct. Vous pouvez aussi partager des exemples et collaborer avec votre équipe.</dd>
- <dt><a href="/fr/docs/Web/JavaScript/JavaScript_templates">Une liste d'outils JavaScript pour les gabarits (<em>templates</em>)</a></dt>
- <dd>Cette page liste différents systèmes JavaScript pour construire des gabarits.</dd>
  <dt><a href="https://plnkr.co/">Plunker</a></dt>
  <dd>Plunker est un site communautaire et collaboratif pour partager des idées relatives au développement web. Vous pouvez y éditer des fichiers JavaScript, CSS et HTML puis voir le résultat obtenu.</dd>
 </dl>
