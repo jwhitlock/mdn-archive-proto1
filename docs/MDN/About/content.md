@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1320846
+revision_id: 1343692
 locale: en-US
 slug: MDN/About
 tags: "MDN Meta" "Guide" "Licenses" "Community" "Copyright" "Collaborating" "Documentation"
@@ -76,7 +76,15 @@ based_on: None
 <hr />
 <p>The rights in the trademarks, logos, service marks of the Mozilla Foundation, as well as the look and feel of this web site, are not licensed under the Creative Commons license, and to the extent they are works of authorship (like logos and graphic design), they are not included in the work that is licensed under those terms. If you use the text of documents, and wish to also use any of these rights, or if you have any other questions about complying with our licensing terms for this collection, you should contact the Mozilla Foundation here: <a class="external text" href="mailto:licensing@mozilla.org" rel="nofollow" title="mailto:licensing@mozilla.org">licensing@mozilla.org</a>.</p>
 
-<h3 id="Downloading_content">Downloading content</h3>
+<p>&nbsp;</p>
+
+<h3 id="Linking_to_MDN">Linking to MDN</h3>
+
+<p>See this article for guidance on <a href="/en-US/docs/MDN/About/Linking_to_MDN">linking to MDN</a> for best practices when linking.</p>
+
+<p>&nbsp;</p>
+
+<h2 id="Downloading_content">Downloading content</h2>
 
 <p>You can download <a href="https://mdn-downloads.s3-us-west-2.amazonaws.com/developer.mozilla.org.tar.gz">a full tarball mirror of MDN</a> (2.1 GB as of February 2017).</p>
 
@@ -89,10 +97,6 @@ based_on: None
 <p>You can view MDN content via third-party tools like <a href="http://kapeli.com/dash">Dash</a> (for Mac OS) and <a href="http://zealdocs.org/">Zeal</a> (for Linux and Windows).</p>
 
 <p><a href="https://kapeli.com/">Kapeli</a> also publishes <a href="https://kapeli.com/mdn_offline">offline MDN docs</a> covering HTML, CSS, JavaScript, SVG, and XSLT.</p>
-
-<h3 id="Linking_to_MDN">Linking to MDN</h3>
-
-<p>See this article for guidance on <a href="/en-US/docs/MDN/About/Linking_to_MDN">linking to MDN</a> for best practices when linking.</p>
 
 <h2 id="Reporting_problems_with_MDN_Web_Docs">Reporting problems with MDN Web Docs</h2>
 
