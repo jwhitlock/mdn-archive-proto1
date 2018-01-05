@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 640399
+revision_id: 1343354
 locale: en-US
 slug: Mozilla/Add-ons
 tags: "Add-ons" "Landing" "Mozilla" "Extension" "Extensions"
@@ -13,103 +13,93 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div class="summary">
- Modify and extend Mozilla applications</div>
-<p><span class="seoSummary">Add-ons add new functionality to <a href="/en-US/docs/Mozilla/Gecko">Gecko</a>-based applications such as Firefox, SeaMonkey, and Thunderbird.</span><strong> </strong>There are two main types of add-on: <a href="#Extensions">Extensions</a> add new features to the application, while <a href="#Themes">Themes</a> modify the application's user interface.</p>
-<p>For both extensions and themes, Mozilla operates a repository at <a href="https://addons.mozilla.org/">addons.mozilla.org</a>, also known as AMO. When you <a href="/en-US/Add-ons/Submitting_an_add-on_to_AMO">submit add-ons to AMO</a> they are reviewed, and after passing review they are made available to users. You don't have to submit add-ons to AMO, but if you do, users can take confidence in the fact that they have been reviewed, and you can benefit from AMO's visibility as a source for useful add-ons.</p>
-<p>Add-ons can greatly affect the behavior of the application that hosts them. We've developed a <a href="/en-US/docs/Mozilla/Add-ons/Add-on_guidelines">set of guidelines</a> to help ensure that they provide a good experience to users. These guidelines apply for all sorts of add-ons, whether they are hosted at <a href="https://addons.mozilla.org/">addons.mozilla.org</a> or not.</p>
-<hr />
-<h2 id="Extensions_2"><a name="Extensions">Extensions</a></h2>
-<p>Extensions add new functionality to Mozilla applications such as Firefox and Thunderbird. They can add new features to the browser, such as a different way to manage tabs, and they can modify web content to improve the usability or security of particular websites.</p>
-<p>There are three different techniques you can use to build extensions: Add-on SDK-based extensions, manually bootstrapped restartless extensions, and overlay extensions.</p>
-<ul class="card-grid">
- <li><span><a href="https://developer.mozilla.org/en-US/Add-ons/SDK">Add-on SDK extensions</a></span><br />
-  Develop restartless extensions using a set of high-level JavaScript APIs.</li>
- <li><span><a href="/en-US/Add-ons/Bootstrapped_extensions">Restartless extensions</a></span><br />
-  Develop extensions that don't require a browser restart.</li>
- <li><a href="/en-US/Add-ons/Overlay_Extensions"><span>Overlay extensions</span></a><br />
-  Develop traditional extensions using a XUL overlay.</li>
+<div>{{AddonSidebar}}</div>
+
+<div>&nbsp;</div>
+
+<p><span class="seoSummary">Add-ons allow developers to extend and modify the functionality of Firefox.</span> They are written using standard Web technologies - JavaScript, HTML, and CSS - plus some dedicated JavaScript APIs. Among other things, an add-on could:</p>
+
+<ul>
+ <li>Change the appearance or content of particular websites</li>
+ <li>Modify the Firefox user interface</li>
+ <li>Add new features to Firefox</li>
 </ul>
-<p>If you can, it's advisable to use the Add-on SDK, which uses the restartless extension mechanism but simplifies certain tasks and cleans up after itself. If the Add-on SDK isn't sufficient for your needs, implement a manual restartless extension instead.</p>
-<p>For more information on choosing which technique to use, read this <a href="/en-US/Add-ons/Comparing_Extension_Toolchains">comparison</a>.</p>
-<div class="column-container">
- <div class="column-half">
-  <h3 id="Good_practices">Good practices</h3>
-  <p>No matter how you develop an extension, there are some guidelines you can follow to help ensure your extension provides as good a user experience as possible.</p>
-  <dl>
-   <dt>
-    <a href="/en-US/Add-ons/Performance_best_practices_in_extensions">Performance</a></dt>
-   <dd>
-    Ensuring your extension is fast, responsive and memory-efficient.</dd>
-   <dt>
-    <a href="/en-US/Add-ons/Security_best_practices_in_extensions">Security</a></dt>
-   <dd>
-    Ensuring your extension doesn't expose the user to malicious websites.</dd>
-   <dt>
-    <a href="/en-US/Add-ons/Extension_etiquette">Etiquette</a></dt>
-   <dd>
-    Ensuring your extension plays nicely with other extensions.</dd>
-  </dl>
- </div>
- <div class="column-half">
-  <h3 id="Application-specific">Application-specific</h3>
-  <p>Most of the documentation assumes you're developing for Firefox Desktop. If you're developing for some other Gecko-based application, there are major differences you need to know about.</p>
-  <dl>
-   <dt>
-    <a href="/en-US/Add-ons/Thunderbird">Thunderbird</a></dt>
-   <dd>
-    Developing extensions for the Thunderbird mail client.</dd>
-   <dt>
-    <a href="/en-US/Add-ons/Firefox_for_Android">Firefox for Android</a></dt>
-   <dd>
-    Developing extensions for Firefox for Android.</dd>
-   <dt>
-    <a href="/en-US/Add-ons/SeaMonkey_2">SeaMonkey</a></dt>
-   <dd>
-    Developing extensions for the <a href="http://www.seamonkey-project.org/">SeaMonkey</a> software suite.</dd>
-  </dl>
- </div>
-</div>
-<hr />
-<h2 id="Themes_2"><a name="Themes">Themes</a></h2>
-<p>Themes are add-ons that customize the application's user interface. There are two sorts of themes: lightweight themes and complete themes.</p>
-<div class="column-container">
- <div class="column-half">
-  <p><a href="https://addons.mozilla.org/en-US/developers/docs/themes">Lightweight themes</a> are much simpler to implement than complete themes, but provide very limited customization.</p>
- </div>
- <div class="column-half">
-  <p>With <a href="/en-US/docs/Themes">complete themes</a> you can make much deeper modifications to the application UI. The documentation for complete themes is out of date, but is linked to here as a possible basis for updated documentation.</p>
- </div>
-</div>
-<hr />
+
+<p>There are several types of add-ons, but the most common type are extensions.</p>
+
+<h2 id="Developing_extensions">Developing extensions</h2>
+
+<p>In the past, there were several toolsets for developing Firefox extensions, but by the end of November 2017, extensions must be built using <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions">WebExtensions APIs</a>. Other toolsets, such as overlay add-ons, bootstrapped add-ons, and the Add-on SDK, will be deprecated over the same period of time.</p>
+
+<p>If you are writing a new extension, use <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions">WebExtensions APIs</a>.</p>
+
+<p>Extensions written using WebExtensions APIs for Firefox are designed to be cross-browser compatible. In most cases it will run in Chrome, Edge, and Opera with few if any changes. They are also fully compatible with multiprocess Firefox.<br />
+ <br />
+ <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs">See the APIs currently supported in Firefox and other browsers</a>. We're continuing to design and implement new APIs in response to developer needs.<br />
+ <br />
+ Most of the WebExtensions APIs are also available on Firefox for Android.</p>
+
+<h3 id="Migrate_an_existing_extension">Migrate an existing extension</h3>
+
+<p>If you maintain a legacy extension, such as a XUL overlay, bootstrapped, or Add-on SDK-based extension, you can still port it to use WebExtension APIs.&nbsp; There are some <a href="/en-US/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on">porting resources on MDN</a>.</p>
+
+<p>For more information about transition support, please visit our <a href="/en-US/docs/">wiki page.</a></p>
+
+<h2 id="Publishing_add-ons">Publishing add-ons</h2>
+
+<p><a href="https://addons.mozilla.org">Addons.mozilla.org</a>, commonly known as "AMO," is Mozilla's official site for developers to list add-ons, and for users to discover them. By uploading your add-on to AMO, you can participate in our community of users and creators, and find an audience for your add-on.</p>
+
+<p>You are not required to list your add-on on AMO, but your add-on must be signed by Mozilla or users won't be able to install it.</p>
+
+<p>For an overview of the process of publishing your add-on, see <a href="https://developer.mozilla.org/en-US/Add-ons/Distribution">Signing and distributing your add-on</a>.</p>
+
 <h2 id="Other_types_of_add-ons">Other types of add-ons</h2>
-<p><a href="/en-US/docs/Creating_OpenSearch_plugins_for_Firefox">Search engine plugins</a> are a simple and very specific type of add-on: they add new search engines to the browser's search bar.</p>
-<p><strong><a href="/en-US/docs/Plugins">Plugins</a> </strong>help the application understand web content that it does not natively support. NPAPI plugins are a legacy technology and new sites should not use them. In general, plugins are not available on most modern mobile systems including, and websites should transition away from using plugins.</p>
+
+<p>In addition to extensions, there are a few other add-on types that allow users to customize Firefox. Those add-ons include:</p>
+
+<ul>
+ <li><a href="https://developer.mozilla.org/Add-ons/Themes/Background">Lightweight themes</a> are a simple way to provide limited customization for Firefox.</li>
+ <li><a href="/en-US/Add-ons/Firefox_for_Android">Mobile add-ons</a> are for&nbsp;Firefox for Android. Note, though, that we intend to deprecate some of the technology underlying these APIs. In the future, WebExtensions APIs will be fully supported to an extent on Firefox for Android.</li>
+ <li><a href="/en-US/docs/Creating_OpenSearch_plugins_for_Firefox">Search engine plugins</a> add new search engines to the browser's search bar.</li>
+ <li><a href="/en-US/docs/Mozilla/Creating_a_spell_check_dictionary_add-on">User dictionaries</a> let you spell-check in different languages.</li>
+ <li><a href="https://support.mozilla.org/kb/use-firefox-interface-other-languages-language-pack">Language packs</a> let you have more languages available for the user interface of Firefox.</li>
+</ul>
+
 <hr />
-<p>{{CommunityBox("extension development", "dev-extensions", "mozilla.dev.extensions", "extdev","Add-ons forums|https://forums.mozilla.org/addons/viewforum.php?f=3|discussion and support|Visit the add-ons forums||AMO|https://addons.mozilla.org/en-US/firefox/|addons.mozilla.org|Visit addons.mozilla.org")}}</p>
-<h2 id="Subnav">Subnav</h2>
-<ol>
- <li><a href="/en-US/Add-ons/Overlay_Extensions" title="Overlay extensions">Overlay extensions</a></li>
- <li><a href="/en-US/Add-ons/Bootstrapped_extensions" title="Restartless extensions">Restartless extensions</a></li>
- <li><a href="/en-US/Add-ons/SDK">Add-on SDK</a>{{AddonSDKSubnav}}</li>
- <li><a href="#">Extension good practices</a>
-  <ol>
-   <li><a href="/en-US/Add-ons/Performance_best_practices_in_extensions" title="Performance">Performance</a></li>
-   <li><a href="/en-US/Add-ons/Security_best_practices_in_extensions" title="Security">Security</a></li>
-   <li><a href="/en-US/Add-ons/Extension_etiquette" title="Etiquette">Etiquette</a></li>
-  </ol>
- </li>
- <li><a href="#">Themes</a>
-  <ol>
-   <li><a href="https://addons.mozilla.org/en-US/developers/docs/themes" title="Lightweight themes">Lightweight themes</a></li>
-   <li><a href="/en-US/docs/Themes" title="Complete themes">Complete themes</a></li>
-  </ol>
- </li>
- <li><a href="#">Publishing add-ons</a>
-  <ol>
-   <li><a href="https://addons.mozilla.org/" title="addons.mozilla.org">addons.mozilla.org</a></li>
-   <li><a href="/en-US/docs/Mozilla/Add-ons/Add-on_guidelines">Add-on guidelines</a></li>
-  </ol>
- </li>
-</ol>
+<h2 id="Contact_us">Contact us</h2>
+
+<p>You can use the links below to get help, keep up to date with news around add-ons, and give us feedback.</p>
+
+<h3 id="Add-ons_forum">Add-ons forum</h3>
+
+<p>Use the <a href="https://discourse.mozilla.org/c/add-ons">Add-ons Discourse forum</a> to discuss all aspects of add-on development and to get help.</p>
+
+<h3 id="Mailing_lists">Mailing lists</h3>
+
+<p>Use the <strong>dev-addons</strong> list to discuss development of the add-ons ecosystem, including the development of the WebExtensions system and of AMO:</p>
+
+<ul>
+ <li><a href="https://mail.mozilla.org/listinfo/dev-addons">dev-addons list info</a></li>
+ <li><a href="https://mail.mozilla.org/pipermail/dev-addons/">dev-addons archives</a></li>
+</ul>
+
+<h3 id="IRC">IRC</h3>
+
+<p>If you're a fan of IRC, you can get in touch at:</p>
+
+<ul>
+ <li><a href="irc://irc.mozilla.org/addons">#addons</a> (discussion of the add-ons ecosystem)</li>
+ <li><a href="irc://irc.mozilla.org/extdev">#extdev</a> (general discussion of add-on development)</li>
+ <li><a href="irc://irc.mozilla.org/webextensions">#webextensions</a> (discussion around the WebExtensions API in particular)</li>
+</ul>
+
+<h3 id="Report_problems">Report problems</h3>
+
+<h4 id="Security_vulnerabilities">Security vulnerabilities</h4>
+
+<p>If you discover a security vulnerability in an add-on, even if it is not hosted on a Mozilla site, let us know and we will work with the developer to correct the issue. Please report them <a href="http://www.mozilla.org/projects/security/security-bugs-policy.html">confidentially </a>in <a href="https://bugzilla.mozilla.org/enter_bug.cgi?product=addons.mozilla.org&amp;component=Add-on%20Security&amp;maketemplate=Add-on%20Security%20Bug&amp;bit-23=1&amp;rep_platform=All&amp;op_sys=All">Bugzilla </a>or by emailing <a href="mailto:amo-admins@mozilla.org">amo-admins@mozilla.org</a>.</p>
+
+<h4 id="Bugs_on_addons.mozilla.org_(AMO)">Bugs on addons.mozilla.org (AMO)</h4>
+
+<p>If you find a problem with the site, we'd love to fix it. Please <a href="https://github.com/mozilla/addons/issues/new">file a bug report </a>and include as much detail as possible.</p>
 
