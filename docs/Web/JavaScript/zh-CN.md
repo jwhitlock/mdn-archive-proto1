@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1341470
+revision_id: 1343299
 locale: zh-CN
 slug: Web/JavaScript
 tags: "学习" "Landing" "JavaScript"
@@ -33,7 +33,7 @@ based_on: None
 
 <h3 id="为初学者准备">为初学者准备</h3>
 
-<p>如果你想学习 JavaScript，但苦于没有过 JavaScript 或者其他语言的编程经验，你可以你可以投入到我们的<a href="/zh-CN/docs/Learn/JavaScript">JavaScript 主题学习区</a>。那里有完整的学习资源：</p>
+<p>如果你想学习 JavaScript，但苦于没有过 JavaScript 或者其他语言的编程经验，你可以投入到我们的<a href="/zh-CN/docs/Learn/JavaScript">JavaScript 主题学习区</a>。那里有完整的学习资源：</p>
 
 <dl>
  <dt><a href="/zh-CN/docs/Learn/JavaScript/First_steps">JavaScript 起步</a></dt>
