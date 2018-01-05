@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1342797
+revision_id: 1343329
 locale: ja
 slug: Web/HTML
 tags: "HTML" "HTML プログラミング" "HTML5" "Web" "Landing" "Hyper text" "Reference"
@@ -15,11 +15,11 @@ based_on: None
 ---
 <div>{{HTMLSidebar}}</div>
 
-<p class="summary"><span class="seoSummary"><strong>HTML</strong> (HyperText Markup Language) は Web のもっとも基本的な構成要素です。 HTML は Web ページの<em>コンテンツ</em>を記述し定義するものです。 HTML に隣接する他の技術としては、 Web ページの表示や表現を記述するもの (<a href="/ja/docs/Web/CSS">CSS</a>) または機能や振る舞いを記述するもの (<a href="/ja/docs/Web/JavaScript">JavaScript</a>) があります。</span></p>
+<p class="summary"><span class="seoSummary"><strong>HTML</strong> (HyperText Markup Language) はウェブのもっとも基本的な構成要素です。 HTML はウェブページの<em>コンテンツ</em>を記述し定義するものです。 HTML に隣接する他の技術としては、ウェブページの表示や表現を記述するもの (<a href="/ja/docs/Web/CSS">CSS</a>) または機能や振る舞いを記述するもの (<a href="/ja/docs/Web/JavaScript">JavaScript</a>) があります。</span></p>
 
-<p>「ハイパーテキスト」は Web ページから別なページに、ウェブサイト内でもウェブサイト間でも、接続するリンクを示します。リンクは Web の基礎的な特徴です。コンテンツをインターネットにアップロードして他の人々が作成したページにリンクすれば、 World Wide Web の活発な参加者になれます。</p>
+<p>「ハイパーテキスト」はウェブページから別なページに、ウェブサイト内でもウェブサイト間でも、接続するリンクを示します。リンクはウェブの基礎的な特徴です。コンテンツをインターネットにアップロードして他の人々が作成したページにリンクすれば、 World Wide Web の活発な参加者になれます。</p>
 
-<p>HTML では Web ブラウザーのテキスト、画像、その他のコンテンツを記述するために「マークアップ」を使用します。 HTML マークアップには、 {{HTMLElement("head")}}、 {{HTMLElement("title")}}、 {{HTMLElement("body")}}、 {{HTMLElement("header")}}、 {{HTMLElement("footer")}}、 {{HTMLElement("article")}}、 {{HTMLElement("section")}}、 {{HTMLElement("p")}}、 {{HTMLElement("div")}}、 {{HTMLElement("span")}}、 {{HTMLElement("img")}}、その他のたくさんの特殊な「要素」を用います。</p>
+<p>HTML ではウェブブラウザーのテキスト、画像、その他のコンテンツを記述するために「マークアップ」を使用します。 HTML のマークアップには、 {{HTMLElement("head")}}、 {{HTMLElement("title")}}、 {{HTMLElement("body")}}、 {{HTMLElement("header")}}、 {{HTMLElement("footer")}}、 {{HTMLElement("article")}}、 {{HTMLElement("section")}}、 {{HTMLElement("p")}}、 {{HTMLElement("div")}}、 {{HTMLElement("span")}}、 {{HTMLElement("img")}}、その他のたくさんの特殊な「要素」を用います。</p>
 
 <p>以下の記事は HTML に関してもっと学ぶのに役立つでしょう。</p>
 
@@ -27,7 +27,7 @@ based_on: None
 <ul class="card-grid">
  <li><span>HTML 概論</span>
 
-  <p>Web 開発が初めてであれば、 HTML とは何か、 HTML の使用方法を説明する<a href="/ja/docs/Learn/Getting_started_with_the_web/HTML_basics">HTMLの基本</a>をご覧ください。</p>
+  <p>ウェブ開発が初めてであれば、 HTML とは何か、 HTML の使用方法を説明する<a href="/ja/docs/Learn/Getting_started_with_the_web/HTML_basics">HTMLの基本</a>をご覧ください。</p>
  </li>
  <li><span>HTML チュートリアル</span>
   <p>チュートリアルや例を含む HTML の使用方法に関する記事は、<a href="/ja/docs/Learn/HTML">HTML 学習エリア</a>を確認してください。</p>
@@ -41,39 +41,39 @@ based_on: None
 <div class="section">
 <h2 class="Tools" id="Tools" name="Tools">初心者向けチュートリアル</h2>
 
-<p><a href="/ja/docs/Learn/HTML">HTML 学習エリア</a>は HTML を基礎から学ぶための複数のモジュールを中心としています — 前提知識は必要ありません。</p>
+<p><a href="/ja/docs/Learn/HTML">HTML 学習エリア</a>は HTML を基礎から学ぶための複数のモジュールを中心としています。――前提知識は必要ありません。</p>
 
 <dl>
  <dt><a href="/ja/docs/Learn/HTML/Introduction_to_HTML">HTML 概論</a></dt>
- <dd>このモジュールは、 HTML をテキストに適用する方法、ハイパーリンクを作成する方法、 HTML を使用して Web ページを構築する方法など、重要な概念と構文に慣れていく段階を設定します。</dd>
+ <dd>このモジュールでは、 HTML を文章に適用する方法、ハイパーリンクを作成する方法、 HTML を使用してウェブページを構築する方法など、重要な概念と構文に慣れていく段階を設定します。</dd>
  <dt><a href="/ja/docs/Learn/HTML/Multimedia_and_embedding">マルチメディアとその埋め込み方</a></dt>
- <dd>This module explores how to use HTML to include multimedia in your web pages, including the different ways that images can be included, and how to embed video, audio, and even entire other webpages.</dd>
+ <dd>このモジュールでは、ウェブページにマルチメディアを埋め込むための HTML の使い方を探ります。画像を入れるための様々な方法、映像、音声、他のウェブページ全体を含める場合も含みます。</dd>
  <dt><a href="/ja/docs/Learn/HTML/Tables">HTML テーブル</a></dt>
- <dd>Representing tabular data on a webpage in an understandable, accessible way can be a challenge. This module covers basic table markup, along with more complex features such as implementing captions and summaries.</dd>
+ <dd>ウェブページ上で表形式のデータを分かりやすく使いやすい方法で表現するのは難しいことです。このモジュールでは、基本的なテーブルのマークアップと、キャプションやサマリーの追加などのより複雑な機能を扱います。</dd>
  <dt><a href="/ja/docs/Learn/HTML/Forms">HTML フォーム</a></dt>
- <dd>Forms are a very important part of the Web — these provide much of the functionality you need for interacting with websites, e.g. registering and logging in, sending feedback, buying products, and more. This module gets you started with creating the client-side/front-end parts of forms.</dd>
- <dt><a href="https://developer.mozilla.org/ja/docs/Learn/HTML/Howto">共通の問題解決に HTML を使う</a></dt>
- <dd>Provides links to sections of content explaining how to use HTML to solve very common problems when creating a web page: dealing with titles, adding images or videos, emphasizing content, creating a basic form, etc.</dd>
+ <dd>フォームはウェブで非常に重要な部分です。――これはウェブサイトとのやり取り（登録やログイン、フィードバックの送信、商品の購入など）に必要な多くの機能を提供します。このモジュールでは、フォームのクライアント側／フロントエンド部分の作成から始めます。</dd>
+ <dt><a href="/ja/docs/Learn/HTML/Howto">よくある問題解決に HTML を使う</a></dt>
+ <dd>HTML を使用してウェブページを作成する際に、とてもよくある問題（タイトルの扱い、画像や動画の追加、コンテンツの強調、基本フォームの作成など）を解決する方法を説明する記事の章へのリンクを紹介します。</dd>
 </dl>
 
-<h2 id="Advanced_topics">高度なトピック</h2>
+<h2 id="高度なトピック">高度なトピック</h2>
 
 <dl>
- <dt class="landingPageList"><a href="/ja/docs/Web/HTML/CORS_enabled_image">CORS enabled image</a></dt>
- <dd class="landingPageList">HTML 仕様には画像に {{htmlattrxref("crossorigin", "img")}} 属性が定義されています。この属性と適切な <a class="glossaryLink" href="/ja/docs/Glossary/CORS">CORS</a> ヘッダを組み合わせることで、異なる origin から読み出された {{HTMLElement("img")}} 要素の画像を、あたかも同じ origin から読み出したもののように canvas から扱うことができます。</dd>
+ <dt class="landingPageList"><a href="/ja/docs/Web/HTML/CORS_enabled_image">CORS を利用した画像</a></dt>
+ <dd class="landingPageList">{{htmlattrxref("crossorigin", "img")}} 属性と <a class="glossaryLink" href="/ja/docs/Glossary/CORS">CORS</a> ヘッダを組み合わせることで、 {{HTMLElement("img")}} 要素で定義された画像を異なるドメインから読み出し、 それを {{HTMLElement("canvas")}} 要素の中で同じドメインから読み出したかのように扱うことができます。</dd>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/CORS_settings_attributes">CORS 設定属性</a></dt>
- <dd class="landingPageList">HTML5 では {{HTMLElement("img")}} や {{HTMLElement("video")}} など、<a href="/ja/docs/HTTP/Access_control_CORS">CORS</a> をサポートするいくつかの HTML 要素に <code>crossorigin</code> 属性 (<code>crossOrigin</code> プロパティ) が定義されています。この属性は、要素の取得したデータに関わる CORS リクエストを設定するものです。</dd>
+ <dd class="landingPageList"><a href="/ja/docs/HTTP/Access_control_CORS">CORS</a> をサポートするいくつかの HTML 要素（{{HTMLElement("img")}} や {{HTMLElement("video")}} など）は <code>crossorigin</code> 属性（<code>crossOrigin</code> プロパティ）を持っており、要素が取得したデータに関する CORS リクエストを設定することができます。</dd>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Focus_management_in_HTML">HTML でのフォーカス管理</a></dt>
- <dd class="landingPageList">The <code><a href="/ja/docs/Web/API/Document/activeElement">activeElement</a></code> DOM attribute and the <code><a href="/ja/docs/Web/API/Document/hasFocus">hasFocus()</a></code> DOM method help you track and control a user's interactions with elements on a web page.</dd>
+ <dd class="landingPageList">DOMの <code><a href="/ja/docs/Web/API/Document/activeElement">activeElement</a></code> 属性と <code><a href="/ja/docs/Web/API/Document/hasFocus">hasFocus()</a></code> メソッドは、ウェブページ上の要素でユーザーのやりとりを追跡し制御するのに役立ちます。</dd>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Using_the_application_cache">アプリケーションキャッシュの使用</a></dt>
  <dd class="landingPageList">アプリケーションキャッシュは、ウェブベースのアプリケーションをオフラインで実行させるためのものです。ブラウザがキャッシュし、オフライン状態のユーザが利用できるようにすべきリソースを指定するために <strong>Application Cache</strong> (<em>AppCache</em>) インターフェースを利用できます。キャッシュが行われたアプリケーションは、ユーザがオフラインになったときに更新ボタンを押した場合でも、正常に読み込まれ、正常に動作します。</dd>
- <dt class="landingPageList"><a href="https://developer.mozilla.org/ja/docs/Web/HTML/Preloading_content">rel="preload" でコンテンツをプリロード</a></dt>
- <dd class="landingPageList">The <code>preload</code> value of the {{htmlelement("link")}} element's {{htmlattrxref("rel", "link")}} attribute allows you to write declarative fetch requests in your HTML {{htmlelement("head")}}, specifying resources that your pages will need very soon after loading, which you therefore want to start preloading early in the lifecycle of a page load, before the browser's main rendering machinery kicks in. This ensures that they are made available earlier and are less likely to block the page's first render, leading to performance improvements. This article provides a basic guide to how <code>preload</code> works.</dd>
+ <dt class="landingPageList"><a href="https://developer.mozilla.org/ja/docs/Web/HTML/Preloading_content">rel="preload" でコンテンツを先読み</a></dt>
+ <dd class="landingPageList">HTML の {{htmlelement("head")}} 要素内において、 {{htmlelement("link")}} 要素で {{htmlattrxref("rel", "link")}} 属性に <code>preload</code> を指定することで、読み込み後すぐにページに必要なリソース、つまりページ読み込みの過程の初期の、ブラウザの主なレンダリング機構が起動する前に、先読みを始めたいものを指定する宣言的なフェッチ要求を記述することができます。これにより、ページの最初のレンダリングがブロックされにくくなり、パフォーマンスが向上します。この記事では <code>preload</code> がどのように動作するのかについての基本的なガイドを提供します。</dd>
 </dl>
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="References">リファレンス</h2>
+<h2 class="Documentation" id="リファレンス">リファレンス</h2>
 
 <dl>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Reference">HTML リファレンス</a></dt>
@@ -93,10 +93,10 @@ based_on: None
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Kinds_of_HTML_content">Kinds of HTML content</a></dt>
  <dd class="landingPageList">HTML is comprised of several kinds of content, each of which is allowed to be used in certain contexts and is disallowed in others. Similarly, each has a set of other content categories they can contain and elements which can or can't be used in them. This is a guide to these categories.</dd>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Quirks_Mode_and_Standards_Mode">後方互換モードと標準準拠モード</a></dt>
- <dd class="landingPageList">Historical information on quirks mode and standards mode.</dd>
+ <dd class="landingPageList">後方互換モードと標準準拠モードの歴史的な情報です。</dd>
 </dl>
 
-<h2 class="landingPageList" id="Related_topics">関連トピック</h2>
+<h2 class="landingPageList" id="関連トピック">関連トピック</h2>
 
 <dl>
  <dt><a href="/ja/docs/Web/HTML/Applying_color">CSSを使ってHTMLの要素に色をつける</a></dt>
