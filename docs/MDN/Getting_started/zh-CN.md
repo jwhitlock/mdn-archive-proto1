@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1341093
+revision_id: 1343568
 locale: zh-CN
 slug: MDN/Getting_started
 tags: "MDN元数据" "MDN入门" "入门" "初学者"
@@ -9,15 +9,15 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
-<p id="What_is_MDN.3F"><span class="seoSummary"><span>我们是一个由开发者和作者组成的开源社区，目的是为了建设一个更美好的网络，无论是品牌、浏览器或是平台。</span> <span>任何人都可以参与</span><span>，</span><span>每个</span><span>人的贡献</span><span>都</span><span>会让我们更强大。</span><span class="ordinary-span-edit">我们可以一起继续推动Web创新服务于更广泛的利益。我们和你一起在这里开始。</span></span></p>
+<p id="What_is_MDN.3F"><span class="seoSummary"><span>MDN是一个由开发者和作者组成的开源社区，目的是为了建设一个更美好的网络，无论是品牌、浏览器或是平台。</span> <span>任何人都可以参与</span><span>，</span><span>每个</span><span>人的贡献</span><span>都</span><span>会让我们更强大。</span><span class="ordinary-span-edit">我们可以一起继续推动Web创新服务于更广泛的利益。我们和你一起在这里开始。</span></span></p>
 
 <p>MDN的每一个部分（文档，演示，和网站本身）都是由开放的社区创建的。任何人都可以贡献自己的力量，请加入我们！</p>
 
-<h2 id="三个简单的_MDN_步骤"><span>三个简单的 MDN</span> 步骤</h2>
+<h2 id="三个简单的_MDN_步骤"><span>简单三</span>步<span>初体验 MDN</span></h2>
 
 <p>MDN （<em data-bm="50"><em class="01">Mozilla</em><em class="01"> Developer </em><em class="01">Network</em></em> ）是一个维基，即意味着任何人都可以向其添加和编辑内容。你不一定非得是是一个程序员或了解许多涉及技术方面的知识。这里有很多需要完成的任务，从简单的（如校对和纠正拼写）到复杂的（如写作API文档）。这篇文章将帮助你入门MDN，并指引你如何参与和帮助完善MDN中的内容。</p>
 
