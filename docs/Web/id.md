@@ -1,90 +1,107 @@
 ---
 version: prototype1
-revision_id: 1203679
+revision_id: 1344702
 locale: id
 slug: Web
-tags: "Web" "Landing"
-title: Teknologi Web untuk Pengembang
+tags: "Web" "History" "Landing" "Web Development","TopicStub","NeedsTranslation"
+title: Web technology for developers
 summary: 
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Web basis terbuka&nbsp;memberikan peluang&nbsp;yang luar biasa&nbsp;bagi para pengembang.&nbsp;Untuk&nbsp;mengambil keuntungan penuh dari&nbsp;teknologi ini,&nbsp;Anda perlu tahu&nbsp;bagaimana menggunakannya.&nbsp;Di bawah ini Anda&nbsp;akan menemukan&nbsp;link ke dokumentasi&nbsp;teknologi&nbsp;Web kami.</p>
+<p class="summary">The open nature of the World Wide Web&nbsp;presents incredible opportunities for people who want to create websites or online applications. To take full advantage of the web's capabilities, you need to know how to use them. Explore&nbsp;the links below to learn&nbsp;more about&nbsp;various web technologies.</p>
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="Teknologi_Web">Teknologi Web</h2>
+<h2 class="Documentation" id="Web_technologies">Web technologies</h2>
 
-<h3 id="Dasar">Dasar</h3>
+<h3 id="Basics">Basics</h3>
 
 <dl>
- <dt><a href="/id/docs/Web/HTML">HTML</a></dt>
- <dd><strong>HyperText Markup Language</strong> adalah bahasa yang digunakan untuk mendeskripsikan dan menentukan isi dari halaman Web.</dd>
- <dt><a href="/id/docs/Web/CSS">CSS</a></dt>
- <dd><strong>Cascading Style Sheets</strong> digunakan untuk menentukan tampilan dari konten Web.</dd>
+ <dt><a href="/en-US/docs/Web/HTML">HTML</a></dt>
+ <dd><strong>HyperText Markup Language (HTML)</strong> is used to describe and define the <em>content</em> of a webpage.</dd>
+ <dt><a href="/en-US/docs/Web/CSS">CSS</a></dt>
+ <dd><strong>Cascading Style Sheets (CSS)</strong> are used to describe the <em>appearance&nbsp;or presentation</em> of content on a webpage.</dd>
+ <dt><a href="/en-US/docs/Web/HTTP">HTTP</a></dt>
+ <dd><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong> is&nbsp;used to deliver&nbsp;HTML and other hypermedia documents on the web.</dd>
 </dl>
 
 <h3 id="Scripting">Scripting</h3>
 
 <dl>
- <dt><a href="/id/docs/Web/JavaScript">JavaScript</a></dt>
- <dd><strong>JavaScript</strong> merupakan bahasa pemrogramman yang berjalan di browser klien, yang dapat digunakan untuk membuat website yang interaktif dan aplikasi untuk&nbsp;eksekusi browser yang aman.</dd>
- <dt><a href="/id/docs/Web/Reference/API">Web APIs</a></dt>
- <dd>Bahan acuan&nbsp;untuk masing-masing&nbsp;antar muka&nbsp;yang terdiri&nbsp;APIWeb,&nbsp;termasuk&nbsp;<a href="/en-US/docs/DOM">DOM</a>&nbsp;dan semua&nbsp;API&nbsp;terkait dan&nbsp;antar mukayang dapat digunakan untuk&nbsp;membangun konten&nbsp;Web dan aplikasi.
+ <dt><a href="/en-US/docs/Web/JavaScript">JavaScript</a></dt>
+ <dd><strong>JavaScript</strong> is the programming language that runs in your browser. You can use it&nbsp;to add interactivity and other dynamic features to your website or application.</dd>
+ <dt><a href="/en-US/docs/Web/Reference/API">Web APIs</a></dt>
+ <dd><strong>Web Application Programming Interfaces (Web APIs)</strong> are used to perform a variety of tasks, such as manipulating the <a href="/en-US/docs/DOM">DOM</a>, playing audio or video, or generating 3D graphics.
  <ul>
-  <li><a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">Referensi antarmuka Web&nbsp;API</a>&nbsp;— Semua antarmuka, menurut abjad.</li>
-  <li><a href="/en-US/docs/WebAPI">Halaman WebAPI</a>&nbsp;daftar&nbsp;API akses perangkat&nbsp;dan API lain yang berguna untuk membuat aplikasi.</li>
+  <li>The&nbsp;<a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">Web API&nbsp;interface reference</a> lists all the object types you can use while developing for the web.</li>
+  <li>The <a href="/en-US/docs/WebAPI">WebAPI page</a> lists all the communication, hardware access, and other&nbsp;APIs you can use in web&nbsp;applications.</li>
+  <li>The <a href="/en-US/docs/Web/Events">Event reference</a> lists all the events you can use to track and react to&nbsp;interesting things that have taken place in your webpage or application.</li>
  </ul>
  </dd>
 </dl>
 
-<h3 id="Grafis">Grafis</h3>
+<h3 id="Graphics">Graphics</h3>
 
 <dl>
+ <dt><a href="/en-US/docs/HTML/Canvas">Canvas</a></dt>
+ <dd>The {{HTMLElement("canvas")}}&nbsp;element provides APIs to draw 2D graphics using JavaScript.</dd>
  <dt><a href="/en-US/docs/SVG">SVG</a></dt>
- <dd><strong>Scalable Vector Graphics</strong> memperbolehkan anda menentukan gambar&nbsp;sebagai&nbsp;set&nbsp;vektor&nbsp;dan bentuk&nbsp;serta memungkinkan mereka&nbsp;untuk meghaluskan skala, terlepas dari ukuran&nbsp;ketika mereka&nbsp;ditarik..</dd>
+ <dd><strong>Scalable Vector Graphics (SVG)</strong> lets you use lines, curves, and other geometric shapes to render graphics. With vectors, you can create images that scale cleanly to any size.</dd>
  <dt><a href="/en-US/docs/Web/WebGL" title="/en-US/docs/Web/WebGL">WebGL</a></dt>
- <dd><strong>WebGL</strong> menyediakan&nbsp;grafik 3D ke Web dengan memperkenalkan API yang sesuai dengan&nbsp;OpenGL ES 2.0, yang dapat digunakan di&nbsp;elemen&nbsp;<strong><code>{{HTMLElement("canvas")}}</code></strong> HTML.</dd>
+ <dd><strong>WebGL</strong> is a JavaScript&nbsp;API that lets you draw&nbsp;3D or 2D graphics using the&nbsp;HTML5 {{HTMLElement("canvas")}} element.&nbsp;This technology lets you use standard OpenGL ES in Web content.</dd>
 </dl>
 
-<h3 id="Lainnya">Lainnya</h3>
+<h3 id="Audio_video_and_multimedia">Audio, video, and multimedia</h3>
+
+<dl>
+ <dt><a href="/en-US/docs/Web/Media">Web media technologies</a></dt>
+ <dd>A list of media-related APIs with links to the documentation you'll need for each.</dd>
+ <dt><a href="/en-US/docs/Web/Media/Overview">Overview of media technology on the web</a></dt>
+ <dd>A general look at the open web technologies and APIs that provide support for audio and video playback, manipulation, and recording. If you're not sure which API you should use, this is the place to start.</dd>
+ <dt><a href="/en-US/docs/Web/API/Media_Streams_API">Media Capture and Streams API</a></dt>
+ <dd>A reference for the API which makes it possible to stream, record, and manipulate media both locally and across a network. This includes using local cameras and microphones to capture video, audio, and still images.</dd>
+ <dt><a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">Using HTML5 audio and video</a></dt>
+ <dd>Embedding video and/or audio in a web page and controlling its playback.</dd>
+ <dt><a href="/en-US/docs/WebRTC">WebRTC</a></dt>
+ <dd>The RTC in WebRTC stands for Real-Time Communications, technology that enables audio/video streaming and data sharing between browser clients (peers).</dd>
+</dl>
+
+<h3 id="Other">Other</h3>
 
 <dl>
  <dt><a href="/en-US/docs/Web/MathML">MathML</a></dt>
- <dd><strong>Mathematical Markup Language</strong>&nbsp;memungkinkan&nbsp;untuk menampilkan&nbsp;persamaan matematika&nbsp;kompleks dan&nbsp;sintaks.</dd>
+ <dd><strong>Mathematical Markup Language (MathML)</strong> lets you&nbsp;display complex mathematical equations and syntax.</dd>
 </dl>
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="Dokumentasi_berdasarkan_jenis">Dokumentasi berdasarkan jenis</h2>
+<h2 class="Documentation" id="Learning_area">Learning area</h2>
 
 <dl>
- <dt><a href="/en-US/docs/Web/Guide">Panduan pengembang Web&nbsp;</a></dt>
- <dd>Panduan pengembang web menyediakan tutorial &nbsp;untuk membantu anda menggunakan teknologi web melakukan apa yang anda inginkan atau anda butuhkan.</dd>
- <dt><a href="/en-US/docs/Web/Tutorials">Tutorial&nbsp;untuk pengembang Web</a></dt>
- <dd>Daftar tutorial untuk membantu langkah demi langkah belajar tentang APIs, teknologi,&nbsp;atau area&nbsp;topik yang luas.</dd>
- <dt><a href="/en-US/docs/Web/Reference">Referensi</a></dt>
- <dd>
- <div class="note">Halaman ini akan menawarkan link ke semua informasi referensi pada MDN, tapi masih dalam pengembangan.</div>
- </dd>
+ <dt><a href="/en-US/docs/Learn">Learning web development</a></dt>
+ <dd>This set of articles provides beginners with everything they need to start coding simple websites.</dd>
 </dl>
 
-<h2 id="Topik_lain">Topik lain</h2>
+<dl>
+</dl>
+
+<h2 id="Other_topics">Other topics</h2>
 
 <dl>
- <dt><a href="/en-US/docs/Web/Apps">Membangun Aplikasi&nbsp;Web</a></dt>
- <dd>Dokumentasi untuk pengembang aplikasi web; Aplikasi web hanya cukup ditulis sekali, Jalankan aplikasi dimanapun baik di <em>Mobile, Desktop, dan Firefox OS.</em></dd>
- <dt><a href="/en-US/docs/Web/Accessibility">Aksesibilitas</a></dt>
- <dd>Aksesibilitas dalam pengembangan Web berarti memungkinkan orang sebanyak mungkin untuk menggunakan situs web, bahkan ketika kemampuan orang-orang ini terbatas dalam beberapa cara. Di sini kami menyediakan informasi pada pengembangan konten web untuk dapat diakses.</dd>
- <dt><a href="/en-US/docs/Web/Security">Keamanan</a></dt>
- <dd>Pentingnya memastikan bahwa aplikasi web atau website anda tetap aman.</dd>
+ <dt><a href="/en-US/docs/Web/Apps">Developing web applications</a></dt>
+ <dd>This set of articles explains the techniques used in&nbsp;developing web apps&nbsp;for mobile, desktop, and Firefox OS environments.</dd>
+ <dt><a href="/en-US/docs/Web/Accessibility">Accessibility</a></dt>
+ <dd>Accessible websites enable as many people as possible to use the web, including those whose visual, auditory, or other abilities are limited in some way. This set of articles provides information about accessible web development.</dd>
+ <dt><a href="/en-US/docs/Web/Security">Security</a></dt>
+ <dd>Don't let your website or app leak private data to the bad guys. Use this set of articles to make sure your projects are&nbsp;secure.</dd>
 </dl>
 </div>
 </div>
 
-<p><span class="alllinks"><a href="/en-US/docs/tag/Web">Lihat Semua...</a></span></p>
+<p><span class="alllinks"><a href="/en-US/docs/tag/Web">View All...</a></span></p>
 
