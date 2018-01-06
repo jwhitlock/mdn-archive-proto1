@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1343329
+revision_id: 1343871
 locale: ja
 slug: Web/HTML
 tags: "HTML" "HTML プログラミング" "HTML5" "Web" "Landing" "Hyper text" "Reference"
@@ -56,7 +56,7 @@ based_on: None
  <dd>HTML を使用してウェブページを作成する際に、とてもよくある問題（タイトルの扱い、画像や動画の追加、コンテンツの強調、基本フォームの作成など）を解決する方法を説明する記事の章へのリンクを紹介します。</dd>
 </dl>
 
-<h2 id="高度なトピック">高度なトピック</h2>
+<h2 id="Advanced_topics">高度なトピック</h2>
 
 <dl>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/CORS_enabled_image">CORS を利用した画像</a></dt>
@@ -73,39 +73,40 @@ based_on: None
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="リファレンス">リファレンス</h2>
+<h2 class="Documentation" id="References">リファレンス</h2>
 
 <dl>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Reference">HTML リファレンス</a></dt>
- <dd class="landingPageList">HTML は web ドキュメントの構造やセマンティックな内容を記述する言語です。HTML は<strong>要素</strong>で構成されており、それぞれの要素がいくつかの<strong>属性</strong>で調節される場合があります。</dd>
+ <dd class="landingPageList">HTML は<strong>要素</strong>の集まりで、それぞれの要素がいくつかの<strong>属性</strong>で修飾される場合があります。 HTML 文書は互いに<a href="/en-US/docs/Web/HTML/Link_types">リンク</a>で接続されます。</dd>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Element">HTML 要素リファレンス</a></dt>
- <dd class="landingPageList">このページでは、すべての <a class="glossaryLink" href="/ja/docs/Glossary/HTML">HTML</a> <a class="glossaryLink" href="/ja/docs/Glossary/Element">要素</a>を一覧表示しています。</dd>
+ <dd class="landingPageList">すべての <a class="glossaryLink" href="/ja/docs/Glossary/HTML">HTML</a> <a class="glossaryLink" href="/ja/docs/Glossary/Element">要素</a>の一覧を閲覧します。</dd>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Attributes">HTML 属性リファレンス</a></dt>
- <dd class="landingPageList">HTML 要素には<strong>属性</strong>があります。これはユーザが求める基準を満たすために、さまざまな方法で要素の設定や動作の調整を行う付加的な値です。</dd>
+ <dd class="landingPageList">HTML の要素には<strong>属性</strong>があります。これは要素を調整したり、さまざまな方法で振る舞いを調整したりするための付加的な値です。</dd>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Global_attributes">グローバル属性</a></dt>
- <dd class="landingPageList">グローバル属性は、<em>標準仕様で明示されていないものを含む</em>すべての <a href="/ja/docs/Web/HTML/Element">HTML 要素</a>に定められるでしょう。これはあらゆる非標準の要素が、それを使用することで文書が HTML5 に準拠しなくなるとしても、グローバル属性を受け入れなければならないということです。例えば <code>&lt;foo&gt;</code> は正当な HTML 要素ではありませんが、HTML5 準拠のブラウザは <code>&lt;foo hidden&gt;...&lt;foo&gt;</code> とマークアップされたコンテンツを隠します。</dd>
- <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Inline_elements">インライン要素</a> と <a href="/ja/docs/Web/HTML/Block-level_elements">ブロックレベル要素</a></dt>
- <dd class="landingPageList">HTML (Hypertext Markup Language) 要素は通常、"インライン" 要素または <a href="/ja/docs/Web/HTML/Block-level_elements">"ブロックレベル" 要素</a>のいずれかになります。インライン要素は、要素を定義するタグによって結びつけられた領域のみ占有します。以下のサンプルでは、インライン要素が与える影響を示しています。</dd>
+ <dd class="landingPageList">グローバル属性は、<em>標準仕様で規定されていないものを含む</em>すべての <a href="/ja/docs/Web/HTML/Element">HTML 要素</a>に指定できるものです。つまり、あらゆる標準外の要素も、それを使用することで文書が HTML5 に準拠しなくなるとしても、グローバル属性を受け入れなければならないということです。</dd>
+ <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Inline_elements">インライン要素</a>と<a href="/ja/docs/Web/HTML/Block-level_elements">ブロックレベル要素</a></dt>
+ <dd class="landingPageList">通常、 HTML の要素は「インライン」要素または「ブロックレベル」要素</a>のどちらかです。インライン要素は、要素を定義するタグによって指定された範囲のみを占有します。ブロックレベル要素は親要素（コンテナ）の範囲全体を占有し、それによって「ブロック」を作成します。</dd>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Link_types">リンクタイプ</a></dt>
- <dd class="landingPageList">HTML では、さまざまな種類のリンクが2つの文書の関係を確立し定義するために使用できます。リンク要素は <a href="/ja/docs/Web/HTML/Element/a"><code>&lt;a&gt;</code></a>、 <a href="/ja/docs/Web/HTML/Element/area"><code>&lt;area&gt;</code></a>、 <a href="/ja/docs/Web/HTML/Element/link"><code>&lt;link&gt;</code></a> などで設定できます。</dd>
- <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Supported_media_formats">HTML の audio 要素と video 要素でサポートされているメディアフォーマット</a></dt>
- <dd class="landingPageList">The <a href="/ja/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> and <a href="/ja/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a> elements allow you to play audio and video media. These elements provide a browser-native alternative to similar capabilities found in Adobe Flash and other plug-ins.</dd>
- <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Kinds_of_HTML_content">Kinds of HTML content</a></dt>
- <dd class="landingPageList">HTML is comprised of several kinds of content, each of which is allowed to be used in certain contexts and is disallowed in others. Similarly, each has a set of other content categories they can contain and elements which can or can't be used in them. This is a guide to these categories.</dd>
+ <dd class="landingPageList">HTML では、2つの文書の関係を確立し定義するためにさまざまな種類のリンクが使用できます。リンク要素は <a href="/ja/docs/Web/HTML/Element/a"><code>&lt;a&gt;</code></a>、 <a href="/ja/docs/Web/HTML/Element/area"><code>&lt;area&gt;</code></a>、 <a href="/ja/docs/Web/HTML/Element/link"><code>&lt;link&gt;</code></a> などで設定できます。</dd>
+ <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Supported_media_formats">HTML の audio 要素と video 要素で対応しているメディアフォーマット</a></dt>
+ 
+ <dd class="landingPageList">The <a href="/ja/docs/Web/HTML/Element/audio"><code>&lt;audio&gt;</code></a> 要素と <a href="/ja/docs/Web/HTML/Element/video"><code>&lt;video&gt;</code></a> 要素で音声と映像のメディアを再生できます。これらの要素は、 Adobe Flash やその他のプラグインなどに見られる同様の機能をブラウザーネイティブの機能で代替します。</dd>
+ <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Content_categories">コンテンツのカテゴリ</a></dt>
+ <dd class="landingPageList">HTML は数種類のコンテンツで構成され、それぞれのコンテンツは特定のコンテキストで使用することができ、他のコンテンツでは使用できません。同様に、それぞれのコンテンツを含むことができる一連の他のコンテンツカテゴリと、中で使用できる要素、使用できない要素があります。これは、これらのカテゴリのガイドです。</dd>
  <dt class="landingPageList"><a href="/ja/docs/Web/HTML/Quirks_Mode_and_Standards_Mode">後方互換モードと標準準拠モード</a></dt>
  <dd class="landingPageList">後方互換モードと標準準拠モードの歴史的な情報です。</dd>
 </dl>
 
-<h2 class="landingPageList" id="関連トピック">関連トピック</h2>
+<h2 class="landingPageList" id="Related_topics">関連トピック</h2>
 
 <dl>
  <dt><a href="/ja/docs/Web/HTML/Applying_color">CSSを使ってHTMLの要素に色をつける</a></dt>
- <dd>This article covers most of the ways you use CSS to add color to HTML content, listing what parts of HTML documents can be colored and what CSS properties to use when doing so. Includes examples, links to palette-building tools, and more.</dd>
+ <dd>この記事では、CSS を使用して HTML コンテンツに色をつける方法、 HTML 文書のどの部分に色付けできるかの一覧、使用する CSS プロパティについて説明します。例えば、パレット作成ツールへのリンクなどが含みます。</dd>
 </dl>
 </div>
 </div>
 <span class="alllinks"><a href="/ja/docs/tag/HTML">すべて表示...</a></span>
 
-<p>{{CommunityBox("Web layout", "dev-tech-layout", "mozilla.dev.tech.layout", "", "Stack Overflow|http://stackoverflow.com/questions/tagged/html|HTML topics|Visit Stack Overflow, a collaboratively built and maintained Q&amp;A site. See if you can find an answer; if not, you can ask your question there.")}}</p>
+<p>{{CommunityBox("Web layout", "dev-tech-layout", "mozilla.dev.tech.layout", "", "Stack Overflow|http://stackoverflow.com/questions/tagged/html|HTML に関する話題|協力体制で構築され維持されているQ&amp;Aサイトである Stack Overflow をご覧ください。答えが見つかるか確認してください。見つからない場合は、そちらで質問してください。")}}</p>
 </section>
 
