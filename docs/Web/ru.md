@@ -1,89 +1,107 @@
 ---
 version: prototype1
-revision_id: 1323393
+revision_id: 1344695
 locale: ru
 slug: Web
-tags: "Web" "Landing"
-title: Веб-технологии для разработчиков
+tags: "Web" "History" "Landing" "Web Development","TopicStub","NeedsTranslation"
+title: Web technology for developers
 summary: 
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>Современные веб-технологии предоставляют разработчикам неограниченные возможности для реализации своих идей. Для того, чтобы вы могли использовать весь их потенциал, необходимо знать как правильно их использовать. На этой странице мы постарались собрать ссылки на документацию по различным технологиям, которые могут быть вам полезны.</p>
+<p class="summary">The open nature of the World Wide Web&nbsp;presents incredible opportunities for people who want to create websites or online applications. To take full advantage of the web's capabilities, you need to know how to use them. Explore&nbsp;the links below to learn&nbsp;more about&nbsp;various web technologies.</p>
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="Веб-технологии">Веб-технологии</h2>
+<h2 class="Documentation" id="Web_technologies">Web technologies</h2>
 
-<h3 id="Основы_веб">Основы веб</h3>
+<h3 id="Basics">Basics</h3>
 
 <dl>
- <dt><a href="/ru/docs/Web/HTML">HTML</a></dt>
- <dd>Язык гипертекстовой разметки — это язык, используемый для определения структуры и описания содержания веб-страницы в структурированной форме.</dd>
- <dt><a href="/ru/docs/Web/CSS">CSS</a></dt>
- <dd>Каскадные таблицы стилей используются для описания внешнего вида веб-контента.</dd>
+ <dt><a href="/en-US/docs/Web/HTML">HTML</a></dt>
+ <dd><strong>HyperText Markup Language (HTML)</strong> is used to describe and define the <em>content</em> of a webpage.</dd>
+ <dt><a href="/en-US/docs/Web/CSS">CSS</a></dt>
+ <dd><strong>Cascading Style Sheets (CSS)</strong> are used to describe the <em>appearance&nbsp;or presentation</em> of content on a webpage.</dd>
+ <dt><a href="/en-US/docs/Web/HTTP">HTTP</a></dt>
+ <dd><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong> is&nbsp;used to deliver&nbsp;HTML and other hypermedia documents on the web.</dd>
 </dl>
 
-<h3 id="Написание_сценариев">Написание сценариев</h3>
+<h3 id="Scripting">Scripting</h3>
 
 <dl>
- <dt><a href="/ru/docs/Web/JavaScript">JavaScript</a></dt>
- <dd>JavaScript — язык программирования, широко используемый для реализации взаимодействия пользователя с веб-сайтами и приложениями.</dd>
- <dt><a href="/ru/docs/Web/Reference/API">Веб API</a></dt>
- <dd>Данный раздел включает справочные материалы по каждому из отдельно взятых API, содержащих огромные возможности для создания веб-сценариев, включая <a href="/ru/docs/DOM">DOM</a> и все связанные с ним API, которые вы можете использовать для построения веб-контента и приложений.
+ <dt><a href="/en-US/docs/Web/JavaScript">JavaScript</a></dt>
+ <dd><strong>JavaScript</strong> is the programming language that runs in your browser. You can use it&nbsp;to add interactivity and other dynamic features to your website or application.</dd>
+ <dt><a href="/en-US/docs/Web/Reference/API">Web APIs</a></dt>
+ <dd><strong>Web Application Programming Interfaces (Web APIs)</strong> are used to perform a variety of tasks, such as manipulating the <a href="/en-US/docs/DOM">DOM</a>, playing audio or video, or generating 3D graphics.
  <ul>
-  <li><a href="/ru/docs/Web/API" title="/ru/docs/Web/API">Справочник по веб API</a> содержит все интерфейсы в алфавитном порядке.</li>
-  <li><a href="/ru/docs/WebAPI">WebAPI</a> — данная страница содержит перечень API для взаимодействия с устройствами и другие API не менее полезные для приложений.</li>
-  <li><a href="/docs/Web/Events">Справка по событиям</a> содержит список событий, которые возникают на веб-странице или в веб-приложении.</li>
+  <li>The&nbsp;<a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">Web API&nbsp;interface reference</a> lists all the object types you can use while developing for the web.</li>
+  <li>The <a href="/en-US/docs/WebAPI">WebAPI page</a> lists all the communication, hardware access, and other&nbsp;APIs you can use in web&nbsp;applications.</li>
+  <li>The <a href="/en-US/docs/Web/Events">Event reference</a> lists all the events you can use to track and react to&nbsp;interesting things that have taken place in your webpage or application.</li>
  </ul>
  </dd>
 </dl>
 
-<h3 id="Веб-графика">Веб-графика</h3>
+<h3 id="Graphics">Graphics</h3>
 
 <dl>
- <dt><a href="/ru/docs/Web/SVG">SVG</a></dt>
- <dd>Масштабируемая векторная графика позволяет вам описать изображение как набор векторов (линий) и фигур, что позволяет масштабировать такую графику плавно независимо от размеров, в которых она нарисована без потерь качества.</dd>
- <dt><a href="/ru/docs/Web/WebGL" title="/ru/docs/Web/WebGL">WebGL</a></dt>
- <dd>WebGL приносит в веб трехмерную графику, вводя API, который построен на основе OpenGL ES 2.0, что позволяет использовать его в HTML элементах {{HTMLElement("canvas")}}.</dd>
+ <dt><a href="/en-US/docs/HTML/Canvas">Canvas</a></dt>
+ <dd>The {{HTMLElement("canvas")}}&nbsp;element provides APIs to draw 2D graphics using JavaScript.</dd>
+ <dt><a href="/en-US/docs/SVG">SVG</a></dt>
+ <dd><strong>Scalable Vector Graphics (SVG)</strong> lets you use lines, curves, and other geometric shapes to render graphics. With vectors, you can create images that scale cleanly to any size.</dd>
+ <dt><a href="/en-US/docs/Web/WebGL" title="/en-US/docs/Web/WebGL">WebGL</a></dt>
+ <dd><strong>WebGL</strong> is a JavaScript&nbsp;API that lets you draw&nbsp;3D or 2D graphics using the&nbsp;HTML5 {{HTMLElement("canvas")}} element.&nbsp;This technology lets you use standard OpenGL ES in Web content.</dd>
 </dl>
 
-<h3 id="Прочее">Прочее</h3>
+<h3 id="Audio_video_and_multimedia">Audio, video, and multimedia</h3>
 
 <dl>
- <dt><a href="/ru/docs/Web/MathML">MathML</a></dt>
- <dd>Математический язык разметки предоставляет возможность показа комплексных математических уравнений и синтаксиса.</dd>
+ <dt><a href="/en-US/docs/Web/Media">Web media technologies</a></dt>
+ <dd>A list of media-related APIs with links to the documentation you'll need for each.</dd>
+ <dt><a href="/en-US/docs/Web/Media/Overview">Overview of media technology on the web</a></dt>
+ <dd>A general look at the open web technologies and APIs that provide support for audio and video playback, manipulation, and recording. If you're not sure which API you should use, this is the place to start.</dd>
+ <dt><a href="/en-US/docs/Web/API/Media_Streams_API">Media Capture and Streams API</a></dt>
+ <dd>A reference for the API which makes it possible to stream, record, and manipulate media both locally and across a network. This includes using local cameras and microphones to capture video, audio, and still images.</dd>
+ <dt><a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">Using HTML5 audio and video</a></dt>
+ <dd>Embedding video and/or audio in a web page and controlling its playback.</dd>
+ <dt><a href="/en-US/docs/WebRTC">WebRTC</a></dt>
+ <dd>The RTC in WebRTC stands for Real-Time Communications, technology that enables audio/video streaming and data sharing between browser clients (peers).</dd>
+</dl>
+
+<h3 id="Other">Other</h3>
+
+<dl>
+ <dt><a href="/en-US/docs/Web/MathML">MathML</a></dt>
+ <dd><strong>Mathematical Markup Language (MathML)</strong> lets you&nbsp;display complex mathematical equations and syntax.</dd>
 </dl>
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="Документация_по_типам">Документация по типам</h2>
+<h2 class="Documentation" id="Learning_area">Learning area</h2>
 
 <dl>
- <dt><a href="/ru/docs/Web/Guide">Руководство веб-разработчика</a></dt>
- <dd>Руководство веб-разработчика предоставляет полезные пошаговые материалы, которые помогут вам в полной мере использовать веб-технологии для выполнения ваших задач и реализации ваших идей.</dd>
- <dt><a href="/ru/docs/Web/Tutorials">Учебные материалы для веб-разработчиков</a></dt>
- <dd>Перечень учебных материалов позволит вам пошагово изучить API, технологии и расширить свой кругозор в области веб-технологий.</dd>
- <dt><a href="/ru/docs/Web/Reference">Справочные материалы</a></dt>
- <dd><em>На данной странице будут представлены ссылки на всю справочную информацию, имеющуюся в MDN; а пока можно использовать ссылки на веб-технологии из левой части данной страницы.</em></dd>
+ <dt><a href="/en-US/docs/Learn">Learning web development</a></dt>
+ <dd>This set of articles provides beginners with everything they need to start coding simple websites.</dd>
 </dl>
 
-<h2 id="Прочие_разделы">Прочие разделы</h2>
+<dl>
+</dl>
+
+<h2 id="Other_topics">Other topics</h2>
 
 <dl>
- <dt><a href="/ru/docs/Web/Apps">Центр приложений</a></dt>
- <dd>Содержит документацию для разработчиков веб-приложений. При помощи данных материалов можно научиться создавать приложения для мобильных устройств, персональных компьютеров и Firefox OS.</dd>
- <dt><a href="/ru/docs/Web/Accessibility">Общедоступность</a></dt>
- <dd>Общедоступность (доступность, accessibility) в веб-разработке означает предоставление возможности использования веб-сайтов максимально возможному числу людей, даже если эти люди имеют некоторые физиологические ограничения. Этот раздел содержит информацию о разработке наиболее доступного веб-контента для таких людей.</dd>
- <dt><a href="/ru/docs/Web/Security">Безопасность</a></dt>
- <dd>Этот раздел уделяет внимание вопросам безопасности веб-сайтов и веб-приложений.</dd>
+ <dt><a href="/en-US/docs/Web/Apps">Developing web applications</a></dt>
+ <dd>This set of articles explains the techniques used in&nbsp;developing web apps&nbsp;for mobile, desktop, and Firefox OS environments.</dd>
+ <dt><a href="/en-US/docs/Web/Accessibility">Accessibility</a></dt>
+ <dd>Accessible websites enable as many people as possible to use the web, including those whose visual, auditory, or other abilities are limited in some way. This set of articles provides information about accessible web development.</dd>
+ <dt><a href="/en-US/docs/Web/Security">Security</a></dt>
+ <dd>Don't let your website or app leak private data to the bad guys. Use this set of articles to make sure your projects are&nbsp;secure.</dd>
 </dl>
 </div>
 </div>
 
-<p><span class="alllinks"><a href="/ru/docs/tag/Web">Посмотреть всё...</a></span></p>
+<p><span class="alllinks"><a href="/en-US/docs/tag/Web">View All...</a></span></p>
 
