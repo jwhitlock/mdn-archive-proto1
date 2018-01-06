@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1344039
+revision_id: 1344072
 locale: fr
 slug: Mozilla/Add-ons/WebExtensions
 tags: "Landing" "Extensions" "WebExtensions"
@@ -45,18 +45,18 @@ based_on: None
 <h2 id="Interface_utilisateur">Interface utilisateur</h2>
 
 <ul>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface">Introduction</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/Browser_action">Bouton de la barre d'outils</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/Popups">Bouton de la barre d'outils avec un popup</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/Page_actions">Bouton de la barre d'adresse</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/Popups">Bouton de la barre d'adresse avec un popup</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/elements_menu_contextuel">Elements du menu contextuel</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/barres_laterales">Barres laterales</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/Options_pages">Options page</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/extension_pages">Extension pages</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/Notifications">Notifications</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/Omnibox">Suggestions de la barre d'adresse</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/panneaux_devtools">Panneaux devtools de développement</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface">Introduction</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface/Browser_action">Bouton de la barre d'outils</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface/Popups">Bouton de la barre d'outils avec un popup</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface/Page_actions">Bouton de la barre d'adresse</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface/Popups">Bouton de la barre d'adresse avec un popup</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface/elements_menu_contextuel">Elements du menu contextuel</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface/barres_laterales">Barres laterales</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface/Options_pages">Options page</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface/extension_pages">Extension pages</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface/Notifications">Notifications</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface/Omnibox">Suggestions de la barre d'adresse</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/user_interface/panneaux_devtools">Panneaux devtools de développement</a></li>
 </ul>
 
 <h2 id="Concepts">Concepts</h2>
@@ -106,7 +106,7 @@ based_on: None
 <h3 id="Les_APIs_JavaScript">Les APIs JavaScript</h3>
 
 <ul>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/API">Aperçu de l'API JavaScript</a></li>
+ <li><a href="/fr/Add-ons/WebExtensions/API">Aperçu de l'API JavaScript</a></li>
  <li><a href="/fr/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs">Tableau des compatibilités de navigateur pour les API JavaScript</a></li>
 </ul>
 
