@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1338157
+revision_id: 1344076
 locale: zh-CN
 slug: Web/Accessibility
 tags: "Landing" "Accessibility"
@@ -8,14 +8,14 @@ title: 无障碍
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
+needs_editorial_review: True
 needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
 <p>在Web开发无障碍性意味着使尽可能多的人能够使用Web站点,即使这些人的能力是有限的。这里我们提供关于开发易访问的内容的信息。</p>
 
-<div class="tran-result">“无障碍性是最常用于描述设施或设施,帮助残疾人,如“轮椅”。这可以扩展到盲文标识、轮椅坡道,音频信号在人行横道,轮廓人行道,网站设计,等等。"{ { Ref(1)} }</div>
+<div class="tran-result">“无障碍性是最常用于描述设施或设施,帮助残疾人,如“轮椅”。这可以扩展到盲文标识、轮椅坡道,音频信号在人行横道,轮廓人行道,网站设计,等等。" {{ Ref(1) }}</div>
 
 <div class="tran-result">&nbsp;</div>
 
@@ -45,21 +45,24 @@ based_on: None
  &nbsp;</dt>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Mobile">移动无障碍</a></dt>
  <dt>随着移动设备网络访问的受欢迎，流行平台( IOS 和 Android ) 具有完善的辅助功能工具，重要的是在这些平台考虑你网站的无障碍性。本文将介绍无障碍移动专用的注意事项。</dt>
+ <dd>&nbsp;</dd>
  <dt>
  <h2 id="其他文件">其他文件</h2>
 
  <p><a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG">了解Web内容无障碍功能指南</a><br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 这组文章提供了快速解释，以帮助你了解需要采取的步骤，以符合W3C web 内容辅助功能指南2.0的建议</p>
 
+ <p>&nbsp;</p>
+
  <p><a href="https://developer.mozilla.org/en/Accessibility/Keyboard-navigable_JavaScript_widgets">关键导航的 JavaScript小部件</a><br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 直到现在，想要使他们的风格基于&lt;div&gt; 和 &lt;span&gt; 的小元素的网络开发人员缺乏适当的技术。无障碍关键是开发人员应该注意的最小无障碍要求的一部分。</p>
  </dt>
  <dt><a href="/en-US/docs/Accessibility/ARIA">ARIA</a></dt>
- <dt>一组文章,学习如何使用ARIA使HTML文档更容易。一组文章,学习如何使用ARIA使HTML文档更容易。<br />
+ <dt>一组文章,学习如何利用ARIA使你的HTML文档更容易理解。<br />
  &nbsp;</dt>
- <dt><a href="/en-US/docs/Accessibility/AT_Development" title="AT Development">辅助技术(的)发展</a></dt>
- <dt>文章针对在开发人员的集合<br />
- &nbsp;</dt>
+ <dt><a href="/en-US/docs/Accessibility/AT_Development" title="AT Development">辅助技术(AT)发展</a></dt>
+ <dt>针对辅助技术（AT）开发人员文章的集合</dt>
+ <dd>&nbsp;</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/Mobile_accessibility_checklist">移动辅助功能清单</a></dt>
  <dt>本文档提供了移动应用开发人员无障碍要求的简明清单</dt>
 </dl>
