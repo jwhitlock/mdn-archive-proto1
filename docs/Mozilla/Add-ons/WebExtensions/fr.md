@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1341058
+revision_id: 1344039
 locale: fr
 slug: Mozilla/Add-ons/WebExtensions
 tags: "Landing" "Extensions" "WebExtensions"
@@ -53,7 +53,7 @@ based_on: None
  <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/elements_menu_contextuel">Elements du menu contextuel</a></li>
  <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/barres_laterales">Barres laterales</a></li>
  <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/Options_pages">Options page</a></li>
- <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/pages_web_incluses">Pages web incluses</a></li>
+ <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/extension_pages">Extension pages</a></li>
  <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/Notifications">Notifications</a></li>
  <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/Omnibox">Suggestions de la barre d'adresse</a></li>
  <li><a href="/fr/docs/Mozilla/Add-ons/WebExtensions/user_interface/panneaux_devtools">Panneaux devtools de développement</a></li>
