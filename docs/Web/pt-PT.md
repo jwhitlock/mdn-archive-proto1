@@ -1,10 +1,10 @@
 ---
 version: prototype1
-revision_id: 1338019
+revision_id: 1344696
 locale: pt-PT
 slug: Web
-tags: "Web" "Histórico" "Desenvilvimento da Web"
-title: Tecnologia da Web para programadores
+tags: "Web" "History" "Landing" "Web Development","TopicStub","NeedsTranslation"
+title: Web technology for developers
 summary: 
 keywords: 
 needs_technical_review: False
@@ -13,95 +13,95 @@ needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
-<p class="summary">A natureza aberta da <em>World Wide Web</em>&nbsp;apresenta oportunidades incríveis para pessoas que&nbsp;desejam criar <em>websites </em>ou aplicações on-line. Para tirar o máximo partido das capacidades da <em>Web</em>, precisa de saber como as deve utilizar. Explore as hiperligações abaixo para saber mais sobre as diferentes tecnologias <em>da Web</em>.</p>
+<p class="summary">The open nature of the World Wide Web&nbsp;presents incredible opportunities for people who want to create websites or online applications. To take full advantage of the web's capabilities, you need to know how to use them. Explore&nbsp;the links below to learn&nbsp;more about&nbsp;various web technologies.</p>
 
 <div class="row topicpage-table">
 <div class="section">
-<h2 class="Documentation" id="Tecnologias_da_Web"><strong>Tecnologias da<em> Web</em></strong></h2>
+<h2 class="Documentation" id="Web_technologies">Web technologies</h2>
 
-<h3 id="Básico">Básico</h3>
+<h3 id="Basics">Basics</h3>
 
 <dl>
- <dt><a href="/pt-PT/docs/Web/HTML">HTML</a></dt>
- <dd><strong>HyperText Markup Language (HTML)</strong> é utilizado para descrever e definir o <em>conteúdo</em> de uma página da <em>Web</em>.</dd>
- <dt><a href="/pt-PT/docs/Web/CSS">CSS</a></dt>
- <dd><strong>Cascading Style Sheets (CSS)</strong> é utilizado para descrever a <em>aparência</em> ou <em>apresentação</em> do contúdo de uma página <em>Web</em>.</dd>
- <dt><a href="/pt-PT/docs/Web/HTTP">HTTP</a></dt>
- <dd><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong> é utilizado para transmitir conteúdo HTML e outros documentos <em> hypermedia</em> <span class="short_text" lang="pt"><span>na <em>Web</em></span></span>.</dd>
+ <dt><a href="/en-US/docs/Web/HTML">HTML</a></dt>
+ <dd><strong>HyperText Markup Language (HTML)</strong> is used to describe and define the <em>content</em> of a webpage.</dd>
+ <dt><a href="/en-US/docs/Web/CSS">CSS</a></dt>
+ <dd><strong>Cascading Style Sheets (CSS)</strong> are used to describe the <em>appearance&nbsp;or presentation</em> of content on a webpage.</dd>
+ <dt><a href="/en-US/docs/Web/HTTP">HTTP</a></dt>
+ <dd><strong><dfn>Hypertext Transfer Protocol (HTTP)</dfn></strong> is&nbsp;used to deliver&nbsp;HTML and other hypermedia documents on the web.</dd>
 </dl>
 
 <h3 id="Scripting">Scripting</h3>
 
 <dl>
- <dt><a href="/pt-PT/docs/Web/JavaScript">JavaScript</a></dt>
- <dd><strong>JavaScript</strong> é a linguagem de programação que é executada no navegador. Pode ser utilizada para adicionar interatividade e outras funcionalidades dinâmicas para um<em> site da Web </em>ou aplicação.</dd>
- <dt><a href="/pt-PT/docs/Web/Reference/API">APIs da Web</a>&nbsp;</dt>
- <dd><strong>Interfaces de Programação de Aplicações da Web (<em>APIs </em>da <em>Web</em>)</strong> é utilizado para realizar uma variedade de tarefas, tais como a manipulação do <a href="https://developer.mozilla.org/pt-PT/docs/DOM/DOM_Reference">DOM</a>, reproduzir áudio ou vídeo, ou gerar gráficos 3D.
+ <dt><a href="/en-US/docs/Web/JavaScript">JavaScript</a></dt>
+ <dd><strong>JavaScript</strong> is the programming language that runs in your browser. You can use it&nbsp;to add interactivity and other dynamic features to your website or application.</dd>
+ <dt><a href="/en-US/docs/Web/Reference/API">Web APIs</a></dt>
+ <dd><strong>Web Application Programming Interfaces (Web APIs)</strong> are used to perform a variety of tasks, such as manipulating the <a href="/en-US/docs/DOM">DOM</a>, playing audio or video, or generating 3D graphics.
  <ul>
-  <li><a href="/pt-PT/docs/Web/API" title="/en-US/docs/Web/API">A referência da interface da API da <em>Web</em></a> lista todos os tipos de objetos que podem ser utilizados durante o desenvolvimento web.</li>
-  <li>A <a href="/pt-PT/docs/Web/WebAPI">página WebAPI </a>lista toda a comunicação, acesso de hardware, e outras APIs que podoe utilizar nas aplicaçãoes web.</li>
-  <li>A <a href="/pt-PT/docs/Web/Eventos">referência de Evento </a>lista todos os eventos que pode utilizar para monitorizar o interesse e reagir às coisas inportantes que tiveram lugar na sua página ou aplicação da Web.</li>
+  <li>The&nbsp;<a href="/en-US/docs/Web/API" title="/en-US/docs/Web/API">Web API&nbsp;interface reference</a> lists all the object types you can use while developing for the web.</li>
+  <li>The <a href="/en-US/docs/WebAPI">WebAPI page</a> lists all the communication, hardware access, and other&nbsp;APIs you can use in web&nbsp;applications.</li>
+  <li>The <a href="/en-US/docs/Web/Events">Event reference</a> lists all the events you can use to track and react to&nbsp;interesting things that have taken place in your webpage or application.</li>
  </ul>
  </dd>
 </dl>
 
-<h3 id="Gráficos">Gráficos</h3>
+<h3 id="Graphics">Graphics</h3>
 
 <dl>
- <dt><a href="/pt-PT/docs/Web/API/API_de_canvas">Canvas</a></dt>
- <dd>O elemento {{HTMLElement("canvas")}} fornece APIs para desenhar gráficos 2D, utilizando JavaScript.</dd>
- <dt><a href="/pt-PT/docs/Web/SVG">SVG</a></dt>
- <dd><strong>Scalable Vector Graphics (SVG)</strong> permite utilizar linhas, curvas e outras formas geométricas para renderizar os gráficos. Com vetores, pode criar imagens que se dimensionam de forma limpa para qualquer tamanho..</dd>
- <dt><a href="/pt-PT/docs/Web/API/WebGL_API" title="/en-US/docs/Web/WebGL">WebGL</a></dt>
- <dd><strong>WebGL</strong> é uma API do JavaScript que permite desenhar gráficos 2D ou 3D, utilizado o elemento {{HTMLElement("canvas")}} de HTML5.</dd>
+ <dt><a href="/en-US/docs/HTML/Canvas">Canvas</a></dt>
+ <dd>The {{HTMLElement("canvas")}}&nbsp;element provides APIs to draw 2D graphics using JavaScript.</dd>
+ <dt><a href="/en-US/docs/SVG">SVG</a></dt>
+ <dd><strong>Scalable Vector Graphics (SVG)</strong> lets you use lines, curves, and other geometric shapes to render graphics. With vectors, you can create images that scale cleanly to any size.</dd>
+ <dt><a href="/en-US/docs/Web/WebGL" title="/en-US/docs/Web/WebGL">WebGL</a></dt>
+ <dd><strong>WebGL</strong> is a JavaScript&nbsp;API that lets you draw&nbsp;3D or 2D graphics using the&nbsp;HTML5 {{HTMLElement("canvas")}} element.&nbsp;This technology lets you use standard OpenGL ES in Web content.</dd>
 </dl>
 
-<h3 id="Áudio_vídeo_e_multimédia">Áudio, vídeo e multimédia</h3>
+<h3 id="Audio_video_and_multimedia">Audio, video, and multimedia</h3>
 
 <dl>
- <dt><a href="/pt-PT/docs/Web/Multimedia">Tecnologias multimédia da<em> Web</em></a></dt>
+ <dt><a href="/en-US/docs/Web/Media">Web media technologies</a></dt>
  <dd>A list of media-related APIs with links to the documentation you'll need for each.</dd>
- <dt><a href="/en-US/docs/Web/Media/Overview">Resumo das tecnologias multimédia na<em> W</em><em>eb</em></a></dt>
- <dd>A general look at the open Web technologies and APIs that provide support for audio and video playback, manipulation, and recording. If you're not sure which API you should use, this is the place to start.</dd>
- <dt><a href="/pt-PT/docs/Web/API/API_transmissoes_multimedia">Captura de Mídia e API de Transmissões</a></dt>
+ <dt><a href="/en-US/docs/Web/Media/Overview">Overview of media technology on the web</a></dt>
+ <dd>A general look at the open web technologies and APIs that provide support for audio and video playback, manipulation, and recording. If you're not sure which API you should use, this is the place to start.</dd>
+ <dt><a href="/en-US/docs/Web/API/Media_Streams_API">Media Capture and Streams API</a></dt>
  <dd>A reference for the API which makes it possible to stream, record, and manipulate media both locally and across a network. This includes using local cameras and microphones to capture video, audio, and still images.</dd>
- <dt><a href="/pt-PT/docs/Learn/HTML/Multimedia_e_integracao/Conteudo_de_audio_e_vídeo">Utilizar áudio e vídeo em HTML5</a></dt>
+ <dt><a href="/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video">Using HTML5 audio and video</a></dt>
  <dd>Embedding video and/or audio in a web page and controlling its playback.</dd>
- <dt><a href="/pt-PT/docs/Web/API/API_WebRTC">WebRTC</a></dt>
+ <dt><a href="/en-US/docs/WebRTC">WebRTC</a></dt>
  <dd>The RTC in WebRTC stands for Real-Time Communications, technology that enables audio/video streaming and data sharing between browser clients (peers).</dd>
 </dl>
 
-<h3 id="Outros">Outros</h3>
+<h3 id="Other">Other</h3>
 
 <dl>
- <dt><a href="/pt-PT/docs/Web/MathML">MathML</a></dt>
- <dd><strong>Mathematical Markup Language (MathML)</strong> permite exibir equações matemáticas complexas e sintaxe.</dd>
+ <dt><a href="/en-US/docs/Web/MathML">MathML</a></dt>
+ <dd><strong>Mathematical Markup Language (MathML)</strong> lets you&nbsp;display complex mathematical equations and syntax.</dd>
 </dl>
 </div>
 
 <div class="section">
-<h2 class="Documentation" id="Área_de_aprendizagem">Área de aprendizagem</h2>
+<h2 class="Documentation" id="Learning_area">Learning area</h2>
 
 <dl>
- <dt><a href="/pt-PT/docs/Learn">Aprender sobre a programação da<em> Web</em></a></dt>
- <dd>Este conjunto de artigos proporciona aos principantes tudo o que eles precisam para começarem a escrever (<em>coding) sites da Web </em>simples.</dd>
+ <dt><a href="/en-US/docs/Learn">Learning web development</a></dt>
+ <dd>This set of articles provides beginners with everything they need to start coding simple websites.</dd>
 </dl>
 
 <dl>
 </dl>
 
-<h2 id="Outros_tópicos">Outros tópicos</h2>
+<h2 id="Other_topics">Other topics</h2>
 
 <dl>
- <dt><a href="/pt-PT/docs/Apps">Desenvolver aplicações da <em>Web</em></a></dt>
- <dd>Este conjunto de artigos explica as técnicas utilizadas no desenvolvimento de aplicativos da Web para dispositivos móveis, de PC e ambientes do Firefox.</dd>
- <dt><a href="/pt-PT/docs/Web/Acessibilidade">Acessibilidade</a></dt>
- <dd>Os sites da Web acessíveis permitem que o maior número possível de pessoas utilizem a Web, incluindo aqueles cujas habilidades visuais, auditivas ou outras sejam limitadas de alguma forma. Este conjunto de artigos fornece informação sobre o desenvolvimento da Web acessível.</dd>
- <dt><a href="/pt-PT/docs/Web/Seguranca">Segurança</a></dt>
- <dd>Não permita que o seu site da Web ou aplicação divulguem os dados privados para mãos erradas. Utilize este conjunto de artigos para garantir que os seus projetos estejam seguros.</dd>
+ <dt><a href="/en-US/docs/Web/Apps">Developing web applications</a></dt>
+ <dd>This set of articles explains the techniques used in&nbsp;developing web apps&nbsp;for mobile, desktop, and Firefox OS environments.</dd>
+ <dt><a href="/en-US/docs/Web/Accessibility">Accessibility</a></dt>
+ <dd>Accessible websites enable as many people as possible to use the web, including those whose visual, auditory, or other abilities are limited in some way. This set of articles provides information about accessible web development.</dd>
+ <dt><a href="/en-US/docs/Web/Security">Security</a></dt>
+ <dd>Don't let your website or app leak private data to the bad guys. Use this set of articles to make sure your projects are&nbsp;secure.</dd>
 </dl>
 </div>
 </div>
 
-<p><span class="alllinks"><a href="/pt-PT/docs/tag/Web">Ver Todos...</a></span></p>
+<p><span class="alllinks"><a href="/en-US/docs/tag/Web">View All...</a></span></p>
 
