@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1344315
+revision_id: 1344456
 locale: en-US
 slug: Mozilla/Add-ons/WebExtensions
 tags: "add-on" "Landing" "Extensions" "WebExtensions"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<p>{AddonSidebar}}</p>
+<div>{{AddonSidebar}}</div>
 
 <p>Extensions can extend and modify the capability of a browser. Extensions for Firefox are built using the WebExtensions API, a cross-browser system for developing extensions. To a large extent the system is compatible with the <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a> supported by Google Chrome and Opera and the <a href="https://browserext.github.io/browserext/">W3C Draft Community Group</a>. Extensions written for these browsers will in most cases run in Firefox or <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a> with <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">just a few changes</a>. The API is also fully compatible with <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">multiprocess Firefox</a>.</p>
 
@@ -46,7 +46,7 @@ based_on: None
  <li><a href="/en-US/Add-ons/WebExtensions/Native_manifests">Native manifests</a></li>
 </ul>
 
-<h2>User interface</h2>
+<h2 id="User_interface">User interface</h2>
 
 <ul>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface">Introduction</a></li>
