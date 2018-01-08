@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1335746
+revision_id: 1344503
 locale: pt-PT
 slug: Web/HTML
 tags: "HTML" "HTML5" "Web" "O que é HTML" "Landing" "Lição de HTML" "Aprender" "Hipertexto" "Referencia" "Programação HTML" "Tutoriais de HTML" "l10n:priority"
@@ -9,7 +9,7 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: True
+needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
