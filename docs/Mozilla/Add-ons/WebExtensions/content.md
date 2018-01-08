@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1325952
+revision_id: 1344315
 locale: en-US
 slug: Mozilla/Add-ons/WebExtensions
 tags: "add-on" "Landing" "Extensions" "WebExtensions"
@@ -13,7 +13,7 @@ needs_localization: False
 table_of_contents_depth: 1
 based_on: None
 ---
-<div>{{AddonSidebar}}</div>
+<p>{AddonSidebar}}</p>
 
 <p>Extensions can extend and modify the capability of a browser. Extensions for Firefox are built using the WebExtensions API, a cross-browser system for developing extensions. To a large extent the system is compatible with the <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a> supported by Google Chrome and Opera and the <a href="https://browserext.github.io/browserext/">W3C Draft Community Group</a>. Extensions written for these browsers will in most cases run in Firefox or <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a> with <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">just a few changes</a>. The API is also fully compatible with <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">multiprocess Firefox</a>.</p>
 
@@ -31,33 +31,6 @@ based_on: None
  <li><a href="/en-US/Add-ons/WebExtensions/Examples">Example extensions</a></li>
 </ul>
 
-<h2 id="How_to">How to</h2>
-
-<ul>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests">Intercept HTTP requests</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page">Modify a web page</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar">Add a button to the toolbar</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Implement_a_settings_page">Implement a settings page</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard">Interact with the clipboard</a></li>
-</ul>
-
-<h2 id="User_interface">User interface</h2>
-
-<ul>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface">Introduction</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Browser_action">Browser toolbar button</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Popups">Browser toolbar button with a popup</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Page_actions">Address bar button</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Popups">Address bar button with a popup</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Context_menu_items">Context menu items</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Sidebars">Sidebars</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Options_pages">Options page</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Bundled_web_pages">Bundled web pages</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Notifications">Notifications</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Omnibox">Address bar suggestions</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/devtools_panels">Developer tools panels</a></li>
-</ul>
-
 <h2 id="Concepts">Concepts</h2>
 
 <ul>
@@ -70,6 +43,41 @@ based_on: None
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging">Native messaging</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Using_the_devtools_APIs">Using the devtools APIs</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/User_experience_best_practices">User experience best practices</a></li>
+ <li><a href="/en-US/Add-ons/WebExtensions/Native_manifests">Native manifests</a></li>
+</ul>
+
+<h2>User interface</h2>
+
+<ul>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface">Introduction</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Browser_action">Browser toolbar button</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Popups">Browser toolbar button with a popup</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Page_actions">Address bar button</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Popups">Address bar button with a popup</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Context_menu_items">Context menu items</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Sidebars">Sidebars</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Options_pages">Options page</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Extension_pages">Extension pages</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Notifications">Notifications</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Omnibox">Address bar suggestions</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/devtools_panels">Developer tools panels</a></li>
+</ul>
+
+<h2 id="How_to">How to</h2>
+
+<ul>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests">Intercept HTTP requests</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page">Modify a web page</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar">Add a button to the toolbar</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Implement_a_settings_page">Implement a settings page</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard">Interact with the clipboard</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Working_with_the_Tabs_API">Work with the Tabs API</a></li>
+ <li>
+  <p><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Safely_inserting_external_content_into_a_page">Insert external content</a></p>
+ </li>
+</ul>
+
+<ul>
 </ul>
 
 <h2 id="Porting">Porting</h2>
@@ -95,7 +103,6 @@ based_on: None
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/web-ext_command_reference">web-ext command reference</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/WebExtensions_and_the_Add-on_ID">Extensions and the Add-on ID</a></li>
  <li><a href="/en-US/Add-ons/WebExtensions/Alternative_distribution_options">Alternative distribution options</a></li>
- <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Publishing_your_WebExtension">Publishing your extension</a></li>
 </ul>
 </div>
 
