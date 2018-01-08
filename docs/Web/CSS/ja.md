@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1344313
+revision_id: 1344314
 locale: ja
 slug: Web/CSS
 tags: "CSS" "Design" "Layout" "Landing" "Reference"
@@ -72,7 +72,7 @@ based_on: None
  </li>
 </ul>
 
-<h2 class="Tools" id="CSS_開発のためのツール">CSS 開発のためのツール</h2>
+<h2 class="Tools" id="Tools_for_CSS_development" name="Tools_for_CSS_development">CSS 開発のためのツール</h2>
 
 <ul>
  <li><a class="external external-icon" href="http://jigsaw.w3.org/css-validator/">W3C CSS Validation Service</a> は CSS が正しく書かれているかを判定します。<a href="http://www.onlinewebcheck.com/">OnlineWebCheck.com</a> のサービスも同じように働きます。ともにデバッグのために重宝するツールです。</li>
