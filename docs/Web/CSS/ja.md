@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1332712
+revision_id: 1344313
 locale: ja
 slug: Web/CSS
 tags: "CSS" "Design" "Layout" "Landing" "Reference"
@@ -21,7 +21,7 @@ based_on: None
 <ul class="card-grid">
  <li><span>CSS 入門</span>
 
-  <p>完全な初心者向けの<a href="/ja/docs/CSS/Getting_Started" title="CSS/Getting_Started">イントロダクション</a>。必要な基礎をステップバイステップで説明します。</p>
+  <p>完全な初心者向けの<a href="/ja/docs/Learn/Getting_started_with_the_web/CSS_basics">イントロダクション</a>。必要な基礎をステップバイステップで説明します。</p>
  </li>
  <li><span>CSS チュートリアル</span>
   <p><a href="/ja/docs/Learn/CSS">CSS ラーニングエリア</a> は、初心者から中級者になるための、すべての基本事項を網羅した豊富なコンテンツがあります。</p>
@@ -72,7 +72,7 @@ based_on: None
  </li>
 </ul>
 
-<h2 class="Tools" id="Tools_for_CSS_development">CSS 開発のためのツール</h2>
+<h2 class="Tools" id="CSS_開発のためのツール">CSS 開発のためのツール</h2>
 
 <ul>
  <li><a class="external external-icon" href="http://jigsaw.w3.org/css-validator/">W3C CSS Validation Service</a> は CSS が正しく書かれているかを判定します。<a href="http://www.onlinewebcheck.com/">OnlineWebCheck.com</a> のサービスも同じように働きます。ともにデバッグのために重宝するツールです。</li>
