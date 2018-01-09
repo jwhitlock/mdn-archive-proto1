@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1343567
+revision_id: 1344806
 locale: ja
 slug: Mozilla/Add-ons/WebExtensions
 tags: "Add-ons" "Landing" "Extensions" "WebExtensions"
@@ -33,18 +33,26 @@ based_on: None
  <li><a href="/ja/Add-ons/WebExtensions/Examples">拡張機能の例</a></li>
 </ul>
 
-<p>{{英語版章題("How to")}}</p>
+<p>&nbsp;</p>
 
-<h2 id="逆引きリファレンス">逆引きリファレンス</h2>
+<p>{{英語版章題("Concepts")}}</p>
+
+<h2 id="概念">概念</h2>
 
 <ul>
- <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests">HTTP リクエストへの介入</a></li>
- <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page">web ページの変更</a></li>
- <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar">ツールバーボタンの追加</a></li>
- <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Implement_a_settings_page">設定画面の実装</a></li>
- <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard">クリップボードとのやりとり</a></li>
- <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Working_with_the_Tabs_API">Work with the Tabs API</a></li>
+ <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Using_the_JavaScript_APIs">JavaScript API 群の利用</a></li>
+ <li><a href="/ja/Add-ons/WebExtensions/Content_scripts">コンテンツスクリプト</a></li>
+ <li><a href="/ja/Add-ons/WebExtensions/Match_patterns">マッチパターン</a></li>
+ <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Working_with_files">ファイルの操作</a></li>
+ <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Internationalization">多言語対応</a></li>
+ <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Content_Security_Policy">Content Security Policy</a></li>
+ <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Native_messaging">Native messaging</a></li>
+ <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Using_the_devtools_APIs">Using the devtools APIs</a></li>
+ <li><a href="https://developer.mozilla.org/ja/Add-ons/WebExtensions/User_experience_best_practices">ユーザー体験の成功事例</a></li>
+ <li><a href="https://developer.mozilla.org/ja/Add-ons/WebExtensions/Native_manifests">Native manifests</a></li>
 </ul>
+
+<p>&nbsp;</p>
 
 <p>{{英語版章題("User interface")}}</p>
 
@@ -65,21 +73,21 @@ based_on: None
  <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/user_interface/devtools_panels">Developer tools panels</a></li>
 </ul>
 
-<p>{{英語版章題("Concepts")}}</p>
+<p>&nbsp;</p>
 
-<h2 id="概念">概念</h2>
+<p>&nbsp;</p>
+
+<p>{{英語版章題("How to")}}</p>
+
+<h2 id="逆引きリファレンス">逆引きリファレンス</h2>
 
 <ul>
- <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Using_the_JavaScript_APIs">JavaScript API 群の利用</a></li>
- <li><a href="/ja/Add-ons/WebExtensions/Content_scripts">コンテンツスクリプト</a></li>
- <li><a href="/ja/Add-ons/WebExtensions/Match_patterns">マッチパターン</a></li>
- <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Working_with_files">ファイルの操作</a></li>
- <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Internationalization">多言語対応</a></li>
- <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Content_Security_Policy">Content Security Policy</a></li>
- <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Native_messaging">Native messaging</a></li>
- <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Using_the_devtools_APIs">Using the devtools APIs</a></li>
- <li><a href="https://developer.mozilla.org/ja/Add-ons/WebExtensions/User_experience_best_practices">ユーザー体験の成功事例</a></li>
- <li><a href="https://developer.mozilla.org/ja/Add-ons/WebExtensions/Native_manifests">Native manifests</a></li>
+ <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests">HTTP リクエストへの介入</a></li>
+ <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page">web ページの変更</a></li>
+ <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar">ツールバーボタンの追加</a></li>
+ <li><a href="/ja/docs/Mozilla/Add-ons/WebExtensions/Implement_a_settings_page">設定画面の実装</a></li>
+ <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard">クリップボードとのやりとり</a></li>
+ <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Working_with_the_Tabs_API">Work with the Tabs API</a></li>
 </ul>
 
 <p>{{英語版章題("Porting")}}</p>
