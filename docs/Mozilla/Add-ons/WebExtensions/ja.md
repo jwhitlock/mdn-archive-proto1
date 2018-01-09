@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1344806
+revision_id: 1344807
 locale: ja
 slug: Mozilla/Add-ons/WebExtensions
 tags: "Add-ons" "Landing" "Extensions" "WebExtensions"
@@ -33,8 +33,6 @@ based_on: None
  <li><a href="/ja/Add-ons/WebExtensions/Examples">拡張機能の例</a></li>
 </ul>
 
-<p>&nbsp;</p>
-
 <p>{{英語版章題("Concepts")}}</p>
 
 <h2 id="概念">概念</h2>
@@ -51,8 +49,6 @@ based_on: None
  <li><a href="https://developer.mozilla.org/ja/Add-ons/WebExtensions/User_experience_best_practices">ユーザー体験の成功事例</a></li>
  <li><a href="https://developer.mozilla.org/ja/Add-ons/WebExtensions/Native_manifests">Native manifests</a></li>
 </ul>
-
-<p>&nbsp;</p>
 
 <p>{{英語版章題("User interface")}}</p>
 
@@ -72,10 +68,6 @@ based_on: None
  <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/user_interface/Omnibox">Address bar suggestions</a></li>
  <li><a href="https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/user_interface/devtools_panels">Developer tools panels</a></li>
 </ul>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p>{{英語版章題("How to")}}</p>
 
