@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1344456
+revision_id: 1344694
 locale: en-US
 slug: Mozilla/Add-ons/WebExtensions
 tags: "add-on" "Landing" "Extensions" "WebExtensions"
@@ -72,9 +72,8 @@ based_on: None
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Implement_a_settings_page">Implement a settings page</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard">Interact with the clipboard</a></li>
  <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Working_with_the_Tabs_API">Work with the Tabs API</a></li>
- <li>
-  <p><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Safely_inserting_external_content_into_a_page">Insert external content</a></p>
- </li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Safely_inserting_external_content_into_a_page">Insert external content</a></li>
+ <li><a href="/en-US/docs/Mozilla/Add-ons/WebExtensions/Request_the_right_permissions">Request the right permissions</a></li>
 </ul>
 
 <ul>
