@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1139389
+revision_id: 1344652
 locale: id
 slug: Web/HTTP
 tags: "HTTP" "Web" "Jasa" "TopicStub" "Reference" "Jasa Pengaspalan" "Kontraktor jalan" "NeedsTranslation" "Pengecoran jalan" "Pengaspalan jalan"
@@ -9,9 +9,9 @@ summary:
 keywords: 
 needs_technical_review: False
 needs_editorial_review: False
-needs_localization: False
+needs_localization: True
 table_of_contents_depth: 1
-based_on: 56e92c180fc9e0db550fba821c134d0c7e3c2016
+based_on: None
 ---
 <div>{{HTTPSidebar}}</div>
 
