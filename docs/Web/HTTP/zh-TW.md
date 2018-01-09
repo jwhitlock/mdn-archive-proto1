@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1310235
+revision_id: 1344771
 locale: zh-TW
 slug: Web/HTTP
 tags: "HTTP" "NeedsTranslation"
@@ -8,8 +8,8 @@ title: HTTP
 summary: 
 keywords: 
 needs_technical_review: False
-needs_editorial_review: False
-needs_localization: False
+needs_editorial_review: True
+needs_localization: True
 table_of_contents_depth: 1
 based_on: None
 ---
@@ -19,35 +19,35 @@ based_on: None
 
 <div class="column-container">
 <div class="column-half">
-<h2 id="Tutorials">Tutorials</h2>
+<h2 id="教學">教學</h2>
 
-<p>Learn how to use HTTP with guides and tutorials.</p>
+<p>學習如何使用HTPP的指南和教程。</p>
 
 <dl>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview">Overview of HTTP</a></dt>
- <dd>The basic features of the client-server protocol: what it can do and its intended uses.</dd>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching">HTTP Cache</a></dt>
- <dd>Caching is very important for fast Web sites. This article describes different methods of caching and how to use HTTP Headers to control them.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview">HTTP的概觀</a></dt>
+ <dd>基本特性：它能做什麼與它的用途</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching">HTTP&nbsp;Cache</a></dt>
+ <dd>Cache對網站速度很重要。&nbsp; 此文章描敘不同的方法使用HTTP&nbsp;Header控制它。</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies">HTTP Cookies</a></dt>
- <dd>How cookies work is defined by <a href="http://tools.ietf.org/html/rfc6265">RFC 6265</a>. When serving an HTTP request, a server can send a <code>Set-Cookie</code> HTTP header with the response. The client then returns the cookie's value with every request to the same server in the form of a <code>Cookie</code> request header. The cookie can also be set to expire on a certain date, or restricted to a specific domain and path.</dd>
+ <dd><a href="http://tools.ietf.org/html/rfc6265">RFC 6265</a>&nbsp;定義了cookies的工作方式，當HTTP請求一個服務時，一個伺服器可以發送一個<code>Set-Cookie</code>的HTTP header回應。客戶端將以header的方式回傳cookie值給每個請求的同 一個伺服器，Cookie也會在某些時間進行更新，或是限制一個實體網域或路徑。</dd>
  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS">HTTP Access Control (CORS)</a></dt>
- <dd><strong>Cross-site HTTP requests</strong> are HTTP requests for resources from a <strong>different domain</strong> than the domain of the resource making the request. For instance, an HTML page from Domain A (<code>http://domaina.example/</code>) makes a request for an image on Domain B (<code>http://domainb.foo/image.jpg</code>) via the <code>img</code> element. Web pages today very commonly load cross-site resources, including CSS stylesheets, images, scripts, and other resources. CORS allows web developers to control how their site reacts to cross-site requests.</dd>
+ <dd><strong>Cross-site HTTP requests </strong>是來自不同網域的資源請求。舉個例子，一個HTML網頁從網域A (<code>http://domaina.example/</code>) 從網域B(<code>http://domainb.foo/image.jpg</code>)請求一個圖片，經由<code>img</code>元件。現今的網頁通常會讀取跨站資源，包括CSS樣式表、圖片、腳本與其他資源。CORS允許網頁開發人員的網站響應跨站讀取。</dd>
 </dl>
 
 <dl>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP">Evolution of HTTP</a></dt>
- <dd>A brief description of the changes between the early versions of HTTP, to the modern HTTP/2 and beyond.</dd>
- <dt><a href="https://wiki.mozilla.org/Security/Guidelines/Web_Security">Mozilla web security guidelines</a></dt>
- <dd>A collection of tips to help operational teams with creating secure web applications.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP">HTTP的演化</a></dt>
+ <dd>HTTP早期版本變化的簡要說明，到現在的HTTP/2與其他版本。</dd>
+ <dt><a href="https://wiki.mozilla.org/Security/Guidelines/Web_Security">網頁安全方針</a></dt>
+ <dd>一些技巧幫助運作團隊開發安全的網頁。</dd>
 </dl>
 
 <dl>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages">HTTP Messages</a></dt>
- <dd>Describes the type and structure of the different kind of messages of HTTP/1.x and HTTP/2.</dd>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Session">A typical HTTP session</a></dt>
- <dd>Shows and explains the flow of a usual HTTP session.</dd>
- <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x">Connection management in HTTP/1.x</a></dt>
- <dd>Describes the three connection management models available in HTTP/1.x, their strengths, and their weaknesses.</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages">HTTP&nbsp;訊息</a></dt>
+ <dd>描述HTTP/1與HTTP/2不同類別與結構。</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Session">一個典型HTTP對話</a></dt>
+ <dd>顯示並解釋HTTP的通常對話流程。</dd>
+ <dt><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x">HTTP/1.x的連接管理</a></dt>
+ <dd>描述在HTTP/1.x中可用的三種連接管理。</dd>
 </dl>
 </div>
 
