@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1344781
+revision_id: 1344785
 locale: ja
 slug: Learn
 tags: "Web" "Index" "Learn" "Landing" "Beginner"
@@ -21,23 +21,23 @@ based_on: None
 
 <p>MDN のこのエリアのねらいは、あなたを「初心者」から「達人」に変えることではなく、「初心者」から「それなり」に変えることです。ウェブ開発において自分なりの方法を確立するためには、さらに、<a href="https://developer.mozilla.org/ja/">MDNのこのエリア以外の記事</a>と他の中・上級者用のウェブサイトを読み進めなければなりません。しかしその前に、このエリアで沢山の前提知識を身に付けておく必要があります。</p>
 
-<p>完全な初心者の場合、ウェブ開発は難しいかもしれません — 手を取って、あなたが安心できて適切に学習できるよう、十分に詳細な情報を提供します。ウェブ開発を学習する学生(自習でも教科でも)でも、教材を探している先生でも、趣味でも、単にウェブ技術の動作を知りたい場合でも、ここは落ち着く場所になるでしょう。</p>
+<p>完全な初心者の場合、ウェブ開発は難しいかもしれません — 手を取って、あなたが安心できて適切に学習できるよう、十分に詳細な情報を提供します。あなたがウェブ開発を学習する学生(自習でも教科でも)でも、教材を探している先生でも、趣味に熱中する人でも、単にウェブ技術の動作を知りたい場合のいずれであっても、ここは落ち着く場所になるでしょう。</p>
 
 <div class="warning">
-<p><span style="font-size:14px"><strong>重要</strong></span>: Learning Areaのコンテンツは定期的にコンテンツが追加されています。もし、カバーしていてほしい、または足りないと思うトピックに関して質問やがある場合は、下記の{{anch("Contact us")}}のセクションを参照して連絡方法の情報を探してださい。</p>
+<p><span style="font-size:14px"><strong>重要</strong></span>: Learning Areaのコンテンツは定期的にコンテンツが追加されています。もし、カバーしていてほしい、または足りないと思うトピックに関して質問がある場合は、下記の{{anch("Contact us")}}のセクションを参照して、連絡する方法の情報を探してださい。</p>
 </div>
 
-<h2 id="レベル別ガイド">レベル別ガイド</h2>
+<h2 id="レベル別ガイド">読み始める場所</h2>
 
 <ul class="card-grid">
- <li><span>私はまだ初心者です。</span>はじめまして！ウェブ開発を始めるなら、<a href="/ja/docs/Learn/Getting_started_with_the_web">"ウェブ入門"</a> を読むのが一番です。これを読めば、ウェブ開発を始めるのに必要な基本的な知識はすべて見つかるでしょう。</li>
- <li><span>質問したいことがあります。</span>ウェブ開発について何か質問がある場合、<a href="/ja/docs/Learn/Common_questions">Common questions</a>&nbsp;セクションに助けとなる情報があるかもしれません。</li>
- <li><span>中級者: 私はウェブについてある程度は知っています。</span>良いですね！ウェブ技術の真髄までもっと深く学ぶには、<a href="/ja/docs/Learn/HTML">HTML</a>、<a href="/ja/docs/Learn/CSS">CSS</a>、<a href="/ja/docs/Learn/JavaScript">JavaScript</a> についてさらに学ぶと良いでしょう。</li>
- <li><span>上級者: 私はウェブをマスターしました。</span>素晴らしいですね！あなたは発展的な <a href="/ja/docs/Web/Guide">ガイド</a>や<a href="/ja/docs/Web/Tutorials">チュートリアル</a> を読んでみると良いかもしれません。また、<a href="/ja/docs/Learn/How_to_contribute">学んだ分野について貢献</a> していただけると嬉しいです。;)</li>
+ <li><span>全くの初心者なら。</span>ウェブ開発の完全な初心者から、<a href="/ja/docs/Learn/Getting_started_with_the_web">「ウェブ入門」</a>を一通り読むのをお勧めします。これを読めば、ウェブ開発を始めるのに必要な基本的な知識はすべて見つかるでしょう。</li>
+ <li><span>質問したいなら。</span>ウェブ開発について何か質問がある場合、よ<a href="/ja/docs/Learn/Common_questions">くある質問</a>セクションに助けとなる情報があるかもしれません。</li>
+ <li><span>基本を超えているなら。</span>すでにいくらかの知識があるなら、次のステップは {{glossary("HTML")}} と{{glossary("CSS")}} を詳しく学ぶことです。 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML">HTML入門</a> のモジュールから始めて、<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS"> CSS入門</a>のモジュールに移動します。</li>
+ <li><span>スクリプティングまで進むなら。</span>HTML と CSS を十分知っていたり、主にコーディングに興味があるなら、 {{glossary("JavaScript")}} やサーバーサイド開発に移動したくなるでしょう。<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps">JavaScript の第一歩</a> と<a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps">サーバーサイドの第一歩</a>のモジュールから始めます。</li>
 </ul>
 
 <div class="note">
-<p><strong>注記</strong>: <a href="/ja/docs/Glossary">用語集</a> で、単語の定義が提供されています。</p>
+<p><strong>注記</strong>: <a href="/ja/docs/Glossary">用語集</a>にて、単語の定義が提供されています。</p>
 </div>
 
 <p>{{LearnBox({"title":"Random glossary entry"})}}</p>
@@ -97,17 +97,21 @@ based_on: None
 
 <p>何か連絡を取りたいことがある場合、<a href="/docs/MDN/Community/Conversations#Asynchronous_discussions">メーリングリスト</a> や <a href="/docs/MDN/Community/Conversations#Chat_in_IRC">IRC チャンネル</a> でメッセージを投稿するのがもっともよい方法です。サイトの間違いや新しい学習トピックスの要望、理解できない項目についてのヘルプ要請などなんでも歓迎です。</p>
 
-<p>コンテンツの開発、改善の手助けに興味がある場合、<a href="/ja/docs/Learn/How_to_contribute">協力するには？</a>をのぞいて、始めてください！あなたが初心者でも、先生でも、熟練のウェブ開発者でも学習体験の改善に興味がある人であれば誰でも歓迎です。</p>
+<p>コンテンツの開発、改善の手助けに興味がある場合、<a href="/ja/docs/Learn/How_to_contribute">協力するには？</a>を覗いて、始めてください！あなたが初心者でも、先生でも、熟練のウェブ開発者でも、その他学習体験の改善に興味がある人でも、誰でも歓迎です。</p>
 
 <p>{{CommunityBox("Learn", "dev-mdc", "mozilla.dev.mdc", "mdn")}}</p>
 
 <h2 id="関連情報">関連情報</h2>
 
 <dl>
+ <dt><a href="https://www.mozilla.org/en-US/newsletter/developer/">Mozilla Developer Newsletter</a></dt>
+ <dd>我々のウェブ開発者向けニュースレターで、すべて経験レベル向けのすばらしいリソースです。</dd>
  <dt><a href="https://www.codecademy.com/">Codecademy</a></dt>
  <dd>最初からプログラミング言語を学ぶためのすばらしいインタラクティブサイト</dd>
  <dt><a href="https://code.org/">Code.org</a></dt>
  <dd>基本的なコーディング理論と実践で、主に子供や完全な初心者を目的としたもの。</dd>
+ <dt><a href="https://www.freecodecamp.org/">freeCodeCamp.org</a></dt>
+ <dd>ウェブ開発を学習するチュートリアルやプロジェクトのあるインタラクティブなサイト。</dd>
  <dt><a href="https://learning.mozilla.org/web-literacy/">Web Literacy Map</a></dt>
  <dd>エントリーレベルのウェブリテラシーや21世紀のスキル向けのフレームワークで、カテゴリーごとにソートされた教科にもアクセスできます。</dd>
  <dt><a href="https://learning.mozilla.org/activities">Teaching activities</a></dt>
