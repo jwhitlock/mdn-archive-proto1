@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1344785
+revision_id: 1344787
 locale: ja
 slug: Learn
 tags: "Web" "Index" "Learn" "Landing" "Beginner"
@@ -27,13 +27,13 @@ based_on: None
 <p><span style="font-size:14px"><strong>重要</strong></span>: Learning Areaのコンテンツは定期的にコンテンツが追加されています。もし、カバーしていてほしい、または足りないと思うトピックに関して質問がある場合は、下記の{{anch("Contact us")}}のセクションを参照して、連絡する方法の情報を探してださい。</p>
 </div>
 
-<h2 id="レベル別ガイド">読み始める場所</h2>
+<h2 id="読み始める場所">読み始める場所</h2>
 
 <ul class="card-grid">
  <li><span>全くの初心者なら。</span>ウェブ開発の完全な初心者から、<a href="/ja/docs/Learn/Getting_started_with_the_web">「ウェブ入門」</a>を一通り読むのをお勧めします。これを読めば、ウェブ開発を始めるのに必要な基本的な知識はすべて見つかるでしょう。</li>
  <li><span>質問したいなら。</span>ウェブ開発について何か質問がある場合、よ<a href="/ja/docs/Learn/Common_questions">くある質問</a>セクションに助けとなる情報があるかもしれません。</li>
- <li><span>基本を超えているなら。</span>すでにいくらかの知識があるなら、次のステップは {{glossary("HTML")}} と{{glossary("CSS")}} を詳しく学ぶことです。 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML">HTML入門</a> のモジュールから始めて、<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS"> CSS入門</a>のモジュールに移動します。</li>
- <li><span>スクリプティングまで進むなら。</span>HTML と CSS を十分知っていたり、主にコーディングに興味があるなら、 {{glossary("JavaScript")}} やサーバーサイド開発に移動したくなるでしょう。<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps">JavaScript の第一歩</a> と<a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps">サーバーサイドの第一歩</a>のモジュールから始めます。</li>
+ <li><span>基本を超えているなら。</span>すでにいくらかの知識があるなら、次のステップは {{glossary("HTML")}} と{{glossary("CSS")}} を詳しく学ぶことです。 <a href="https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML">HTML入門</a> のモジュールから始めて、<a href="https://developer.mozilla.org/ja/docs/Learn/CSS/Introduction_to_CSS"> CSS入門</a>のモジュールに移動します。</li>
+ <li><span>スクリプティングまで進むなら。</span>HTML と CSS を十分知っていたり、主にコーディングに興味があるなら、 {{glossary("JavaScript")}} やサーバーサイド開発に移動したくなるでしょう。<a href="https://developer.mozilla.org/ja/docs/Learn/JavaScript/First_steps">JavaScript の第一歩</a> と<a href="https://developer.mozilla.org/ja/docs/Learn/Server-side/First_steps">サーバーサイドの第一歩</a>のモジュールから始めます。</li>
 </ul>
 
 <div class="note">
