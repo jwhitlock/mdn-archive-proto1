@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1149052
+revision_id: 1344778
 locale: ko
 slug: Mozilla/애드온들/WebExtensions
 tags: "TopicStub" "NeedsTranslation"
@@ -15,9 +15,9 @@ based_on: None
 ---
 <div>{{AddonSidebar}}</div>
 
-<p>WebExtensions are a cross-browser system for developing browser add-ons. To a large extent the system is compatible with the <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a> supported by Google Chrome and Opera. Extensions written for these browsers will in most cases run in Firefox or <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a> with <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">just a few changes</a>. The API is also fully compatible with <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">multiprocess Firefox</a>.</p>
+<p>WebExtensions 은 브라우저 추가 기능을 개발하기 위한 크로스 브라우저 시스템입니다.&nbsp;대부분 이 시스템은 Google Chrome과 Opera에서 지원하는 <a class="external-icon external" href="https://developer.chrome.com/extensions">extension API</a>&nbsp;와 호환됩니다.&nbsp;Google Chrome과 Opera를 대상으로 만들어진 Extensions은&nbsp;<a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_from_Google_Chrome">조금만 수정</a>하면 대부분 Firefox나&nbsp;<a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/">Microsoft Edge</a>에서도 동작합니다. 또한 extension API는 <a href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox">멀티프로세스 Firefox</a>와도 완벽하게 호환됩니다.</p>
 
-<p>We're also intending to extend the APIs to support the needs of add-on developers, so if you have ideas, we'd love to hear them. You can reach us on the <a href="https://mail.mozilla.org/listinfo/dev-addons">dev-addons mailing list</a> or <a href="irc://irc.mozilla.org/webextensions">#webextensions</a> on <a href="https://wiki.mozilla.org/IRC">IRC</a>.</p>
+<p>우리는 개발자의 요구에 맞춰 API를 확장할 예정입니다. 만약 아이디어가 있다면 <a href="https://mail.mozilla.org/listinfo/dev-addons">dev-addons&nbsp;메일링 리스트</a>나 <a href="https://wiki.mozilla.org/IRC">IRC</a>의 <a href="irc://irc.mozilla.org/webextensions">#webextensions</a>를 통해 알려주세요.&nbsp;</p>
 
 <div class="row topicpage-table">
 <div class="section">
