@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1364855
+revision_id: 1364857
 locale: en-US
 slug: user:jwhitlock
 tags: "user page"
@@ -11,13 +11,15 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: None
+based_on: 1364855
 ---
 <p>This is a test page for <a href="/en-US/profiles/jwhitlock">jwhitlock</a>.</p>
 
 <p>This is my first edit in AWS. Editing is easy! And works every time!</p>
 
 <p><img alt="Me in 2017" src="https://mdn.mozillademos.org/files/15321/avatar_2017.jpg" style="height:140px; width:140px" /></p>
+
+<p><img alt="" src="http://demos:8000/files/13/avatar_2017.jpg" style="height:140px; width:140px" /></p>
 
 <p>This is a test of the notification system.</p>
 
