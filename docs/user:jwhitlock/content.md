@@ -1,6 +1,6 @@
 ---
 version: prototype1
-revision_id: 1364857
+revision_id: 1364860
 locale: en-US
 slug: user:jwhitlock
 tags: "user page"
@@ -11,15 +11,17 @@ needs_technical_review: False
 needs_editorial_review: False
 needs_localization: False
 table_of_contents_depth: 1
-based_on: 1364855
+based_on: 1364859
 ---
-<p>This is a test page for <a href="/en-US/profiles/jwhitlock">jwhitlock</a>.</p>
+<p>Kumascript is a service that just works.</p>
+
+<p><img alt="drones" src="http://demos:8000/files/14/drone_safety_small.jpg" style="height:1946px; width:2144px" />This is a test page for <a href="/en-US/profiles/jwhitlock">jwhitlock</a>.</p>
 
 <p>This is my first edit in AWS. Editing is easy! And works every time!</p>
 
 <p><img alt="Me in 2017" src="https://mdn.mozillademos.org/files/15321/avatar_2017.jpg" style="height:140px; width:140px" /></p>
 
-<p><img alt="" src="http://demos:8000/files/13/avatar_2017.jpg" style="height:140px; width:140px" /></p>
+<p><img alt="" src="http://demos:8000/files/13/avatar_2017.jpg" style="height:140px; width:140px" /><img alt="this is fine" src="http://localhost:8000/files/15/fine.jpg" style="height:1200px; width:900px" /></p>
 
 <p>This is a test of the notification system.</p>
 
