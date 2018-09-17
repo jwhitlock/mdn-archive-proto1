@@ -15,7 +15,7 @@ based_on: None
 ---
 <div>{{JSRef}}</div>
 
-<p><span class="seoSummary">The <strong><code>Map</code></strong> object holds key-value pairs.</span> Unlike other languages, any value (both objects and {{Glossary("Primitive", "primitive values")}}) may be used as either a key or a value.</p>
+<p><span class="seoSummary">The <strong><code>Map</code></strong> object holds key-value pairs.</span> Any value (both objects and {{Glossary("Primitive", "primitive values")}}) may be used as either a key or a value.</p>
 
 <h2 id="Syntax">Syntax</h2>
 
